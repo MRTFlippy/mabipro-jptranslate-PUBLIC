@@ -1,0 +1,1388 @@
+﻿5th_anniversary_announce_event.1	이제는 일상이 되어버린 세계, 에린. 10년 뒤에 내 아이랑 함께하고싶은 게임.     골렘-히비키렌
+5th_anniversary_announce_event.2	즐거웠던 10대를 보낸 게임입니다. 앞으로도 좋은 인연 만들어 가고 싶네요^^     골렘-Revolution
+5th_anniversary_announce_event.3	어느덧 마비노기가 5주년이라니! 앞으로 더욱더 발전하는 마비노기가 되길,,     골렘-산신령
+5th_anniversary_announce_event.4	마비시작한지도 5년이나됐네요 예나 지금이나 마비노기덕에 하루하루가 행복합니당!     골렘-로에이타
+5th_anniversary_announce_event.5	5년중 딱 절반을 마비와 함께.. 같이한 그녀와 올 가을에 결혼합니다. 마비씨 고마워요     골렘-옴므
+5th_anniversary_announce_event.6	04년부터 함께해온 정든 마비노기.벌써 5살이네요.축하합니다.Forever Mabinogi     골렘-카이현
+5th_anniversary_announce_event.7	마비~ 5살 된거니? 축하하구 마니~ 오래~ 함께하자~!ok?     골렘-예레미스
+5th_anniversary_announce_event.8	사랑하는 길드원들,친구들과 만날수 있게해준 마비노기. 영원히 변치않길 바래요.     골렘-반쪽달
+5th_anniversary_announce_event.9	마비노기 덕분에 결혼도 하고, 아기도 태어나고 이제 100일을 맞이하였습니다...     골렘-Nappletale
+5th_anniversary_announce_event.10	하나의 꿈에 둘의 열정으로 셋엔 행복하고 넷을 추억하며 다섯에 내일의 소망을 담은 마비노기     골렘-유즈아인
+5th_anniversary_announce_event.11	첨으로 게임에 빠져든 게임이라능~~많은 추억과 사건을 간직한 소중한 게임!!     골렘-포웨
+5th_anniversary_announce_event.12	시간이 흐를수록 풍미가 느껴지는 와인과 같이 마비도 오래도록 함께 하길 바래요.^3^     골렘-메이시스
+5th_anniversary_announce_event.13	그동안 값진 추억을 만들어준 마비노기 너무 감사합니다~ 5주년 축하해요~     골렘-당돌토모
+5th_anniversary_announce_event.14	마비노기 한 지도 5주년진심으로축하합니다.앞으로 더욱평생으로 했으면해요     골렘-김상현
+5th_anniversary_announce_event.15	5주년 축하합니다. 앞으로도 즐거운 게임으로 남았으면 좋겠네요. 영원히...     골렘-자하란
+5th_anniversary_announce_event.16	마비노기 5주년 축하드려요 ~ 하지만 난아직 1년도 플레이아직못했는데...     룬다-이리얀
+5th_anniversary_announce_event.17	대대손손 플레이 할수있는 마비노기가 되었음 합니다. 5주년 축하드립니다^^     룬다-유아원
+5th_anniversary_announce_event.18	양털만깎아도 즐거웠던 마비노기였는데, 어느새 5년이 흘렀네요^^축하축하~!!     룬다-엘라하의친구
+5th_anniversary_announce_event.19	5주년 - 언제나 행복한 Fantasy Life 가 되었으면 .. 사랑합니다 마비노기!     룬다-키위맛우유
+5th_anniversary_announce_event.20	오랫동안 함께 해왔던 만큼, 계속 함께 했으면 좋겠네요. 5주년 축하드려요~     룬다-샤쿠이케
+5th_anniversary_announce_event.21	4년 마비유전데 벌써 5주년이네요.대학생이니 열겜해야죠 ! EnJoY MaBiNoGi!     룬다-레지크
+5th_anniversary_announce_event.22	중1때 시작한 마비노기가 벌써 5주년이네요// 마비노기 앞으로 번창하세요//     룬다-천랑화
+5th_anniversary_announce_event.23	나에게 게임의 의미를 바꿔주고 사람사이를 좋게 만들어줬던 원동력 5주년 축하해요     룬다-바람민들레
+5th_anniversary_announce_event.24	마:마비노기비:비록지금5주년이지만노:노력노력하면기:기념일50주년기념일까지화팅!     룬다-빛의사제
+5th_anniversary_announce_event.25	아 마비노기 정말 명작이에요 완전 사람을 끌어당기는 그런 매력! 너무 좋아요.     룬다-RULE
+5th_anniversary_announce_event.26	5주년 축하드려요~앞으로도 꾸준한 업데이트로 사랑받는 마비노기가 되었으면해요^^     룬다-bio
+5th_anniversary_announce_event.27	눈 떠보니 마비노기..자면서도 마비노기..마비노기..5주년을 진심으로 축하드립니다     룬다-누님연방
+5th_anniversary_announce_event.28	5년의 시간이 있어 지금의 마비를 즐길 수 있다고 생각되네요. 축하해요, 마비노기~     룬다-디즈마하
+5th_anniversary_announce_event.29	마비노기 5주년 축하 초5부터시작 어느덕 중3까지 계속하고있네요 앞으로도 화이팅     룬다-알카리성사탕
+5th_anniversary_announce_event.30	나랑 5년이나 같이한 마비노기. 많은 인연을 준 너에게 5번째 생일! 정말 축하해 ^^     룬다-하얀주작
+5th_anniversary_announce_event.31	파랑머리 소녀와 검은 양과 함께했던 날들도 어느새 5년! 축하해요 마비노기!     룬다-넬류어드
+5th_anniversary_announce_event.32	한시간은2년밖에 않했지만 앞으로 많으사람들한테 사랑받는 마비노기가 돼길     룬다-엘소드
+5th_anniversary_announce_event.33	마비노기의 5주년 생일 미리 축하하고 내 케릭에게도 축복을....     룬다-즉흥칸타빌레
+5th_anniversary_announce_event.34	캬~~ 벌써5주년인가요? 참시간빨리가네요 마비노기 1주년한지가 어그제 같은데.     룬다-카지매좋아
+5th_anniversary_announce_event.35	내가 가장 재미있어하고 즐기고있는 마비노기. 마비노기 5주년 축하드려요.     룬다-다굴
+5th_anniversary_announce_event.36	마비노기 5주년 축하드려요 !^^ 앞으로도 많은 발전이 있었으면 좋겠습니다.     룬다-파비뉴
+5th_anniversary_announce_event.37	음냐아~~! 벌써 마비노기 5주녀언인 겁니까아!! 추카드려여여~~!     룬다-나아아린
+5th_anniversary_announce_event.38	비록 중간에 하긴 했지만, 앞으로 즐거운 에린의 생활을 기약하며...5주년 축하해요     류트-외계인티엘이
+5th_anniversary_announce_event.39	좋은지인들으만나게해준마비노기! 5주년 축하드려요>▽< 앞으로도 함께해요!     류트-도노
+5th_anniversary_announce_event.40	정말 가족같고 내 일부가 되버린 마비노기!!! '5주년'진심으로 축하드려요~     류트-너나조아시저
+5th_anniversary_announce_event.41	즐거운 대화와 추억이 있어 언제나 행복한 곳 그곳의 5주년을 축하 드려요.     류트-푸린이아
+5th_anniversary_announce_event.42	5주년 축하! 고2때 시작해서 대3학년이니까, 4년째네요. 끊을 수 없는 게임이네요..     류트-타카키유야
+5th_anniversary_announce_event.43	득템 운은 지지리도 없지만 정말 많은 지인과 추억만들어준 마비! 5주년 축하해요!!     류트-현세하
+5th_anniversary_announce_event.44	에린의 대략 250주년 축하합니다 에린이 생긴지 250년이 넘엇내요     류트-Espincharle
+5th_anniversary_announce_event.45	내게 소중한 친구와 가족을 선물해준 마비..난 4년이나 너와 함께 자라왔네.축하해-     류트-에르노스
+5th_anniversary_announce_event.46	중학교때서부터... 대학생이 되기까지 나와 함께한 마비~! 화이팅이여요!      류트-초이링
+5th_anniversary_announce_event.47	벌써 난 4년째 하는 중인대 마비노기! 내가 장가갈때까지 같이 가자꾸나 마비노기!!     류트-트리세안
+5th_anniversary_announce_event.48	항상 같이 지내니깐 시간이 빨리가는군요!! 벌써 5주년!! 앞으로도 계속 함께가자!!     류트-해양심층수
+5th_anniversary_announce_event.49	생일 축하드려요 마비노기와 같이 웃고 울고한 저는이제 21살 군대 갑니다 ^^     류트-블루리즈
+5th_anniversary_announce_event.50	마:마비노기의 비:비상은 노 :no!아직끝나지 않았다. 기:기운내서 앞으로도 열심히!     류트-보라빛히지니
+5th_anniversary_announce_event.51	마비노기가 5주년이라니! 감개무량하군요. 오래 즐길 수 있으면 좋겠습니다.     류트-십오톤트럭
+5th_anniversary_announce_event.52	오 5주년인가요 저는 한지 1년도 안되었지만 축하해요 앞으로도 재미있게 할께요^.^     류트-라이8985
+5th_anniversary_announce_event.53	시험 전날에도 마우스를 쥐게 만드는 그 게임, 마비노기. 5주년 축하드립니다.     류트-Semiauto
+5th_anniversary_announce_event.54	5년전부터 나의 마음을 녹여왔던 마비노기,,,5주년 축하하구요..앞으로도 화이팅..^     류트-세이페이린
+5th_anniversary_announce_event.55	짝짝짝! 마비노기의 5번째생일 진심으로축하드립니다! 늘 발전하는 모습 사랑합니다     류트-다소곳소녀
+5th_anniversary_announce_event.56	5주년 축하드립니다 ... 벌써 마비를 한지 어언3년이네요. 더 오래가길 ^^     류트-하루무사
+5th_anniversary_announce_event.57	흠.. 하루하루 마비에 미쳐살다보니 어느새 5주년이네요.  축하드려요 ^^*     류트-태양빚하늘
+5th_anniversary_announce_event.58	마비노기가 5살이 되네여 ~내 조카 5살 난 17살 난 12살부터 했음      류트-맑탉앉않꿇흘
+5th_anniversary_announce_event.59	나오가 잡아가던게 어제같은데 벌써 5주년이라니 .. 진심으로 축하드립니다!     류트-치노이루
+5th_anniversary_announce_event.60	이제 젊고 예쁘던 나오도 나이가 많아졌군요 (웃음), 마비노기 화이팅!     류트-Lantis
+5th_anniversary_announce_event.61	5주년,50주년 될 때까지 언제나 함께있을게요. 너무 사랑스러운 게임이예요!     류트-천량휘윌
+5th_anniversary_announce_event.62	nobody nobody but you(마비노기이이~~)난다른게임은싫어 마비노기아니면싫어~     류트-손고쿠손오반
+5th_anniversary_announce_event.63	저도 마비노기를 시작한지 벌써4년이 되어가네요^^ 5주년 진심으로 축하드립니다.^^     류트-마이지성
+5th_anniversary_announce_event.64	마비노기 5주년 축하드리고요~~~ 앞으로도 기대할게요~ 꾸준한 인기 마비노기~! 후후     류트-고품격주접
+5th_anniversary_announce_event.65	처음 봤을때는 초등학생이었는데, 벌써 고딩이 되어버렸네요.   5주년 축하합니다!     류트-파스텔톤
+5th_anniversary_announce_event.66	축하해요~~~~~~ 처음 사촌형이랑 곰잡던 추억이 떠오르네요. 벌써 5주년!!     류트-벚꽃전선
+5th_anniversary_announce_event.67	너무나 아름답고 감동적인 이야기가 어느새 5년.이 이야기가 끝나지 않길 바랍니다.     류트-사탄의손바닥
+5th_anniversary_announce_event.68	벌써 마비노기 5주년~ 마비노기 5주년 축하합니다~ 우리어머니도 마비노기 팬^^*     류트-허지이
+5th_anniversary_announce_event.69	인연이라는 것을 일깨워주는 현실 아닌 또 다른 현실 마비노기! 다음엔 6주년이닷!!     류트-Rabbitgirl
+5th_anniversary_announce_event.70	마비노기, 제 마음의 안식처였죠. 벌써 5주년이 되었네요 더욱 번창하세요!     류트-쇼스케
+5th_anniversary_announce_event.71	얼마전까지만해도 마감임박 이 무서웠었는데 >_< 어느새 5년! 축하드려요!     류트-kardi
+5th_anniversary_announce_event.72	흐,흥! 따,딱히 축하해주려는건 아냐..!     류트-사티아그라하
+5th_anniversary_announce_event.73	[경] Mabinogi－5th birthday [축]      류트-아리키엔
+5th_anniversary_announce_event.74	나의 두번째 세계, 마비노기. 이 세계가 더욱 사랑받고, 발전하길 기원한다.     류트-엘프최강궁사
+5th_anniversary_announce_event.75	나의 과거와 현재를 함께했던 마비노기, 미래에도 쭈욱~ 언제나 함께하길 ^^     류트-Eviang
+5th_anniversary_announce_event.76	5주년 축하드립니다!!..  마비!! 포레버!! 언제까지나 마비와 같이!! 아자!!     류트-인기가식
+5th_anniversary_announce_event.77	동생이 끌어들여서 했던 마비 벌써 5주년! 축하하고 더욱더 멋진모습 기대~     류트-써러브레드
+5th_anniversary_announce_event.78	처녀일때부터 시작했는데 이젠 결혼도 했고 쌍둥이 엄마가 되었네여.애들 크면 같이 하렵니다     류트-코코팜
+5th_anniversary_announce_event.79	시골같이 은은한 분위기에 나즈막한 풍경.. 한편의 장편동화책인 마비노기 5주년 축하드려요!     류트-긴유
+5th_anniversary_announce_event.80	오우예 내가 굇수가 될때까지 계속 번창하시기를 !     류트-야옹이츄
+5th_anniversary_announce_event.81	나오가 2시간마다 잡아가던게 어제같은데.. 5주년 축하요^^     류트-빨강머리캐릭
+5th_anniversary_announce_event.82	G1시작의 설래임... 그때 그 설래임처럼 5년이아닌 50년 쭈욱 이어가주세요~     류트-공학자
+5th_anniversary_announce_event.83	마비노기, 제 생일때 시작한 게임이라 더 맘에 남아요! 마비노기 포에버!!     류트-Sikelin
+5th_anniversary_announce_event.84	언제나 즐거운 마비노기! <앞으로 5년 후, 열번째 생일에도 다시 만나요~^^>     류트-Thundern
+5th_anniversary_announce_event.85	유저들의 노력으로 합주 시스템이 나온것도 어제처럼 생생한데..벌써 5주년이라니 생일 축하!     류트-하비어스
+5th_anniversary_announce_event.86	5주년 참빠르네요 4년전부터 해왔는데 질리지가않네요100주년까지영원하길!마비노기여영원하라!     류트-별집핏자
+5th_anniversary_announce_event.87	전한지이제3~4년정도밖에안됐는데벌써5년.. 세월이참빠르군요 5주년축하합니다!     류트-마틀린
+5th_anniversary_announce_event.88	나에게 소울메이트를 만들어준 게임, 마비노기 5주년을 축하드립니다^^     류트-키베라
+5th_anniversary_announce_event.89	마비노기...벌써 5주년이라니대단하네요!마비노기 널리퍼졌으면좋겠어요마비노기 사랑해요~^^     류트-실신이
+5th_anniversary_announce_event.90	처음으로 밤새면서 해본 게임이예요 5주년이라니 축하드려요~ 앞으로도 쭉~     류트-산삐
+5th_anniversary_announce_event.91	내인생의 1/4이 마비와 함께였다니! 그러니 앞으로도 잘부탁해요. 책임져!!     만돌린-미묘해
+5th_anniversary_announce_event.92	나와 함께 5년을 지내온 마비노기. 앞으로 내가 손주 볼때까지 달려보자 아자아자 화이팅!     만돌린-코로니
+5th_anniversary_announce_event.93	저에게 마비는 아직 2년이지만 유저와 함께해온 마비는 어느덧 5주년이네요. 축하드려요:D     만돌린-유스프렌
+5th_anniversary_announce_event.94	벌써 5년이 흘렀네요 ~ 5년동안 즐거웠어요. 앞으로 계속 즐겁길 바랍니다! 5주년 축하~     만돌린-우울한라일락
+5th_anniversary_announce_event.95	벌써 세월이 이렇게 흘러 5주년이 되었네용. 5주년 추카추카!!이렇게 쭉 가는겁니다> <!     만돌린-따라랄라니노
+5th_anniversary_announce_event.96	벌써5년이네요^^ 대학입학하고 처음으로 해본 온라인게임인데..로나와판은 그데론데 난OTL     만돌린-Solidus
+5th_anniversary_announce_event.97	판타지 라이프와 함깨 5년~! 재미난 친구들과 5년~! 축하 드리고 감사해요~     만돌린-아세리나
+5th_anniversary_announce_event.98	마비 시작한지 아직 2년밖에 안 되었지만, 판타지라이프에 잘 적응하고있어 행복합니다     만돌린-무지개아동
+5th_anniversary_announce_event.99	5년, 50년, 500년 무궁무진하게 발전해 나가라~무릎막 무릎 팍팍...엥?-_-?     만돌린-박남주
+5th_anniversary_announce_event.100	판타지 라이프는 계속되어야 한다. 쭈우욱~^^ 어느덧 5주년. 사랑해요. 마비노기!!     만돌린-지총
+5th_anniversary_announce_event.101	친구와 2년동안 즐겁게 놀았습니다~지인도 생기고 즐거운 기억이 많아요. 5주년축하! 감사!     만돌린-벨브라더마마
+5th_anniversary_announce_event.102	5년! 마비노기가 이제 굵직한 중년 게임으로 자리잡았네요. 앞으로도 쭈욱!     만돌린-바르톨로미오
+5th_anniversary_announce_event.103	5년동안수많은사람들과재밌게플레이한기억이남네요앞으로도마비노기화이팅!5번째생일축하드려요     만돌린-님브
+5th_anniversary_announce_event.104	마비노기 5번째 생일축하합니다.섬룡이도 5년째예요.^^변함없는 재미로 5년간 함께해왔네요     만돌린-섬룡
+5th_anniversary_announce_event.105	5년 동안 재미있는 동반자가 되줬던 마비노기~ 앞으로도 계속 힘내주세요^^     만돌린-마키
+5th_anniversary_announce_event.106	마비노기 나의 유일무이한 게임...나중에는 10주년을 축하할수있음 좋겠네요     만돌린-Wfox
+5th_anniversary_announce_event.107	벌써 5주년이군요!감동에 감동..!!거의 처음부터 함께했으니,끝까지 함께합시다!아자아자!!     만돌린-블러드바이너
+5th_anniversary_announce_event.108	마비노기라는 즐거운 추억의 공간...그것은가상세계를넘는의미가있었습니다앞으로도잘부탁드려요     만돌린-엄청난간지
+5th_anniversary_announce_event.109	시작하면서 온라인게임에 엔딩이 있군..하면서 즐긴게 5년이 되었군요. 이대로 10년 갑시다     만돌린-셰피엘
+5th_anniversary_announce_event.110	티르앞 늑대들과 함께한지도 5년이 되었네요- 앞으로도 끊임없이 발전하는 마비노기 되길..     만돌린-Nicoledaul
+5th_anniversary_announce_event.111	암것도 모르고 윈드밀쓸때 케릭터 주위를 마우스로 빙빙돌리던게 어제같은데;; 해퓌벌떼마비~     만돌린-국가공인
+5th_anniversary_announce_event.112	04년에 마비를 시작한 물빛선율입니다. 마비역사의 일부분을 이루고 있다는 생각에 기쁩니다.     만돌린-물빛선율0
+5th_anniversary_announce_event.113	우와~ 우리 마비노기도 5살이 되엇구나.. 이미 최강의 게임이 되버렷구나,,,     만돌린-루슈미
+5th_anniversary_announce_event.114	5주년이라니.. 정말 경축드리고 한 3년동안햇는데 계속 빠지게하네요. 번창하세요~     만돌린-양파맛사탕
+5th_anniversary_announce_event.115	흰거미와의 첫 전투에서 받은 그 감동을 아직 기억하고 있습니다. 5주년 축하합니다.     만돌린-에르하르트
+5th_anniversary_announce_event.116	어느덧 5년의 시간이 흘렀다니, 축하~ 앞으로도 즐거운추억 가득 만들수있길, 잘부탁한다!     만돌린-Dan02
+5th_anniversary_announce_event.117	칼 한자루 마련한다고 며칠이고 늑대를 잡던 기억이 아련하네요. 5주년 축하드려요^^     만돌린-에크란테르
+5th_anniversary_announce_event.118	한창 귀여운 다섯 살이네요 '-' 마비노기 무럭무럭 자라렴<     만돌린-밀키아이
+5th_anniversary_announce_event.119	벌써5살이라니..처녀일때시작해서 지금은한아이의엄마가 되버렸네요~앞으로도함께해요~축하축하~     만돌린-쥬베리
+5th_anniversary_announce_event.120	여자친구와의 소중한 추억이 담겨있는 게임입니다. 절대 잊지 못할거에요 ^^     만돌린-섹시곰돌이
+5th_anniversary_announce_event.121	벌써 5년이나 됐군요!친구들과 마비에서 함께보낸 추억들은 영원히 제 가슴속에 남을겁니다.     만돌린-열한마리토끼
+5th_anniversary_announce_event.122	이세계에 와주셔서 감사하다는 나오..이제는 제가 말할래요.이 세계를 만들어주셔서 감사하다고     만돌린-CHANELF
+5th_anniversary_announce_event.123	오픈베타부터 시작하진 못했지만 마비노기와 함께한지 벌써 5년, 함께 성숙해온 우리.     만돌린-아루스란
+5th_anniversary_announce_event.124	마비노기는 5주년이 되어갔을때 나는 5년동안 무엇을 키운건지...OTL 아무튼 축하 드려요     만돌린-샤케
+5th_anniversary_announce_event.125	게임으로 여자친구까지 사귀게해준 마비. 앞으로더기대할게~마비노기 화이팅~!!5주년축하해요~     만돌린-버서커혈인
+5th_anniversary_announce_event.126	마비노기 5주년 경축~ 계속 장수하는 마비노기가 되기를..마비화이팅!!     만돌린-프릴리
+5th_anniversary_announce_event.127	여기에서 있었던 추억 정말 소중하게 잘 간직하고 있어요 5주년 축하해요.     만돌린-후르츠사베트
+5th_anniversary_announce_event.128	곧 남자친구와 5주년인데.. 남자친구덕분에시작한마비! 5주년축하해요!     만돌린-iloveccs
+5th_anniversary_announce_event.129	마비노기가 다섯번째 생일을 맞았네요^^! 처음부터 함께한건 아니지만 앞으로도 쭉 함께하길~     만돌린-착한누님
+5th_anniversary_announce_event.130	투헨만 들면 굇수인시절 그후로 5주년이네요. 추카~ 군대 갔다와도 남아있기를..     만돌린-선주마법
+5th_anniversary_announce_event.131	마비노기 5주년 축하해요!10주년 될 때까지,15주년 될 때까지 쭉 이어갔으면 좋겠습니다!     만돌린-네모씨
+5th_anniversary_announce_event.132	거의 6년간 함께 한 이젠 뗄래야 뗄 수도 없는 소중한 마비노기 생축 ! ^.^     울프-지클린데
+5th_anniversary_announce_event.133	와! 판타지라이프 마비노기, 5주년 축하해요! 앞으로도 오래오래 장수하길!     울프-아리에링
+5th_anniversary_announce_event.134	마비노기 5주년 축하합니다~아아~그것은 인생의 데스티니 밝은앞날 환한현실 아아그것은삶의진리     울프-Eiyuuou
+5th_anniversary_announce_event.135	저의 학창시절을 마비노기와 함께 보내는군요 제 no.1게임은 마비노기뿐이에요!!     울프-페르디아
+5th_anniversary_announce_event.136	이제는 마비노기가 생활이되어버렸네요 앞으로도멋진마비노기 기대할게요 :)     울프-핀르
+5th_anniversary_announce_event.137	마비노기 5주년 축하합니다 !!! 짝짝짝 . 앞으로도 무럭무럭 자라주세요 !!     울프-대야
+5th_anniversary_announce_event.138	꿈의 에린, 추억을 간직한체 벌써 5주년이 되었네요 앞으로도 한걸음 나아가는 마비노기되세요     울프-루웨
+5th_anniversary_announce_event.139	정말 중독성강한 우리 마비노기~ 또 하나의 세계에서 유저분들과의 하루 하루가 즐거웠습니다.     울프-친절한로코
+5th_anniversary_announce_event.140	늘 지금처럼 사람들에게 행복을 주고 즐거움을 주는 마비노기가 되었으면 좋겠습니다 행복하세요     울프-딸기허니
+5th_anniversary_announce_event.141	5주년 축하드리고 6,7,8,9,10주년 때도 축하드릴수 있게 될거라고 믿습니다~~^^     울프-라마단
+5th_anniversary_announce_event.142	열두살에 시작해서 열여덟 먹도록 벌써 5살입니다. 형이 사랑한다, 우리마비.      울프-유리아드리넬
+5th_anniversary_announce_event.143	5주년 축하드려요~~ 5년동안 마비노기 할수있게 마비노기 영원하길바래요~~     울프-블러드플러스
+5th_anniversary_announce_event.144	마비에서 남친만들었쪄요~ 마비 정말 감사합니당~     울프-달콤한기분
+5th_anniversary_announce_event.145	마비노기한지 1년도채 안 됐지만 진심으로축하드릴게요! 100년까지화이팅~     울프-샘울
+5th_anniversary_announce_event.146	매일매일 새로 느낌을 주는 색다른게임인거 같습니다 앞으로 많은발전 기대하겠습니다.홧팅5주년     울프-재주
+5th_anniversary_announce_event.147	5년동안 정말재미있었어요 ! 앞으로도 좋은게임되기를바라면서 오늘도 마비노기를 합니다 ^-^     울프-우짜자꼬
+5th_anniversary_announce_event.148	:D 5주년이라..축하드리구요. 여기에 뼈를 묻게해줘요. 굇수가될때까지     울프-Lamp
+5th_anniversary_announce_event.149	시작한지 별로 되진 않았지만 벌써 5주년 이라니... 더욱 빨리 시작할꺼 그랬네요!     울프-아리스넬
+5th_anniversary_announce_event.150	나오누님의 젊음처럼 영원할 Happy Mabinogi.     울프-Saraquael
+5th_anniversary_announce_event.151	마비노기 첫 광고때가 엊그제 같았는데. Fantasy Life MABINOGI 화이팅!!     울프-Manonde
+5th_anniversary_announce_event.152	에린에서 몇년을 산건지..[]    어쨋든 앞으로 5주년 뿐만아니라 50주년 갑세다.     울프-흑사랑
+5th_anniversary_announce_event.153	초짜로 시작해 어언 3년이지낫군요.활력소가 되어주던 마비 5번째 생일을 진심으로 축하합니다     울프-널위한축배
+5th_anniversary_announce_event.154	처음과 같이 늘 한결같이 내 곁을 지켜준 그대... 고맙습니다. 그리고 축하합니다...     울프-Fori
+5th_anniversary_announce_event.155	아하하... 정많은 사람들때문에 살수있었던 판타지 라이프>_< 5주년 해피벌스데이^^     울프-정상을향해서
+5th_anniversary_announce_event.156	초등학교때부터 지그 고등학교까지 쭈욱 해오는 마비. 고맙습미다      울프-유센예성
+5th_anniversary_announce_event.157	처음엔 재미로 5주년동안은 길고긴 판타지여행을 하면서 매우 즐거웠습니다.     울프-파이널듀프2
+5th_anniversary_announce_event.158	3년간 동거동락한 마비노기 5살묵은 거 축하드립니다 그리고 계속 뵈여!!      울프-펌킨14
+5th_anniversary_announce_event.159	오베때,4학년에시작한 마비노기. 대학생이되어도 직장인이되어도 할수있는게임이되면좋겠습니다.     울프-스기냥
+5th_anniversary_announce_event.160	마비노기 5주년 이제까지 그랫던듯이 우리가 이끌어갑니다 마비노기 파이팅     울프-샤프리켄
+5th_anniversary_announce_event.161	이제는 단순한 온라인 게임이아닌 하나의 세계가 된 마비노기, 만수무강하길 빌어요~     울프-지상낙원
+5th_anniversary_announce_event.162	베타 때 부터 계속했어요!!< 올드 유저라능>  마비노기 5주년! 추카드려요!/     울프-엘리멘탈리드
+5th_anniversary_announce_event.163	마비노기 5주년이면 내케릭도 5살이겠네. 100살까지 달려봅시다.     울프-긴드
+5th_anniversary_announce_event.164	마비노기가없엇다면 나도없엇다  마니노기5주년을진심으로축하드림니다.^^     울프-버터왕제
+5th_anniversary_announce_event.165	나의 생일 6/14 마비노기를 시작한지도 5년, 동반자구만? 마비노기 5주년 추카.      울프-Umberto
+5th_anniversary_announce_event.166	친구와 화해할수있게 해주었던 게임! 마비노기야! 여태까지 있어줘서 고마워!!     울프-하련은
+5th_anniversary_announce_event.167	처음 시작할때가 초등학생땐대 벌써 고등학생이라능  10주년은 가야죠 ?     울프-사과맛사과
+5th_anniversary_announce_event.168	다섯살 생일 축하해요 무럭무럭 자라서 더 멋진 모습 많이 많이 보여주세요     하프-헤이르핀
+5th_anniversary_announce_event.169	오베때부터 지금껏 밀레시안이네요, 국적은 에린입니다. 5주년 축하드려요!     하프-엠퓨
+5th_anniversary_announce_event.170	Open 베타가 엇그제 같은데 벌써 5년이라니!! 앞으로도 마비노기 Forever     하프-술취한지니
+5th_anniversary_announce_event.171	5번째 생일 축하합니다!! 환갑잔치까지 달려보아Yo~     하프-군위
+5th_anniversary_announce_event.172	5년..이라는 시간 참 빠르군요. 5주년 축하드리구요  [베타 테스터]     하프-에이셧장누
+5th_anniversary_announce_event.173	벌써5주년이 되었군요. 에린,또다른 내가 살고 있는곳,앞으로도 번창하시길     하프-나오의얘인
+5th_anniversary_announce_event.174	마비노기 시작한 때가 엊그제 같은데 벌써 5주년이라니 백년 해로 합시다~~     하프-최선생애제자
+5th_anniversary_announce_event.175	던바튼 막 생겼을때 시작했는데 벌써 5주년이라니  진짜 같이 늙어가는군요     하프-레나아이네스
+5th_anniversary_announce_event.176	G1,2,3,7,8,9,10모두가 재미있었고요 5주년 축하드리고요 마비노기 파이팅!!     하프-반월의십자가
+5th_anniversary_announce_event.177	마비시작한지 벌써 5년  앞으로도 계속 같이해요~ 5주년 축하드려요~     하프-모소소쿠루페
+5th_anniversary_announce_event.178	이젠 저의 생활의 일부분이 되었네요. 마비노기 5주년 축하드리고 화이팅^^     하프-배따라기
+5th_anniversary_announce_event.179	5살이 되는 걸 축하해 마비노기! 그래도 내가 너보다 4배는 많이 살았다. ^.^     하프-엘키넬
+5th_anniversary_announce_event.180	마비노기의 인연이 아직도 이어지고 있습니다. 게임만이 아닌 소중한 추억입니다.     하프-별사탕기린
+5th_anniversary_announce_event.181	마비노기가이렇게5주년이나되다니정말 많이발전했네요앞서나가는마비노기가되기를     하프-상큼이다뇽
+5th_anniversary_announce_event.182	현실과도 착각할만한 게임이었는데 5년이나 됫다니 .. 앞으로 더욱 발전 기대해요     하프-Hajinkoo
+5th_anniversary_announce_event.183	판타지 라이프를 즐긴 또다른 내가 5살이 됐군요 늘 기억하고 있겠습니다 ^^     하프-네안에잠든
+5th_anniversary_announce_event.184	마비5주년과 동시에 군입대! 다시 돌아올때까지 기다려야해~     하프-바람의아침이
+5th_anniversary_announce_event.185	마비 벌써 5주년 이라니.. 두둥-0-! 굇수가 되는 그날까지 마비여 영원하라     하프-히야나라공주
+5th_anniversary_announce_event.186	5살 먹을동안 참 잘 큰 마비노기 ! 앞으로도 더욱 더 잘 크길 바랍니다 ~ !     하프-하르테아
+5th_anniversary_announce_event.187	정식서비스만 5년째군요. 제가 어릴적부터 봐왔었는데.. 쭈욱 이어가기를.    하프-에반테스제
+5th_anniversary_announce_event.188	진심으로 축하드립니다. 오베부터시작. 참 많은추억이있어요. 47년생 유저또있나요^^     하프-행복한우리
+5th_anniversary_announce_event.189	마비노기 5주년 축하드립니다~ 앞으로도 좋은 추억 많이 만들 수 있길 기도합니다 ^^     하프-로리폴리
+5th_anniversary_announce_event.190	어느덧 대학생이 되었지만 마비는 항상 함께하는군요.  10주년때를 기대해봅니다!     하프-카이즈엘
+5th_anniversary_announce_event.191	제가 마비를 한지 4년정도 된것 같네요^^끝나지않는 즐거움 마비 5주년 축하드려요^^     하프-루마니어스
+5th_anniversary_announce_event.192	마비노기의 다섯번째돌 축하합니다 나날이 발전되고 재밌어지는 장수게임이되기를...     하프-엄청난넘
+5th_anniversary_announce_event.193	마비노기가 5살 생일이네요. 모두함께 5년을 보냈어요. 계속 함께 할래요~     하프-네코다냐
+5th_anniversary_announce_event.194	생활스킬이 다른게임보다 남달라 매력이넘쳤던마비   5주년 추카.      하프-갈통이
+5th_anniversary_announce_event.195	처음 접속했던 때가 생각나네요, 5년동안 함께 해줘서 고마워요~ 사랑해요~     하프-을림
+5th_anniversary_announce_event.196	군대 다녀와서 다시 즐기는 마비노기! 군인들도 좋아해요~     하프-고독늑대
+5th_anniversary_announce_event.197	손이가요 손이가~ 아이콘에 손이가요~ 아이도 어른도 자꾸만 손이가는 마비노기!     하프-또다른너
+5th_anniversary_announce_event.198	대학 새내기때 친구가 소개해준 게임. 03학번이니 원년멤버인가요? 웃음 ^-^     하프-최종식량그녀
+5th_anniversary_announce_event.199	군제대와 함께한 마비노기~! 이젠 제 예비군 동원도 마지막회차 입니다 후후     하프-지오라마
+5th_anniversary_announce_event.200	시골길같은 티르와 정겨운 배경음악, 내 꿈의 마을, 마비노기! 5주년축하!     하프-캐터필러
+5th_anniversary_announce_event.201	
+5th_anniversary_announce_event.202	
+anniversary.1	ライミラク教団では法皇庁の寄付箱を通じて慈善基金を集めています。現在の合計寄付金額は
+anniversary.2	ゴールドです。
+collectionbook.1	に
+collectionbook.2	を収集しました。
+collectionbook.3	コレクションの全てのアイテムを集めました。
+collectionbook.4	コレクションブックを完成しました。
+collectionbook.5	の品質が劣って収集できません。
+collectionbook.6	の耐久度が低いため収集できません。
+collectionbook.7	- 料理大会用の食べ物は収集できません。
+collectionbook.8	の有効期間が過ぎたので収集できません。
+collectionbook.9	のサイズが小さくて収集できません。
+collectionbook.10	のサイズが大きくて収集できません。
+collectionbook.11	のサイズが小さくて収集できません。
+collectionbook.12	のサイズが大きくて収集できません。
+collectionbook.13	ウルフハンター
+collectionbook.14	ライオンハンター
+collectionbook.15	ネイチャー
+collectionbook.16	ウルフハンターとネイチャー
+collectionbook.17	初歩のと忍耐の
+collectionbook.18	精巧な
+collectionbook.19	フォックスハンター
+collectionbook.20	クレイフィッシュ
+collectionbook.21	賢い
+collectionbook.22	ひびが入った
+collectionbook.23	鋭い
+collectionbook.24	楽な
+collectionbook.25	水の
+collectionbook.26	クラブ
+collectionbook.27	強い
+collectionbook.28	滑石
+collectionbook.29	スワンサマナー
+collectionbook.30	ハイエナ
+collectionbook.31	のろまの
+collectionbook.32	フォーチュン
+collectionbook.33	スケルトン
+collectionbook.34	祝福の
+collectionbook.35	安いと沼の
+collectionbook.36	緑のとグリーン
+collectionbook.37	良い
+collectionbook.38	スネーク
+collectionbook.39	風の
+collectionbook.40	ジェイド
+collectionbook.41	ミスト
+collectionbook.42	褐色キツネ
+collectionbook.43	アンダースタンディング
+collectionbook.44	泉の
+collectionbook.45	褐色クマ
+collectionbook.46	偽の
+collectionbook.47	オモチャの
+collectionbook.48	チキンサマナー
+collectionbook.49	赤キツネ
+collectionbook.50	ソルジャー
+collectionbook.51	赤クマ
+collectionbook.52	ゴールドゴブリン
+collectionbook.53	トパーズ
+collectionbook.54	コンシデレーション
+collectionbook.55	ダイアウルフ
+collectionbook.56	ヘルス
+collectionbook.57	灰色オオカミ
+collectionbook.58	ブラッド
+collectionbook.59	ロブスター
+collectionbook.60	白クモ
+collectionbook.61	ドンキーハンター
+collectionbook.62	便利な
+collectionbook.63	ラスティ
+collectionbook.64	ペンギンサマナー
+collectionbook.65	夜明けの
+collectionbook.66	ゴーレム
+collectionbook.67	デッドマン
+collectionbook.68	金持ちの
+collectionbook.69	ファイター
+collectionbook.70	オーガ
+collectionbook.71	混沌の
+collectionbook.72	エンチャントを収集しました。
+collectionbook.73	エンチャントを収集しました。
+collectionbook.74	ヒーターシールドの図面を受け取りました。
+collectionbook.75	ダスティンシルバーナイトソードの図面を受け取りました。
+collectionbook.76	ダスティンシルバーナイトソードの図面を受け取りました。
+collectionbook.77	할아버지 유령을 스케치한
+collectionbook.78	아빠 유령을 스케치한
+collectionbook.79	엄마 유령을 스케치한
+collectionbook.80	아들 유령을 스케치한
+collectionbook.81	딸 유령을 스케치한
+collectionbook.82	バトルソードの図面を受け取りました。
+collectionbook.83	フクロウが健康に育ちました。スタンプブックを開いて報酬を受け取ってください。
+collectionbook.84	赤ちゃんフクロウが嬉しそうにホウホウ鳴きながら周囲を回り、元気に飛んでいった。
+collectionbook.85	波の鎮静クエストを受けたあとにコレクションすることができます。
+collectionbook.86	아기 호랑이가 기쁜 듯 다리에 몸을 부비다가 힘차게 달려 갔다.
+collectionbook.87	ダンジョンでは使用できません。
+collectionbook.88	室内では使用できません。
+collectionbook.89	現在の位置では報酬を受け取れません。\n広い地域に移動してから使用してください。 
+collectionbook.90	現在の地域では使用できません。
+confessional.1	人が訪ねてくるのを待とう。
+confessional.2	誰も来ないようだ。\n他の時間にまた来よう。
+confessional.3	誰も来ないようだ。\n他の時間にまた来よう。
+confessional.4	誰も来ないようだ。\n他の時間にまた来よう。
+confessional.5	誰も来ないようだ。\n他の時間にまた来よう。
+confessional.6	誰も来ないようだ。\n他の時間にまた来よう。
+confessional.7	誰も来ないようだ。\n他の時間にまた来よう。
+confessional.8	誰も来ないようだ。\n他の時間にまた来よう。
+confessional.9	誰も来ないようだ。\n他の時間にまた来よう。
+confessional.10	誰も来ないようだ。\n他の時間にまた来よう。
+connous_undermaze_chest.1	The key has already been used.
+connous_undermaze_chest.2	I do not have a key that fits this treasure box.
+connous_undermaze_chest.3	This treasure box is already open.
+connous_undermaze_chest.4	Failed to drop item.
+connous_undermaze_chest.5	Failed to drop item.
+connous_undermaze_chest.6	Failed to drop item.
+connous_undermaze_chest.7	Failed to drop item.
+connous_undermaze_chest.8	Failed to drop item.
+connous_undermaze_chest.9	Failed to drop item.
+enter_dungeon.1	このダンジョンは1人しか入れません。
+enter_dungeon.2	このダンジョンに入るには2人でパーティーを組んでください。
+enter_dungeon.3	このダンジョンは1人しか入れません。
+enter_dungeon.4	このダンジョンは1人しか入れません。
+enter_dungeon.5	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
+enter_dungeon.6	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.7	このダンジョンに入るには3人でパーティーを組む必要があります。
+enter_dungeon.8	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.9	このダンジョンに入るには2人でパーティーを組む必要があります。
+enter_dungeon.10	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
+enter_dungeon.11	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.12	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.13	このダンジョンは1人しか入れません。
+enter_dungeon.16	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
+enter_dungeon.17	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.18	このダンジョンに入るには3人でパーティーを組む必要があります。
+enter_dungeon.19	有料サービスの期間が終了しました。\n有料サービスを受けるとダンジョンに入ることができます。
+enter_dungeon.20	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.21	このダンジョンは1人しか入れません。
+enter_dungeon.22	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.23	このダンジョンに入るには3人でパーティーを組む必要があります。
+enter_dungeon.24	このダンジョンに入るには3人でパーティーを組む必要があります。
+enter_dungeon.25	このダンジョンに入るには3人でパーティーを組む必要があります。
+enter_dungeon.26	有料サービスの期間が終了しました。\n有料サービスを受けるとダンジョンに入ることができます。
+enter_dungeon.27	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.28	このダンジョンは1人しか入れません。
+enter_dungeon.29	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
+enter_dungeon.30	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.31	このダンジョンに入るには2人でパーティーを組む必要があります。
+enter_dungeon.32	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.33	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.34	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
+enter_dungeon.35	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.36	3人以下のパーティーまたは1人ならダンジョンに入ることができます。
+enter_dungeon.37	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
+enter_dungeon.38	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.39	このダンジョンに入るには3人でパーティーを組む必要があります。
+enter_dungeon.41	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
+enter_dungeon.43	3人以下のパーティーまたは1人ならダンジョンに入ることができます。
+enter_dungeon.44	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
+enter_dungeon.45	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.46	3人以下のパーティーまたは1人ならダンジョンに入ることができます。
+enter_dungeon.47	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
+enter_dungeon.48	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.49	3人以下のパーティーまたは1人ならダンジョンに入ることができます。
+enter_dungeon.50	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.51	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.52	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.53	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.54	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.55	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.56	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.57	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.58	このダンジョンは1人しか入れません。
+enter_dungeon.59	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.60	このダンジョンに入るには2人でパーティーを組む必要があります。
+enter_dungeon.61	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.62	このダンジョンに入るには4人でパーティーを組む必要があります。
+enter_dungeon.63	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.64	このダンジョンに入るには2人でパーティーを組んでください。
+enter_dungeon.65	有料サービスを受けるとダンジョンに入ることができます。
+enter_dungeon.66	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.67	このダンジョンは1人しか入れません。
+enter_dungeon.68	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.69	このダンジョンは1人しか入れません。
+enter_dungeon.70	テストのための、2人ダンジョンにようこそ。
+enter_dungeon.71	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.72	このダンジョンに入るには2人でパーティーを組む必要があります。
+enter_dungeon.73	テストのための、4人ダンジョンにようこそ。
+enter_dungeon.74	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.75	このダンジョンに入るには4人でパーティーを組む必要があります。
+enter_dungeon.76	有料サービスを受けるとダンジョンに入ることができます。
+enter_dungeon.77	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.78	このダンジョンは1人しか入れません。
+enter_dungeon.79	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.80	このダンジョンに入るには2人でパーティーを組む必要があります。
+enter_dungeon.81	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.82	このダンジョンに入るには3人でパーティーを組む必要があります。
+enter_dungeon.83	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.84	この通行証では、もうこのダンジョンには入れません。
+enter_dungeon.85	有料サービスを受けるとダンジョンに入ることができます。
+enter_dungeon.86	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.87	このダンジョンは1人しか入れません。
+enter_dungeon.88	有料サービスを受けるとダンジョンに入ることができます。
+enter_dungeon.89	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.90	このダンジョンは1人しか入れません。
+enter_dungeon.91	有料サービスを受けるとダンジョンに入ることができます。
+enter_dungeon.92	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.93	このダンジョンは1人しか入れません。
+enter_dungeon.94	違う世界のシールブレイカーのみダンジョンに入れます。
+enter_dungeon.95	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.96	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.97	このダンジョンは1人しか入れません。
+enter_dungeon.98	テストのための、2人ダンジョンにようこそ。
+enter_dungeon.99	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.100	このダンジョンに入るには2人でパーティーを組む必要があります。
+enter_dungeon.101	テストのための、4人ダンジョンにようこそ。
+enter_dungeon.102	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.103	このダンジョンに入るには4人でパーティーを組む必要があります。
+enter_dungeon.104	有料サービスを受けるとダンジョンに入ることができます。
+enter_dungeon.105	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.106	このダンジョンは1人しか入れません。
+enter_dungeon.107	有料サービスを受けるとダンジョンに入ることができます。
+enter_dungeon.108	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.109	このダンジョンは1人しか入れません。
+enter_dungeon.110	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.111	このダンジョンに入るには2人でパーティーを組む必要があります。
+enter_dungeon.112	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.113	このダンジョンに入るには3人でパーティーを組む必要があります。
+enter_dungeon.114	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.115	パーティーにパラディンがいるため、入れません。
+enter_dungeon.116	パーティーにパラディンがいるため、入れません。
+enter_dungeon.117	パーティーにパラディンがいません。
+enter_dungeon.118	パーティーの中に動物でログインしたメンバーがいるため、このダンジョンに入ることができない。
+enter_dungeon.119	パーティーの中でペットを召喚したメンバーがいるため、このダンジョンに入ることができません。
+enter_dungeon.120	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.121	このアイテムは祭壇に落とすことが出来ません。
+enter_dungeon.122	このダンジョンは有料サービスを受けているユーザーのみ入場できます。
+enter_dungeon.123	このダンジョンは有料サービスを受けているユーザーのみ入場できます。
+enter_dungeon.124	抗魔のローブが威力を発揮する\nインボリックの時にだけこのダンジョンに入れます。
+enter_dungeon.125	このダンジョンは有料サービスを受けているユーザーのみ入場できます。
+enter_dungeon.126	このダンジョンに入るためには、特別な通行証が必要です。
+enter_dungeon.127	このダンジョンは最低４人以上のパーティーを組んで入場してください。
+enter_dungeon.128	ペットはこのダンジョンに入れません。
+enter_dungeon.129	ペットはこのダンジョンに入れません。
+enter_dungeon.130	ペットはこのダンジョンに入れません。
+enter_dungeon.131	ペットはこのダンジョンに入れません。
+enter_dungeon.132	パーティーにパラディンかダークナイトがいるため、入れません。
+enter_dungeon.133	このダンジョンでは使用できない通行証です。\n通行証名を確認してください。
+enter_dungeon.134	このダンジョンでは使用できない通行証です。\n通行証名を確認してください。
+enter_dungeon.135	城主の命令により城のギルドメンバーでない人がいると入れません。
+enter_dungeon.136	現在、城の主人がいないため入れません。
+enter_dungeon.137	城がないためダンジョン進入に失敗しました。
+enter_dungeon.138	城ロビーの警備兵が販売するトゥガルド城ダンジョン通行証を入れなければ\nダンジョンに入場できません。
+enter_dungeon.139	城主の命令により城のギルドメンバーでない人がいると入れません。
+enter_dungeon.140	現在、城の主人がいないため入れません。
+enter_dungeon.141	城がないためダンジョン進入に失敗しました。
+enter_dungeon.142	城ロビーの警備兵が販売するセンマイ城ダンジョン通行証を入れなければ\nダンジョンに入場できません。
+enter_dungeon.143	このダンジョンに入るには2人以上でパーティーを組む必要があります。
+enter_dungeon.144	このダンジョンに入るには2人以上でパーティーを組む必要があります。
+enter_dungeon.145	このダンジョンに入るには2人以上でパーティーを組む必要があります。
+enter_dungeon.146	このダンジョンに入るには2人以上でパーティーを組む必要があります。
+enter_dungeon.147	パーティーの中にパラディン・ダークナイト・ファルコン・ビーストのいずれかがいるため、入場できません。
+enter_dungeon.148	すでに村の住民を救出しています。
+enter_dungeon.149	이 던전은 혼자서만 들어갈 수 있습니다.
+enter_dungeon.150	이 던전을 들어가기에 너무 강합니다.
+enter_dungeon.151	2008 신년 이벤트 기간만 사용 가능한 통행증입니다.
+enter_dungeon.152	마족 통행증의 유효시간이 지나서 던전에 들어갈 수 없습니다.
+enter_dungeon.153	마족 통행증의 유효시간이 지나서 던전에 들어갈 수 없습니다.
+enter_dungeon.154	2008 신년 이벤트 기간동안에만 사용 가능한 통행증입니다.
+enter_dungeon.155	마족 통행증의 유효시간이 지나서 던전에 들어갈 수 없습니다.
+enter_dungeon.156	2008 신년 이벤트 기간동안에만 사용 가능한 통행증입니다.
+enter_dungeon.157	これ以上魔法のカカオダンジョンを生成することが出来ません。
+enter_dungeon.158	パーティーメンバーの中にまだ能力が足りないプレイヤーがいるため入場できません。
+enter_dungeon.159	パーティーメンバーの中にまだ能力が足りないプレイヤーがいるため入場できません。
+enter_dungeon.160	パーティーメンバーの中にまだ能力が足りないプレイヤーがいるため入場できません。
+enter_dungeon.161	パーティーメンバーの中にまだ能力が足りないプレイヤーがいるため入場できません。
+enter_dungeon.162	まだ私は力不足なのでダンジョンに入場できない。
+enter_dungeon.163	パーティーメンバーの中に能力が足りないプレイヤーがいるため入場できません。
+enter_dungeon.164	まだ私は力不足なのでダンジョンに入場できない。
+enter_dungeon.165	パーティーメンバーの中に能力が足りないプレイヤーがいるため入場できません。
+enter_dungeon.166	まだ私は力不足なのでダンジョンに入場できない。
+enter_dungeon.167	パーティーメンバーの中に能力が足りないプレイヤーがいるため入場できません。
+enter_dungeon.168	このアイテムで入る為に必要となるクエストがありません。
+enter_dungeon.169	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.170	このダンジョンへは１人のみが入場可能です。
+enter_dungeon.171	この通行証はサーオィンにのみ利用できます。
+enter_dungeon.172	変身、またはペットを呼び出した状態ではダンジョンに入場できません。
+enter_dungeon.173	1人のみ入場可能なダンジョンです。
+enter_dungeon.174	ベルテン（火曜日）のみダンジョンに入場できます。
+enter_dungeon.175	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.176	進行中のミッションを完了後に入場できます。
+enter_dungeon.177	このアイテムで入場可能な人数は1人のみです。
+enter_dungeon.178	퍼즐 이벤트 용 메모를 여러장 소지한 상태로는\n던전 입장이 불가능합니다.
+enter_dungeon.179	해당 퀘스트를 진행 중인 캐릭터만 입장할 수 있습니다.
+enter_dungeon.180	このアイテムは祭壇に落とすことが出来ません。
+enter_dungeon.181	このダンジョンは1人しか入れません。
+enter_dungeon.182	このダンジョンは1人しか入れません。
+enter_dungeon.183	ペットを呼び出した状態ではダンジョンに入場することができません。
+enter_dungeon.184	城ロビーの警備兵が販売するアブネア城ダンジョン通行証を入れなければ\nダンジョンに入場できません。
+enter_dungeon.185	ペットを呼び出し中のときはダンジョンに入場できません。
+enter_dungeon.186	このアイテムは祭壇に捧げることができません。
+enter_dungeon.187	このダンジョンは1人しか入れません。
+enter_dungeon.188	影ミッションを進行中のときは該当ダンジョンに入ることができません。
+enter_dungeon.189	今はこのアイテムを使用できません。
+enter_dungeon.190	このダンジョンは1人しか入れません。
+enter_dungeon.191	村の住民救出クエストを進めるにはトレボーの通行証を投げなければなりません。
+enter_dungeon.192	このアイテムではこれ以上このダンジョンに入ることができません。
+enter_dungeon.193	このダンジョンは1人しか入れません。
+enter_dungeon.194	このアイテムではこれ以上このダンジョンに入ることができません。
+enter_dungeon.195	このダンジョンは1人しか入れません。
+enter_dungeon.196	男性と女性で構成されたカップルパーティーのみこのダンジョンに入場できます。
+enter_dungeon.197	2名で構成されたパーティーのみこのダンジョンに入場できます。
+enter_dungeon.198	イベント進行中の時のみ入場できます。
+enter_dungeon.199	男性と女性で構成された2人のカップルパーティーのみ\nこのダンジョンに入場できます。
+enter_dungeon.200	男性と女性で構成された2人のカップルパーティーのみ\nこのダンジョンに入場できます。
+enter_dungeon.201	やんちゃ坊主を救出するにはレイナルドの通行証を投げなければなりません。
+enter_dungeon.202	マルコムの指輪を探すにはトレボーの通行証を投げなければなりません。
+enter_dungeon.203	すでにやんちゃ坊主は救出しました。
+enter_dungeon.204	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.205	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.206	このダンジョンは1人しか入れません。
+enter_dungeon.207	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.208	このアイテムでは、もうこのダンジョンには入れません。
+enter_dungeon.209	魔族通行証の有効期限が切れたためダンジョンに入れません。
+enter_dungeon.210	城主の命令により城のギルドメンバーでない人がいると入れません。
+enter_dungeon.211	現在、城の主人がいないため入れません。
+enter_dungeon.212	城がないためダンジョン進入に失敗しました。
+enter_dungeon.213	城ロビーの警備兵が販売するクィリン城ダンジョン通行証を入れなければダンジョンに入場できません。
+enter_dungeon.214	イベント期間のみ入場できる通行証です。
+enter_dungeon.215	パーティーの中に動物でないメンバーがいるため、このダンジョンに入場できません。
+enter_dungeon.216	このダンジョンは1人しか入れません。
+enter_dungeon.217	ネットカフェでのみダンジョンに入場できます。
+enter_dungeon.218	このダンジョンは1人しか入れません。
+enter_dungeon.219	ネットカフェでのみダンジョンに入場できます。
+enter_dungeon.220	このダンジョンは1人しか入れません。
+enter_dungeon.221	ネットカフェでのみダンジョンに入場できます。
+enter_dungeon.222	このダンジョンは1人しか入れません。
+enter_dungeon.223	ネットカフェでのみダンジョンに入場できます。
+enter_dungeon.224	このダンジョンは1人しか入れません。
+enter_dungeon.225	ネットカフェでのみダンジョンに入場できます。
+enter_dungeon_ruin.1	ルワイが自分で書いた探検日誌ではないようだ。
+enter_dungeon_ruin.2	該当アイテムで入場可能なのは一人だけです。
+enter_dungeon_ruin.3	アトラタからもらったウィンドベルではないようだ。
+enter_dungeon_ruin.4	今はこのアイテムを使用できないようだ。
+enter_dungeon_ruin.5	今はこのアイテムを使用できないようだ。
+enter_dungeon_ruin.6	ペットを呼び出した状態ではダンジョンに入場することができません。
+enter_dungeon_ruin.7	ペットを呼び出した状態ではダンジョンに入場することができません。
+enter_dungeon_ruin.8	ペットを呼び出した状態ではダンジョンに入場することができません。
+enter_dungeon_ruin.9	今はこのアイテムを使用できないようだ。
+enter_dungeon_ruin.10	今はこのアイテムを使用できないようだ。
+enter_dungeon_ruin.11	今はこのアイテムを使用できないようだ。
+enter_dungeon_ruin.12	今はこのアイテムを使用できないようだ。
+enter_dungeon_ruin.13	使用できないアイテムです。
+enter_dungeon_ruin.14	該当アイテムで入場可能なのは一人だけです。
+enter_dungeon_ruin.15	ペットを呼び出し中のときはダンジョンに入場できません。
+enter_dungeon_ruin.16	使用できないアイテムです。
+enter_dungeon_ruin.17	該当アイテムで入場可能なのは二人だけです。
+enter_dungeon_ruin.18	ペットを呼び出し中のパーティーメンバーがいるときはダンジョンに入場できません。
+enter_dungeon_ruin.19	今はこのアイテムを使用できないようだ。
+enter_dungeon_ruin.20	レインメーカーのダンジョンはサーオィン(土曜日)のみ入場できる。
+enter_dungeon_ruin.21	今はこのアイテムを使用できないようだ。
+enter_dungeon_ruin.22	今はこのアイテムを使用できないようだ。
+enter_dungeon_ruin.23	今はこのアイテムを使用できないようだ。
+exploration_event.1	船が難破し、イリアの南東に流れてきたようだ。
+exploration_event.2	船が難破し、どこかに流れ着いたようだ。
+falias.1	祭壇を守れなかった。\n祭壇を封印したアンヴァルたちが去っていく。
+falias.2	祭壇が封印されているため遺物が獲得できない。
+falias.3	
+falias.4	アンヴァルが今より増えると祭壇を守ることができない。\n早くアンヴァルを退治しよう。
+falias.5	Stage Level: 1
+falias.6	Stage Level: 2
+falias.7	Stage Level: 3
+falias.8	Stage Level: 4
+falias.9	Stage Level: 5
+falias.10	Stage Level: 6
+falias.11	Stage Level: 7
+falias.12	Stage Level: 0
+falias.13	アンヴァルをすべて食い止めた。\n祭壇から遺物を探してみよう。
+falias.14	祭壇を守りきった。遺物を探してみよう。
+falias.15	隠された遺物を探してみよう。
+falias.16	隠された遺物を探してみよう。
+falias.17	ファリアスから現実世界に戻ってきた。
+falias.18	アンヴァルを倒して宝物を探してみよう。
+falias.19	人数が多いためエリンに戻ります。
+falias.20	ファリアスの遺物を見つけた。
+falias.21	祭壇から何の遺物も発見できなかった。
+falias.22	何の遺物も見つからなかった。
+falias.23	ミスをしてトラップが発動した。\nアンヴァルたちが遺物を守るために群がってくる。
+falias.24	アンヴァルから祭壇を守れ！
+falias.25	祭壇 :
+falias.26	結界を破壊するにはまず結界に力を送っている\nストーンヘンジを破壊しなければならない。
+falias.27	搭乗した状態では祭壇を調べられない。
+falias.28	人を乗せた状態では祭壇を調べられない。
+falias.29	飛行中は祭壇を調べられない。
+falias.30	祭壇が作動しない。\n作動させる方法を探してみよう。
+falias.31	アンヴァルから祭壇を守らないと遺物を獲得できない。
+falias.32	祭壇を守れなかった。\n祭壇から遺物を取り出すことができない。
+falias.33	祭壇を動かす装置が故障した。\n祭壇から遺物を取り出すことができない。
+falias.34	何の反応もない。
+falias.35	他の人の祭壇だ。
+falias.36	祭壇 :
+falias.37	アンヴァルをすべて食い止めた。\n祭壇から遺物を探してみよう。
+falias.38	祭壇から遺物を探してみよう。
+falias.39	
+falias.40	祭壇が封印されているため遺物が獲得できない。
+falias.41	祭壇を守れなかった。\n祭壇を封印したアンヴァルたちが去っていく。
+falias.42	祭壇の封印が終わりつつある。\nこれ以上アンヴァルが接近すると危険だ。
+falias.43	封印の時間がかなり経った。\nアンバルの接近を防ぎ切ろう。
+falias.44	アンヴァルが自らを犠牲にして祭壇を封印している。\nアンヴァルが祭壇に近づけないよう食い止めよう。
+falias.45	{0} 의 경험치를 받았습니다.
+fashionshow_event.1	タラファッションコンテスト予選受付を行っています。
+fashionshow_event.2	タラファッションコンテスト予選が始まりました。
+fashionshow_event.3	現在6チャンネルでタラファッションコンテスト本選受付を行っています。
+fashionshow_event.4	現在6チャンネルでタラファッションコンテスト本選が始まりました。
+fashionshow_event.5	タラファッションコンテスト予選受付が終了しました。
+fashionshow_event.6	タラファッションコンテスト予選が終了しました。
+fashionshow_event.7	現在6チャンネルでタラファッションコンテスト本選受付が終了しました。
+fashionshow_event.8	現在6チャンネルでタラファッションコンテスト本選が終了しました。
+fashionshow_event.9	タラファッションコンテスト予選が午後8時から開始予定です。ふるってご参加ください。
+fashionshow_event.10	タラファッションコンテスト予選を行っています。ふるってご参加ください。
+fashionshow_event.11	6チャンネルで開かれるタラファッションコンテスト本選は午後8時から始まります。ふるってご参加ください。
+fashionshow_event.12	現在6チャンネルでタラファッションコンテスト本選を行っています。
+g1_event.1	G1_40_b カットシーンが終了しました。
+g2_event.1	여신 컷신 보기 시작함
+g2_event.2	컷신이 끝나고 부른다제
+g2_event.3	컷신이 끝나고 부른다제
+g2_event.4	컷신이 끝나고 부른다제
+g2_event.5	37_c 서버 시퀀스
+g2_event.6	G2シナリオの進行上、正常ではない部分がリセットされます。
+g8_event.1	割れた地面から吹き出る熱気のため、これ以上進入することが出来ない。
+g13_event.1	謎のイヤリングを受け取った。吟遊詩人を捜す手がかりになるだろうか。
+g13_event.2	(dev) 정식 서버에서는 0분 후에 다음 퀘스트 배달됩니다.
+g13_event.3	(dev) 정식 서버에서는 0분 후에 다음 퀘스트 배달됩니다.
+g13_event.4	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.5	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.6	(dev) 정식 서버에서는 0분 후에 다음 퀘스트 배달됩니다.
+g13_event.7	(dev) 정식 서버에서는 0분 후에 다음 퀘스트 배달됩니다.
+g13_event.8	(dev) 초보자는 여기에서 튜토리얼로 이어짐.
+g13_event.9	(dev) 1분후 다음 퀘스트 배달.
+g13_event.10	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.11	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.12	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.13	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.14	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.15	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.16	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.17	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.18	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.19	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.20	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.21	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+g13_event.22	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
+game_event.1	마비노기 4주년 기념 아이템을 받았습니다.
+game_event.2	3월 2일 정기점검 후 마법 상자가 지급됩니다. 마법 상자는 새학기 봄꽃 이벤트를 진행하신 분만 받으실 수 있습니다.
+game_event.3	마비노기 2주년 기념 아이템을 받았습니다.
+game_event.4	エリン定着支援金を受け取りました。
+game_event.5	エリン定着支援金を受け取れません。\nインベントリを確認し、しばらくしてから再度お試しください。
+game_event.6	エリン定着支援金に問題が発生しました。しばらくしてから再度お試しください。
+hidden_book.1	bookPolio
+impdream.1	{0}と愉快なチビインプたちが {1}を倒しました。
+impdream.2	1位 {0} ({1}点)
+impdream.3	2位 {0} ({1}点)
+impdream.4	3位 {0} ({1}点)
+impdream.5	イベント終了 {0}秒前です。終了後は精算されません。
+item.glewyas_book.1	グルアスの本を読んでいる途中、図書カードを発見した。
+item.glewyas_book.2	ミッションに失敗したら、蔵書館図書カードを使用してみよう。
+item.glewyas_book.3	グルアスの本を読んでいる途中、図書カードを発見した。
+item.glewyas_book.4	進行中のミッションを完了させて、蔵書館図書カードを使用してみよう。
+item.item12279.1	新しいファリアスの宝物スロットが活性化されました。
+item.item12279.2	効果がすでに適用されています。
+item.item12279.3	今は使用しても何の効果もありません。
+item.item12279.4	今は使用しても何の効果もありません。
+item.item12280.1	新しいファリアスの宝物スロットが活性化されました。
+item.item12280.2	効果がすでに適用されています。
+item.item12280.3	今は使用しても何の効果もありません。
+item.item12280.4	今は使用しても何の効果もありません。
+item.item12281.1	家系図の子供スロット追加に成功しました。
+item.item12281.2	子供スロットの追加に失敗しました。
+item.item12281.3	すでに家系図のすべての子供スロットが開いています。
+item.item12281.4	養子縁組権利証書は家長のみ使用できます。
+item.item51097.1	ザルディンの遺物9種類をすべて持っているため、今は使用できません。
+item.item51097.2	古いドラゴンの骨片は9個集まらなければ使用できません。
+item.item51097.3	ザルディンの遺物をすべて集めました。コレクションブックに収集して報酬を受け取ったあと、使用してください。
+item.item52116.1	郵便配達物からアイリスナイトキャップを手に入れました。
+item.item52116.2	郵便配達物からガミュウコウモリのドレスを手に入れました。
+item.item52116.3	郵便配達物から私のヌベス式瞑想法を手に入れました。
+item.item52116.4	郵便配達物からメイズ平原の巨大模様を手に入れました。
+item.item52116.5	郵便配達物から電気と電圧の増幅についての研究1ページを手に入れました。
+item.item52116.6	郵便配達物から休憩のための時間を手に入れました。
+item.item52116.7	郵便配達物か光るストーンガーゴイルの石像を手に入れました。
+item.item52116.8	郵便配達物から木の板を手に入れました。
+item.item52116.9	郵便配達物から最高級革を手に入れました。
+item.item52116.10	郵便配達物から太い糸5個を手に入れました。
+item.item52116.11	郵便配達物からマナハーブ10個を手に入れました。
+item.item52116.12	郵便配達物からサンダーの本 第3章 [実際に使うサンダー]を手に入れました。
+item.item52116.13	郵便配達物から雲の結晶5個を手に入れました。
+item.item52116.14	郵便配達物から高級革を手に入れました。
+item.item52116.15	郵便配達物から高級薪を手に入れました。
+item.item52116.16	郵便配達物からマナポーション50を10個手に入れました。
+item.item52116.17	郵便配達物からマナハーブ5個を手に入れました。
+item.item52116.18	郵便配達物から銀鉱の欠片5個を手に入れました。
+item.item52116.19	郵便配達物から金鉱の欠片5個を手に入れました。
+item.item52116.20	郵便配達物からブラッディハーブ10個を手に入れました。
+item.item52116.21	郵便配達物からサンライトハーブ10個を手に入れました。
+item.item52116.22	郵便配達物から安い革紐10個を手に入れました。
+item.item52116.23	郵便配達物から雲の結晶2個を手に入れました。
+item.item52116.24	郵便配達物からサンライトハーブ5個を手に入れました。
+item.item52116.25	郵便配達物からブラッディハーブ5個を手に入れました。
+item.item52116.26	郵便配達物から祝福ポーションを手に入れました。
+item.item52140.1	개인 상점용 가방은 하나만 소유할 수 있습니다.
+item.item52140.2	축구 아이템 가방을 받았습니다.
+item.item52140.3	축구 아이템 가방을 받는데 실패했습니다.
+item.item73211.1	오늘은 더 이상 물을 줄 수 없습니다.
+item.item73211.2	빗물로 화분에 물을 주었다.
+item.item73211.3	병에 들어있는 물로 화분에 물을 주었다.
+item.item73211.4	비가 오지 않는 날에는 물이 든 병으로 화분에 물을 줄 수 있습니다.
+item.item73211.5	물을 주었더니 화분에서 꽃이 피었다.
+item.item75356.1	進行中のミッションを完了させて、蔵書館図書カードを再び使用してみよう。
+item.item75371.1	進行中のミッションを完了させて、女神の針を再び使用してみよう。
+item.item75372.1	すでにカリバーンを取り戻した。
+item.item75372.2	進行中のミッションを完了または放棄して、カリバーンの通行証を再び使用してみよう。
+item.item75372.3	今の状態では使えない。
+item.item75420.1	女神像の近くで使用しなければならない。
+item.item75420.2	地下水路の女神像の近くで使用しなければならない。
+item.item75420.3	地下水路の女神像の近くで使用しなければならない。
+item.item75435.1	進行中のミッションを完了して、ヌアザの護符を再び使用してみよう。
+item.item75436.1	進行中のミッションを完了して、ファリアスの聖水を再び使用してみよう。
+item.item75444.1	復元可能なストーンヘンジの前で使用しなければならない。\n広場中央の大きな石板が光る方向にあるストーンヘンジを探そう。
+item.item75444.2	すでにすべてのストーンヘンジの封印を解いてポータルを開いた。
+item.item75444.3	スパークを使ったあと広場中央の大きな石板を触れば\n封印を解くことができるストーンヘンジが分かる。
+item.item75444.4	復元可能なストーンヘンジの前で使用しなければならない。
+item.item75444.5	復元可能なストーンヘンジの前で使用しなければならない。
+item.item75444.6	最終章の復元可能なファリアスストーンヘンジの前で使用しなければならない。
+item.item75444.7	最終章の復元可能なファリアスストーンヘンジの前で使用しなければならない。
+item.item75451.1	進行中のミッションを完了して、ファリアスの欠片を再び使用してみよう。
+item.item85047.1	さんが古い宝箱から
+item.item85047.2	アイテムを獲得しました。
+item.item85053.1	님께서 시몬의 럭셔리 신상품 상자에서
+item.item85053.2	아이템을 획득하였습니다.
+item.item85053.3	님께서 시몬의 럭셔리 신상품 상자에서
+item.item85053.4	아이템을 획득하였습니다.
+item.item85057.1	님께서 에일렌의 무기 상자에서
+item.item85057.2	아이템을 획득하였습니다.
+item.item85057.3	님께서 에일렌의 무기 상자에서
+item.item85057.4	아이템을 획득하였습니다.
+item.item85059.1	11:17:21:48
+item.item85059.2	2:4
+item.item85059.3	7:9
+item.item85059.4	2:4
+item.item85059.5	3:2:3:3:4:4:6
+item.item85059.6	80:60
+item.item85059.7	님께서 타라 패션 키트에서
+item.item85059.8	아이템을 획득하였습니다.
+item.item85059.9	님께서 타라 패션 키트에서
+item.item85059.10	아이템을 획득하였습니다.
+item.item85059.11	님께서 타라 패션 키트에서
+item.item85059.12	아이템을 획득하였습니다.
+item.item91136.1	カボチャボックスからアイテムを手に入れました。
+item.item91136.2	カボチャボックスからアイテムを手に入れました。
+item.item91197.1	アイテムをプレミアムランダムボックスから
+item.item91197.2	さんが獲得しました。
+item.item91205.1	5주년 기념 가챠폰을 사용하여 아이템을 받았습니다.
+item.item91206.1	임시 소지품창을 비우신 후 사용해주세요.
+item.item91251.1	さんがベリタの古代遺物の地図から
+item.item91251.2	アイテムを獲得しました。
+item.item91251.3	さんがベリタの古代遺物の地図から
+item.item91251.4	アイテムを獲得しました。
+item.item91251.5	さんがベリタの古代遺物の地図から
+item.item91251.6	アイテムを獲得しました。
+item.item91252.1	님께서 2NE1 판타지 뮤직 박스에서
+item.item91252.2	아이템을 획득하였습니다.
+item.item91252.3	님께서 2NE1 판타지 뮤직 박스에서
+item.item91252.4	아이템을 획득하였습니다.
+item.item91252.5	님께서 2NE1 판타지 뮤직 박스에서
+item.item91252.6	아이템을 획득하였습니다.
+item.item91252.7	님께서 2NE1 판타지 뮤직 박스에서
+item.item91252.8	아이템을 획득하였습니다.
+item.item91252.9	님께서 2NE1 판타지 뮤직 박스에서
+item.item91252.10	아이템을 획득하였습니다.
+item.item91252.11	님께서 2NE1 판타지 뮤직 박스에서
+item.item91252.12	아이템을 획득하였습니다.
+item_grow_pet_event.1	배부름이 0으로 초기화되었습니다.(개발자용)
+item_grow_pet_event.2	アイテムドロップに失敗しました。
+item_grow_pet_event.3	アイテムドロップに失敗しました。
+item_grow_pet_event.4	金の豚にお金をあげたらいいことが起きそうだ。満腹 :
+item_grow_pet_event.5	金の豚にお金をあげたらいいことが起きそうだ。
+item_grow_pet_event.6	もう食べさせないほうがよさそうだ。
+item_grow_pet_event.7	お金をもう少したくさん食べさせたほうがよさそうだ。
+item_grow_pet_event.8	金の豚が大きくなったような気がする。満腹 :
+item_grow_pet_event.9	大きさ :
+item_grow_pet_event.10	金の豚が大きくなったような気がする。
+item_grow_pet_event.11	アイテム生成に失敗しました。
+item_grow_pet_event.12	アイテム生成に失敗しました。
+joust_event.1	午後7時から5チャンネルにて週間トーナメントが開催されます。
+joust_event.2	午後7時よりトーナメントが開始されます。
+joust_event.3	5チャンネルにて週間トーナメントの受付が始まりました。
+joust_event.4	トーナメントの受付が始まりました。
+joust_event.5	5チャンネルで週間トーナメントが開始されました。
+joust_event.6	トーナメントが始まりました。
+joust_event.7	トーナメントが終了しました。
+joust_event.8	１位:
+joust_event.9	２位:
+joust_event.10	です。
+joust_event.11	トーナメントが終了しました。
+joust_event.12	トーナメントの受付は正常に処理されました。
+joust_event.13	競技が終了しました。勝者:
+joust_event.14	敗者:
+joust_event.15	5チャンネルで週間トーナメントの受付を承っております。週間トーナメントの参加権をお持ちの方々はふるってご参加ください。
+joust_event.16	トーナメントの受付を承っております。ふるってご参加ください。
+joust_event.17	適正人数の参加がなかったため、週間トーナメントはキャンセルされました。
+joust_event.18	適正人数の参加がなかったため、トーナメントはキャンセルされました。
+joust_event.19	サーバー週間トーナメントで勝利しました。
+monster_event.1	食べ物以外には興味がないようだ。
+monster_event.2	サルはこの食べ物に興味がないようだ。
+monster_event.3	臨時インベントリを整理してからあげよう。
+monster_event.4	あまり好きではなさそうだが、とりあえず {0}{を} 取り出してくれた。
+monster_event.5	あげた食べ物に感謝して {0}{を} 取り出してくれた。
+monster_event.6	私があげた食べ物をとても喜んで {0}{を} 取り出してくれた。
+monster_event.7	このサルはこれ以上私にあげる持ち合わせがないようだ。
+monster_event.8	シカは興味がないようだ。夜にだけ生えるキノコが好きらしいが…
+monster_event.9	臨時インベントリを整理してからあげよう。
+monster_event.10	シカは私があげたキノコに感謝して{0}をくれた。
+monster_event.11	このシカはこれ以上私にあげる持ち合わせがないようだ。
+monster_event.12	鳥が好きな色の玉ではないようだ。
+monster_event.13	臨時インベントリを整理してからあげよう。
+monster_event.14	私があげた玉に感謝して{0}をくれた。
+monster_event.15	この鳥はこれ以上私にあげる持ち合わせがないようだ。
+monster_event.16	/pythonstone/
+monster_event.17	/shadowmission/
+monster_event.18	/normalmode/
+monster_event.19	/shadowmission/
+monster_event.20	/difficultmode/
+monster_event.21	/shadowmission/
+monster_event.22	/hardmode/
+monster_event.23	/shadowmission/
+monster_event.24	PythonstoneBarrier
+monster_event.25	サルの友達タイトルを獲得しました
+nubes_undermaze_chest.1	この宝箱はすでに開いています。
+nubes_undermaze_chest.2	アイテムドロップに失敗しました。
+nubes_undermaze_chest.3	アイテムドロップに失敗しました。
+nubes_undermaze_chest.4	アイテムドロップに失敗しました。
+nubes_undermaze_chest.5	アイテムドロップに失敗しました。
+nubes_undermaze_chest.6	アイテムドロップに失敗しました。
+nubes_undermaze_chest.7	アイテムドロップに失敗しました。
+pc_event.1	エリンに到着しました。
+pc_event.2	0000
+pc_event.3	000
+pc_event.4	00
+pc_event.5	0
+pc_event.6	…と書いてるようだ。\n誰が何のためにこんな数字を書いたのか？
+pc_event.7	イベント期間が終了したため、\n初心者タイトルを使えなくなりました。
+pc_event.8	クエストをクリアしたため\n初心者タイトルを使えなくなりました。
+pc_event.9	クエストをクリアしたため\n初心者タイトルを使えなくなりました。
+pc_event.10	クエストをクリアしたため\n初心者タイトルを使えなくなりました。
+pc_event.11	３周年記念アイテムを受け取りました。
+pc_event.12	遺物の欠片をすべて集めると同時に、アイテムが復元されました。
+pc_event.13	一生懸命羊を守ったので、10匹以上残っている。
+pc_event.14	全ての羊は守れなかったが、5匹以上は守ることが出来た。
+pc_event.15	オオカミから守り抜いた羊が5匹未満なので、クエストは失敗だ。
+pc_event.16	もう羊は10匹しか残っていない！
+pc_event.17	羊が7匹しか残っていない！危険な状態だ！
+pc_event.18	羊をあと1匹でも失うと羊飼い失格だ！
+pc_event.19	ダンジョンから出る前に宝箱を開けてみて下さい。
+pc_event.20	
+pc_event.21	Gを寄付しました。\n今週の合計寄付金額は
+pc_event.22	Gです。
+pc_event.23	寄付に失敗しました。再びお試しください。
+pc_event.24	法皇庁
+pc_event.25	いつも温かい手を差し伸べてくださりありがとうございます。\n寄付していただいた金額の一部をエリンにいらっしゃる方に伝達いたしました。\n神の祝福が共にあらんことを…。
+pc_event.26	ライミラク教団です。\n匿名のボランティアの方が皆さんを助けるためにくださった寄付金の一部を支援いたします。\nエリンで楽しい生活をお送りください。
+pc_event.27	いつも温かい手を差し伸べてくださりありがとうございます。\n寄付していただいた金額の一部を
+pc_event.28	さんに伝達いたしました。\n神の祝福が共にあらんことを…。
+pc_event.29	ライミラク教団です。\n
+pc_event.30	さんが皆さんを助けるためにくださった寄付金の一部を支援いたします。\nエリンで楽しい生活をお送りください。
+pc_event.31	ライミラク慈善基金から手紙が到着しました。\nお近くの郵便箱をご確認ください。
+pc_event.32	リリスからもらった寄付金を寄付した。
+pc_event.33	寄付箱に入れることができない。
+pet_event.1	オットセイにカバンの中の魚を投げてやることができます。
+portal_condition.1	レベル 10 以上ではないと入れません。
+portal_condition.2	テストの為、怖い図書館の入場が可能になります。
+portal_condition.3	不思議な力が感じられる…
+portal_condition.4	ペッカダンジョンの入口が塞がれています。
+portal_condition.5	図書館の不思議な力が\nこれ以上多くの人が入れないように阻んでいる。
+portal_condition.6	入場することができな状態です。
+portal_condition.7	新郎と新婦だけが入場することができます。
+portal_condition.8	結婚式の服を着たままでは外へ出ることができません。\n外へ出るにはNPCへ服を返してください。
+portal_condition.9	エクストラストレージサービスを受けると自分の家に入れます。
+portal_condition.10	家の主人から出入りを許可された人だけ入れる家です。
+portal_condition.11	エクストラストレージサービスを受けると競売中の家に入れます。
+portal_condition.12	空き家には入れません。
+portal_condition.13	家の情報に誤りがありました。\n不具合掲示板に報告してください。
+portal_condition.14	エクストラストレージサービスを受けると自分のギルドの城に入れます。
+portal_condition.15	エクストラストレージサービスを受けると競売中の城に入れます。
+portal_condition.16	空き城には入れません。
+portal_condition.17	城の情報に誤りがありました。\n不具合掲示板に報告してください。
+portal_condition.18	主人から出入りを許可された人だけ入れる家です。
+portal_condition.19	入札中でない空き家には入れないようだ。
+portal_condition.20	城主はあなたが城内へ入ることを許可しませんでした。
+portal_condition.21	城主のギルドメンバーでないと管理室に入れないようだ。
+portal_condition.22	エクストラストレージサービスを受けると管理室に入れます。
+portal_condition.23	空き城の管理室には入れないようだ。
+portal_condition.24	アリーナに入場する前に変身しなければなりません。
+portal_condition.25	村に行く前にティンに会いなさいとナオが言ってたけれど…|ナオが話していたティンに会ったほうがよさそうだ。|ティンという人物に会ったほうがいいんじゃ…？
+portal_condition.26	フィオンのチュートリアルクエストを完了し、ここから出て行ったほうがよさそうだ。|水晶からもらったクエストをすべて完了させたほうがいいんじゃないか？
+portal_condition.27	フィオンと会話したほうがよさそうだ。|フィオンと会ってみたら？
+portal_condition.28	ここに今行く必要はない。
+portal_condition.29	動物は乗船できません。
+portal_condition.30	船の定員オーバーです。次の船をご利用ください。
+portal_condition.31	船に乗るには乗船券が必要です。シェナンから購入してください。
+portal_condition.32	もうすぐ船が出港します。次の船をご利用ください。
+portal_condition.33	今は乗船できません。\n次の乗船時間は{0}秒後です。
+portal_condition.34	今は乗船できません。\n次の乗船時間は{0}分{1}秒後です。
+portal_condition.35	今は乗船できません。\n次の乗船時間は{0}時間{1}分{2}秒後です。
+portal_condition.36	今は乗船できません。\n次の乗船時間は{0}日{1}時間{2}分{3}秒後です。
+portal_condition.37	動物は乗船できません。
+portal_condition.38	船の定員オーバーです。次の船をご利用ください。
+portal_condition.39	船に乗るには乗船券が必要です。アレクシーナから購入してください。
+portal_condition.40	もうすぐ船が出港します。次の船をご利用ください。
+portal_condition.41	今は乗船できません。\n次の乗船時間は{0}秒後です。
+portal_condition.42	今は乗船できません。\n次の乗船時間は{0}分 {1}秒後です。
+portal_condition.43	今は乗船できません。\n次の乗船時間は{0}時間{1}分 {2}秒後です。
+portal_condition.44	今は乗船できません。\n次の乗船時間は{0}日{1}時間{2}分 {3}秒後です。
+portal_condition.45	ここにはまだ行けない。
+portal_condition.46	城主が城ギルドメンバーでない人を地下ダンジョンに行けないように設定しているため入れない。
+portal_condition.47	城主が城ギルドメンバーでない人を地下ダンジョンに行けないように設定しているため入れない。
+portal_condition.48	入れない地域です。
+portal_condition.49	まだ船には乗れません。
+portal_condition.50	練習用ショートボウを持ったままでは、フィリアへ行けないようだ。ウェナと話してみよう。|ウェナに練習用ショートボウを返すとプレゼントがもらえるようだ。
+portal_condition.51	ウェナのチュートリアルクエストを完了してからここを出よう。|水晶から与えられるクエストをすべて終わらせてからここを出よう。
+portal_condition.52	ウェナと話をしてみよう。|ウェナに会ってみよう。
+portal_condition.53	街に行く前にウェナと会っておかないと…。|ウェナから何かもらえるようだ。|一度ウェナに会ってみよう。
+portal_condition.54	結婚式案内人を通じて結婚式場に入場することができます。
+portal_condition.55	入場することができない状態です。
+portal_condition.56	今は入場することができません。
+portal_condition.57	現在、この先に進むことはできません。
+portal_condition.58	今はヌベス山脈の中に入ることはできません。
+portal_condition.59	村へ行く前にメルエルと会っておかないと…。|メルエルから何かもらえるようだ。|一度メルエルに会ってみよう。
+portal_condition.60	メルエルのチュートリアルクエストを完了してからここを出よう。|水晶から与えられるクエストをすべて終わらせてからここを出よう。
+portal_condition.61	メルエルと話をしてみよう。|メルエルに会ってみよう。
+portal_condition.62	ここはまだ入ることができないようだ。
+portal_condition.63	この結婚式場で結婚することはできません。
+portal_condition.64	この結婚式場で結婚することはできません。
+portal_condition.65	この結婚式場で結婚することはできません。
+portal_condition.66	パラディン、またはダークナイトは入場可能です。
+portal_condition.67	試験のある時にしか入れません。
+portal_condition.68	パーティーを率いる人のみ入場を要請できる。
+portal_condition.69	招待されていない存在はここに入場できない。
+portal_condition.70	まだここに入るには力不足のようだ。
+portal_condition.71	入場可能な最大人数を超えました。
+portal_condition.72	개발버전메세지 : 워프실패
+portal_condition.73	개발버전메세지 : 파티 워프실패
+portal_condition.74	개발버전메세지 : 파티리더 존생성 실패
+portal_condition.75	개발버전메세지 : 개인 워프실패
+portal_condition.76	개발버전메세지 : 개인용 존생성 실패
+portal_condition.77	パーティーに所属している場合はリーダーのみ入場を要請できます。
+portal_condition.78	ペットやジャイアントの肩に乗ったパーティーメンバーがいる場合は入場できません。
+portal_condition.79	프리미엄 팩을 사용해야 자기 집에 들어갈 수 있습니다.
+portal_condition.80	프리미엄 팩을 사용해야 경매 중인 집에 들어갈 수 있습니다.
+portal_condition.81	프리미엄 팩을 사용해야 자신의 길드의 성에 들어갈 수 있습니다.
+portal_condition.82	프리미엄 팩을 사용해야 경매 중인 성에 들어갈 수 있습니다.
+portal_condition.83	프리미엄 팩을 사용해야 관리실에 들어갈 수 있습니다.
+portal_condition.84	ペットを呼び出した状態ではクラブに入場できません。
+portal_condition.85	城主が城ギルドメンバーでない人を地下ダンジョンに行けないように設定しているため入れない。
+portal_condition.86	ここはどこだ？
+portal_condition.87	蔵書館の鍵が必要だ。
+portal_condition.88	ギルドホールを利用するにはギルドに加入しなければならない。
+portal_condition.89	ギルドホールを利用するにはギルドマスターがギルドホールを申請しなければならない。
+portal_condition.90	現在はギルドホールを利用できません。
+portal_condition.91	警備兵と話してみたほうがよさそうだ。
+portal_condition.92	To unlock the enterance of the underground waterway you need to say the secret code on the note. \n(Note: Type it without spaces)
+portal_condition.93	入る前に秘密が書かれたメモを手に入れなければならない。
+portal_condition.94	門が閉ざされている。
+portal_condition.95	門が閉ざされている。
+portal_condition.96	門が閉ざされている。
+portal_condition.97	蔵書館の鍵が必要だ。ネズミが飲み込んだんじゃないか？
+portal_condition.98	のレベルが低すぎます。
+portal_condition.99	パーティーリーダーのみ影の世界への進入を決定できます。
+portal_condition.100	以前に入った影の世界がまだ残っています。\n他のパーティーに加入するか、しばらくしてから試してください。
+portal_condition.101	閉ざされている。
+portal_condition.102	さん
+portal_condition.103	さん
+portal_condition.104	さん
+portal_condition.105	城主が城ギルドメンバーでない人を地下ダンジョンに行けないように設定しているため入れない。
+portal_condition.enter_dunbarton_library	工事中なので入れません。
+portal_condition.enter_emain_mach_club	イウェカが出てる夜のみ入場可能です。
+portal_condition.enter_emain_mach_club_no_ticket	クラブに入るためには通行証を購入してください。
+portal_condition.enter_emain_mach_club_testserver_flag	今は入れません。
+portal_condition.enter_emainmacha_lord_room_not_available	入る資格がありません。
+portal_condition.enter_hidden_tutorial_area_not_rebirth	ここは転生した人が新しい肉体で自分の力を試すところです。\n初めてきた方は先にティルコネイルを訪問してください。
+portal_condition.enter_ruahome_not_available	入ることが出来ません。
+portal_condition.g1_pc_sidhe_sneachta02	まだここに入る資格がありません。
+prop_event.1	GM・devCATの権限で常に開けることができます。
+prop_event.2	攻撃効果がありそうだ。
+prop_event.3	普段から街の人の手助けをしている者だけが、この扉を開けられるはずだ。
+prop_event.4	攻撃効果がありそうだ。
+prop_event.5	自分の鍛え方を学んだ者だけが、この扉を開けられるはずだ。
+prop_event.6	攻撃効果がありそうだ。
+prop_event.7	自分の鍛え方について悩む者だけが、この扉を開けられるはずだ。
+prop_event.8	攻撃効果がありそうだ。
+prop_event.9	生活の基本についてある程度わかる者だけが、この扉を開けられるはずだ。
+prop_event.10	攻撃効果がありそうだ。
+prop_event.11	戦闘だけがすべてではない。適度な余裕を持てる者だけが、この扉を開けられるはずだ。
+prop_event.12	攻撃効果がありそうだ。
+prop_event.13	戦闘中、ケガの治療法についてわかる者だけが、この扉を開けられるはずだ。
+prop_event.14	攻撃効果がありそうだ。
+prop_event.15	焚き火のロマンがわかる者だけが、この扉を開けられるはずだ。
+prop_event.16	攻撃効果がありそうだ。
+prop_event.17	楽器をうまく扱える者だけが、この扉を開けられるはずだ。
+prop_event.18	攻撃効果がありそうだ。
+prop_event.19	音楽に対する素養を身につけられた者だけが、この扉を開けられるはずだ。
+prop_event.20	攻撃効果がありそうだ。
+prop_event.21	良い曲が作れる者だけが、この扉を開けられるはずだ。
+prop_event.22	攻撃効果がありそうだ。
+prop_event.23	少ないエサでたくさんの魚を釣れる者だけが、この扉を開けられるはずだ。
+prop_event.24	攻撃効果がありそうだ。
+prop_event.25	おいしい料理を作れる者だけが、この扉を開けられるはずだ。
+prop_event.26	攻撃効果がありそうだ。
+prop_event.27	奥地にある隠された薬草を採れる者だけが、この扉を開けられるはずだ。
+prop_event.28	攻撃効果がありそうだ。
+prop_event.29	症状に合ったポーションを作れる者だけが、この扉を開けられるはずだ。
+prop_event.30	攻撃効果がありそうだ。
+prop_event.31	鉱石から不純物をうまく取り除ける者だけが、この扉を開けられるはずだ。
+prop_event.32	攻撃効果がありそうだ。
+prop_event.33	道具だけでなく武器もうまく作れる者だけが、この扉を開けられるはずだ。
+prop_event.34	攻撃効果がありそうだ。
+prop_event.35	生地とシルクの品質について悩む者だけが、この扉を開けられるはずだ。
+prop_event.36	攻撃効果がありそうだ。
+prop_event.37	いろいろな服をうまく作れる者だけが、この扉を開けられるはずだ。
+prop_event.38	攻撃効果がありそうだ。
+prop_event.39	いろいろな生活道具をうまく作れる者だけが、この扉を開けられるはずだ。
+prop_event.40	攻撃効果がありそうだ。
+prop_event.41	接近戦の基礎を着実に磨いた者だけが、この扉を開けられるはずだ。
+prop_event.42	攻撃効果がありそうだ。
+prop_event.43	致命的な攻撃の威力を上げられた者だけが、この扉を開けられるはずだ。
+prop_event.44	攻撃効果がありそうだ。
+prop_event.45	動きだけで敵の次の行動を予測できる者だけが、この扉を開けられるはずだ。
+prop_event.46	攻撃効果がありそうだ。
+prop_event.47	敵の攻撃を効果的に防げる者だけが、この扉を開けられるはずだ。
+prop_event.48	攻撃効果がありそうだ。
+prop_event.49	敵に強力な一撃を与えられる者だけが、この扉を開けられるはずだ。
+prop_event.50	攻撃効果がありそうだ。
+prop_event.51	敵の力をうまく利用できる者だけが、この扉を開けられるはずだ。
+prop_event.52	攻撃効果がありそうだ。
+prop_event.53	危険な状況から落ち着いて脱出できる者だけが、この扉を開けられるはずだ。
+prop_event.54	攻撃効果がありそうだ。
+prop_event.55	遠距離戦闘の基礎を着実に磨いた者だけが、この扉を開けられるはずだ。
+prop_event.56	攻撃効果がありそうだ。
+prop_event.57	矢を使い敵に強力な一撃を与えられる者だけが、この扉を開けられるはずだ。
+prop_event.58	攻撃効果がありそうだ。
+prop_event.59	魔法の基礎を着実に磨いた者だけが、この扉を開けられるはずだ。
+prop_event.60	攻撃効果がありそうだ。
+prop_event.61	電撃を使った魔法攻撃がうまく使える者だけが、この扉を開けられるはずだ。
+prop_event.62	攻撃効果がありそうだ。
+prop_event.63	炎を使った魔法攻撃がうまく使える者だけが、この扉を開けられるはずだ。
+prop_event.64	攻撃効果がありそうだ。
+prop_event.65	氷を使った魔法攻撃がうまく使える者だけが、この扉を開けられるはずだ。
+prop_event.66	攻撃効果がありそうだ。
+prop_event.67	相手の気力を効果的に満たせられる者だけが、この扉を開けられるはずだ。
+prop_event.68	攻撃効果がありそうだ。
+prop_event.69	パーティーの気力を効果的に満たせられる者だけが、この扉を開けられるはずだ。
+prop_event.70	攻撃効果がありそうだ。
+prop_event.71	物に魔法の効果をうまく与えられる者だけが、この扉を開けられるはずだ。
+prop_event.72	攻撃効果がありそうだ。
+prop_event.73	マナの流れをうまく制御できる者だけが、この扉を開けられるはずだ。
+prop_event.74	攻撃効果がありそうだ。
+prop_event.75	普段から街の人の手助けをしている者だけが、この扉を開けられるはずだ。
+prop_event.76	攻撃効果がありそうだ。
+prop_event.77	直感だけで遺跡を発見できる者だけが、この扉を開けられるはずだ。
+prop_event.78	攻撃効果がありそうだ。
+prop_event.79	自分の探検記を他の人に伝授する時が近づいた者だけが、この扉を開けられるはずだ。
+prop_event.80	攻撃効果がありそうだ。
+prop_event.81	探検の道を真っ直ぐ歩んでいる者だけが、この扉を開けられるはずだ。
+prop_event.82	攻撃効果がありそうだ。
+prop_event.83	自分だけのトレーニング方法を他人に伝授する時が近づいた者だけが、この扉を開けられるはずだ。
+prop_event.84	攻撃効果がありそうだ。
+prop_event.85	黙々と自分を鍛えている者だけが、この扉を開けられるはずだ。
+prop_event.86	攻撃効果がありそうだ。
+prop_event.87	強力な雷を生み出せる者だけが、この扉を開けられるはずだ。
+prop_event.88	攻撃効果がありそうだ。
+prop_event.89	強力な炎の玉を生み出せる者だけが、この扉を開けられるはずだ。
+prop_event.90	攻撃効果がありそうだ。
+prop_event.91	強力な氷の槍を生み出せる者だけが、この扉を開けられるはずだ。
+prop_event.92	攻撃効果がありそうだ。
+prop_event.93	一度に多くの矢を使って射ることができる者だけが、この扉を開けられるはずだ。
+prop_event.94	攻撃効果がありそうだ。
+prop_event.95	遠くの敵を素早く移動して倒すことができる者だけが、この扉を開けられるはずだ。
+prop_event.96	既に壊れた扉です。
+prop_event.97	GM・devCATの権限で常に開けることができます。
+prop_event.98	攻撃効果がありそうだ。
+prop_event.99	隠れた遺跡を探し、自分の能力を証明することができる者だけが、この扉を開けられるはずだ。
+prop_event.100	攻撃効果がありそうだ。
+prop_event.101	探検に関して自信を持てる者だけが、この扉を開けられるはずだ。
+prop_event.102	攻撃効果がありそうだ。
+prop_event.103	探検の道に足を踏み入れた者だけが、この扉を開けられるはずだ。
+prop_event.104	扉が私に反応した。
+prop_event.105	怪物をも釣り上げる釣りの達人になった者だけが、この扉を開けられるはずだ。
+prop_event.106	扉が私に反応した。
+prop_event.107	Huge Lucky Finishを体験すれば、扉を開けられるはずだ。
+prop_event.108	扉が私に反応した。
+prop_event.109	ライトニング、ファイア、アイスエレメンタルについて理解できる者だけが、この扉を開けられるはずだ。
+prop_event.110	扉が私に反応した。
+prop_event.111	死に足を踏み入れた者だけが、この扉を開けられるはずだ。
+prop_event.112	扉が私に反応した。
+prop_event.113	パーティーで自分の存在を証明した者だけが、この扉を開けられるはずだ。
+prop_event.114	扉が私に反応した。
+prop_event.115	素手で自分の力を証明した者だけが、この扉を開けられるはずだ。
+prop_event.116	扉が私に反応した。
+prop_event.117	夢魔の誘惑に勝った者だけが、この扉を開けられるはずだ。
+prop_event.118	扉が私に反応した。
+prop_event.119	炎を利用した矢の攻撃方法を知る者だけが、この扉を開けられるはずだ。
+prop_event.120	扉が私に反応した。
+prop_event.121	毒に打ち勝った者だけが、この扉を開けられるはずだ。
+prop_event.122	扉が私に反応した。
+prop_event.123	大きなダメージを克服する意志を持つ者だけが、この扉を開けられるはずだ。
+prop_event.124	扉が私に反応した。
+prop_event.125	ポーションの乱用が害を及ぼすことを知る者だけが、この扉を開けられるはずだ。
+prop_event.126	攻撃効果がありそうだ。
+prop_event.127	いろいろな知識を身につけた精霊武器を所持する者だけが、この扉を開けられるはずだ。
+prop_event.128	攻撃効果がありそうだ。
+prop_event.129	高い体力の精霊武器を所持する者だけが、この扉を開けられるはずだ。
+prop_event.130	攻撃効果がありそうだ。
+prop_event.131	高い知力の精霊武器を所持する者だけが、この扉を開けられるはずだ。
+prop_event.132	攻撃効果がありそうだ。
+prop_event.133	腕の良い精霊武器を所持する者だけが、この扉を開けられるはずだ。
+prop_event.134	攻撃効果がありそうだ。
+prop_event.135	強い意志の精霊武器を所持する者だけが、この扉を開けられるはずだ。
+prop_event.136	攻撃効果がありそうだ。
+prop_event.137	強運な精霊武器を所持する者だけが、この扉を開けられるはずだ。
+prop_event.138	精霊武器が必要なようだ。
+prop_event.139	扉が私に反応した。
+prop_event.140	多くの人たちの傷を自分の傷のように治療する意志を持つ者だけが、この扉を開けられるはずだ。
+prop_event.141	扉が私に反応した。
+prop_event.142	行動不能になった人を助ける意志を持つ者だけが、この扉を開けられるはずだ。
+prop_event.143	扉が私に反応した。
+prop_event.144	治療の道を真っ直ぐ歩んでいる者だけが、この扉を開けられるはずだ。
+prop_event.145	扉が私に反応した。
+prop_event.146	失われた気力を満たすことが習慣になった者だけが、この扉を開けられるはずだ。
+prop_event.147	扉が私に反応した。
+prop_event.148	緊急時に適切な傷の処置ができる者だけが、この扉を開けられるはずだ。
+prop_event.149	扉が私に反応した。
+prop_event.150	遠距離にいる行動不能になった人を復活させることができる者だけが、この扉を開けられるはずだ。
+prop_event.151	既に開かれた扉です。
+prop_event.152	GM・devCATの権限で常に開けることができます。
+prop_event.153	私の叫びに扉が反応した。
+prop_event.154	幼い頃に聞いた、扉を開けるために必要なあの呪文を叫べば開きそうな気がする！
+prop_event.155	私の叫びに扉が反応した。
+prop_event.156	ひらけ○○！
+prop_event.157	私の叫びに扉が反応した。
+prop_event.158	いつも誕生日にささやかなプレゼントをくれるあの人の名前を叫べば開きそうな気がする！
+prop_event.159	私の叫びに扉が反応した。
+prop_event.160	クロウクルアフと一緒に消えた昔の英雄の名を叫べば開きそうな気がする！
+prop_event.161	私の叫びに扉が反応した。
+prop_event.162	夜のシドスネッターにのみ姿を現す彼の名を叫べば開きそうな気がする！
+prop_event.163	既に開かれた扉です。
+prop_event.164	ひらけ～！ と叫べば開きそうな気がする。
+prop_event.165	ひらけ～ゴマ！ と叫べば開きそうな気がする。
+prop_event.166	テスト！ と叫べば開きそうな気がする。
+prop_event.167	ひらけ～ゴマ！ と叫べば開きそうな気がする。
+prop_event.168	テスト！ と叫べば開きそうな気がする。
+prop_event.169	探検の道を真っ直ぐ歩んでいる者だけが、この扉を開けられるはずだ。
+prop_event.170	開け
+prop_event.171	ひらけ～ゴマ
+prop_event.172	テスト
+prop_event.173	ひらけ～ゴマ
+prop_event.174	テスト
+prop_event.175	攻撃効果がありそうだ。
+prop_event.176	どんな物を作る時でも、自分だけのノウハウを取り入れられる者だけが、この扉を開けられるはずだ。
+prop_event.177	攻撃効果がありそうだ。
+prop_event.178	水の流れだけで運気の良い場所がわかる者だけが、この扉を開けられるはずだ。
+prop_event.179	攻撃効果がありそうだ。
+prop_event.180	絶頂の幸せを感じられるような食べ物を作れる者だけが、この扉を開けられるはずだ。
+prop_event.181	攻撃効果がありそうだ。
+prop_event.182	どんな薬草でも根を傷つけずに採集できる者だけが、この扉を開けられるはずだ。
+prop_event.183	攻撃効果がありそうだ。
+prop_event.184	薬草の素材を一瞬で思い出せる者だけが、この扉を開けられるはずだ。
+prop_event.185	攻撃効果がありそうだ。
+prop_event.186	炉の前で日々精進しながら過ごした者だけが、この扉を開けられるはずだ。
+prop_event.187	攻撃効果がありそうだ。
+prop_event.188	武器だけではなく鍛冶屋の金槌も上手に扱える者だけが、この扉を開けられるはずだ。
+prop_event.189	攻撃効果がありそうだ。
+prop_event.190	糸車と織機の前で日々精進しながら過ごした者だけが、この扉を開けられるはずだ。
+prop_event.191	攻撃効果がありそうだ。
+prop_event.192	軽鎧の製作技術を常に鍛えていた者だけが、この扉を開けられるはずだ。
+prop_event.193	攻撃効果がありそうだ。
+prop_event.194	いろいろな生活道具をうまく作れる者だけが、この扉を開けられるはずだ。
+prop_event.195	攻撃効果がありそうだ。
+prop_event.196	攻撃と防御の戦闘原則を理解した者だけが、この扉を開けられるはずだ。
+prop_event.197	攻撃効果がありそうだ。
+prop_event.198	致命的な攻撃の威力を2倍以上発揮できる者だけが、この扉を開けられるはずだ。
+prop_event.199	攻撃効果がありそうだ。
+prop_event.200	素手で防御した時に軽い盾と同等の効果を発揮できる者だけが、この扉を開けられるはずだ。
+prop_event.201	攻撃効果がありそうだ。
+prop_event.202	強力な一撃で相手はもちろん周囲の複数の敵にもダメージを与えられる者だけが、この扉を開けられるはずだ。
+prop_event.203	攻撃効果がありそうだ。
+prop_event.204	敵の力をそのまま跳ね返せる者だけが、この扉を開けられるはずだ。
+prop_event.205	攻撃効果がありそうだ。
+prop_event.206	両刃の剣を自由自在に使える者だけが、この扉を開けられるはずだ。
+prop_event.207	攻撃効果がありそうだ。
+prop_event.208	前進と後退の戦闘原則を理解した者だけが、この扉を開けられるはずだ。
+prop_event.209	攻撃効果がありそうだ。
+prop_event.210	強力な矢で相手はもちろん周囲の複数の敵にもダメージを与えられる者だけが、この扉を開けられるはずだ。
+prop_event.211	攻撃効果がありそうだ。
+prop_event.212	楽な姿勢で休む方法についてわかる者だけが、この扉を開けられるはずだ。
+prop_event.213	攻撃効果がありそうだ。
+prop_event.214	効果的な傷の治療方法についてわかる者だけが、この扉を開けられるはずだ。
+prop_event.215	攻撃効果がありそうだ。
+prop_event.216	焚き火を囲みながら様々な冒険談を受け継げる者だけが、この扉を開けられるはずだ。
+prop_event.217	攻撃効果がありそうだ。
+prop_event.218	いろいろな楽器の調和について考える者だけが、この扉を開けられるはずだ。
+prop_event.219	攻撃効果がありそうだ。
+prop_event.220	楽器の持つ固有の音色を理解した者だけが、この扉を開けられるはずだ。
+prop_event.221	攻撃効果がありそうだ。
+prop_event.222	和音について充分理解した者だけが、この扉を開けられるはずだ。
+prop_event.223	攻撃効果がありそうだ。
+prop_event.224	多様な効果を発揮する魔法を理解し終えた者だけが、この扉を開けられるはずだ。
+prop_event.225	攻撃効果がありそうだ。
+prop_event.226	電気を利用した強力な魔法攻撃ができる者だけが、この扉を開けられるはずだ。
+prop_event.227	攻撃効果がありそうだ。
+prop_event.228	火を利用した強力な魔法攻撃ができる者だけが、この扉を開けられるはずだ。
+prop_event.229	攻撃効果がありそうだ。
+prop_event.230	氷を利用した強力な魔法攻撃ができる者だけが、この扉を開けられるはずだ。
+prop_event.231	攻撃効果がありそうだ。
+prop_event.232	仲間の生命力を素早く回復できる者だけが、この扉を開けられるはずだ。
+prop_event.233	攻撃効果がありそうだ。
+prop_event.234	仲間たちの生命力を素早く回復できる者だけが、この扉を開けられるはずだ。
+prop_event.235	攻撃効果がありそうだ。
+prop_event.236	珍しい物にも自信を持って魔法効果を付与できる者だけが、この扉を開けられるはずだ。
+prop_event.237	攻撃効果がありそうだ。
+prop_event.238	マナの流れを上手に制御できる者だけが、この扉を開けられるはずだ。
+prop_event.239	攻撃効果がありそうだ。
+prop_event.240	Ｌロッドの光か音いずれかひとつだけを活用して遺跡を見つけられる境地に達した者だけが、この扉を開けられるはずだ。
+prop_event.241	攻撃効果がありそうだ。
+prop_event.242	探検に関するノウハウを蓄積している者だけが、この扉を開けられるはずだ。
+prop_event.243	攻撃効果がありそうだ。
+prop_event.244	探検家としての道を真っ直ぐに歩んでいる者だけが、この扉を開けられるはずだ。
+prop_event.245	扉が私に反応した。
+prop_event.246	馬とダチョウに乗り至る所を探検した者だけが、この扉を開けられるはずだ。
+prop_event.247	扉が私に反応した。
+prop_event.248	船酔いに打ち勝った者だけが、この扉を開けられるはずだ。
+prop_event.249	扉が私に反応した。
+prop_event.250	懐に入れた卵を割らずに戦えるほど成長した者だけが、この扉を開けられるはずだ。
+prop_event.251	扉が私に反応した。
+prop_event.252	荒々しい猛獣も一撃のうちに倒せる者だけが、この扉を開けられるはずだ。
+prop_event.253	攻撃効果がありそうだ。
+prop_event.254	常に勤勉たる者だけが、この扉を開けられるはずだ。
+prop_event.255	攻撃効果がありそうだ。
+prop_event.256	戦闘に関するノウハウを蓄積している者だけが、この扉を開けられるはずだ。
+prop_event.257	攻撃効果がありそうだ。
+prop_event.258	戦士としての道を真っ直ぐに歩んでいる者だけが、この扉を開けられるはずだ。
+prop_event.259	扉が私に反応した。
+prop_event.260	遺跡の歴史だけでなく復元も考えられる者だけが、この扉を開けられるはずだ。
+prop_event.261	扉が私に反応した。
+prop_event.262	失敗は成功の母という真実を知った者だけが、この扉を開けられるはずだ。
+prop_event.263	扉が私に反応した。
+prop_event.264	短時間で多くを成しえた者だけが、この扉を開けられるはずだ。
+prop_event.265	扉が私に反応した。
+prop_event.266	体の大きい相手であっても落ち着いて対応できる者だけが、この扉を開けられるはずだ。
+prop_event.267	人間
+prop_event.268	私の叫びに扉が反応した。
+prop_event.269	「人間！」と叫べばなぜか開きそうだ。
+prop_event.270	エルフ
+prop_event.271	私の叫びに扉が反応した。
+prop_event.272	「エルフ！」と叫べばなぜか開きそうだ。
+prop_event.273	ジャイアント
+prop_event.274	私の叫びに扉が反応した。
+prop_event.275	「ジャイアント！」と叫べばなぜか開きそうだ。
+prop_event.276	タルラーク
+prop_event.277	私の叫びに扉が反応した。
+prop_event.278	「タルラーク！」と叫べばなぜか開きそうだ。
+prop_event.279	ナオ
+prop_event.280	私の叫びに扉が反応した。
+prop_event.281	「ナオ！」と叫べばなぜか開きそうだ。
+prop_event.282	ルエリ
+prop_event.283	私の叫びに扉が反応した。
+prop_event.284	「ルエリ！」と叫べばなぜか開きそうだ。
+prop_event.285	「人間！」と叫べばなぜか開きそうだ。
+prop_event.286	「エルフ！」と叫べばなぜか開きそうだ。
+prop_event.287	「ジャイアント！」と叫べばなぜか開きそうだ。
+prop_event.288	「タルラーク！」と叫べばなぜか開きそうだ。
+prop_event.289	「ナオ！」と叫べばなぜか開きそうだ。
+prop_event.290	「ルエリ！」と叫べばなぜか開きそうだ。
+prop_event.291	雪のかたまりを固めて足していけば、雪だるまが作れそうだ。
+prop_event.292	雪のかたまりのほかにも、雪だるまを飾る材料を足してみよう。
+prop_event.293	雪だるまらしくなってきた。もう少し飾りを足してみよう。
+prop_event.294	雪だるまがたいぶ大きくなってきた。もう少し雪のかたまりを足してみよう。
+prop_event.295	雪だるまが可愛いかんじになってきた。もう少し飾りを足してみよう。
+prop_event.296	ツリーに飾りをつけて、クリスマスらしいツリーにしよう。
+prop_event.297	もう少し飾りを増やしてみよう。きっと、もっと華やかなツリーになるはずだ。
+prop_event.298	飾りをさらに加えて、雪だるまをもっと可愛くしてみよう。
+prop_event.299	願い事の紙の枚数が足りないのでプレゼントと交換できない。\n50枚以上集めてみよう。
+prop_event.300	プレゼントをもらいました。
+prop_event.301	桜の木から小枝をもらった。
+prop_event.302	桜の木にとって役立つアイテムではないようだ。
+prop_event.303	桜の木から小枝をもらうためには、桜の木の世話をしてあげなければならないようだ。
+prop_event.304	정성이 부족해 깨끗한 벚꽃잎을 찾기 힘들 것 같다.
+prop_event.305	종종 깨끗한 벚꽃잎을 찾을 수 있을 것 같다.
+prop_event.306	종종 깨끗한 벚꽃잎을 찾을 수 있을 것 같다.
+prop_event.307	정성을 다한 덕분에 깨끗한 벚꽃잎을 쉽게 찾을 수 있을 것 같다.
+prop_event.308	ブリューナクとスパークのエネルギーが相殺された。
+prop_event.309	ブリューナクが発散する強力な電気エネルギーにより触れない。
+prop_event.310	ペットから降りないと宝物庫に入れません
+prop_event.311	ネズミの穴を通じて宝物庫に入ってきました
+prop_event.312	私が入るには穴が小さすぎるようだ
+prop_event.313	ネズミの穴を通じて宝物庫を出ました
+prop_event.314	COMEBACK
+prop_event.315	true
+prop_event.316	LAST_POS
+prop_event.317	OWNER
+prop_event.318	閉ざされていて入ることができない。
+prop_event.319	こっそり入るには司祭のように見えなければならない。\nローブを着る必要がありそうだ。
+prop_event.320	こっそり入るには司祭のように見えなければならない。\n司祭たちは普通布でできた服を着るようだ。
+prop_event.321	こっそり入るには司祭のように見えなければならない。\n武器を持ち歩く司祭はいないようだ。
+prop_event.322	を受け取りました。
+prop_event.323	インベントリがいっぱいで風船を受け取ることができません。
+prop_event.324	今日はこれ以上風船を受け取れません。
+prop_event.325	他の人のポータルは使用できません。
+prop_event.326	他の人とは一緒に入れない影ミッションです。
+prop_event.327	パーティーリーダーのみポータルを使用できます。
+renes.1	ドラゴンの卵が危険だ。
+renes.2	(개발서버 Message) Cycle :
+renes.3	Stage :
+renes.4	(개발서버 Message)
+renes.5	개의 스테이지 클리어.
+renes.6	レガトゥスに十分な時間を稼いであげられなかったようだ。
+renes.7	モンスターはもう出てこないようだ。残りのモンスターたちを倒そう。
+renes.8	드래곤의 알을 지켜라 이벤트에 참여하셨습니다.
+renes.9	8名を超えるプレイヤーが存在します。しばらくするとダンジョンが消滅します。
+renes.10	モンスターが多すぎる。これ以上は耐えられない。
+renes.11	卵を守る事は出来なかった…
+skijump_event.1	入場券を持ってこないと利用できません。
+useitem_event.1	色指定染色アンプルを手に入れました。
+useitem_event.2	ランダムボックスを使ってアイテムをもらいました。
+useitem_event.3	パンダのプレゼントを受けとりました。
+useitem_event.4	お祭りもない世の中ではさびしいからな。\n- ダンカン
+useitem_event.5	男ってのは、いくつになっても\nハロウィンみたいな馬鹿騒ぎが好きだねえ。\nまあ私も嫌いじゃないけどね、フフッ。\n- キリネ
+useitem_event.6	ハロウィンは楽しいのだ。お菓子くれなのだ。\n- スノーインプ
+useitem_event.7	あの大きな羊から取れる羊毛はやっぱり太いんですかね。\nえ？綿あめ？\n- マルコム
+useitem_event.8	ショーンもイビーとハロウィンを楽しんでいるだろうか？\n- セイマス
+useitem_event.9	みんなハロウィンだって大騒ぎだけど\n…私は…元気になれるだけでいい。\n- イビー
+useitem_event.10	へへ、みんなハロウィンには\nどんなプレゼントが欲しいんですかね？\n- リカド
+useitem_event.11	ハロウィンだ！さあみんな歌って踊ろう！ハハッ！\n- ネイル
+useitem_event.12	ワンワン！\n- ラブ
+useitem_event.13	ああ…ハロウィンのクッキー。\n早くあなたを食べてあげたい。\n- サキュバス
+useitem_event.14	トリックオアトリート！\nさあ、いたずらされたくなきゃお菓子をよこしな！\n- ゼダー
+useitem_event.15	ハロウィン、タノシイ。\n- インプ
+useitem_event.16	ハロウィン…？うう、何も思い出せない。\n- ウーフ
+useitem_event.17	みんなが楽しんでいる姿はいいものね。\n心が明るくなるわ。\n- アレクシーナ
+useitem_event.18	秋は灰色だ。\n…グレー。限りなく憂鬱な色だ。\n- グラニテス
+useitem_event.19	ハロウィンの話を聞くたび、いつも考える。\n自分たちが住んでいる昼が本物なのか？\nそれともおばけが住んでいる夜が本物なのか？ (…ぶつぶつ…)\n- カラジェック
+useitem_event.20	お菓子を要求される側になったら大人なのかしら。\n- ウェナ
+useitem_event.21	ハロウィン用の飾りやお菓子の輸送は\nペトラ海運におまかせあれ！\n- マーリン
+useitem_event.22	ライミラク神はこうしたお祭りにも寛容だ。\n- ウィロウ
+useitem_event.23	おばけの日があるならおさけの日もつくってくれってんだ。\n頼むぜ、クリューグ陛下ぁ～。\n- バンスト
+useitem_event.24	人間だった私の父は、いつも私のためにハロウィンのプレゼントを用意してくれました。\nだから、今日はいつもより父が恋しいですね。\n- ゴロ
+useitem_event.25	親父、ワタシ、人間の言葉、教える。\nハロウィン、ワタシ、親父、会いたい。\n- ペロ
+useitem_event.26	みんな楽しそうでなによりです。\n私も子供たちに配るお菓子を用意するとしましょう。\n- スチュアート
+useitem_event.27	このトレイシーのところにもお菓子をもらいに来てネ♪\n- トレイシー
+useitem_event.28	ハロウィンだからって\n食べてばかりいたら太るかもしれないわよー？\n- フィオン
+useitem_event.29	ハロウィンのフォーチュンクッキーを食べる時、俺は左手を使う。\n心臓から最も近いこの左手をな。\n- タウネス
+useitem_event.30	ハロウィン。この季節にぴったりのイベントですよね。\n皆さん、ハロウィンで楽しい思い出を作って下さい。\n- ヒルブリン
+useitem_event.31	根性だよ！根性！\nハロウィンだからってハンパしないでバンバン預金するんだよ！!\n- エトゥナ
+useitem_event.32	ハロウィンのフォーチュンクッキーが美味なること、\n余の右腕にかけて保障しよう。\n- クリューグ
+useitem_event.33	空が澄んでいると気分がよくなります。.\n秋は空がきれいでいいですね。\n- レプス
+useitem_event.34	ウォォォ…ウェェェェンディィィィィィ…\n- ウェンディゴ
+useitem_event.35	!!!\n- ウィスプ
+useitem_event.36	ハロウィンかあ！\nオレも街にいってみんなと騒ぎたいぜ！\n- シェナン
+useitem_event.37	もし…ハロウィンイベントで\nネコ服でも手に入ったら\n聖堂を建てられるように…少しご援助をお願いできますか？\n- カムガン
+useitem_event.38	보물상자로부터 아이템을 받았습니다.
+useitem_event.39	홍빠오를 사용해 아이템을 받았습니다.
+useitem_event.40	가쳐폰을 사용하여 새끼 멧돼지의 선물 아이템을 받았습니다.
+useitem_event.41	ドラゴンボートイベントの報酬アイテムをもらいました。
+useitem_event.42	파티 퀘스트 이벤트용 보물함 아이템을 받았습니다.
+useitem_event.43	蜜採集に成功しました。
+useitem_event.44	님께서 보물 상자에서
+useitem_event.45	아이템을 획득하였습니다.
+useitem_event.46	보물상자를 사용해 아이템을 받았습니다.
+useitem_event.47	가챠폰에서 아이템을 받았습니다.
+useitem_event.48	님 께서 모험가 가챠폰에서
+useitem_event.49	아이템을 획득하였습니다.
+useitem_event.50	님 께서 패션 가챠폰에서
+useitem_event.51	아이템을 획득하였습니다.
+useitem_event.52	님 께서 전사 가챠폰에서
+useitem_event.53	아이템을 획득하였습니다.
+useitem_event.54	プレゼントの箱を開けてアイテムを受け取りました。
+useitem_event.55	プレミアムランダムボックスからアイテムを受け取りました。
+useitem_event.56	さんがプレミアムランダムボックスから
+useitem_event.57	アイテムを獲得しました。
+useitem_event.58	님 께서 5주년 기념 가챠폰에서
+useitem_event.59	아이템을 획득하였습니다.
+useitem_event.60	今日の箱を利用してアイテムを受け取りました。
+useitem_event.62	ロナとパンの冬のプレゼントボックスを利用してアイテムを受け取りました。
+useitem_event.63	신년 가차폰을 이용하여 아이템을 받았습니다.
+useitem_event.64	님 께서 신년 가챠폰에서
+useitem_event.65	아이템을 획득하였습니다
