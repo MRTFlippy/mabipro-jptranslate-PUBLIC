@@ -1,0 +1,1 @@
+# mabipro-jptranslate-PUBLIC
