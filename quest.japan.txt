@@ -14803,21 +14803,21 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 14872	Deliver 3 Letter of Recommendations to Thathis
 14873	@talk_thathis
 14874	@Help_residents
-14875	オミケサマに会う
+14875	Go to Meet Mysterious Cat
 14876	Gather ancient fragments from Cat Island
-14877	オミケサマと会話する
+14877	Talk with Mysterious Cat
 14878	Talk with Thathis
 14879	@Manekineko
 14880	@Manekineko1
-14881	破られた議事録の切れ端探し1
-14882	メンタムのおじいさんが破られた議事録を発見して抗議した覚えがあります。 -Thathis-
-14883	メンタムと会話する
-14884	巨大森ネズミを10匹退治
-14885	メンタムと会話する
-14886	ラットマンを5匹退治
-14887	メンタムと会話する
+14881	Ripped Document Search I
+14882	Ol' Mentum's complained about the rats, but I heard he discovered a piece of the ripped document. -Thathis-
+14883	Talk with Mentum
+14884	Exterminate 10 Giant Forest Rats
+14885	Talk with Mentum
+14886	Exterminate 5 Rat Man
+14887	Talk with Mentum
 14888	Talk with Thathis
-14889	オミケサマに破られた議事録の切れ端を渡す
+14889	Receive a piece of Mysterious Cat's ripped document
 14890	Talk with Thathis
 14891	@Memo_mentum
 14892	@Memo_mentum2
@@ -14825,13 +14825,13 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 14894	@talk_thathis2
 14895	@Manekineko2
 14896	@talk_thathis3
-14897	破られた議事録の切れ端探し2
-14898	バステトも破られた議事録の切れ端を持っているかもしれません。-Thathis-
-14899	バステトと会話する
-14900	マタタビの実を30個手に入れてバステトと会話する
-14901	マタタビの香水を5個手に入れてバステトと会話する
+14897	Ripped Document Search II
+14898	Bastet may also have a piece of the document you're looking for. -Thathis-
+14899	Talk with Bastet
+14900	Collect and deliver 30 Silvervine Fruits to Bastet
+14901	Create 5 Silvervine Perfume with Handicraft and deliver to Bastet
 14902	Talk with Thathis
-14903	オミケサマに破られた議事録の切れ端を渡す
+14903	Receive a piece of Mysterious Cat's ripped document
 14904	Talk with Thathis
 14905	@Talk_bastet
 14906	@Talk_bastet2
@@ -14839,13 +14839,13 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 14908	@talk_thathis7
 14909	@Manekineko3
 14910	@talk_thathis4
-14911	破られた議事録の切れ端探し3
-14912	デイゴンも破られた議事録の切れ端を持っているかもしれません。-Thathis-
-14913	デイゴンと会話する
-14914	本マグロを2匹手に入れてデイゴンと会話する
-14915	マタタビ鯛を5匹手に入れてデイゴンと会話する
+14911	Ripped Document Search III
+14912	Dagon should have a piece of the document, as well. -Thathis-
+14913	Talk with Dagon
+14914	Catch 2 Bluefin Tuna and deliver to Dagon
+14915	Catch 5 Silk Snapper and deliver to Dagon
 14916	Talk with Thathis
-14917	オミケサマに破られた議事録の切れ端を渡す
+14917	Receive a piece of Mysterious Cat's ripped document
 14918	Talk with Thathis
 14919	@Talk_dagon
 14920	@Talk_dagon2
@@ -14853,9 +14853,9 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 14922	@talk_thathis8
 14923	@Manekineko4
 14924	@talk_thathis6
-14925	オミケサマに会う
-14926	オミケサマを説得してください。-Thathis-
-14927	オミケサマにメモを渡す
+14925	Meet the Mysterious Cat
+14926	Please, go meet with the Mysterious Cat on behalf of our village. -Thathis-
+14927	Deliver Thathis' Note To Mysterious Cat
 14928	Talk with Thathis
 14929	@Manekineko5
 14930	@talk_thathis6
