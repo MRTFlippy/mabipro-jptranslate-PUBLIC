@@ -93,26 +93,26 @@ ego_eiry.21	If you press the H key you can drink HP Potions.|Master, try pressin
 ego_eiry.22	It is a good idea to take a break with your rest skill.
 ego_eiry.23	Well... you can always ask another person to bandage your wounds, or talk to Dilys the healer!<p/>
 ego_eiry.24	Master, why haven't you been eating?|Master, you look like you are on a diet.|Master, if you don't eat something, it is bad for your body.|Master, you will get tired more easily when you are hungry.
-ego_eiry.25	やっぱり何か食べた方がカラダに良いですよっ。…あれ？ …食べ物が…ないみたいですね。|食べられそうなモノがひとつもありません…ぅぅ。|ああっ！ 食べ物がありませんよご主人さま…。|食べられそうなモノが全くないみたいです…。
-ego_eiry.26	Ｉキーでインベントリを開くか、Ｋキーを押してモリモリ食べてくださいね！|食べないとスタミナ落ちちゃいますよっ。|インベントリを開くか、Ｋキーを押して食事をとってください！|インベントリを開いて、料理を食べてくださいっ！
-ego_eiry.27	ご主人さま、マナが足りないみたいですよ？|マナが半分しか残ってませんよ！
-ego_eiry.28	あ…イウェカが昇ってますね。イウェカが昇ってる間は、マナがゆっくり増えていきますよ。|今は夜なので、イウェカの力でマナがいっぱいになるんですよ！
-ego_eiry.29	マナポーションをお持ちであれば飲むのも手ですよ！|マナポーション…はありませんか？|…マナポーション…うーん。見当たらないですね…。残念です…。
-ego_eiry.30	メディテーションスキルを使うのも良いですよ！|メディテーションスキル、使ってみたらどうですか？
-ego_eiry.31	ここは…亡くなったヒトを埋める墓地です。<br/>クモさんたちがうじゃうじゃしていて、危ないかも…<p/>……あのー、ご主人さま……。<br/>ほ、他のトコに行きませんか？<p/>……<p/>………<p/>…………<p/>わっ、わたし、幽霊とかオバケとか苦手なんですっ！
-ego_eiry.32	ティルコネイルの南の平地です！<br/>ここはオオカミさんたちがイッパイいて…<br/>でも、強くなればへっちゃらですよ！
-ego_eiry.33	ここは、羊さんたちが放牧されてる放牧地です！<br/>採集用ナイフを使って、羊から羊毛を採集できちゃいます。<br/>もちろんわたしの宿ってる剣でも刈れますから、<br/>ナイフを買う必要はありません！ 大丈夫です！<p/>あっ。ときどきイジワルなキツネさんやオオカミさんたちが<br/>羊さんを攻撃したりするので<br/>そういうときは、できるだけ羊さんを守ってあげてくださいね。
-ego_eiry.34	ヒーラーのディリスさんちと自警団のトレボーさんがいるトコです！<br/>あとは…ここから北の方へ進むと、アルビダンジョンの入口があります。<br/>このあたりには、褐色キツネさんたちがいますが<br/>そんなに強くはないので、心配しなくても大丈夫ですよ！
-ego_eiry.35	小麦や大麦が収穫できる農耕地です！<br/>ここで採れる小麦や大麦は、聖堂のアルバイトに使ったり<br/>風車小屋で小麦粉や大麦粉を作るのに使ったりします。<br/>もちろん、収穫するためには鎌が必要になります。<br/>鎌は鍛冶屋のファーガスさんが売ってますよ！
-ego_eiry.36	ここはティルコネイルの中心部！<br/>近くには、村長さんち、銀行、<br/>雑貨屋さんや食料品店があります。<p/>南へ行くと聖堂と学校が、<br/>東へ行くと旅館と鍛冶屋さん、<br/>あとは放牧地へもいけますよ！
-ego_eiry.37	ここでは、冒険をするトキに必要な武器や防具が売られてます！<br/>他にも、古くなった武器や鎧の修理もしてくれるんですが、<br/>店主のファーガスさんはちょっとコワモテです…。<br/>あっ、でも、イッパイお話すると仲良くなれますよっ！
-ego_eiry.38	ここで武器の修理ができます！<br/>
-ego_eiry.39	ここが一番最初の村、<br/>ティルコネイルです！<br/>初めてエリンに来たヒトたちの<br/>故郷のような場所なので<br/>村のヒトたちと<br/>イッパイお話すると良いですよ。
-ego_eiry.40	アイテムやお金を保管してくれるトコです！<br/>手数料がかかっちゃう場合がありますけど…<br/>でも、荷物がいっぱいで物が持てなくなっちゃったら困っちゃうので<br/>持ち歩く必要がないモノは、銀行に預けておくと良いですよ！<p/>他にも、銀行員さんにお願いすれば、<br/>個人商店を開くための許可証ももらえますよっ。<br/>でも、個人商店用のカバンがないと個人商店は開けないので<br/>後でお金がいっぱい溜まったら…ですね！
-ego_eiry.41	村長のダンカンさんちには<br/>変なネコさんが1匹住んでるみたいです。<br/>たまに人間の言葉を話すらしいですよ！
-ego_eiry.42	ここは、ライミラク神を祭る聖堂です！<br/>多くのヒトたちの村の安息の場となってますが、<br/>冒険者さんたちには、祝福ポーションをわけてもらえる場所として有名ですっ。<br/>詳しいコトは、外にいるエンデリオンさんにアルバイトについて聞いてみてください。
-ego_eiry.43	食べ物の材料や、料理が手に入りますっ。<br/>お腹ペコペコだと、何をやってもうまくいきませんよね？<br/>あっ、あと、いろんなクエストスクロールも売ってるので<br/>機会があったら一度買ってみてくださいね！
-ego_eiry.44	ここは旅館です。<br/>ノラさんと、彼女の叔父さんであるピルアスさんがいるトコです。<br/>薪を集めるアルバイトができますよ！
+ego_eiry.25	Eating really is good for your body... eh? It seems like you don't have any food.|It doesn't look like you have anything to eat... Uuu...|Aah! You don't have anything to eat master!|It seems like you have absolutely nothing to eat...
+ego_eiry.26	Either press the I key to open the inventory or press K and eat some food please!|If you don't eat, your stamina will fall.|Please, open the inventory or press K and eat some food!|Please open your inventory and eat some food!
+ego_eiry.27	Master, doesn't it seem like your mana is a little low?|You only have half of your mana left!
+ego_eiry.28	Ah... Eweca has risen. When Eweca rises, your mana will slowly refill.|It's night right now, so Eweca's power will fill up your mana!
+ego_eiry.29	If you had a mana potion, you could drink it!|You... don't have any mana potions?|Mana potions... huh. Can't find any. Too bad...
+ego_eiry.30	Using Meditation would be a good idea!|I wonder what would happen if you used Meditation?
+ego_eiry.31	This is... a greaveyard where the departed are buried.<br/>There's spiders crawling around, so it might be dangerous...<p/>Um, Master...<br/>W-Why don't we go somewhere else?<p/>……<p/>………<p/>…………<p/>I-I can't handle ghosts and monsters very well!
+ego_eiry.32	This is Tir Chonaill's southern plain!<br/>There's a lot of wolves around here...<br/>But, if you get stronger they'll be pushovers!
+ego_eiry.33	This place is the pasture where the sheep graze!<br/>If you use a gathering knife, you can get wool from the sheep.<br/>You can also use the sword that I reside in, <br/>so there's no need to buy a knife! It's fine!<p/>Ah, sometimes nasty wolves and foxes<br/>will attack the sheep, so<br/>please make sure you protect them when that happens!
+ego_eiry.34	This is where the Healer Dilys and vigilantie Trevor are!<br/>A little north from here is the entrance to Alby Dungeon.<br/>There's brown foxes around here, but<br/>they're not that strong strong, so there's no need to worry!
+ego_eiry.35	This is a farmland where you can harvest wheat and barley!<br/>You can use the wheat and barley you pick here in the church part-time job, or at the windmill where you can make wheat flour and barley flour and use that.<br/>Of course, you need a scythe to harvest.<br/>You can buy a scythe from Ferghus the blacksmith!
+ego_eiry.36	This is the center of Tir Chonaill!<br/>Close by is the Chief's house, the bank,<br/>the general shop, and the grocery store.<p/>If you go south from here, you can find the church and school,<br/>and if you go east from here, you can find the inn and blacksmith's.<br/>You can also go to the pasture from there!
+ego_eiry.37	You can buy weapons and armor that you'll need during your journey here!<br/>You can also repair worn down weapons and armor here, but<br/>the shop owner, Ferghus, is a bit of a clutz...<br/>Ah, but if you talk to him a lot I'm sure you'll be great friends!
+ego_eiry.38	You can repair weapons here!<br/>
+ego_eiry.39	This is the first village,<br/>Tir Chonaill!<br/>This is the homeland of the<br/>first people to come to Erinn, so<br/>it's a good idea to talk a lot with<br/>the people of this village.
+ego_eiry.40	This is where you can deposit your items and money!<br/>There's cases where you'll be charged a holding fee however...<br/>But, it'll be troubling if you have too many items and can't carry anymore<br/>so it's a good idea to deposit the items you don't need to have on your person!<p/>You can also ask the banker<br/>for a license to open up a Personal Shop.<br/>But, if you don't have an item shop bag, you won't be able to open up a personal shop,<br/>so make sure to get a lot of money, okay?
+ego_eiry.41	It seems like Chief Duncan<br/>has this weird cat in his house.<br/>Occasionally it seems like he can even speak human words!
+ego_eiry.42	This is the church where they worship the Goddess Lymilark!<br/>It's a place where many come to rest,<br/>but among adventurers, they're famous for the Holy Water of Lymilark.<br/>For specifics, please ask the woman outside, Endelyon, about a part-time job.
+ego_eiry.43	Here you can get food, ingredients, and cooked dishes.<br/>If you're hungry, you won't really be able to do anything that well.<br/>Oh, and a lot of quest scrolls are on sale as well,<br/>so if you have the chance then please buy one!
+ego_eiry.44	This is the inn.<br/>This is where Nora and her uncle Piaras are.<br/>They have a part-time job where you can collect firewood!
 ego_eiry.45	ラサ先生がいる学校の魔法教室です！<br/>授業料を払えば魔法を習えるみたいです。<br/>でも、授業料がかなり高いので、<br/>魔法はあとからゆっくり習っても良いと思いますよ。
 ego_eiry.46	ヒーラーのディリスさんが住んでいる家です！<br/>ポーションを買ったり、治療を受けたりできますよっ。
 ego_eiry.47	服や帽子、靴、楽器などなど<br/>いろんな雑貨を売ってるお店です！<br/>ここでは紡績スキルを習うコトができるので、<br/>マルコムさんに、スキルについて聞いてみると良いかもしれません。
