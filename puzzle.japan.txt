@@ -2,18 +2,18 @@
 boss.dunbarton_rabbie.2	레이널드 맞으니까 함수호출
 boss.dunbarton_rabbie_succubus.1	サキュバスボススクリプト
 boss.emain_runda_dungeon_g2_paladin_rp.1	이 곳에도 브류나크는 없나 보군 다른 곳으로 찾아 가야겠다.
-boss.longadesert_begin.1	エレメンタルの結晶が壊れる瞬間、エレメンタルの流れを全身で感じることができた。
-boss.tircho_ciar_g13_easy_dungeon.1	(ゴーレムが倒れた場所からファーガスの金槌を拾った。)
-boss.tircho_ciar_g13_high_dungeon.1	(ゴーレムが倒れた場所からファーガスの金槌を拾った。)
-boss.tircho_ciar_g13_mid_dungeon.1	(ゴーレムが倒れた場所からファーガスの金槌を拾った。)
-boss.tirchonaill_alby_g13_firstfolio.1	(クモを倒して作家の手帳を1冊発見した。\n一度読んでみよう。)
-boss.tirchonaill_alby_g13_firstfolio_high.1	(クモを倒して作家の手帳を1冊発見した。\n一度読んでみよう。)
-boss.tirchonaill_alby_g13_firstfolio_mid.1	(クモを倒して作家の手帳を1冊発見した。\n一度読んでみよう。)
-boss.tirchonaill_alby_tutorial_malcolm.1	幼い巨大黄金クモを倒し、マルコムの指輪を見つけました。
-boss.tirchonaill_ciar_japan_event_1.1	門を開けることができない。
-boss.tirchonaill_ciar_japan_event_1.2	門を開けることができない。
-boss.tirchonaill_ciar_japan_event_2.1	門を開けることができない。
-boss.tirchonaill_ciar_japan_event_2.2	門を開けることができない。
+boss.longadesert_begin.1	エレメンタルの結晶が壊れる瞬間、エレメンタルの流れを全身で感じることができた.
+boss.tircho_ciar_g13_easy_dungeon.1	(ゴーレムが倒れた場所からファーガスの金槌を拾った.)
+boss.tircho_ciar_g13_high_dungeon.1	(ゴーレムが倒れた場所からファーガスの金槌を拾った.)
+boss.tircho_ciar_g13_mid_dungeon.1	(ゴーレムが倒れた場所からファーガスの金槌を拾った.)
+boss.tirchonaill_alby_g13_firstfolio.1	(クモを倒して作家の手帳を1冊発見した.\n一度読んでみよう.)
+boss.tirchonaill_alby_g13_firstfolio_high.1	(クモを倒して作家の手帳を1冊発見した.\n一度読んでみよう.)
+boss.tirchonaill_alby_g13_firstfolio_mid.1	(クモを倒して作家の手帳を1冊発見した.\n一度読んでみよう.)
+boss.tirchonaill_alby_tutorial_malcolm.1	幼い巨大黄金クモを倒し、マルコムの指輪を見つけました.
+boss.tirchonaill_ciar_japan_event_1.1	門を開けることができない.
+boss.tirchonaill_ciar_japan_event_1.2	門を開けることができない.
+boss.tirchonaill_ciar_japan_event_2.1	門を開けることができない.
+boss.tirchonaill_ciar_japan_event_2.2	門を開けることができない.
 element.collectprop_herb.1	herb1
 element.collectprop_herb.2	herb2
 element.collectprop_herb.3	herb3
@@ -24,52 +24,52 @@ element.collectprop_herb_middle.1	herb1
 element.collectprop_herb_middle.2	herb2
 element.collectprop_herb_middle.3	herb3
 element.eventprop_fountain.1	EventProp_Fountain.mint
-element.jg_nekojima_downto2ndfloor.1	少し下へ降りてきたようだ。
-element.jg_nekojima_downto2ndfloor.2	さらに下へ降りてきたようだ。
-element.jg_nekojima_downto3rdfloor.1	ほぼ最後まで降りてきたようだ。
-element.jg_nekojima_downto3rdfloor.2	ほぼ最後まで降りてきたようだ。道がちょっと変わったようだが…
-element.jg_nekojima_downto4thfloor.1	最後まで降りてきたようだ。あっちへ行ってみようか…
-element.jg_nekojima_puzzleroom.1	巨大怨霊騎士が1匹…簡単だから、中心部からすごく離れているんだろう。
+element.jg_nekojima_downto2ndfloor.1	少し下へ降りてきたようだ.
+element.jg_nekojima_downto2ndfloor.2	さらに下へ降りてきたようだ.
+element.jg_nekojima_downto3rdfloor.1	ほぼ最後まで降りてきたようだ.
+element.jg_nekojima_downto3rdfloor.2	ほぼ最後まで降りてきたようだ.道がちょっと変わったようだが…
+element.jg_nekojima_downto4thfloor.1	最後まで降りてきたようだ.あっちへ行ってみようか…
+element.jg_nekojima_puzzleroom.1	巨大怨霊騎士が1匹…簡単だから、中心部からすごく離れているんだろう.
 element.jg_nekojima_puzzleroom.2	戦う価値はあるかな？中心部から少し離れているようだ…
-element.jg_nekojima_puzzleroom.3	強い敵が多い。中心部に近いのだろう。
-element.jg_nekojima_puzzleroom.4	巨大怨霊騎士が4匹か…ううっ…やばそうだけど、ほぼ中心部に来たようだ。
-element.jg_nekojima_puzzleroom.5	木の柱の模様が光を発っしている。モンスターを調べてもう一度叩いてみよう。
-element.jg_nekojima_puzzleroom_chest.1	巨大怨霊騎士が1匹…簡単だから、中心部からすごく離れているんだろう。
+element.jg_nekojima_puzzleroom.3	強い敵が多い.中心部に近いのだろう.
+element.jg_nekojima_puzzleroom.4	巨大怨霊騎士が4匹か…ううっ…やばそうだけど、ほぼ中心部に来たようだ.
+element.jg_nekojima_puzzleroom.5	木の柱の模様が光を発っしている.モンスターを調べてもう一度叩いてみよう.
+element.jg_nekojima_puzzleroom_chest.1	巨大怨霊騎士が1匹…簡単だから、中心部からすごく離れているんだろう.
 element.jg_nekojima_puzzleroom_chest.2	戦う価値はあるかな？中心部から少し離れているようだ…
-element.jg_nekojima_puzzleroom_chest.3	強い敵が多い。中心部に近いのだろう。
-element.jg_nekojima_puzzleroom_chest.4	巨大怨霊騎士が4匹か…ううっ…やばそうだけど、ほぼ中心部に来たようだ。
-element.jg_nekojima_puzzleroom_chest_new.1	巨大怨霊騎士が1匹…簡単だから、中心部からすごく離れているんだろう。
+element.jg_nekojima_puzzleroom_chest.3	強い敵が多い.中心部に近いのだろう.
+element.jg_nekojima_puzzleroom_chest.4	巨大怨霊騎士が4匹か…ううっ…やばそうだけど、ほぼ中心部に来たようだ.
+element.jg_nekojima_puzzleroom_chest_new.1	巨大怨霊騎士が1匹…簡単だから、中心部からすごく離れているんだろう.
 element.jg_nekojima_puzzleroom_chest_new.2	戦う価値はあるかな？中心部から少し離れているようだ…
-element.jg_nekojima_puzzleroom_chest_new.3	強い敵が多い。中心部に近いのだろう。
-element.jg_nekojima_puzzleroom_chest_new.4	巨大怨霊騎士が4匹か…ううっ…やばそうだけど、ほぼ中心部に来たようだ。
-element.jg_nekojima_puzzleroom_new.1	騎士とアーチャーが1匹ずつか。南西の端の部屋かな？
-element.jg_nekojima_puzzleroom_new.2	騎士は1匹か。じゃあ南の端だな。
-element.jg_nekojima_puzzleroom_new.3	騎士は1匹か。じゃあ南の端だな。
-element.jg_nekojima_puzzleroom_new.4	騎士は1匹か。じゃあ南の端だな。
-element.jg_nekojima_puzzleroom_new.5	騎士1匹、アーチャー5匹…南東の端の部屋に来たのか。
-element.jg_nekojima_puzzleroom_new.6	アーチャーが1匹だ！西の端に来たようだ。
-element.jg_nekojima_puzzleroom_new.7	騎士とアーチャーを見て座標を見つけないと。
-element.jg_nekojima_puzzleroom_new.8	騎士とアーチャーの比率が3:3に近づいた。ほぼ中央に来たようだ。
-element.jg_nekojima_puzzleroom_new.9	騎士とアーチャーを見て座標を見つけないと。
-element.jg_nekojima_puzzleroom_new.10	アーチャーが5匹か。じゃあ東側だな。
-element.jg_nekojima_puzzleroom_new.11	アーチャーが1匹だ！西の端に来たようだ。
-element.jg_nekojima_puzzleroom_new.12	アーチャーと騎士の比率が3:3に近づいた。ほぼ中央に来たようだ。
-element.jg_nekojima_puzzleroom_new.13	アーチャーと騎士の比率が3:3に近づいた。ほぼ中央に来たようだ。
-element.jg_nekojima_puzzleroom_new.14	アーチャーが5匹か。じゃあ東側だな。
-element.jg_nekojima_puzzleroom_new.15	アーチャーが1匹だ！西の端に来たようだ。
-element.jg_nekojima_puzzleroom_new.16	騎士とアーチャーを見て座標を見つけないと。
-element.jg_nekojima_puzzleroom_new.17	アーチャーと騎士の比率が3:3に近づいた。ほぼ中央に来たようだ。
-element.jg_nekojima_puzzleroom_new.18	騎士とアーチャーを見て座標を見つけないと。
-element.jg_nekojima_puzzleroom_new.19	アーチャーが5匹か。じゃあ東側だな。
-element.jg_nekojima_puzzleroom_new.20	騎士5匹にアーチャー1匹か…北西の端まで来たようだ。
-element.jg_nekojima_puzzleroom_new.21	騎士が5匹だ！北の端に来たようだ。
-element.jg_nekojima_puzzleroom_new.22	騎士が5匹だ！北の端に来たようだ。
-element.jg_nekojima_puzzleroom_new.23	騎士が5匹だ！北の端に来たようだ。
+element.jg_nekojima_puzzleroom_chest_new.3	強い敵が多い.中心部に近いのだろう.
+element.jg_nekojima_puzzleroom_chest_new.4	巨大怨霊騎士が4匹か…ううっ…やばそうだけど、ほぼ中心部に来たようだ.
+element.jg_nekojima_puzzleroom_new.1	騎士とアーチャーが1匹ずつか.南西の端の部屋かな？
+element.jg_nekojima_puzzleroom_new.2	騎士は1匹か.じゃあ南の端だな.
+element.jg_nekojima_puzzleroom_new.3	騎士は1匹か.じゃあ南の端だな.
+element.jg_nekojima_puzzleroom_new.4	騎士は1匹か.じゃあ南の端だな.
+element.jg_nekojima_puzzleroom_new.5	騎士1匹、アーチャー5匹…南東の端の部屋に来たのか.
+element.jg_nekojima_puzzleroom_new.6	アーチャーが1匹だ！西の端に来たようだ.
+element.jg_nekojima_puzzleroom_new.7	騎士とアーチャーを見て座標を見つけないと.
+element.jg_nekojima_puzzleroom_new.8	騎士とアーチャーの比率が3:3に近づいた.ほぼ中央に来たようだ.
+element.jg_nekojima_puzzleroom_new.9	騎士とアーチャーを見て座標を見つけないと.
+element.jg_nekojima_puzzleroom_new.10	アーチャーが5匹か.じゃあ東側だな.
+element.jg_nekojima_puzzleroom_new.11	アーチャーが1匹だ！西の端に来たようだ.
+element.jg_nekojima_puzzleroom_new.12	アーチャーと騎士の比率が3:3に近づいた.ほぼ中央に来たようだ.
+element.jg_nekojima_puzzleroom_new.13	アーチャーと騎士の比率が3:3に近づいた.ほぼ中央に来たようだ.
+element.jg_nekojima_puzzleroom_new.14	アーチャーが5匹か.じゃあ東側だな.
+element.jg_nekojima_puzzleroom_new.15	アーチャーが1匹だ！西の端に来たようだ.
+element.jg_nekojima_puzzleroom_new.16	騎士とアーチャーを見て座標を見つけないと.
+element.jg_nekojima_puzzleroom_new.17	アーチャーと騎士の比率が3:3に近づいた.ほぼ中央に来たようだ.
+element.jg_nekojima_puzzleroom_new.18	騎士とアーチャーを見て座標を見つけないと.
+element.jg_nekojima_puzzleroom_new.19	アーチャーが5匹か.じゃあ東側だな.
+element.jg_nekojima_puzzleroom_new.20	騎士5匹にアーチャー1匹か…北西の端まで来たようだ.
+element.jg_nekojima_puzzleroom_new.21	騎士が5匹だ！北の端に来たようだ.
+element.jg_nekojima_puzzleroom_new.22	騎士が5匹だ！北の端に来たようだ.
+element.jg_nekojima_puzzleroom_new.23	騎士が5匹だ！北の端に来たようだ.
 element.jg_nekojima_puzzleroom_new.24	騎士5匹にアーチャーも5匹か…北東の端まで来たようだ…
-element.jg_nekojima_puzzleroom_new.25	木の柱の模様が光を発っしている。モンスターを調べてもう一度叩いてみよう。
+element.jg_nekojima_puzzleroom_new.25	木の柱の模様が光を発っしている.モンスターを調べてもう一度叩いてみよう.
 element.keychest_9chest.1	これは困る
 element.keychest_9chest_rabbie.1	魔法のように
-element.keychest_monster_japan_event.1	箱を開けることができない。
+element.keychest_monster_japan_event.1	I can't open the box.
 element.keychest_skeleton.1	single(smallredskeleton:
 element.keychest_skeleton.2	:
 element.keychest_skeleton.3	single(smallskeletonarmora:
@@ -78,121 +78,121 @@ element.keychest_skeleton.5	single(smallskeletonarmorb:
 element.keychest_skeleton.6	:
 element.keychest_skeleton2.1	single(giantskeleton:3)
 element.keychest_skeleton2.2	single(giantskeleton:3)
-element.switchdoor_switch3monster_japan_event.1	スイッチを作動させることができない。
-element.switchdoor_switchmonster_japan_event.1	スイッチを作動させることができない。
-element.transparent_1switch_voice.1	石の柱が光っている。もう一度、叩いてみよう。
-element.transparent_4switch_nokey.1	部屋の隅に石の柱が現れた。一度、叩いてみよう。
-prop.black_bead.1	ユーザーが玉を叩いた。
-prop.black_bead.2	オーケー、全部やったな。開けてやろう。
-prop.black_bead.3	封印を解いて黒い玉のかけらを手に入れた！\n4つの封印を全て解くと、最後の封印へ行ける黒い玉を作ることができる。
-prop.black_bead.4	玉が割れるためには
-prop.black_bead.5	回残っている。
+element.switchdoor_switch3monster_japan_event.1	The switch cannot be activated.
+element.switchdoor_switchmonster_japan_event.1	The switch cannot be activated.
+element.transparent_1switch_voice.1	The stone pillars are shining!  Hit them again!
+element.transparent_4switch_nokey.1	A stone pillar appeared in the corner.  Hit it.
+prop.black_bead.1	Someone has hit the orb.
+prop.black_bead.2	オーケー、全部やったな.開けてやろう.
+prop.black_bead.3	I unsealed and got a piece of black orb！\nIf you break all 4 seals, you can make a black orb that will take you to the last seal.
+prop.black_bead.4	To break the orb.
+prop.black_bead.5	回残っている.
 prop.fountain.1	fountain.mint
 prop.fountain.2	_low_
 prop.fountain.3	_middle_
 prop.fountain.4	_high_
 prop.fountain.5	噴水生成
-prop.fountain.6	生命力が全て回復した。
-prop.fountain.7	ケガが完治した。
-prop.fountain.8	スタミナが全て回復した。
-prop.fountain.9	マナが全て回復した。
-prop.fountain.10	空腹感が消えた。
-prop.fountain.11	お金を得た。
-prop.fountain.12	経験値1000を得た。
-prop.fountain.13	装備した全てのアイテムに祝福の効果が表れた。
+prop.fountain.6	Life recovered.
+prop.fountain.7	Wounds recovered.
+prop.fountain.8	Stamina recovered.
+prop.fountain.9	Mana recovered.
+prop.fountain.10	Hunger recovered.
+prop.fountain.11	Received money.
+prop.fountain.12	Received 1,000 exp.
+prop.fountain.13	All equipped items are blessed.
 prop.fountain.14	リストサイズ :
 prop.fountain.15	選択されたアイテム名
-prop.fountain.16	に祝福の効果が表れた。
-prop.fountain.17	の耐久度が100%になった。
-prop.fountain.18	お腹が空いた。
-prop.fountain.19	の祝福の効果が消えた。
-prop.fountain.20	スタミナが0になった。
-prop.fountain.21	怪我を負った。
-prop.fountain.22	の耐久度が 1 減少した。
-prop.fountain.23	{0}に祝福の効果が表れた。
-prop.fountain.24	{0}の耐久度が100%になった。
-prop.fountain.25	{0}の祝福効果が消滅された。
-prop.fountain.26	{0}の耐久度が 1 減少した。
-prop.glacierruin_mirror.1	やみくもに攻撃しても効果がないようだ。|これ以上攻撃しても何の効果もないようだ。|これ以上攻撃しても無駄だ。
-prop.glacierruin_mirror.2	不思議な光によって、鏡が保護されているようだ。|何かがこちらの攻撃を防いでいるようだ。|鏡のまわりの不思議な光を、先に除去しなければならないようだ。
-prop.glacierruin_mirror.3	鏡にひびが入り始めた。|鏡が少しずつ壊れはじめた。|もう少しで鏡が壊れそうだ。
-prop.red_fountain.1	赤い噴水
+prop.fountain.16	Has been blessed.
+prop.fountain.17	Durability recovered.
+prop.fountain.18	Suffered hunger.
+prop.fountain.19	Blessing removed.
+prop.fountain.20	Stamina drained.
+prop.fountain.21	Wounded.
+prop.fountain.22	1 durability removed.
+prop.fountain.23	{0}Has been blessed.
+prop.fountain.24	{0}Durability recovered.
+prop.fountain.25	{0}Blessing removed.
+prop.fountain.26	{0}1 durability removed.
+prop.glacierruin_mirror.1	やみくもに攻撃しても効果がないようだ.|これ以上攻撃しても何の効果もないようだ.|これ以上攻撃しても無駄だ.
+prop.glacierruin_mirror.2	不思議な光によって、鏡が保護されているようだ.|何かがこちらの攻撃を防いでいるようだ.|鏡のまわりの不思議な光を、先に除去しなければならないようだ.
+prop.glacierruin_mirror.3	鏡にひびが入り始めた.|鏡が少しずつ壊れはじめた.|もう少しで鏡が壊れそうだ.
+prop.red_fountain.1	Red fountain
 prop.red_fountain.2	の効果で
-prop.red_fountain.3	の効果が消えていく。
-prop.red_fountain.4	の効果が消えた。
+prop.red_fountain.3	の効果が消えていく.
+prop.red_fountain.4	の効果が消えた.
 prop.red_fountain.5	
-prop.red_fountain.6	が出た。
+prop.red_fountain.6	が出た.
 prop.red_fountain.7	
-prop.red_fountain.8	が出た。
+prop.red_fountain.8	が出た.
 prop.red_fountain.9	
-prop.red_fountain.10	が出た。
+prop.red_fountain.10	が出た.
 prop.red_fountain.11	
-prop.red_fountain.12	が出た。
+prop.red_fountain.12	が出た.
 prop.red_fountain.13	
-prop.red_fountain.14	が出た。
+prop.red_fountain.14	が出た.
 prop.red_fountain.15	
-prop.red_fountain.16	が出た。
+prop.red_fountain.16	が出た.
 prop.red_fountain.17	
-prop.red_fountain.18	が出た。
+prop.red_fountain.18	が出た.
 prop.red_fountain.19	
-prop.red_fountain.20	が出た。
+prop.red_fountain.20	が出た.
 prop.red_fountain.21	
-prop.red_fountain.22	が出た。
+prop.red_fountain.22	が出た.
 prop.red_fountain.23	
-prop.red_fountain.24	が出た。
+prop.red_fountain.24	が出た.
 prop.red_fountain.25	
-prop.red_fountain.26	が出た。
+prop.red_fountain.26	が出た.
 prop.red_fountain.27	
-prop.red_fountain.28	が出た。
-prop.red_fountain.29	赤い噴水
+prop.red_fountain.28	が出た.
+prop.red_fountain.29	Red fountain
 prop.red_fountain.30	の効果で
-prop.red_fountain.31	の効果が消えていく。
-prop.red_fountain.32	の効果が消えた。
+prop.red_fountain.31	の効果が消えていく.
+prop.red_fountain.32	の効果が消えた.
 prop.red_fountain.33	
-prop.red_fountain.34	が出た。
+prop.red_fountain.34	が出た.
 prop.red_fountain.35	
-prop.red_fountain.36	が出た。
+prop.red_fountain.36	が出た.
 prop.red_fountain.37	
-prop.red_fountain.38	が出た。
+prop.red_fountain.38	が出た.
 prop.red_fountain.39	
-prop.red_fountain.40	が出た。
+prop.red_fountain.40	が出た.
 prop.red_fountain.41	
-prop.red_fountain.42	が出た。
+prop.red_fountain.42	が出た.
 prop.red_fountain.43	
-prop.red_fountain.44	が出た。
+prop.red_fountain.44	が出た.
 prop.red_fountain.45	
-prop.red_fountain.46	が出た。
+prop.red_fountain.46	が出た.
 prop.red_fountain.47	
-prop.red_fountain.48	が出た。
+prop.red_fountain.48	が出た.
 prop.red_fountain.49	
-prop.red_fountain.50	が出た。
+prop.red_fountain.50	が出た.
 prop.red_fountain.51	
-prop.red_fountain.52	が出た。
+prop.red_fountain.52	が出た.
 prop.red_fountain.53	
-prop.red_fountain.54	が出た。
+prop.red_fountain.54	が出た.
 prop.red_fountain.55	
-prop.red_fountain.56	が出た。
-prop.red_fountain.57	赤い噴水の効果で {0} が出た。
-prop.red_fountain.58	赤い噴水の効果が消えていく。
-prop.red_fountain.59	赤い噴水の効果が消えた。
-prop.red_fountain.60	赤い噴水の効果で {0} が出た。
-prop.red_fountain.61	赤い噴水の効果が消えていく。
-prop.red_fountain.62	赤い噴水の効果が消えた。
-prop.tirnanog_sealstone.1	ユーザーがティルナノイの封印に触れた。
-prop.tirnanog_sealstone.2	この封印を解く準備が出来ていないようだ。
-prop.tirnanog_sealstone.3	クリステルの話によると、\n封印の力が弱くなるサーオィンにならないと封印を解くことはできないそうだ。
-prop.tirnanog_sealstone.4	弱すぎて、門が開かないようだ。
-prop.tirnanog_sealstone.7	私に解ける封印ではない。\nパーティーのリーダーなら解けそうだ。
-prop.tirnanog_sealstone.8	封印の門の向こうの世界に移動しますか？
-prop.tirnanog_sealstone.9	レベル25以上の人が集まらないと封印は解けないようだ。私たちの力では無理だ。
-prop.tirnanog_sealstone.10	レベル25以上の人が集まらないと封印は解けないようだ。私たちの力では無理だ。
+prop.red_fountain.56	が出た.
+prop.red_fountain.57	Red fountain gave {0}.
+prop.red_fountain.58	Red fountain effect faded.
+prop.red_fountain.59	Red fountain effect faded.
+prop.red_fountain.60	Red fountain gave {0}.
+prop.red_fountain.61	Red fountain effect faded.
+prop.red_fountain.62	Red fountain effect faded.
+prop.tirnanog_sealstone.1	Player touches the seal of Tir Na Nog.
+prop.tirnanog_sealstone.2	I am not able to break this seal.
+prop.tirnanog_sealstone.3	クリステルの話によると、\n封印の力が弱くなるサーオィンにならないと封印を解くことはできないそうだ.
+prop.tirnanog_sealstone.4	弱すぎて、門が開かないようだ.
+prop.tirnanog_sealstone.7	I can not break the seal./nThe party leader seems capable..
+prop.tirnanog_sealstone.8	Would you like to move to the world beyond the sealed gate?？
+prop.tirnanog_sealstone.9	The seal cannot be broken by people under level 25.  It is impossible with our power.
+prop.tirnanog_sealstone.10	The seal cannot be broken by people under level 25.  It is impossible with our power.
 puzzle_event_taiwan.1	소지한 메모 아이템을 제거합니다.
 puzzle_event_taiwan.2	구슬을 친 회수가 부족하여 이벤트 보상을 받을 수 없습니다.
 puzzle_event_taiwan.3	최종 카운터 : {0}\n소지 아이템 : [{1}] 메모
 puzzle_event_taiwan.4	카운터가 [
 puzzle_event_taiwan.5	] 문자로 세팅 되었습니다.
 rp_boss.g2_37_bangor_bari.1	無敵ゴーレムを除去
-rp_boss.g2_37_bangor_bari.2	黄金ゴーレムを弱いのに変える。
+rp_boss.g2_37_bangor_bari.2	黄金ゴーレムを弱いのに変える.
 rp_boss.g2_37_bangor_bari.3	에스라스를 배치
 rp_boss.g2_37_bangor_bari.4	던전 퍼즐의 리다이어 생성함수까지 잘왔따
 rp_boss.g2_37_bangor_bari.5	컷신에서 리다이어를 불러 배치가 끝났다
