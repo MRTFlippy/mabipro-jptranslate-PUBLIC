@@ -610,7 +610,7 @@ fashionshow_event.5	The Tara Fashion Contest Qualifiers reception has ended.
 fashionshow_event.6	The Tara Fashion Contest Qualifiers have ended.
 fashionshow_event.7	The Tara Fashion Contest is now available.
 fashionshow_event.8	The Tara Fashion Contest is now available.
-fashionshow_event.9	The Tara Fashion Contest Qualifiers is scheduled to begin at 8 p.m. Please join now.
+fashionshow_event.9	The Tara Fashion Contest Qualifiers are scheduled to begin at 8 p.m. Please join now.
 fashionshow_event.10	The Tara Fashion Contest Qualifiers are now being conducted. Please join us
 fashionshow_event.11	The Tara Fashion Contest Finale starts at 8 p.m. Please join us.
 fashionshow_event.12	The Tara Fashion Contest is currently being conducted.
