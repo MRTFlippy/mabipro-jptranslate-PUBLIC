@@ -602,18 +602,18 @@ falias.42	祭壇の封印が終わりつつある。\nこれ以上アンヴァ�
 falias.43	封印の時間がかなり経った。\nアンバルの接近を防ぎ切ろう。
 falias.44	アンヴァルが自らを犠牲にして祭壇を封印している。\nアンヴァルが祭壇に近づけないよう食い止めよう。
 falias.45	{0} 의 경험치를 받았습니다.
-fashionshow_event.1	タラファッションコンテスト予選受付を行っています。
-fashionshow_event.2	タラファッションコンテスト予選が始まりました。
-fashionshow_event.3	現在6チャンネルでタラファッションコンテスト本選受付を行っています。
-fashionshow_event.4	現在6チャンネルでタラファッションコンテスト本選が始まりました。
-fashionshow_event.5	タラファッションコンテスト予選受付が終了しました。
-fashionshow_event.6	タラファッションコンテスト予選が終了しました。
-fashionshow_event.7	現在6チャンネルでタラファッションコンテスト本選受付が終了しました。
-fashionshow_event.8	現在6チャンネルでタラファッションコンテスト本選が終了しました。
-fashionshow_event.9	タラファッションコンテスト予選が午後8時から開始予定です。ふるってご参加ください。
-fashionshow_event.10	タラファッションコンテスト予選を行っています。ふるってご参加ください。
-fashionshow_event.11	6チャンネルで開かれるタラファッションコンテスト本選は午後8時から始まります。ふるってご参加ください。
-fashionshow_event.12	現在6チャンネルでタラファッションコンテスト本選を行っています。
+fashionshow_event.1	We are now accepting entries for the Tara Fashion Contest qualifier rounds.
+fashionshow_event.2	The Tara Fashion Contest Qualifiers have now begun.
+fashionshow_event.3	Entries for the Tara Fashion Contest Finals are now being accepted.
+fashionshow_event.4	The Tara Fashion Contest Finals have now begun.
+fashionshow_event.5	The Tara Fashion Contest Qualifiers reception has ended.
+fashionshow_event.6	The Tara Fashion Contest Qualifiers have ended.
+fashionshow_event.7	The Tara Fashion Contest is now available.
+fashionshow_event.8	The Tara Fashion Contest is now available.
+fashionshow_event.9	The Tara Fashion Contest Qualifiers are scheduled to begin at 8 p.m. Please join now.
+fashionshow_event.10	The Tara Fashion Contest Qualifiers are now being conducted. Please join us
+fashionshow_event.11	The Tara Fashion Contest Finale starts at 8 p.m. Please join us.
+fashionshow_event.12	The Tara Fashion Contest is currently being conducted.
 g1_event.1	G1_40_b カットシーンが終了しました。
 g2_event.1	여신 컷신 보기 시작함
 g2_event.2	컷신이 끝나고 부른다제
