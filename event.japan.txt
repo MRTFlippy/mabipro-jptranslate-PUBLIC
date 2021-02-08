@@ -569,39 +569,39 @@ falias.9	Stage Level: 5
 falias.10	Stage Level: 6
 falias.11	Stage Level: 7
 falias.12	Stage Level: 0
-falias.13	アンヴァルをすべて食い止めた。\n祭壇から遺物を探してみよう。
-falias.14	祭壇を守りきった。遺物を探してみよう。
-falias.15	隠された遺物を探してみよう。
-falias.16	隠された遺物を探してみよう。
-falias.17	ファリアスから現実世界に戻ってきた。
-falias.18	アンヴァルを倒して宝物を探してみよう。
-falias.19	人数が多いためエリンに戻ります。
-falias.20	ファリアスの遺物を見つけた。
-falias.21	祭壇から何の遺物も発見できなかった。
-falias.22	何の遺物も見つからなかった。
-falias.23	ミスをしてトラップが発動した。\nアンヴァルたちが遺物を守るために群がってくる。
-falias.24	アンヴァルから祭壇を守れ！
-falias.25	祭壇 :
-falias.26	結界を破壊するにはまず結界に力を送っている\nストーンヘンジを破壊しなければならない。
-falias.27	搭乗した状態では祭壇を調べられない。
-falias.28	人を乗せた状態では祭壇を調べられない。
-falias.29	飛行中は祭壇を調べられない。
-falias.30	祭壇が作動しない。\n作動させる方法を探してみよう。
-falias.31	アンヴァルから祭壇を守らないと遺物を獲得できない。
-falias.32	祭壇を守れなかった。\n祭壇から遺物を取り出すことができない。
-falias.33	祭壇を動かす装置が故障した。\n祭壇から遺物を取り出すことができない。
-falias.34	何の反応もない。
-falias.35	他の人の祭壇だ。
-falias.36	祭壇 :
-falias.37	アンヴァルをすべて食い止めた。\n祭壇から遺物を探してみよう。
-falias.38	祭壇から遺物を探してみよう。
+falias.13	You held back all of the Aonbharrs.\nSearch for treasure at the altar.
+falias.14	You protected the altar. Search it for treasures.
+falias.15	Search for the hidden treasure.
+falias.16	Search for the hidden treasure.
+falias.17	You have returned to Erinn from Falias.
+falias.18	Defeat the Aonbharrs and search for treasure.
+falias.19	There are too many people here. You must return to Erinn.
+falias.20	You found the treasure of Falias.
+falias.21	You couldn't find any treasure at the altar.
+falias.22	You couldn't find any treasure.
+falias.23	You made a mistake and activated a trap.\nAonbharrs are swarming to protect the treasure.
+falias.24	Protect the altar from the Aonbharrs!
+falias.25	Altar :
+falias.26	You cannot destroy the barrier without first destroying its power source.\nDestroy the Stonehenge providing power to the barrier.
+falias.27	You cannot check the altar while you are mounted.
+falias.28	You cannot check the altar while others are on it.
+falias.29	You cannot check the altar mid-flight.
+falias.30	The altar is currently not working.\nSearch for a way to activate it.
+falias.31	You cannot obtain treasures unless you protect the altar from the Aonbharrs.
+falias.32	You failed to protect the altar.\nYou will not receive any treasures.
+falias.33	The device which operates the altar has broken down.\nYou are unable to receive any treasures from the altar.
+falias.34	There is no reaction.
+falias.35	This altar must be operated by someone else.
+falias.36	Altar :
+falias.37	You held back all of the Aonbharrs.\nSearch for treasure at the altar.
+falias.38	Search the altar for treasures.
 falias.39	
-falias.40	祭壇が封印されているため遺物が獲得できない。
-falias.41	祭壇を守れなかった。\n祭壇を封印したアンヴァルたちが去っていく。
-falias.42	祭壇の封印が終わりつつある。\nこれ以上アンヴァルが接近すると危険だ。
-falias.43	封印の時間がかなり経った。\nアンバルの接近を防ぎ切ろう。
-falias.44	アンヴァルが自らを犠牲にして祭壇を封印している。\nアンヴァルが祭壇に近づけないよう食い止めよう。
-falias.45	{0} 의 경험치를 받았습니다.
+falias.40	You cannot obtain any treasures because the altar is sealed.
+falias.41	You failed to protect the altar.\nThe Aonbharrs that sealed the altar are leaving.
+falias.42	The altar's seal is nearing completion.\nIt's dangerous to allow more Aonbharrs to approach it.
+falias.43	A long time has passed since the altar was sealed.\nPrevent the Aonbharrs' approach.
+falias.44	The Aonbharrs are sacrificing themselves to seal the altar.\nPrevent the Aonbharrs from reaching the altar.
+falias.45	{0} experience points gained.
 fashionshow_event.1	タラファッションコンテスト予選受付を行っています。
 fashionshow_event.2	タラファッションコンテスト予選が始まりました。
 fashionshow_event.3	現在6チャンネルでタラファッションコンテスト本選受付を行っています。
@@ -660,14 +660,14 @@ item.glewyas_book.1	グルアスの本を読んでいる途中、図書カード
 item.glewyas_book.2	ミッションに失敗したら、蔵書館図書カードを使用してみよう。
 item.glewyas_book.3	グルアスの本を読んでいる途中、図書カードを発見した。
 item.glewyas_book.4	進行中のミッションを完了させて、蔵書館図書カードを使用してみよう。
-item.item12279.1	新しいファリアスの宝物スロットが活性化されました。
-item.item12279.2	効果がすでに適用されています。
-item.item12279.3	今は使用しても何の効果もありません。
-item.item12279.4	今は使用しても何の効果もありません。
-item.item12280.1	新しいファリアスの宝物スロットが活性化されました。
-item.item12280.2	効果がすでに適用されています。
-item.item12280.3	今は使用しても何の効果もありません。
-item.item12280.4	今は使用しても何の効果もありません。
+item.item12279.1	You have unlocked a Falias Treasure slot.
+item.item12279.2	The effect of this item has already been applied.
+item.item12279.3	Using this item now will have no effect.
+item.item12279.4	Using this item now will have no effect.
+item.item12280.1	You have unlocked a Falias Treasure slot.
+item.item12280.2	The effect of this item has already been applied.
+item.item12280.3	Using this item now will have no effect.
+item.item12280.4	Using this item now will have no effect.
 item.item12281.1	家系図の子供スロット追加に成功しました。
 item.item12281.2	子供スロットの追加に失敗しました。
 item.item12281.3	すでに家系図のすべての子供スロットが開いています。
@@ -710,23 +710,23 @@ item.item73211.3	병에 들어있는 물로 화분에 물을 주었다.
 item.item73211.4	비가 오지 않는 날에는 물이 든 병으로 화분에 물을 줄 수 있습니다.
 item.item73211.5	물을 주었더니 화분에서 꽃이 피었다.
 item.item75356.1	進行中のミッションを完了させて、蔵書館図書カードを再び使用してみよう。
-item.item75371.1	進行中のミッションを完了させて、女神の針を再び使用してみよう。
+item.item75371.1	You cannot use the Goddess Needle while you have another mission in progress.
 item.item75372.1	すでにカリバーンを取り戻した。
 item.item75372.2	進行中のミッションを完了または放棄して、カリバーンの通行証を再び使用してみよう。
 item.item75372.3	今の状態では使えない。
-item.item75420.1	女神像の近くで使用しなければならない。
-item.item75420.2	地下水路の女神像の近くで使用しなければならない。
-item.item75420.3	地下水路の女神像の近くで使用しなければならない。
-item.item75435.1	進行中のミッションを完了して、ヌアザの護符を再び使用してみよう。
-item.item75436.1	進行中のミッションを完了して、ファリアスの聖水を再び使用してみよう。
-item.item75444.1	復元可能なストーンヘンジの前で使用しなければならない。\n広場中央の大きな石板が光る方向にあるストーンヘンジを探そう。
-item.item75444.2	すでにすべてのストーンヘンジの封印を解いてポータルを開いた。
-item.item75444.3	スパークを使ったあと広場中央の大きな石板を触れば\n封印を解くことができるストーンヘンジが分かる。
-item.item75444.4	復元可能なストーンヘンジの前で使用しなければならない。
-item.item75444.5	復元可能なストーンヘンジの前で使用しなければならない。
-item.item75444.6	最終章の復元可能なファリアスストーンヘンジの前で使用しなければならない。
-item.item75444.7	最終章の復元可能なファリアスストーンヘンジの前で使用しなければならない。
-item.item75451.1	進行中のミッションを完了して、ファリアスの欠片を再び使用してみよう。
+item.item75420.1	You must be near the Statue of the Goddess to use this item.
+item.item75420.2	You must be near the Statue of the Goddess in the Underground Waterway to use this item.
+item.item75420.3	You must be near the Statue of the Goddess in the Underground Waterway to use this item.
+item.item75435.1	You cannot use Nuadha's Talisman while you have another mission in progress.
+item.item75436.1	You cannot use the Holy Water of Falias while you have another mission in progress.
+item.item75444.1	This item can only be used in front of a repairable Stonehenge.\nUse the large stone slabs in the center of the square to find the proper Stonehenge.
+item.item75444.2	You have already unsealed all the Stonehenges and opened the portal.
+item.item75444.3	After using Shock, touch the large stone slabs in the center of the area\nto find the Stonehenge which can break the seal.
+item.item75444.4	This item can only be used in front of a repairable Stonehenge.
+item.item75444.5	This item can only be used in front of a repairable Stonehenge.
+item.item75444.6	This item can only be used in front of a Falias Stonehenge in The Final Chapter.
+item.item75444.7	This item can only be used in front of a Falias Stonehenge in The Final Chapter.
+item.item75451.1	You cannot use the Falias Fragment while you have another mission in progress.
 item.item85047.1	さんが古い宝箱から
 item.item85047.2	アイテムを獲得しました。
 item.item85053.1	님께서 시몬의 럭셔리 신상품 상자에서
