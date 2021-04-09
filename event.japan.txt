@@ -602,18 +602,18 @@ falias.42	The altar's seal is nearing completion.\nIt's dangerous to allow more 
 falias.43	A long time has passed since the altar was sealed.\nPrevent the Aonbharrs' approach.
 falias.44	The Aonbharrs are sacrificing themselves to seal the altar.\nPrevent the Aonbharrs from reaching the altar.
 falias.45	{0} experience points gained.
-fashionshow_event.1	We are now accepting entries for the Tara Fashion Contest qualifier rounds.
-fashionshow_event.2	The Tara Fashion Contest Qualifiers have now begun.
-fashionshow_event.3	Entries for the Tara Fashion Contest Finals are now being accepted.
-fashionshow_event.4	The Tara Fashion Contest Finals have now begun.
-fashionshow_event.5	The Tara Fashion Contest Qualifiers reception has ended.
-fashionshow_event.6	The Tara Fashion Contest Qualifiers have ended.
-fashionshow_event.7	The Tara Fashion Contest is now available.
-fashionshow_event.8	The Tara Fashion Contest is now available.
-fashionshow_event.9	The Tara Fashion Contest Qualifiers are scheduled to begin at 8 p.m. Please join now.
-fashionshow_event.10	The Tara Fashion Contest Qualifiers are now being conducted. Please join us
-fashionshow_event.11	The Tara Fashion Contest Finale starts at 8 p.m. Please join us.
-fashionshow_event.12	The Tara Fashion Contest is currently being conducted.
+fashionshow_event.1	Applications for the Tara Fashion Contest Preliminaries are currently being accepted.
+fashionshow_event.2	The Tara Fashion Contest Preliminaries are taking place.
+fashionshow_event.3	Applications for the Tara Fashion Contest Finals are currently being accepted.
+fashionshow_event.4	The Tara Fashion Contest Finals are taking place.
+fashionshow_event.5	Applications for the Tara Fashion Contest Preliminaries are now closed.
+fashionshow_event.6	The Tara Fashion Contest Preliminaries have ended.
+fashionshow_event.7	Applications for the Tara Fashion Contest Finals are now closed.
+fashionshow_event.8	The Tara Fashion Contest Finals have ended.
+fashionshow_event.9	The Tara Fashion Contest Preliminaries are scheduled to take place at 8 p.m. All are cordially invited.
+fashionshow_event.10	The Tara Fashion Contest Preliminaries are now underway. All are cordially invited.
+fashionshow_event.11	The Tara Fashion Contest Finals are scheduled to take place at 8 p.m. All are cordially invited.
+fashionshow_event.12	The Tara Fashion Contest Finals are now underway.
 g1_event.1	G1_40_b カットシーンが終了しました。
 g2_event.1	여신 컷신 보기 시작함
 g2_event.2	컷신이 끝나고 부른다제
