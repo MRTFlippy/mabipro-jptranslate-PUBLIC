@@ -16588,7 +16588,7 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 16657	Defeat the Giant Spider in Alby Dungeon to obtain the ring it swallowed
 16658	Give the Ring to Malcolm
 16659	You received a quest that the owl delivered to you.<br/>I am glad that you came.<br/>Actually, it seems that I dropped the ring when I went into Alby Dungeon,<br/>I must take care of my shop, so I cannot go search for it.<p/>Could I ask you to search for it for me?<br/>You can obtain a pass from Trefor which will take you to where I lost it.<br/>Please be sure to find the ring!
-16660	Malcolm spoke to me.<br/>He was so upset about losing a ring.<br/>Well,く<username/>I hope you find it for him.<p/>You must be careful in the dungeon.<br/>I don't know what strong enemies will be hiding there.<p/>Let me give you some advice when fighting strong enemies,<br/>there is a skill called Down Attack that can attack continuously before an enemy gets up!<p/>Now, here is the pass to where you can find the ring.
+16660	Malcolm spoke to me.<br/>He was so upset about losing a ring.<br/>Well,く<username/>I hope you find it for him.<p/>You must be careful in the dungeon.<br/>I don't know what strong enemies will be hiding there.<p/>Let me give you some advice when fighting strong enemies,<br/>there is a skill called Assault Slash that can attack continuously before an enemy gets up!<p/>Now, here is the pass to where you can find the ring.
 16661	@tutorial_lost_ring_end
 16662	Powerful Blow, Smash
 16663	It's Trefor. I want to teach you a powerful skill as a way to thank you for taking care of the white spiders. Will you come see me? - Trefor -
@@ -16602,18 +16602,18 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 16671	Hello, I am Lassar of Tir Chonaill and I teach magic. I will teach you one magic skill that you can easily remember and use! I am in the Tir Chonaill School building next to Ranald. Come see me when you can. - Lassar -
 16672	Speak with Lassar
 16673	<username/>Have you learned any magic yet?<br/>Anyone can use magic, you just need to learn the energy of its existence.<br/>It's all about changing your surroundings.<p/>In short, you can use this magic skill to lower the temperature in order to make ice.<br/>Other magics can change temperatures to extremely hot and make fire.<br/>Besides ice and fire, I can also change myself and everything around me.<p/>If you want to experience powerful magics, it is recommended that you read this book on Icebolt first.<br/>Anyone can easily learn icebolt. It is considered a basic magic.<br/>I'll show you how to use it now, and then you try using it in battle.<br/>If you want come back and see me later, to learn about more magic spells.
-16674	Down Attack
+16674	Assault Slash
 16675	Are you enjoying the smash skill I taught you earlier? Isn't the feeling of taking down enemies with one shot exhilerating?! I will teach you another skill that allows you to have that feeling twice if you come see me. - Nicca -
 16676	Speak with Nicca
-16677	If you noticed,<br/>you can attack an enemy with smash but you cannot attack it again.<br/>What if I told you there is a skill you can use after you smash, that allows you to land down on top of them?<p/>You can use this attack on their whole body!<br/>It is called Down Attack.<p/>Select the skill hotkey and register it anywhere on your skill bar.<br/>You will be able to use it to attack enemies before they collapse.
-16678	Down Attack
-16679	Do you know about the Down Attack skill? It is used immediately after an enemy lands on the ground. If you'd like to learn this skill come see me. - Meles -
+16677	If you noticed,<br/>you can attack an enemy with smash but you cannot attack it again.<br/>What if I told you there is a skill you can use after you smash, that allows you to land down on top of them?<p/>You can use this attack on their whole body!<br/>It is called Assault Slash.<p/>Select the skill hotkey and register it anywhere on your skill bar.<br/>You will be able to use it to attack enemies before they collapse.
+16678	Assault Slash
+16679	Do you know about the Assault Slash skill? It is used immediately after an enemy lands on the ground. If you'd like to learn this skill come see me. - Meles -
 16680	Speak with Meles
-16681	You have been defeating enemies,<br/>but what about the ones who still get up after an attack?<br/>This skill Down Attack is exactly for those times.<p/>It will allow you to fly into the air and then hit your enemy with an exhilerating blow.<br/>Just register the Down Attack Skill on any of your hotkeys<br/>You will then be able to use Down Attack on your enemies.<br/>Just press the skill right before they collapse on the ground.
-16682	Down Attack
+16681	You have been defeating enemies,<br/>but what about the ones who still get up after an attack?<br/>This skill, Assault Slash, is exactly for those times.<p/>It will allow you to fly into the air and then hit your enemy with an exhilarating blow.<br/>Just register the Assault Slash Skill on any of your hotkeys<br/>You will then be able to use Assault Slash on your enemies.<br/>Just press the skill right before they collapse on the ground.
+16682	Assault Slash
 16683	Let me teach you a powerful attack that will allow you to fly at your enemies and hit them with a powerful blow. If you are interested come see me. - Taunes -
 16684	Speak with Taunes
-16685	Have you been attacking enemies lately,<br/>and then having to wait for them to get back up to attack them again?<br/>Well there is a skill you can use at the exact moment they fall,<p/>Just register Down Attack in one of your hotkey slots,<br/>and push the skill quickly before the enemy lands on the ground.<br/>It will allow you to defeat your enemies with ease.
+16685	Have you been attacking enemies lately,<br/>and then having to wait for them to get back up to attack them again?<br/>Well there is a skill you can use at the exact moment they fall,<p/>Just register Assault Slash in one of your hotkey slots,<br/>and push the skill quickly before the enemy lands on the ground.<br/>It will allow you to defeat your enemies with ease.
 16686	샤론의 부름
 16687	저의 맛있는 사탕을 말썽꾸러기 네 쌍둥이 중 누군가가 가지고 갔어요. 누가 가져간 건지 알려 주시겠어요? 저를 도와주시려면 티르코네일로 와주세요. 참! 저는 밝을 때는 보이지 않아요.-샤론
 16688	샤론과 대화
