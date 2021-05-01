@@ -1,5 +1,5 @@
 ﻿2_test.1	Jenna : If you eat arat berries you will be able to sense enemy traps and mines
-700001_killcommander.1	The boundaries for the square were all solved.
+700001_killcommander.1	The barriers to the town square were all broken.
 700001_killcommander.2	region
 700001_killcommander.3	The Erg of Darkness can be felt again throughout。
 700001_killcommander.4	region
@@ -18,20 +18,20 @@
 700007_capturecity2.2	region
 700009_defensecity.1	The final defense net has been broken. Pull out.
 700009_defensecity.2	region
-700010_killcommander2.1	The boundaries for the square were all solved.
+700010_killcommander2.1	The barriers to the town square were all broken.
 700010_killcommander2.2	region
 700010_killcommander2.3	The Erg of Darkness can be felt again throughout
 700010_killcommander2.4	region
-700011_killwarrior.1	The boundaries for the square were all solved.
+700011_killwarrior.1	The barriers to the town square were all broken.
 700011_killwarrior.2	region
-700012_killwizard.1	The boundaries for the square were all solved.
+700012_killwizard.1	The barriers to the town square were all broken.
 700012_killwizard.2	region
 700013_sacrifice.1	Shadow Wizard : An intruder?
 700013_sacrifice.2	region
 701001_waterfall.1	To Tara
 701001_waterfall.2	Monsters have invaded.
 701004_enemyannihilation.1	Enemies have appeared at the north gate.
-701005_trouble.1	It seems that all of the small enemies have been eliminated. Let's search for the boss.
+701005_trouble.1	It seems that all of the lackeys have been eliminated. Let's search for the boss.
 701005_trouble.2	region
 701008_smellslikewinespirit.1	All monsters have been eliminated.
 701009_castleep1alchemist.1	You have defeated all of the enemies. Please proceed to the first floor.
@@ -343,60 +343,60 @@
 720007_monstercastle.2	Border area
 720007_monstercastle.3	Monsters are too close to the village...
 720007_monstercastle.4	Clear out these monsters and head to the castle.
-720007_monstercastle.5	The castle seems to be safe yet.
+720007_monstercastle.5	The front of the castle appears to remain safe.
 720007_monstercastle.6	I wonder if this is the last spawn...
 720008_guardianofavon.2	Cemetery
 720008_guardianofavon.3	A monster is coming out of the cemetery...
 720008_guardianofavon.4	The aura from the Grim Reaper is felt from inside the castle.
-720008_guardianofavon.5	Grim Reaper is here!
+720008_guardianofavon.5	The Grim Reaper is here!
 790001_fallon_rp.1	The main enemy force has come back.
 790001_fallon_rp.2	region
-790002_sealofalchemist.1	Cai : Good! What is... such a monster...
+790002_sealofalchemist.1	Cai : Gah! What ... sort of monster...
 790002_sealofalchemist.2	region
-790002_sealofalchemist.3	Leymore : In order for us to continue this investigation, you need to clear this out first.
+790002_sealofalchemist.3	Leymore : In order for us to continue this investigation, we need to clear this out first.
 790002_sealofalchemist.4	region
 790002_sealofalchemist.5	Cai died.
 790002_sealofalchemist.6	region
-790003_deliveringsupply.1	Can you follow the captain down the road... Yes, there is a strange gem in front.
+790003_deliveringsupply.1	If I follow the road, I should be able to join up with the captain...Hm? There's a strange orb up ahead...
 790004_deliveringicemine.1	Jenna was knocked unconscious by a monster.
 790004_deliveringicemine.2	region
-790007_pryingintocamp.1	The boundaries to the square were all solved.
+790007_pryingintocamp.1	The barriers to the town square were all broken.
 790007_pryingintocamp.2	region
-790008_pryingintocamp2.1	The boundaries to the square were all solved.
+790008_pryingintocamp2.1	The barriers to the town square were all broken.
 790008_pryingintocamp2.2	region
-790009_pryingintocamp3.1	The boundaries to the square were all solved.
+790009_pryingintocamp3.1	The barriers to the town square were all broken.
 790009_pryingintocamp3.2	region
 790009_pryingintocamp3.3	The erg of darkness is felt once again throughout.
 790009_pryingintocamp3.4	region
-790010_pryingintocamp4.1	The boundaries to the square were all solved.
+790010_pryingintocamp4.1	The barriers to the town square were all broken.
 790010_pryingintocamp4.2	region
 790010_pryingintocamp4.3	The erg of darkness is felt once again throughout.
 790010_pryingintocamp4.4	region
-790011_pryingintocamp5.1	The boundaries to the square were all solved.
+790011_pryingintocamp5.1	The barriers to the town square were all broken.
 790011_pryingintocamp5.2	region
-790012_pryingintocamp6.1	The boundaries to the square were all solved.
+790012_pryingintocamp6.1	The barriers to the town square were all broken.
 790012_pryingintocamp6.2	region
-790013_pryingintocamp7.1	The boundaries to the square were all solved.
+790013_pryingintocamp7.1	The barriers to the town square were all broken.
 790013_pryingintocamp7.2	region
 790013_pryingintocamp7.3	The erg of darkness is felt once again throughout.
 790013_pryingintocamp7.4	region
-790014_pryingintocamp8.1	The boundaries to the square were all solved.
+790014_pryingintocamp8.1	The barriers to the town square were all broken.
 790014_pryingintocamp8.2	region
 790014_pryingintocamp8.3	The erg of darkness is felt once again throughout.
 790014_pryingintocamp8.4	region
 790015_claimhsolas.1	Leymore was knocked unconscious.
 790015_claimhsolas.2	region
-790016_courcleheart.1	The boundaries to the square were all solved.
+790016_courcleheart.1	The barriers to the town square were all broken.
 790016_courcleheart.2	region
 790016_courcleheart.3	The erg of darkness is felt once again throughout.
 790016_courcleheart.4	region
-790018_helpjenna.1	Jenna was knocked unconcious by a monster.
+790018_helpjenna.1	Jenna was knocked unconscious by a monster.
 790018_helpjenna.2	region
 790020_final2.1	He died.
 790020_final2.2	region
 790020_final2.3	Cai died.
 790020_final2.4	region
-790020_final2.5	??? : It's too late to continue.
+790020_final2.5	??? : An obstacle has appeared...however, you're too late.
 790020_final2.6	region
 790020_final2.7	Cai : Hold out just a little longer. This will be over soon.
 790020_final2.8	region
@@ -410,30 +410,30 @@
 791007_heartofcourcle.4	Unable to find a party leader.
 791009_rarebook.1	It seems the barrier to the square has been solved.
 791009_rarebook.2	I found a rare book from the soldier's corpse.
-791010_alchemist.1	Jenna fell down.
+791010_alchemist.1	Jenna was knocked unconscious.
 792001_librarybookcard.1	region
 792001_librarybookcard.2	Cichol : Long time no see...
 792003_medalofalchemist.1	Boss room cleared.
 792003_medalofalchemist.2	region
 792003_medalofalchemist.3	Cai : I'll be waiting in the room at the far east end.
-792004_heartbreakofleymore.1	Shadow Warrior : Finally, alchemist, you will not escape.
-792004_heartbreakofleymore.2	Leymore fell down
-792006_history.1	Talk to Leymore and Cai to accompany you.
-792006_history.2	My companions have collapsed.
-792007_meetbuchanan.1	Talk to Leymore and Cai to accompany you.
-792007_meetbuchanan.2	My companions have collapsed.
-792008_hitorder.1	Talk to Leymore and Cai to accompany you.
-792008_hitorder.2	My companions have collapsed.
-792011_getbruinac.1	Leymore fell down
-792011_getbruinac.2	Leymore fell down
-792013_stairwaytoaltar.1	??? This means the spirit of the prophet is frustrated.
-792013_stairwaytoaltar.2	The altar of destiny... You cannot pass.
-792013_stairwaytoaltar.3	Do not bother helping them... Milletians...
-792013_stairwaytoaltar.4	Why...Why...It did not say a key was needed for the end.
-792013_stairwaytoaltar.5	Cai has fallen.
+792004_heartbreakofleymore.1	Shadow Warrior : We've caught you now, alchemist. You will not escape.
+792004_heartbreakofleymore.2	Leymore was knocked unconscious.
+792006_history.1	Talk to Leymore and Cai to have them accompany you.
+792006_history.2	My companions were knocked unconscious.
+792007_meetbuchanan.1	Talk to Leymore and Cai to have them accompany you.
+792007_meetbuchanan.2	My companions were knocked unconscious.
+792008_hitorder.1	Talk to Leymore and Cai to have them accompany you.
+792008_hitorder.2	My companions were knocked unconscious.
+792011_getbruinac.1	Leymore was knocked unconscious.
+792011_getbruinac.2	Leymore was knocked unconscious.
+792013_stairwaytoaltar.1	Are you trying to crush the Partholonians' will...Tuan's will?
+792013_stairwaytoaltar.2	The altar of destiny... we won't hand it over.
+792013_stairwaytoaltar.3	Why are you helping them...? Milletians...
+792013_stairwaytoaltar.4	Why...why?...You may hold the key in your hands, but this is not the end.
+792013_stairwaytoaltar.5	Cai was knocked unconscious.
 792013_stairwaytoaltar.6	Unable to find the party leader at the entrance.
 792202_caiback.1	Cai : I'll be waiting in the room at the far east end.
-792203_claimhsolas.1	Cai has fallen.
+792203_claimhsolas.1	Cai was knocked unconscious.
 792203_claimhsolas.2	Dalet
 792203_claimhsolas.3	Tiferet
 792203_claimhsolas.4	Atah
@@ -457,15 +457,15 @@
 792203_claimhsolas.22	_Gimel
 793001_homunculusexperiment.1	bossroom_message
 793001_homunculusexperiment.2	I could not break the barrier. Talk to the boy.
-793001_homunculusexperiment.3	Corrupted Alchemist : Oh visitors... Alright, let me show you something interesting.
-793001_homunculusexperiment.4	Corrupted Alchemist : Stop acting like children, attack the intruders.
-793001_homunculusexperiment.5	Corrupted Alchemist : This is useless.
-793001_homunculusexperiment.6	Boy : My father... I'm so sad...
-793001_homunculusexperiment.7	??? : Runs hand through hair, it is visibly secure.
+793001_homunculusexperiment.3	Corrupted Alchemist : Looks like we've got visitors. Hehe, excellent. Time to show them something interesting.
+793001_homunculusexperiment.4	Corrupted Alchemist : Attack the intruders, my cute children!
+793001_homunculusexperiment.5	Corrupted Alchemist : Ugh, failures. Useless.
+793001_homunculusexperiment.6	Boy : Daddy...how sad...
+793001_homunculusexperiment.7	??? : Hide yourself well~ I can still see your hair~.
 793001_homunculusexperiment.8	??? : This... is no fun.
-793001_homunculusexperiment.9	(Boy's Voice) : What... What is that...
+793001_homunculusexperiment.9	(Boy's Voice) : Whose...whose voice is that...
 793001_homunculusexperiment.10	The boy died.
-793004_investigatecanal.1	The Goddess Statue holds a barrier that you cannot pass through.
+793004_investigatecanal.1	The Goddess Statue has created a barrier that you cannot pass through.
 793004_investigatecanal.2	Dalet
 793004_investigatecanal.3	Tiferet
 793004_investigatecanal.4	Atah
@@ -529,13 +529,13 @@
 793006_meetnuadha2.19	_Dairam
 793006_meetnuadha2.20	Gimel
 793006_meetnuadha2.21	_Gimel
-793010_killhelvetius.1	Let's retreat the Royal Alchemist Government is ruined.
-793010_killhelvetius.2	Helvetius : ...We will meet again, Lennox.
+793010_killhelvetius.1	We will retreat if the Royal Alchemists are wiped out.
+793010_killhelvetius.2	Helvetius : So...we meet once again, Lennox.
 793010_killhelvetius.3	My friends died.
 793010_killhelvetius.4	My friends died.
-793011_morrighan_rp.1	The mission failed.
-793012_breakbruinac.1	The mission failed.
-793014_nuadha_final.1	Morrighan collapsed.
+793011_morrighan_rp.1	Mission failed.
+793012_breakbruinac.1	Mission failed.
+793014_nuadha_final.1	Morrighan fell unconscious.
 794000_intro.1	King Elsinore
 794000_intro.2	Test
 794000_intro.3	Test
@@ -610,7 +610,7 @@ puzzle_castleattackprop.6	region
 puzzle_castleattackprop.7	The eyes of the Cerberus have begun to glow green.
 puzzle_castleattackprop.8	region
 puzzle_castlechandelier.1	region
-puzzle_castlechase.1	Royal Alchemist?
+puzzle_castlechase.1	Royal Alchemists?!
 puzzle_castlechase.2	The end is so far...
 puzzle_castlechase.3	Haha... persistent...
 puzzle_castlechase.4	There is an iron gate blocking the north area
