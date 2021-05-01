@@ -15976,43 +15976,43 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 16045	오늘은 좀 더 상급의 마족을 사냥하라는 지시를 받았다. 사람의 모습을 하고 있는 도플갱어가 마스 던전에 나타난다는 소문이다. 도플갱어를 퇴치하는 것이 오늘의 임무다. 지급된 통행증을 가지고 마스 던전에 들어가도록. - 크레이그 -
 16046	마스 던전의 도플갱어를 퇴치
 16047	Investigate Homunculus Experiment
-16048	最近タラの影世界で怪しい動きが目撃されました。堕落した錬金術師たちがホムンクルス錬成実験を進めているようです。 調査をお願いします。  - Sinead
-16049	モンスターを倒しながら広場のほうへ行ってみよう。
+16048	We have recently witnessed suspicious activity in the Tara Shadow Realm. It appears that the Corrupted Alchemists are performing Homunculus Experiments. Please investigate.  - Sinead
+16049	Defeat the monsters as you head towards the square.
 16050	Arat Alchemy Society
-16051	ジェナに会ってヘルベティウスについて聞いてみよう。
+16051	Meet with Jenna and ask her about Helvetius.
 16052	Defeat enemies and find Jenna.
 16053	Get information from Jarlath
-16054	王城の影世界にいるジャレスを説得して情報を入手してくれ。 - Lennox
+16054	Persuade Jarlath in the Tara Royal Castle Shadow Realm and obtain some information. - Lennox
 16055	Find Jarlath.
 16056	Investigation of the Underground Waterway
-16057	王政錬金術師 レイモアの影世界の調査を手伝ってください。 - Sinead
-16058	レイモアと一緒に影の世界で起きている堕落した錬金術師の陰謀を調査しよう。
+16057	Please assist Leymore in his investigation of the Shadow Realm. - Sinead
+16058	Investigate the activities of the Corrupt Alchemists in the Shadow Realm with Leymore.
 16059	Investigate Underground Waterway 2
-16060	バイヴ・カハの護符が女神の結界を解除するのに役立つでしょう。- Sinead
+16060	Use The Badhbh Cath Talisman to dispel the Goddess' barrier. - Sinead
 16061	Investigate the underground waterway that is blocked by the Goddess's barrier.
-16062	Path of a God
+16062	The Path to Godhood
 16063	Do you accept the fate of the Gods?  - Nuadha
 16064	Search for Nuadha
-16065	Goddess of Light
-16066	神になりたいか？バイヴ・カハの護符を使いネヴァンを呼び出せ。 - Nuadha
+16065	The Goddess of Light
+16066	Do you wish to become a god？ Use the Badhbh Cath Talisman to call upon Neamhain. - Nuadha
 16067	Approach Nuadha to save the Goddess.
-16068	Manual: Temple Knight Coat of Arms
-16069	聖堂騎士団に関することならば、ジェナが助けてくれるだろう。 - Collen
-16070	Get 6 types of Temple Knight Coat of Arm Materials and then speak to Jenna to have her make a Temple Knight Coat of Arms.
+16068	Temple Knight Coat of Arms
+16069	If this concerns the Temple Knights, Jenna will be able to help - Collen
+16070	Obtain 6 types of Temple Knight Coat of Arm Materials then speak to Jenna to have her make a Temple Knight Coat of Arms.
 16071	Soul Stream
-16072	余計な忠告かもしれないが、もうひとりの神族であるモリアンに会って意見を求めるといいだろう。 - Lennox
+16072	This may be some unwanted advice, but it might be a good idea to meet with Morrighan and ask for another goddess' opinion. - Lennox
 16073	Listen to Morrighan's Story
 16074	All Out Attack!
-16075	堕落した錬金術師と彼らのボス、ヘルベティウスに対する総攻撃がもうじき始まる予定だ。我々を支援してくれ。  - Lennox
+16075	We are about to commence an all-out attack on the Corrupted Alchemists and their boss, Helvetius. We request your support. - Lennox
 16076	Go to the square after talking with Leymore and Jenna
 16077	Memories of the Goddess
-16078	ファリアスの聖水に映された女神モリアンの記憶を読んでください。  - Falias Gatekeeper
-16079	Defeat the Doals
+16078	Please view the memories of the Goddess Morrighan, which are projected in the Holy Water of Falias.  - Falias Gatekeeper
+16079	Defeat the Daols
 16080	Golden Apple
 16081	I heard about a treasure of the Gods. It is in Tailteann.  - Karpfen
 16082	The golden apple absorbs the erg from monsters in the Shadow Realm.
 16083	Last Chapter
-16084	Only you can defeat Nuadha by absorbing power from Falias the City of the God's.  - Falias Gatekeeper
+16084	Only you can defeat Nuadha by absorbing power from Falias, the City of the Gods.  - Falias Gatekeeper
 16085	Let's awaken Morrighan's power and defeat Nuadha who is at Falias.
 16086	Rewards for Charitable Activities
 16087	Thank you for your participation in donating to our charity project. There is something I want to give you. When you have time come see me. God Bless. - Corentin -
@@ -16572,23 +16572,23 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 16641	Alter Ego
 16642	Do you know that the spirits of all life forms are connected by a flow that is governed by Irinid? Once you study this flow, you may be able to control it and create wondrous things. - Kousai
 16643	Speak with Kousai in Cor
-16644	Use Soul Spirit in Ghost of Partholon
+16644	Use a Spirit Crystal in Ghost of Partholon
 16645	Speak with Kousai in Cor
 16646	Eliminate 100 Monsters
 16647	Speak with Kousai in Cor
-16648	Defeat Dopplegangers in Shadow Cast City
+16648	Defeat the Doppelganger in Shadow Cast City on Advanced or higher difficulty.
 16649	The great spirit of Irinid will be with you.<p/Your soul<br/>can move into another person.<p/>It would be nice<br/>to be able to freely move into another person.<p/>In a shadow mission in Tara,<br/>there are spirit stones<br/>they are used to transport you into another being.<p/>Can you go try it once?
 16650	The great spirit of Irinid will be with you.<p/>You tried moving into a soul of an enemy monster?<br/>You will experience the next stage soon.<p/>When you are defeating a monster<br/>you should feel the souls start to scatter<br/>Did you feel that?
 16651	Did you feel the monster's soul?<p/>Lastly, go look for a person who can do the same<br/>you will learn something new.<p/>Go to Tara and<br/>select a Shadow Cast City quest<p/>defeat all the monsters<br/>once you do that collect their souls<br/>you will make another ego and master the attack<p/>Do not forget<br/>that this mission is of the highest difficulty.
 16652	Acquire Alter Ego Skill
 16653	Malcolm's Ring
-16654	It is Malcolm from the General Shop in Tir Chonaill. A while back I was in Alby Dungeon and I lost my ring. I am too busy to go looking for it, would you please help me find it? Please come see me first. \ N - Malcolm -
+16654	This is Malcolm from the General Shop in Tir Chonaill. A while back I was in Alby Dungeon and I lost my ring. I am too busy to go looking for it, would you please help me find it? Please come see me first. \ N - Malcolm -
 16655	Speak with Malcolm at the Tir Chonaill General Shop
 16656	Speak with Trefor
 16657	Defeat the Giant Spider in Alby Dungeon to obtain the ring it swallowed
 16658	Give the Ring to Malcolm
 16659	You received a quest that the owl delivered to you.<br/>I am glad that you came.<br/>Actually, it seems that I dropped the ring when I went into Alby Dungeon,<br/>I must take care of my shop, so I cannot go search for it.<p/>Could I ask you to search for it for me?<br/>You can obtain a pass from Trefor which will take you to where I lost it.<br/>Please be sure to find the ring!
-16660	Malcolm spoke to me.<br/>He was so upset about losing a ring.<br/>Well,く<username/>I hope you find it for him.<p/>You must be careful in the dungeon.<br/>I don't know what strong enemies will be hiding there.<p/>Let me give you some advice when fighting strong enemies,<br/>there is a skill called Down Attack that can attack continuously before an enemy gets up!<p/>Now, here is the pass to where you can find the ring.
+16660	Malcolm spoke to me.<br/>He was so upset about losing a ring.<br/>Well,く<username/>I hope you find it for him.<p/>You must be careful in the dungeon.<br/>I don't know what strong enemies will be hiding there.<p/>Let me give you some advice when fighting strong enemies,<br/>there is a skill called Assault Slash that can attack continuously before an enemy gets up!<p/>Now, here is the pass to where you can find the ring.
 16661	@tutorial_lost_ring_end
 16662	Powerful Blow, Smash
 16663	It's Trefor. I want to teach you a powerful skill as a way to thank you for taking care of the white spiders. Will you come see me? - Trefor -
@@ -16602,18 +16602,18 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 16671	Hello, I am Lassar of Tir Chonaill and I teach magic. I will teach you one magic skill that you can easily remember and use! I am in the Tir Chonaill School building next to Ranald. Come see me when you can. - Lassar -
 16672	Speak with Lassar
 16673	<username/>Have you learned any magic yet?<br/>Anyone can use magic, you just need to learn the energy of its existence.<br/>It's all about changing your surroundings.<p/>In short, you can use this magic skill to lower the temperature in order to make ice.<br/>Other magics can change temperatures to extremely hot and make fire.<br/>Besides ice and fire, I can also change myself and everything around me.<p/>If you want to experience powerful magics, it is recommended that you read this book on Icebolt first.<br/>Anyone can easily learn icebolt. It is considered a basic magic.<br/>I'll show you how to use it now, and then you try using it in battle.<br/>If you want come back and see me later, to learn about more magic spells.
-16674	Down Attack
+16674	Assault Slash
 16675	Are you enjoying the smash skill I taught you earlier? Isn't the feeling of taking down enemies with one shot exhilerating?! I will teach you another skill that allows you to have that feeling twice if you come see me. - Nicca -
 16676	Speak with Nicca
-16677	If you noticed,<br/>you can attack an enemy with smash but you cannot attack it again.<br/>What if I told you there is a skill you can use after you smash, that allows you to land down on top of them?<p/>You can use this attack on their whole body!<br/>It is called Down Attack.<p/>Select the skill hotkey and register it anywhere on your skill bar.<br/>You will be able to use it to attack enemies before they collapse.
-16678	Down Attack
-16679	Do you know about the Down Attack skill? It is used immediately after an enemy lands on the ground. If you'd like to learn this skill come see me. - Meles -
+16677	If you noticed,<br/>you can attack an enemy with smash but you cannot attack it again.<br/>What if I told you there is a skill you can use after you smash, that allows you to land down on top of them?<p/>You can use this attack on their whole body!<br/>It is called Assault Slash.<p/>Select the skill hotkey and register it anywhere on your skill bar.<br/>You will be able to use it to attack enemies before they collapse.
+16678	Assault Slash
+16679	Do you know about the Assault Slash skill? It is used immediately after an enemy lands on the ground. If you'd like to learn this skill come see me. - Meles -
 16680	Speak with Meles
-16681	You have been defeating enemies,<br/>but what about the ones who still get up after an attack?<br/>This skill Down Attack is exactly for those times.<p/>It will allow you to fly into the air and then hit your enemy with an exhilerating blow.<br/>Just register the Down Attack Skill on any of your hotkeys<br/>You will then be able to use Down Attack on your enemies.<br/>Just press the skill right before they collapse on the ground.
-16682	Down Attack
+16681	You have been defeating enemies,<br/>but what about the ones who still get up after an attack?<br/>This skill, Assault Slash, is exactly for those times.<p/>It will allow you to fly into the air and then hit your enemy with an exhilarating blow.<br/>Just register the Assault Slash Skill on any of your hotkeys<br/>You will then be able to use Assault Slash on your enemies.<br/>Just press the skill right before they collapse on the ground.
+16682	Assault Slash
 16683	Let me teach you a powerful attack that will allow you to fly at your enemies and hit them with a powerful blow. If you are interested come see me. - Taunes -
 16684	Speak with Taunes
-16685	Have you been attacking enemies lately,<br/>and then having to wait for them to get back up to attack them again?<br/>Well there is a skill you can use at the exact moment they fall,<p/>Just register Down Attack in one of your hotkey slots,<br/>and push the skill quickly before the enemy lands on the ground.<br/>It will allow you to defeat your enemies with ease.
+16685	Have you been attacking enemies lately,<br/>and then having to wait for them to get back up to attack them again?<br/>Well there is a skill you can use at the exact moment they fall,<p/>Just register Assault Slash in one of your hotkey slots,<br/>and push the skill quickly before the enemy lands on the ground.<br/>It will allow you to defeat your enemies with ease.
 16686	샤론의 부름
 16687	저의 맛있는 사탕을 말썽꾸러기 네 쌍둥이 중 누군가가 가지고 갔어요. 누가 가져간 건지 알려 주시겠어요? 저를 도와주시려면 티르코네일로 와주세요. 참! 저는 밝을 때는 보이지 않아요.-샤론
 16688	샤론과 대화
