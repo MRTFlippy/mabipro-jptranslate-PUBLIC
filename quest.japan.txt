@@ -15217,7 +15217,7 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 15286	Will you finally meet Buchanan?
 15287	You must defeat the monsters in order to obtain the key required for entering the Royal Library. If you're having problems, request help from the Royal Alchemists.
 15288	Making Caviar Canapés
-15289	Take 59 Fruits, 47 Seafood, and add 11 Floursm and mix for 20 minutes to make a delicious caviar canapé
+15289	Add 59 Fruits, 47 Seafood, and add 11 Flours and mix for 20 minutes to make a delicious caviar canapé
 15290	Add 59 Fruits, 47 Seafood, and add 11 Flours and mix for 20 minutes to make a delicious caviar canapé
 15291	Make Chicken Gratin
 15292	Add 51 Pieces of Meat, 33 Cheeses, 11 Spices, and mix for 15 minutes to make delicious Chicken Gratin
@@ -15264,9 +15264,9 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 15333	パズルコレクションブック
 15334	ポウォールたちはいつも王城を占領するために様々なことを試みていました。やつらに城を渡すわけにはいきません。-Padan
 15335	城のいくつかの部屋を経て、一番奥の部屋に何があるのか探してみよう。
-15336	フルーツジュース作り
-15337	木の実21個と水12さじを入れて5分間混ぜると、おいしいフルーツジュースができる。
-15338	木の実21個、水12さじを入れて\n5分過ぎたらフォークを叩く。
+15336	Making Fruit Juice
+15337	Mix 21 Fruits and 12 Waters for 5 minutes to make delicious Fruit Juice
+15338	Mix 21 Fruits and 12 Waters for 5 minutes to make delicious Fruit Juice
 15339	Temporary Camp Defenses in the Desert
 15340	Help! The Provisional Camp in the desert is in danger. -Alexina- 
 15341	Talk to Alexina
