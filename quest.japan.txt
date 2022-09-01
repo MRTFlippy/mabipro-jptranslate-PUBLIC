@@ -15199,8 +15199,8 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 15268	The corrupted Alchemists are heading into the castle. Stop them from getting too far into the castle. -Padan
 15269	Pass through all the castle rooms to find what's inside the inner room.
 15270	Guardian of Partholon
-15271	ウロボロスは完全に撃退されたわけではありませんでした。パルホロンの守護神ウロボロスが影の世界に存在する限り、遠征隊の影世界進出は難しそうです。 - Sinead
-15272	Let's defeat Uroboros in the Shadow Realm
+15271	The Uroboros was not completely repelled. As long as the Uroboros, the Partholons' guardian deity, exists in the Shadow Realm, it will be difficult for the Shadow Expeditionary Force to make any advances. - Sinead
+15272	Defeat Uroboros in the Shadow Realm
 15273	The Pain of Love
 15274	According to Leymore's last report, he is investigating something in Taillteann. Please search for him there. -Sinead
 15275	Find Leymore, who is somewhere in Taillteann.
@@ -15241,8 +15241,8 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 15310	This is Buchanan's Royal Library Card. Please track down Buchanan in the Shadow Realm. -Arzhela
 15311	Continue until you can obtain information regarding Buchanan. If you're having problems, request help from the Royal Alchemists.
 15312	Ancient Alchemy
-15313	パルホロンの結晶を手に入れたという話を聞きました。私のところに立ち寄ってください。 - Leymore
-15314	広場でモンスターを退治し\n闇の結晶とダークオイル、岩の結晶、魔力の結晶\nを1個ずつ手に入れてレイモアと会話する。
+15313	I heard that you managed to obtain a Partholonian crystal. Please stop by to see me. - Leymore
+15314	Defeat the monsters in the plaza to obtain\none Unstable Darkness Crystal, one Dark Oil, one Stone Crystal and one Magic Crystal,\nthen speak to Leymore.
 15315	The Hidden Book of Partholon
 15316	Please follow Buchanan's directions and find the location of the Book of Partholon. -Sinead
 15317	Hit the orbs in the kitchen according to the order Buchanan told you.
@@ -15325,7 +15325,7 @@ trying to set up a trap for Cromm Cruaich You should know that you, too, were pr
 15394	Rank up your Shock skill to F.
 15395	They say that the missing pages of the book I've given you can be found throughout the Shadow Realm. Enchant the book about Shock with the 10 missing pages, in order, and then come see me. - Heledd
 15396	Collect all 10 pages of the book and show it to Heledd.
-15397	うわあ～、全部集めたんですね。<br/>見やすいように製本しますので<br/>絶対にスパークのトレーニングに成功してくださいね！
+15397	Wow~, you managed to collect all the pages! <br/>I'll have the book bound so you can easily read it, <br/>so make sure you succeed in training Shock!
 15398	* Shock Novice Rank Complete
 15399	Help Grandfather Ghost
 15400	I came to Emain Macha for a picnic with my family, but I am too old to get around. Please take my place, and stay with the children. Later tonight, bring me back a sketch of the children's picnic. -Grandfather Ghost-
