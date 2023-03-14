@@ -24,49 +24,49 @@ element.collectprop_herb_middle.1	herb1
 element.collectprop_herb_middle.2	herb2
 element.collectprop_herb_middle.3	herb3
 element.eventprop_fountain.1	EventProp_Fountain.mint
-element.jg_nekojima_downto2ndfloor.1	少し下へ降りてきたようだ.
-element.jg_nekojima_downto2ndfloor.2	さらに下へ降りてきたようだ.
-element.jg_nekojima_downto3rdfloor.1	ほぼ最後まで降りてきたようだ.
-element.jg_nekojima_downto3rdfloor.2	ほぼ最後まで降りてきたようだ.道がちょっと変わったようだが…
-element.jg_nekojima_downto4thfloor.1	最後まで降りてきたようだ.あっちへ行ってみようか…
-element.jg_nekojima_puzzleroom.1	巨大怨霊騎士が1匹…簡単だから、中心部からすごく離れているんだろう.
-element.jg_nekojima_puzzleroom.2	戦う価値はあるかな？中心部から少し離れているようだ…
-element.jg_nekojima_puzzleroom.3	強い敵が多い.中心部に近いのだろう.
-element.jg_nekojima_puzzleroom.4	巨大怨霊騎士が4匹か…ううっ…やばそうだけど、ほぼ中心部に来たようだ.
-element.jg_nekojima_puzzleroom.5	木の柱の模様が光を発っしている.モンスターを調べてもう一度叩いてみよう.
-element.jg_nekojima_puzzleroom_chest.1	巨大怨霊騎士が1匹…簡単だから、中心部からすごく離れているんだろう.
-element.jg_nekojima_puzzleroom_chest.2	戦う価値はあるかな？中心部から少し離れているようだ…
-element.jg_nekojima_puzzleroom_chest.3	強い敵が多い.中心部に近いのだろう.
-element.jg_nekojima_puzzleroom_chest.4	巨大怨霊騎士が4匹か…ううっ…やばそうだけど、ほぼ中心部に来たようだ.
-element.jg_nekojima_puzzleroom_chest_new.1	巨大怨霊騎士が1匹…簡単だから、中心部からすごく離れているんだろう.
-element.jg_nekojima_puzzleroom_chest_new.2	戦う価値はあるかな？中心部から少し離れているようだ…
-element.jg_nekojima_puzzleroom_chest_new.3	強い敵が多い.中心部に近いのだろう.
-element.jg_nekojima_puzzleroom_chest_new.4	巨大怨霊騎士が4匹か…ううっ…やばそうだけど、ほぼ中心部に来たようだ.
-element.jg_nekojima_puzzleroom_new.1	騎士とアーチャーが1匹ずつか.南西の端の部屋かな？
-element.jg_nekojima_puzzleroom_new.2	騎士は1匹か.じゃあ南の端だな.
-element.jg_nekojima_puzzleroom_new.3	騎士は1匹か.じゃあ南の端だな.
-element.jg_nekojima_puzzleroom_new.4	騎士は1匹か.じゃあ南の端だな.
-element.jg_nekojima_puzzleroom_new.5	騎士1匹、アーチャー5匹…南東の端の部屋に来たのか.
-element.jg_nekojima_puzzleroom_new.6	アーチャーが1匹だ！西の端に来たようだ.
-element.jg_nekojima_puzzleroom_new.7	騎士とアーチャーを見て座標を見つけないと.
-element.jg_nekojima_puzzleroom_new.8	騎士とアーチャーの比率が3:3に近づいた.ほぼ中央に来たようだ.
-element.jg_nekojima_puzzleroom_new.9	騎士とアーチャーを見て座標を見つけないと.
-element.jg_nekojima_puzzleroom_new.10	アーチャーが5匹か.じゃあ東側だな.
-element.jg_nekojima_puzzleroom_new.11	アーチャーが1匹だ！西の端に来たようだ.
-element.jg_nekojima_puzzleroom_new.12	アーチャーと騎士の比率が3:3に近づいた.ほぼ中央に来たようだ.
-element.jg_nekojima_puzzleroom_new.13	アーチャーと騎士の比率が3:3に近づいた.ほぼ中央に来たようだ.
-element.jg_nekojima_puzzleroom_new.14	アーチャーが5匹か.じゃあ東側だな.
-element.jg_nekojima_puzzleroom_new.15	アーチャーが1匹だ！西の端に来たようだ.
-element.jg_nekojima_puzzleroom_new.16	騎士とアーチャーを見て座標を見つけないと.
-element.jg_nekojima_puzzleroom_new.17	アーチャーと騎士の比率が3:3に近づいた.ほぼ中央に来たようだ.
-element.jg_nekojima_puzzleroom_new.18	騎士とアーチャーを見て座標を見つけないと.
-element.jg_nekojima_puzzleroom_new.19	アーチャーが5匹か.じゃあ東側だな.
-element.jg_nekojima_puzzleroom_new.20	騎士5匹にアーチャー1匹か…北西の端まで来たようだ.
-element.jg_nekojima_puzzleroom_new.21	騎士が5匹だ！北の端に来たようだ.
-element.jg_nekojima_puzzleroom_new.22	騎士が5匹だ！北の端に来たようだ.
-element.jg_nekojima_puzzleroom_new.23	騎士が5匹だ！北の端に来たようだ.
-element.jg_nekojima_puzzleroom_new.24	騎士5匹にアーチャーも5匹か…北東の端まで来たようだ…
-element.jg_nekojima_puzzleroom_new.25	木の柱の模様が光を発っしている.モンスターを調べてもう一度叩いてみよう.
+element.jg_nekojima_downto2ndfloor.1	It looks like you went a bit further down.
+element.jg_nekojima_downto2ndfloor.2	You descended further.
+element.jg_nekojima_downto3rdfloor.1	You've gone down even further and are almost at the end.
+element.jg_nekojima_downto3rdfloor.2	You've gone down further and are almost at the end. However, the path seems to have changed...
+element.jg_nekojima_downto4thfloor.1	You've descended as far as you can go and reached the end. Why not check out that path?
+element.jg_nekojima_puzzleroom.1	One giant vengeful knight...since it's such an easy spawn, you must be far from the center.
+element.jg_nekojima_puzzleroom.2	Is it worth fighting these things? You seem to be a bit far from the center...
+element.jg_nekojima_puzzleroom.3	That's a lot of strong enemies. You must be close to the center.
+element.jg_nekojima_puzzleroom.4	Four giant vengeful knights?! Oof...this looks bad, but on the bright side it looks like you're close to the center.
+element.jg_nekojima_puzzleroom.5	The patterns on the wooden pillar are glowing. Deal with the monsters then hit the pillar once again.
+element.jg_nekojima_puzzleroom_chest.1	One giant vengeful knight...since it's such an easy spawn, you must be far from the center.
+element.jg_nekojima_puzzleroom_chest.2	Is it worth fighting these things? You seem to be a bit far from the center...
+element.jg_nekojima_puzzleroom_chest.3	That's a lot of strong enemies. You must be close to the center.
+element.jg_nekojima_puzzleroom_chest.4	Four giant vengeful knights?! Oof...this looks bad, but on the bright side it looks like you're close to the center.
+element.jg_nekojima_puzzleroom_chest_new.1	One giant vengeful knight...since it's such an easy spawn, you must be far from the center.
+element.jg_nekojima_puzzleroom_chest_new.2	Is it worth fighting these things? You seem to be a bit far from the center...
+element.jg_nekojima_puzzleroom_chest_new.3	That's a lot of strong enemies. You must be close to the center.
+element.jg_nekojima_puzzleroom_chest_new.4	Four giant vengeful knights?! Oof...this looks bad, but on the bright side it looks like you're close to the center.
+element.jg_nekojima_puzzleroom_new.1	A knight and an archer? Hmm, could it be you're at the southwest corner?
+element.jg_nekojima_puzzleroom_new.2	One knight. Looks like you're at the southern edge.
+element.jg_nekojima_puzzleroom_new.3	One knight. Looks like you're at the southern edge.
+element.jg_nekojima_puzzleroom_new.4	One knight. Looks like you're at the southern edge.
+element.jg_nekojima_puzzleroom_new.5	One knight and five archers...looks like you've reached the southeast corner.
+element.jg_nekojima_puzzleroom_new.6	One archer! It looks like you're at the western edge.
+element.jg_nekojima_puzzleroom_new.7	You need to establish your coordinates by looking at the number of knights and archers.
+element.jg_nekojima_puzzleroom_new.8	The ratio of knights to archers has approached 3:3. Looks like you're close to the center.
+element.jg_nekojima_puzzleroom_new.9	You need to establish your coordinates by looking at the number of knights and archers.
+element.jg_nekojima_puzzleroom_new.10	Five archers. That means you're at the eastern edge.
+element.jg_nekojima_puzzleroom_new.11	One archer! It looks like you're at the western edge.
+element.jg_nekojima_puzzleroom_new.12	The archer-to-knight ratio has approached 3:3. Looks like you're close to the center.
+element.jg_nekojima_puzzleroom_new.13	The archer-to-knight ratio has approached 3:3. Looks like you're close to the center.
+element.jg_nekojima_puzzleroom_new.14	Five archers. That means you're at the eastern edge.
+element.jg_nekojima_puzzleroom_new.15	One archer! It looks like you're at the western edge.
+element.jg_nekojima_puzzleroom_new.16	You need to establish your coordinates by looking at the number of knights and archers.
+element.jg_nekojima_puzzleroom_new.17	The archer-to-knight ratio has approached 3:3. Looks like you're close to the center.
+element.jg_nekojima_puzzleroom_new.18	You need to establish your coordinates by looking at the number of knights and archers.
+element.jg_nekojima_puzzleroom_new.19	Five archers. That means you're at the eastern edge.
+element.jg_nekojima_puzzleroom_new.20	Five knights and one archer...looks like you've reached the northwest corner.
+element.jg_nekojima_puzzleroom_new.21	Five knights! Looks like you're at the northern edge.
+element.jg_nekojima_puzzleroom_new.22	Five knights! Looks like you're at the northern edge.
+element.jg_nekojima_puzzleroom_new.23	Five knights! Looks like you're at the northern edge.
+element.jg_nekojima_puzzleroom_new.24	Five knights and five archers...looks like you reached the northeast corner...
+element.jg_nekojima_puzzleroom_new.25	The patterns on the wooden pillar are glowing. Deal with the monsters then hit the pillar once again.
 element.keychest_9chest.1	これは困る
 element.keychest_9chest_rabbie.1	魔法のように
 element.keychest_monster_japan_event.1	I can't open the box.
