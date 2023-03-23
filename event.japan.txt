@@ -495,7 +495,7 @@ enter_dungeon.185	You cannot enter the dungeon while you have a pet summoned.
 enter_dungeon.186	This item cannot be offered at the altar.
 enter_dungeon.187	Only one person may enter this dungeon.
 enter_dungeon.188	You cannot enter the dungeon while you have a Shadow Mission in progress.
-enter_dungeon.189	This item is not available for use right now.
+enter_dungeon.189	You cannot use this item right now.
 enter_dungeon.190	Only one person may enter this dungeon.
 enter_dungeon.191	To continue with the Rescue the Villagers quest, you must drop Trefor's pass at the altar.
 enter_dungeon.192	You can no longer use this item to enter this dungeon.
@@ -535,26 +535,26 @@ enter_dungeon.225	You can only enter this dungeon at a Net cafe.
 enter_dungeon_ruin.1	This doesn't seem to be Ruwai's Exploration Journal.
 enter_dungeon_ruin.2	Only one person may enter when using this item.
 enter_dungeon_ruin.3	This doesn't seem to be Atrata's Wind Bell.
-enter_dungeon_ruin.4	This item is not available for use right now.
-enter_dungeon_ruin.5	This item is not available for use right now.
+enter_dungeon_ruin.4	You cannot use this item right now.
+enter_dungeon_ruin.5	You cannot use this item right now.
 enter_dungeon_ruin.6	You cannot enter the dungeon with a pet summoned.
 enter_dungeon_ruin.7	You cannot enter the dungeon with a pet summoned.
 enter_dungeon_ruin.8	You cannot enter the dungeon with a pet summoned.
-enter_dungeon_ruin.9	This item is not available for use right now.
-enter_dungeon_ruin.10	This item is not available for use right now.
-enter_dungeon_ruin.11	This item is not available for use right now.
-enter_dungeon_ruin.12	This item is not available for use right now.
+enter_dungeon_ruin.9	You cannot use this item right now.
+enter_dungeon_ruin.10	You cannot use this item right now.
+enter_dungeon_ruin.11	You cannot use this item right now.
+enter_dungeon_ruin.12	You cannot use this item right now.
 enter_dungeon_ruin.13	You cannot use this item.
 enter_dungeon_ruin.14	Only one person may enter when using this item.
 enter_dungeon_ruin.15	You cannot enter the dungeon while you have a pet summoned.
 enter_dungeon_ruin.16	You cannot use this item.
 enter_dungeon_ruin.17	Only two people may enter when using this item.
 enter_dungeon_ruin.18	You cannot enter the dungeon while a party member has a pet summoned.
-enter_dungeon_ruin.19	This item is not available for use right now.
+enter_dungeon_ruin.19	You cannot use this item right now.
 enter_dungeon_ruin.20	You may only enter the Rain Maker dungeon on Samhain (Saturday).
-enter_dungeon_ruin.21	This item is not available for use right now.
-enter_dungeon_ruin.22	This item is not available for use right now.
-enter_dungeon_ruin.23	This item is not available for use right now.
+enter_dungeon_ruin.21	You cannot use this item right now.
+enter_dungeon_ruin.22	You cannot use this item right now.
+enter_dungeon_ruin.23	You cannot use this item right now.
 exploration_event.1	船が難破し、イリアの南東に流れてきたようだ。
 exploration_event.2	船が難破し、どこかに流れ着いたようだ。
 falias.1	You failed to protect the altar.\nThe Aonbharrs that sealed the altar are leaving.
@@ -599,21 +599,21 @@ falias.39
 falias.40	You cannot obtain any treasures because the altar is sealed.
 falias.41	You failed to protect the altar.\nThe Aonbharrs that sealed the altar are leaving.
 falias.42	The altar's seal is nearing completion.\nIt's dangerous to allow more Aonbharrs to approach it.
-falias.43	It's taking longer than expected for the seal to complete.\nLet's prevent any more Aonbharrs from approaching.
-falias.44	The Aonbharrs are sacrificing themselves to seal the altar.\nPrevent the Aonbharrs from reaching the altar.
+falias.43	It's taking longer than expected for the seal to complete.\nPrevent any more Aonbharrs from approaching!
+falias.44	The Aonbharrs are sacrificing themselves to seal the altar.\nPrevent the Aonbharrs from reaching the altar!
 falias.45	{0} experience points gained.
 fashionshow_event.1	Applications for the Tara Fashion Contest Preliminaries are currently being accepted.
-fashionshow_event.2	The Tara Fashion Contest Preliminaries are taking place.
+fashionshow_event.2	The Tara Fashion Contest Preliminaries are currently in progress.
 fashionshow_event.3	Applications for the Tara Fashion Contest Finals are currently being accepted.
-fashionshow_event.4	The Tara Fashion Contest Finals are taking place.
+fashionshow_event.4	The Tara Fashion Contest Finals are currently in progress.
 fashionshow_event.5	Applications for the Tara Fashion Contest Preliminaries are now closed.
 fashionshow_event.6	The Tara Fashion Contest Preliminaries have ended.
 fashionshow_event.7	Applications for the Tara Fashion Contest Finals are now closed.
 fashionshow_event.8	The Tara Fashion Contest Finals have ended.
-fashionshow_event.9	The Tara Fashion Contest Preliminaries are scheduled to begin at 8 p.m. All are cordially invited.
-fashionshow_event.10	The Tara Fashion Contest Preliminaries are taking place now. All are cordially invited.
-fashionshow_event.11	The Tara Fashion Contest Finals are scheduled to begin at 8 p.m. All are cordially invited.
-fashionshow_event.12	The Tara Fashion Contest Finals are taking place now.
+fashionshow_event.9	The Tara Fashion Contest Preliminaries are scheduled to begin at 8 p.m. We look forward to your participation.
+fashionshow_event.10	The Tara Fashion Contest Preliminaries are taking place now. We look forward to your participation.
+fashionshow_event.11	The Tara Fashion Contest Finals are scheduled to begin at 8 p.m. We look forward to your participation.
+fashionshow_event.12	The Tara Fashion Contest Finals are currently in progress.
 g1_event.1	G1_40_b カットシーンが終了しました。
 g2_event.1	여신 컷신 보기 시작함
 g2_event.2	컷신이 끝나고 부른다제
