@@ -599,7 +599,7 @@ falias.39
 falias.40	You cannot obtain any treasures because the altar is sealed.
 falias.41	You failed to protect the altar.\nThe Aonbharrs that sealed the altar are leaving.
 falias.42	The altar's seal is nearing completion.\nIt's dangerous to allow more Aonbharrs to approach it.
-falias.43	A long time has passed since the altar was sealed.\nPrevent the Aonbharrs' approach.
+falias.43	It's taking longer than expected for the seal to complete.\nLet's prevent any more Aonbharrs from approaching.
 falias.44	The Aonbharrs are sacrificing themselves to seal the altar.\nPrevent the Aonbharrs from reaching the altar.
 falias.45	{0} experience points gained.
 fashionshow_event.1	Applications for the Tara Fashion Contest Preliminaries are currently being accepted.
