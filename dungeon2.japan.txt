@@ -1,44 +1,44 @@
-﻿2_test.1	Jenna : If you eat arat berries you will be able to sense enemy traps and mines
-700001_killcommander.1	The barriers to the town square were all broken.
+﻿2_test.1	Jenna : Ugh...ice mines. If you eat Arat berries you will be able to detect traps and enemies.
+700001_killcommander.1	You've broken all the barriers to the town square.
 700001_killcommander.2	region
-700001_killcommander.3	The Erg of Darkness can be felt again throughout。
+700001_killcommander.3	It feels like the Erg of Darkness has bubbled up in various places once again.
 700001_killcommander.4	region
-700002_tolake.1	A Low Roar is coming from somewhere
+700002_tolake.1	A low roar is coming from somewhere...
 700002_tolake.2	region
-700003_stone_of_cuilin.1	A Golem has appeared in the center square
+700003_stone_of_cuilin.1	A golem has appeared in the center of the Cuilin region.
 700003_stone_of_cuilin.2	region
-700004_defensesquare.1	My ally died.
+700004_defensesquare.1	One of your allies has died.
 700004_defensesquare.2	region
-700005_battlefield.1	The ally damage is too strong.
+700005_battlefield.1	Your allies have taken too much damage.
 700005_battlefield.2	region
 700006_capturecity.1	An enemy boss has appeared in the square. Eliminate it.
 700006_capturecity.2	region
-700006_capturecity.3	The enemy's defense's have divided in two. Let's quickly control them before more enemy reinforcements arrive.
+700006_capturecity.3	The enemy's defenses have split in two. Deal with them quickly before enemy reinforcements arrive!
 700007_capturecity2.1	An enemy boss has appeared in the square. Eliminate it.
 700007_capturecity2.2	region
-700009_defensecity.1	The final defense net has been broken. Pull out.
+700009_defensecity.1	The last line of defense has been breached. Retreat!
 700009_defensecity.2	region
-700010_killcommander2.1	The barriers to the town square were all broken.
+700010_killcommander2.1	You've broken all the barriers to the town square.
 700010_killcommander2.2	region
-700010_killcommander2.3	The Erg of Darkness can be felt again throughout
+700010_killcommander2.3	It feels like the Erg of Darkness has bubbled up in various places once again.
 700010_killcommander2.4	region
-700011_killwarrior.1	The barriers to the town square were all broken.
+700011_killwarrior.1	You've broken all the barriers to the town square.
 700011_killwarrior.2	region
-700012_killwizard.1	The barriers to the town square were all broken.
+700012_killwizard.1	You've broken all the barriers to the town square.
 700012_killwizard.2	region
-700013_sacrifice.1	Shadow Wizard : An intruder?
+700013_sacrifice.1	Shadow Wizard : An intruder, huh...
 700013_sacrifice.2	region
 701001_waterfall.1	To Tara
 701001_waterfall.2	Monsters have invaded.
 701004_enemyannihilation.1	Enemies have appeared at the north gate.
-701005_trouble.1	It seems that all of the lackeys have been eliminated. Let's search for the boss.
+701005_trouble.1	Looks like all the minions have been defeated. Search for the boss.
 701005_trouble.2	region
 701008_smellslikewinespirit.1	All monsters have been eliminated.
 701009_castleep1alchemist.1	You have defeated all of the enemies. Please proceed to the first floor.
 701009_castleep1alchemist.2	You have defeated all of the enemies. Please proceed to the first floor.
-701010_castleep2ghost.1	You can only proceed by knocking down and sacrificing the ghosts in the circle near the dining room.
+701010_castleep2ghost.1	You can only proceed by knocking the ghosts into the circle near the dining room as a sacrifice.
 701010_castleep2ghost.2	You have defeated all of the enemies. Please proceed to the first floor.
-701011_castleep3fomor.1	Powell : Run away!
+701011_castleep3fomor.1	Fomor: Where did you run off to?!
 701011_castleep3fomor.2	You have defeated all of the enemies. Please proceed to the first floor.
 701012_castlepuzzlecollect.1	
 701012_castlepuzzlecollect.2	region
@@ -46,15 +46,15 @@
 701012_castlepuzzlecollect.4	region
 701012_castlepuzzlecollect.5	Boss Room Clear.
 701012_castlepuzzlecollect.6	region
-701014_uroborosagain.1	I heard the lock of the gate open outside.
-701014_uroborosagain.2	A battle with Uroborus is underway.
+701014_uroborosagain.1	You heard the lock of the gate to the outdoors opening.
+701014_uroborosagain.2	A battle with the Uroborus is underway.
 701014_uroborosagain.3	Secret Puzzle Cleared
-701014_uroborosagain.4	A battle with Uroborus is underway.
+701014_uroborosagain.4	A battle with the Uroborus is underway.
 701014_uroborosagain.5	Secret Puzzle Cleared
-701015_bossmission2reddragon.1	Let's find the entrance to the underground waterway.
-701015_bossmission2reddragon.2	A Battle with the Red Dragon is underway
+701015_bossmission2reddragon.1	Search for the entrance to the underground waterway.
+701015_bossmission2reddragon.2	A battle with the red dragon is underway.
 701015_bossmission2reddragon.3	Secret Puzzle Cleared
-701015_bossmission2reddragon.4	A Battle with the Red Dragon is underway
+701015_bossmission2reddragon.4	A battle with the red dragon is underway.
 701015_bossmission2reddragon.5	Secret Puzzle Cleared
 701015_bossmission2reddragon.6	Dalet
 701015_bossmission2reddragon.7	Tiferet
@@ -81,7 +81,7 @@
 701016_bossmission3claimhsolas.2	Secret Puzzle Cleared
 701016_bossmission3claimhsolas.3	A battle with Claimh Solas is underway.
 701016_bossmission3claimhsolas.4	Secret Puzzle Cleared
-701016_bossmission3claimhsolas.5	Let's look for the entrance to the underground waterway.
+701016_bossmission3claimhsolas.5	Search for the entrance to the underground waterway.
 701016_bossmission3claimhsolas.6	A battle with Claimh Solas is underway.
 701016_bossmission3claimhsolas.7	Secret Puzzle Cleared
 701016_bossmission3claimhsolas.8	A battle with Claimh Solas is underway.
@@ -111,292 +111,292 @@
 710001_cookdungeontest.1	End
 710002_cookdungeon_juice.1	
 710002_cookdungeon_juice.2	
-710002_cookdungeon_juice.3	The mixing time was too long\nthe sugar content dropped.
-710002_cookdungeon_juice.4	The mixing time was too short\nThe fruit has bittered.
-710002_cookdungeon_juice.5	The mixing time was appropriate.
-710002_cookdungeon_juice.6	\nThe juice is too sticky. \nI should have added more water...
-710002_cookdungeon_juice.7	\nThis does not have enough fruit. \nDid you eat the fruit?
-710002_cookdungeon_juice.8	\nThe fruit and water ratio was appropriate.
-710002_cookdungeon_juice.9	\nThe amount is too much. \nThere is no need to add so much.
-710002_cookdungeon_juice.10	\nThe amount was too low. \nTo be a great chef you must use the right amounts.
-710002_cookdungeon_juice.11	\nThe amount was appropriate.
-710002_cookdungeon_juice.12	\nAn abundance of juicy sweetness has become entangled in my mouth. It's wonderful juice!
+710002_cookdungeon_juice.3	The mixing time was too long.\nThe sugar content dropped.
+710002_cookdungeon_juice.4	The mixing time was too short.\nThe astringent taste of the fruit is still present.
+710002_cookdungeon_juice.5	The juice was mixed for an appropriate amount of time.
+710002_cookdungeon_juice.6	\nThe juice is too thick. \nYou should have added more water...
+710002_cookdungeon_juice.7	\nThe juice has a very weak flavor. \nMaybe you were too stingy with the fruit?
+710002_cookdungeon_juice.8	\nThe juice had the right ratio of ingredients.
+710002_cookdungeon_juice.9	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710002_cookdungeon_juice.10	\nYou didn't add enough ingredients.\nYou can't become a great chef if you're stingy with your ingredients.
+710002_cookdungeon_juice.11	\nYou added the right amount of ingredients.
+710002_cookdungeon_juice.12	\nA rich juice that swirls smoothly inside your mouth. This juice is wonderful!
 710002_cookdungeon_juice.13	
 710002_cookdungeon_juice.14	
-710002_cookdungeon_juice.15	The mixing time of the fruit and water took too long and the sugar content fell.
-710002_cookdungeon_juice.16	Since the mixing time was too short the fruit has become bitter.
-710002_cookdungeon_juice.17	The mixing time was appropriate.
-710002_cookdungeon_juice.18	\nYour juice is too sticky. You should have added more water.
-710002_cookdungeon_juice.19	\nThe juice does not have a strong flavor. Did you eat too much of the fruit?
-710002_cookdungeon_juice.20	\nThe fruit and water ratio was appropriate.
-710002_cookdungeon_juice.21	\nThe amount is too much. \nThere is no need to add so much.
-710002_cookdungeon_juice.22	\nThe amount was too low. \nTo be a great chef you must use the right amounts.
-710002_cookdungeon_juice.23	\nThe amount was appropriate.
-710002_cookdungeon_juice.24	\nAn abundance of juicy sweetness has become entangled in my mouth. It's wonderful juice!
+710002_cookdungeon_juice.15	The mixing time of the fruit and water was too long, so the sugar content fell.
+710002_cookdungeon_juice.16	The mixing time was too short, so the astringent taste of the fruit is still present.
+710002_cookdungeon_juice.17	The juice was mixed for an appropriate amount of time.
+710002_cookdungeon_juice.18	\nThe juice is too thick. You should have added more water...
+710002_cookdungeon_juice.19	\nThe juice has a very weak flavor. Maybe you were too stingy with the fruit?
+710002_cookdungeon_juice.20	\nThe juice had the right ratio of ingredients.
+710002_cookdungeon_juice.21	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710002_cookdungeon_juice.22	\nYou didn't add enough ingredients.\nYou can't become a great chef if you're stingy with your ingredients.
+710002_cookdungeon_juice.23	\nYou added the right amount of ingredients.
+710002_cookdungeon_juice.24	\nA rich juice that swirls smoothly inside your mouth. This juice is wonderful!
 710003_cookdungeon_friedegg.1	
 710003_cookdungeon_friedegg.2	
-710003_cookdungeon_friedegg.3	Whew.I burnt it to a crisp.
-710003_cookdungeon_friedegg.4	This is just like a raw egg.It is unedible.
-710003_cookdungeon_friedegg.5	It was moderately heated.
-710003_cookdungeon_friedegg.6	\nThis tastes too bland.I should have added more salt...
-710003_cookdungeon_friedegg.7	\nWow... It is too salty.
-710003_cookdungeon_friedegg.8	The ratio of eggs to salt was appropriate.
-710003_cookdungeon_friedegg.9	\nThere is too many ingredients.There is no need to add this much.
-710003_cookdungeon_friedegg.10	\nThe amount was too small. To be a great chef you must use the right amounts.
-710003_cookdungeon_friedegg.11	\nThe amount was appropriate.
-710003_cookdungeon_friedegg.12	This has a fantastic flavor. It has already surpassed the first dish!
+710003_cookdungeon_friedegg.3	Good grief. It's been burned to a crisp!
+710003_cookdungeon_friedegg.4	It's basically a raw egg. It's inedible.
+710003_cookdungeon_friedegg.5	The egg was fried for an appropriate amount of time.
+710003_cookdungeon_friedegg.6	\nIt's bland. You should have added more salt...
+710003_cookdungeon_friedegg.7	\nUgh...too salty.
+710003_cookdungeon_friedegg.8	The dish had the right ratio of ingredients.
+710003_cookdungeon_friedegg.9	\nYou added too many ingredients. Adding too much is just as bad as not adding enough.
+710003_cookdungeon_friedegg.10	\nYou didn't add enough ingredients. You can't become a great chef if you're stingy with your ingredients.
+710003_cookdungeon_friedegg.11	\nYou added the right amount of ingredients.
+710003_cookdungeon_friedegg.12	This fantastic taste...this is way beyond a mere side dish!
 710003_cookdungeon_friedegg.13	
 710003_cookdungeon_friedegg.14	
-710003_cookdungeon_friedegg.15	Whew. I burnt it to a crisp.
-710003_cookdungeon_friedegg.16	This is just like a raw egg.It is unedible.
-710003_cookdungeon_friedegg.17	It was moderately heated.
-710003_cookdungeon_friedegg.18	\nThis tastes too bland.I should have added more salt...
-710003_cookdungeon_friedegg.19	\nWow... It is too salty.
-710003_cookdungeon_friedegg.20	The ratio of eggs to salt was appropriate.
-710003_cookdungeon_friedegg.21	\nThere is too many ingredients.There is no need to add this much.
-710003_cookdungeon_friedegg.22	\nThe amount was too small. To be a great chef you must use the right amounts.
-710003_cookdungeon_friedegg.23	\nThe amount was appropriate.
-710003_cookdungeon_friedegg.24	This has a fantastic flavor. It has already surpassed the first dish!
+710003_cookdungeon_friedegg.15	Good grief. It's been burned to a crisp!
+710003_cookdungeon_friedegg.16	It's basically a raw egg. It's inedible.
+710003_cookdungeon_friedegg.17	The egg was fried for an appropriate amount of time.
+710003_cookdungeon_friedegg.18	\nIt's bland. You should have added more salt...
+710003_cookdungeon_friedegg.19	\nUgh...too salty.
+710003_cookdungeon_friedegg.20	The dish had the right ratio of ingredients.
+710003_cookdungeon_friedegg.21	\nYou added too many ingredients. Adding too much is just as bad as not adding enough.
+710003_cookdungeon_friedegg.22	\nYou didn't add enough ingredients. You can't become a great chef if you're stingy with your ingredients.
+710003_cookdungeon_friedegg.23	\nYou added the right amount of ingredients.
+710003_cookdungeon_friedegg.24	This fantastic taste...this is way beyond a mere side dish!
 710004_cookdungeon_castella.1	
 710004_cookdungeon_castella.2	
-710004_cookdungeon_castella.3	Bread is burnt to a crisp.
-710004_cookdungeon_castella.4	The dough is still raw. \nIt was removed too early from the oven.
-710004_cookdungeon_castella.5	It was slightly burnt.
-710004_cookdungeon_castella.6	\nToo much flour was added.\nIt it no longer tender to the touch.
-710004_cookdungeon_castella.7	\nI wonder if I added enough water. It is mushy to the touch.
-710004_cookdungeon_castella.8	\nThe smell of egg is too strong. Is this fried egg, or Sponge Cake...
-710004_cookdungeon_castella.9	\nThe ratio of ingredients was appropriate.
-710004_cookdungeon_castella.10	\nThe amount is too much. \nToo much is as bad as too little.
-710004_cookdungeon_castella.11	\nThe amount was too little. \nTo be a good cook you need to add enough ingredients.
-710004_cookdungeon_castella.12	\nThe amount was appropriate.
-710004_cookdungeon_castella.13	\nA classic sponge cake that melts in the mouth
+710004_cookdungeon_castella.3	The pastry is burnt to a crisp.
+710004_cookdungeon_castella.4	The dough's undercooked.\nDid you take it out of the oven too early?
+710004_cookdungeon_castella.5	The pastry was baked for an appropriate amount of time.
+710004_cookdungeon_castella.6	\nDid you add too much flour?\nIt lacks that distinctive softness.
+710004_cookdungeon_castella.7	\nDid you add enough water? It's mushy and crumbles easily.
+710004_cookdungeon_castella.8	\nThe smell of eggs is really strong.\nIs this a Fried Egg or a Sponge Cake...?
+710004_cookdungeon_castella.9	\nThe dish had the right ratio of ingredients.
+710004_cookdungeon_castella.10	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710004_cookdungeon_castella.11	\nYou didn't add enough ingredients.\nYou can't become a great chef if you're stingy with your ingredients.
+710004_cookdungeon_castella.12	\nYou added the right amount of ingredients.
+710004_cookdungeon_castella.13	\nA classic sponge cake that melts sweetly in your mouth!
 710004_cookdungeon_castella.14	
 710004_cookdungeon_castella.15	
-710004_cookdungeon_castella.16	Bread is burnt to a crisp.
-710004_cookdungeon_castella.17	The dough is still raw. \nIt was removed too early from the oven.
-710004_cookdungeon_castella.18	It was slightly burnt.
-710004_cookdungeon_castella.19	\nToo much flour was added.\nIt it no longer tender to the touch.
-710004_cookdungeon_castella.20	\nI wonder if I added enough water. It is mushy to the touch.
-710004_cookdungeon_castella.21	\nThe smell of egg is too strong. Is this fried egg, or Sponge Cake...
-710004_cookdungeon_castella.22	\nThe ratio of ingredients was appropriate.
-710004_cookdungeon_castella.23	\nThe amount is too much. \nToo much is as bad as too little.
-710004_cookdungeon_castella.24	\nThe amount was too little. \nTo be a good cook you need to add enough ingredients.
-710004_cookdungeon_castella.25	\nThe amount was appropriate.
-710004_cookdungeon_castella.26	\nA classic sponge cake that melts in the mouth
+710004_cookdungeon_castella.16	The pastry is burnt to a crisp.
+710004_cookdungeon_castella.17	The dough's undercooked.\nDid you take it out of the oven too early?
+710004_cookdungeon_castella.18	The pastry was baked for an appropriate amount of time.
+710004_cookdungeon_castella.19	\nDid you add too much flour?\nIt lacks that distinctive softness.
+710004_cookdungeon_castella.20	\nDid you add enough water? It's mushy and crumbles easily.
+710004_cookdungeon_castella.21	\nThe smell of eggs is really strong.\nIs this a Fried Egg or a Sponge Cake...?
+710004_cookdungeon_castella.22	\nThe dish had the right ratio of ingredients.
+710004_cookdungeon_castella.23	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710004_cookdungeon_castella.24	\nYou didn't add enough ingredients.\nYou can't become a great chef if you're stingy with your ingredients.
+710004_cookdungeon_castella.25	\nYou added the right amount of ingredients.
+710004_cookdungeon_castella.26	\nA classic sponge cake that melts sweetly in your mouth!
 710005_cookdungeon_salad.1	
 710005_cookdungeon_salad.2	
-710005_cookdungeon_salad.3	The vegetables have disappeared because you took too long.
-710005_cookdungeon_salad.4	The ingredients do not work. \nIt seems it was overcooked.
-710005_cookdungeon_salad.5	The sauce was slightly cooked.
-710005_cookdungeon_salad.6	\nThere are too many fruits. \nThis is not from the fruit platter recipe...
-710005_cookdungeon_salad.7	\nThere are too many vegetables. \nIt is good for your body but...
-710005_cookdungeon_salad.8	\nThere are too many eggs used to decorate the dish. \nThis is more like an egg salad.
-710005_cookdungeon_salad.9	\nThe ratio of ingredients was appropriate.
-710005_cookdungeon_salad.10	\nThe amount is too much. \nThere is no need to add this much.
-710005_cookdungeon_salad.11	\nThe amount was too small. To be a great chef you must use the right amounts.
-710005_cookdungeon_salad.12	\nThe amount was appropriate.
-710005_cookdungeon_salad.13	\nThe sensation of vegetables and the rich fragrance of fruits are in perfect harmony!
+710005_cookdungeon_salad.3	The vegetables lost their crispness because you took too long.
+710005_cookdungeon_salad.4	The ingredients lack any sort of cohesion.\nYou were too impatient.
+710005_cookdungeon_salad.5	The salad was properly dressed.
+710005_cookdungeon_salad.6	\nThere are too many fruits.\nDid you get this confused with the Mixed Fruit recipe?
+710005_cookdungeon_salad.7	\nAll you can see is vegetables.\nThey're good for your body but...
+710005_cookdungeon_salad.8	\nYou used too many eggs to decorate the dish.\nIt's basically an Egg Salad.
+710005_cookdungeon_salad.9	\nThe dish had the right ratio of ingredients.
+710005_cookdungeon_salad.10	\nYou added too many ingredients. \nAdding too much is just as bad as not adding enough.
+710005_cookdungeon_salad.11	\nYou didn't add enough ingredients. You can't become a great chef if you're stingy with your ingredients.
+710005_cookdungeon_salad.12	\nYou added the right amount of ingredients.
+710005_cookdungeon_salad.13	\nThe crispness of the vegetables and the rich aroma of the fruits are in perfect harmony!
 710005_cookdungeon_salad.14	
 710005_cookdungeon_salad.15	
 710005_cookdungeon_salad.16	The vegetables have dissapeared because you took too long.
-710005_cookdungeon_salad.17	The ingredients do not work. \nIt seems it was overcooked.
-710005_cookdungeon_salad.18	The sauce was slightly cooked.
-710005_cookdungeon_salad.19	\nThere are too many fruits. \nThis is not from the fruit platter recipe...
-710005_cookdungeon_salad.20	\nThere are too many vegetables. \nIt is good for your body but...
-710005_cookdungeon_salad.21	\nThere are too many eggs used to decorate the dish. \nThis is more like an egg salad.
-710005_cookdungeon_salad.22	\nThe ratio of ingredients was appropriate.
-710005_cookdungeon_salad.23	\nThe amount is too much. \nThere is no need to add this much.
-710005_cookdungeon_salad.24	\nThe amount was too small. To be a great chef you must use the right amounts.
-710005_cookdungeon_salad.25	\nThe amount was appropriate.
-710005_cookdungeon_salad.26	\nThe sensation of vegetables and the rich fragrance of fruits are in perfect harmony!
+710005_cookdungeon_salad.17	The ingredients lack any sort of cohesion.\nYou were too impatient.
+710005_cookdungeon_salad.18	The salad was properly dressed.
+710005_cookdungeon_salad.19	\nThere are too many fruits.\nDid you get this confused with the Mixed Fruit recipe?
+710005_cookdungeon_salad.20	\nAll you can see is vegetables.\nThey're good for your body but...
+710005_cookdungeon_salad.21	\nYou used too many eggs to decorate the dish.\nIt's basically an Egg Salad.
+710005_cookdungeon_salad.22	\nThe dish had the right ratio of ingredients.
+710005_cookdungeon_salad.23	\nYou added too many ingredients. \nAdding too much is just as bad as not adding enough.
+710005_cookdungeon_salad.24	\nYou didn't add enough ingredients. You can't become a great chef if you're stingy with your ingredients.
+710005_cookdungeon_salad.25	\nYou added the right amount of ingredients.
+710005_cookdungeon_salad.26	\nThe crispness of the vegetables and the rich aroma of the fruits are in perfect harmony!
 710006_cookdungeon_seafoodrice.1	
 710006_cookdungeon_seafoodrice.2	
-710006_cookdungeon_seafoodrice.3	The rice was burnt and the seafood became overcooked.
-710006_cookdungeon_seafoodrice.4	The Seafood hasn't been fried. This isn't a Seafood Fried Rice bowl.
-710006_cookdungeon_seafoodrice.5	It was properly fried.
-710006_cookdungeon_seafoodrice.6	\nThe fish odor is strong.
-710006_cookdungeon_seafoodrice.7	\nI cannot smell the fresh seafood aroma because there is too many vegetables.
-710006_cookdungeon_seafoodrice.8	\nThe flavors of the seafood and the vegetable were hidden because there was too much seasoning.
-710006_cookdungeon_seafoodrice.9	\nThe amount of ingredients was appropriate.
-710006_cookdungeon_seafoodrice.10	\nThe amount was too much. Too much is as bad as too little.
-710006_cookdungeon_seafoodrice.11	\nThe amount was too small. To be a great chef you must use the right amounts.
-710006_cookdungeon_seafoodrice.12	\nThe amount was appropriate.
-710006_cookdungeon_seafoodrice.13	\nAn unbelievable flavor and wonderful smell!
+710006_cookdungeon_seafoodrice.3	Seafood Fried Rice? More like Seafood Scorched Rice.
+710006_cookdungeon_seafoodrice.4	The seafood's undercooked. You're not making a sashimi bowl!
+710006_cookdungeon_seafoodrice.5	The dish was fried for an appropriate amount of time.
+710006_cookdungeon_seafoodrice.6	\nAll you can smell is the seafood.
+710006_cookdungeon_seafoodrice.7	\nThe large amount of vegetables is overpowering the fresh aroma of the seafood.
+710006_cookdungeon_seafoodrice.8	\nThe flavor of the seasoning has completely masked the seafood's freshness and the fragrant aroma of the vegetables.
+710006_cookdungeon_seafoodrice.9	\nThe dish had the right ratio of ingredients.
+710006_cookdungeon_seafoodrice.10	\nYou added too many ingredients. Adding too much is just as bad as not adding enough.
+710006_cookdungeon_seafoodrice.11	\nYou didn't add enough ingredients. You can't become a great chef if you're stingy with your ingredients.
+710006_cookdungeon_seafoodrice.12	\nYou added the right amount of ingredients.
+710006_cookdungeon_seafoodrice.13	\nAn unbelievable taste with the scent of the sea!
 710006_cookdungeon_seafoodrice.14	
 710006_cookdungeon_seafoodrice.15	
-710006_cookdungeon_seafoodrice.16	The rice was burnt and the seafood became overcooked.
-710006_cookdungeon_seafoodrice.17	The Seafood hasn't been fried. This isn't a Seafood Fried Rice bowl.
-710006_cookdungeon_seafoodrice.18	It was properly fried.
-710006_cookdungeon_seafoodrice.19	\nThe fish odor is strong.
-710006_cookdungeon_seafoodrice.20	\nI cannot smell the fresh seafood aroma because there is too many vegetables.
-710006_cookdungeon_seafoodrice.21	\nThe flavors of the seafood and the vegetable were hidden because there was too much seasoning.た。
-710006_cookdungeon_seafoodrice.22	\nThe amount of ingredients was appropriate.
-710006_cookdungeon_seafoodrice.23	\nThe amount was too much. Too much is as bad as too little.
-710006_cookdungeon_seafoodrice.24	\nThe amount was too small. To be a great chef you must use the right amounts.
-710006_cookdungeon_seafoodrice.25	\nThe amount was appropriate.
-710006_cookdungeon_seafoodrice.26	\nAn unbelievable flavor and wonderful smell!
+710006_cookdungeon_seafoodrice.16	Seafood Fried Rice? More like Seafood Scorched Rice.
+710006_cookdungeon_seafoodrice.17	The seafood's undercooked. You're not making a sashimi bowl!
+710006_cookdungeon_seafoodrice.18	The dish was fried for an appropriate amount of time.
+710006_cookdungeon_seafoodrice.19	\nAll you can smell is the seafood.
+710006_cookdungeon_seafoodrice.20	\nThe large amount of vegetables is overpowering the fresh aroma of the seafood.
+710006_cookdungeon_seafoodrice.21	\nThe flavor of the seasoning has completely masked the seafood's freshness and the fragrant aroma of the vegetables.
+710006_cookdungeon_seafoodrice.22	\nThe dish had the right ratio of ingredients.
+710006_cookdungeon_seafoodrice.23	\nYou added too many ingredients. Adding too much is just as bad as not adding enough.
+710006_cookdungeon_seafoodrice.24	\nYou didn't add enough ingredients. You can't become a great chef if you're stingy with your ingredients.
+710006_cookdungeon_seafoodrice.25	\nYou added the right amount of ingredients.
+710006_cookdungeon_seafoodrice.26	\nAn unbelievable taste with the scent of the sea!
 710007_cookdungeon_herbgarlicsteak.1	
 710007_cookdungeon_herbgarlicsteak.2	
-710007_cookdungeon_herbgarlicsteak.3	The top of the steak is burnt.
-710007_cookdungeon_herbgarlicsteak.4	The meat was not cooked long enough, and the herbs did not have time to soak in.
-710007_cookdungeon_herbgarlicsteak.5	It was burnt slightly.
-710007_cookdungeon_herbgarlicsteak.6	\nThe herbs and cheese flavor was lost in the juices of the meat.
-710007_cookdungeon_herbgarlicsteak.7	\nThe moisture from the vegetables has seeped out and ruined the flavor of the meat.
-710007_cookdungeon_herbgarlicsteak.8	\nThere was too much cheese added and now it is greasy.
-710007_cookdungeon_herbgarlicsteak.9	The ratio of ingredients was appropriate.
-710007_cookdungeon_herbgarlicsteak.10	\nThe amount is too much.\nThere is no need to overpower.
-710007_cookdungeon_herbgarlicsteak.11	\nThe amount is too little. \nTo be a great chef you must use the right amounts.
-710007_cookdungeon_herbgarlicsteak.12	\nThe amount was appropriate.
-710007_cookdungeon_herbgarlicsteak.13	A feast of fascinating flavors with a subtle hint of herbs and a rich gravy.
+710007_cookdungeon_herbgarlicsteak.3	The steak is so thoroughly burnt that it resembles a hockey puck.
+710007_cookdungeon_herbgarlicsteak.4	The dish was not cooked long enough, so the meat couldn't fully absorb the flavor of the herbs.
+710007_cookdungeon_herbgarlicsteak.5	The steak was cooked for an appropriate amount of time.
+710007_cookdungeon_herbgarlicsteak.6	\nThe flavors of the herbs and cheese were buried by the taste of meat.
+710007_cookdungeon_herbgarlicsteak.7	\nThe moisture from the vegetables mixed with the meat's juices, watering down the dish's luxurious flavor.
+710007_cookdungeon_herbgarlicsteak.8	\nYou added too much cheese, making the dish very greasy.
+710007_cookdungeon_herbgarlicsteak.9	The dish had the right ratio of ingredients.
+710007_cookdungeon_herbgarlicsteak.10	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710007_cookdungeon_herbgarlicsteak.11	\nYou didn't add enough ingredients. \nYou can't become a great chef if you're stingy with your ingredients.
+710007_cookdungeon_herbgarlicsteak.12	\nYou added the right amount of ingredients.
+710007_cookdungeon_herbgarlicsteak.13	\nThe delicate fragrance of herbs and the rich flavor of meat come together to form a captivating feast of flavor!
 710007_cookdungeon_herbgarlicsteak.14	
 710007_cookdungeon_herbgarlicsteak.15	
-710007_cookdungeon_herbgarlicsteak.16	The top of the steak is burnt.
-710007_cookdungeon_herbgarlicsteak.17	The meat was not cooked long enough, and the herbs did not have time to soak in.
-710007_cookdungeon_herbgarlicsteak.18	It was burnt slightly.
-710007_cookdungeon_herbgarlicsteak.19	\nThe herbs and cheese flavor was lost in the juices of the meat.
-710007_cookdungeon_herbgarlicsteak.20	\nThe moisture from the vegetables has seeped out and ruined the flavor of the meat.
-710007_cookdungeon_herbgarlicsteak.21	\nThere was too much cheese added and now it is greasy.
-710007_cookdungeon_herbgarlicsteak.22	The ratio of ingredients was appropriate.
-710007_cookdungeon_herbgarlicsteak.23	\nThe amount is too much.\nThere is no need to overpower.
-710007_cookdungeon_herbgarlicsteak.24	\nThe amount is too little. \nTo be a great chef you must use the right amounts.
-710007_cookdungeon_herbgarlicsteak.25	\nThe amount was appropriate.
-710007_cookdungeon_herbgarlicsteak.26	\nA feast of fascinating flavors with a subtle hint of herbs and a rich gravy.
+710007_cookdungeon_herbgarlicsteak.16	The steak is so thoroughly burnt that it resembles a hockey puck.
+710007_cookdungeon_herbgarlicsteak.17	The dish was not cooked long enough, so the meat couldn't fully absorb the flavor of the herbs.
+710007_cookdungeon_herbgarlicsteak.18	The steak was cooked for an appropriate amount of time.
+710007_cookdungeon_herbgarlicsteak.19	\nThe flavors of the herbs and cheese were buried by the taste of meat.
+710007_cookdungeon_herbgarlicsteak.20	\nThe moisture from the vegetables mixed with the meat's juices, watering down the dish's luxurious flavor.
+710007_cookdungeon_herbgarlicsteak.21	\nYou added too much cheese, making the dish very greasy.
+710007_cookdungeon_herbgarlicsteak.22	The dish had the right ratio of ingredients.
+710007_cookdungeon_herbgarlicsteak.23	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710007_cookdungeon_herbgarlicsteak.24	\nYou didn't add enough ingredients. \nYou can't become a great chef if you're stingy with your ingredients.
+710007_cookdungeon_herbgarlicsteak.25	\nYou added the right amount of ingredients.
+710007_cookdungeon_herbgarlicsteak.26	\nThe delicate fragrance of herbs and the rich flavor of meat come together to form a captivating feast of flavor!
 710008_cookdungeon_chickengratin.1	
 710008_cookdungeon_chickengratin.2	
-710008_cookdungeon_chickengratin.3	The meat and seasonings were overdone, and the cook's heart is broken...
-710008_cookdungeon_chickengratin.4	The cheese has not yet melted. I wonder if I cooked it too quickly.
-710008_cookdungeon_chickengratin.5	It was burnt slightly.
-710008_cookdungeon_chickengratin.6	\nThere is not enough cheese flavor.
-710008_cookdungeon_chickengratin.7	\nThere is too much cheese flavor.
-710008_cookdungeon_chickengratin.8	\nThe onion and pepper flavor was too strong, the cheese was too soft, and the crispiness of the chicken has disappeared.
-710008_cookdungeon_chickengratin.9	The ratio of ingredients was appropriate.
-710008_cookdungeon_chickengratin.10	\nThe amount is too much.\nThere is no need to overpower.
-710008_cookdungeon_chickengratin.11	\nThe amount is too little. \nTo be a great chef you must use the right amounts.
-710008_cookdungeon_chickengratin.12	\nThe amount was appropriate.
-710008_cookdungeon_chickengratin.13	It is a delicious chicken creation with a rich flavor of cheeses and spices mixed perfectly.
+710008_cookdungeon_chickengratin.3	The meat's burnt, the seasoning's burnt - heck, even the chef's spirit is burnt...
+710008_cookdungeon_chickengratin.4	The cheese hasn't melted yet. Were you in a hurry?
+710008_cookdungeon_chickengratin.5	The gratin was baked for an appropriate amount of time.
+710008_cookdungeon_chickengratin.6	\nYou can barely taste the cheese.
+710008_cookdungeon_chickengratin.7	\nThe pungent aroma of cheese coming from the dish is really strong.
+710008_cookdungeon_chickengratin.8	\nThe aroma of onions and peppers overpowered the cheese's softness and the tenderness of the chicken.
+710008_cookdungeon_chickengratin.9	The dish had the right ratio of ingredients.
+710008_cookdungeon_chickengratin.10	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710008_cookdungeon_chickengratin.11	\nYou didn't add enough ingredients. \nYou can't become a great chef if you're stingy with your ingredients.
+710008_cookdungeon_chickengratin.12	\nYou added the right amount of ingredients.
+710008_cookdungeon_chickengratin.13	The tender chicken and rich aroma of cheese have mixed perfectly with the spices to create a fantastic dish!
 710008_cookdungeon_chickengratin.14	
 710008_cookdungeon_chickengratin.15	
-710008_cookdungeon_chickengratin.16	The meat and seasonings were overdone, and the cook's heart is broken...
-710008_cookdungeon_chickengratin.17	The cheese has not yet melted. I wonder if I cooked it too quickly.
-710008_cookdungeon_chickengratin.18	It was burnt slightly.
-710008_cookdungeon_chickengratin.19	\nThere is not enough cheese flavor.
-710008_cookdungeon_chickengratin.20	\nThere is too much cheese flavor.
-710008_cookdungeon_chickengratin.21	\nThe onion and pepper flavor was too strong, the cheese was too soft, and the crispiness of the chicken has disappeared.
-710008_cookdungeon_chickengratin.22	The ratio of ingredients was appropriate.
-710008_cookdungeon_chickengratin.23	\nThe amount is too much.\nThere is no need to overpower.
-710008_cookdungeon_chickengratin.24	\nThe amount is too little. \nTo be a great chef you must use the right amounts.
-710008_cookdungeon_chickengratin.25	\nThe amount was appropriate.
-710008_cookdungeon_chickengratin.26	It is a delicious chicken creation with a rich flavor of cheeses and spices mixed perfectly.
+710008_cookdungeon_chickengratin.16	The meat's burnt, the seasoning's burnt - heck, even the chef's spirit is burnt...
+710008_cookdungeon_chickengratin.17	The cheese hasn't melted yet. Were you in a hurry?
+710008_cookdungeon_chickengratin.18	The gratin was baked for an appropriate amount of time.
+710008_cookdungeon_chickengratin.19	\nYou can barely taste the cheese.
+710008_cookdungeon_chickengratin.20	\nThe pungent aroma of cheese coming from the dish is really strong.
+710008_cookdungeon_chickengratin.21	\nThe aroma of onions and peppers overpowered the cheese's softness and the tenderness of the chicken.
+710008_cookdungeon_chickengratin.22	The dish had the right ratio of ingredients.
+710008_cookdungeon_chickengratin.23	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710008_cookdungeon_chickengratin.24	\nYou didn't add enough ingredients. \nYou can't become a great chef if you're stingy with your ingredients.
+710008_cookdungeon_chickengratin.25	\nYou added the right amount of ingredients.
+710008_cookdungeon_chickengratin.26	The tender chicken and rich aroma of cheese have mixed perfectly with the spices to create a fantastic dish!
 710009_cookdungeon_cavaircanape.1	
 710009_cookdungeon_cavaircanape.2	
-710009_cookdungeon_cavaircanape.3	The freshness of the cavier is gone because it was cooked too long.
-710009_cookdungeon_cavaircanape.4	I wonder if I cooked it too quickly. The decoration is distorted.
-710009_cookdungeon_cavaircanape.5	It was burnt slightly.
-710009_cookdungeon_cavaircanape.6	\nI cannot taste the texture of the caviar because there is too much fruit.
-710009_cookdungeon_cavaircanape.7	\nThere is too much cavier. The harmony of the biscuits and fruit is lost in the cavier.
-710009_cookdungeon_cavaircanape.8	\nToo much dough was used at the start.
-710009_cookdungeon_cavaircanape.9	\nThe ratio of ingredients was appropriate.
-710009_cookdungeon_cavaircanape.10	\nThe amount is too much.\nThere is no need to overpower.
-710009_cookdungeon_cavaircanape.11	\nThe amount is too little. \nTo be a great chef you must use the right amounts.
-710009_cookdungeon_cavaircanape.12	\nThe amount was appropriate.
-710009_cookdungeon_cavaircanape.13	\nThe sweet smell of the fruit and the luxurious flavor of the caviar with the crispy biscuits come together perfectly.
+710009_cookdungeon_cavaircanape.3	You took too long so the caviar lost its freshness.
+710009_cookdungeon_cavaircanape.4	Did you rush this? The decoration's crooked.
+710009_cookdungeon_cavaircanape.5	The canape was prepared in an appropriate amount of time.
+710009_cookdungeon_cavaircanape.6	\nIt's hard to feel the texture of the caviar because there's too much fruit.
+710009_cookdungeon_cavaircanape.7	\nThere is too much caviar. The most important part of this canape is the harmony between the biscuits and the fruit.
+710009_cookdungeon_cavaircanape.8	\nYou used too many biscuits for the base.
+710009_cookdungeon_cavaircanape.9	\nThe dish had the right ratio of ingredients.
+710009_cookdungeon_cavaircanape.10	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710009_cookdungeon_cavaircanape.11	\nYou didn't add enough ingredients. \nYou can't become a great chef if you're stingy with your ingredients.
+710009_cookdungeon_cavaircanape.12	\nYou added the right amount of ingredients.
+710009_cookdungeon_cavaircanape.13	\nThe sweet scent of fruit, the luxurious flavor of the caviar, and the crispness of the biscuits come together in perfect harmony.
 710009_cookdungeon_cavaircanape.14	
 710009_cookdungeon_cavaircanape.15	
-710009_cookdungeon_cavaircanape.16	The freshness of the cavier is gone because it was cooked too long.
-710009_cookdungeon_cavaircanape.17	I wonder if I cooked it too quickly. The decoration is distorted.
-710009_cookdungeon_cavaircanape.18	It was burnt slightly.
-710009_cookdungeon_cavaircanape.19	\nI cannot taste the texture of the caviar because there is too much fruit.
-710009_cookdungeon_cavaircanape.20	\nThere is too much cavier. The harmony of the biscuits and fruit is lost in the cavier.
-710009_cookdungeon_cavaircanape.21	\nToo much dough was used at the start.
-710009_cookdungeon_cavaircanape.22	\nThe ratio of ingredients was appropriate.
-710009_cookdungeon_cavaircanape.23	\nThe amount is too much.\nThere is no need to overpower.
-710009_cookdungeon_cavaircanape.24	\nThe amount is too little. \nTo be a great chef you must use the right amounts.
-710009_cookdungeon_cavaircanape.25	\nThe amount was appropriate.
-710009_cookdungeon_cavaircanape.26	\nThe sweet smell of the fruit and the luxurious flavor of the caviar with the crispy biscuits come together perfectly.
+710009_cookdungeon_cavaircanape.16	You took too long so the caviar lost its freshness.
+710009_cookdungeon_cavaircanape.17	Did you rush this? The decoration's crooked.
+710009_cookdungeon_cavaircanape.18	The canape was prepared in an appropriate amount of time.
+710009_cookdungeon_cavaircanape.19	\nIt's hard to feel the texture of the caviar because there's too much fruit.
+710009_cookdungeon_cavaircanape.20	\nThere is too much caviar. The most important part of this canape is the harmony between the biscuits and the fruit.
+710009_cookdungeon_cavaircanape.21	\nYou used too too many biscuits for the base.
+710009_cookdungeon_cavaircanape.22	\nThe dish had the right ratio of ingredients.
+710009_cookdungeon_cavaircanape.23	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710009_cookdungeon_cavaircanape.24	\nYou didn't add enough ingredients. \nYou can't become a great chef if you're stingy with your ingredients.
+710009_cookdungeon_cavaircanape.25	\nYou added the right amount of ingredients.
+710009_cookdungeon_cavaircanape.26	\nThe sweet scent of fruit, the luxurious flavor of the caviar, and the crispness of the biscuits come together in perfect harmony.
 710010_cookdungeon_hotcakeoflove.1	
 710010_cookdungeon_hotcakeoflove.2	
-710010_cookdungeon_hotcakeoflove.3	I burnt the cake, this has broken my heart.
-710010_cookdungeon_hotcakeoflove.4	The dough is raw.
-710010_cookdungeon_hotcakeoflove.5	It was burnt slightly.
-710010_cookdungeon_hotcakeoflove.6	\nThere is too much flour. I made a mistake on the very first step of the cake.
-710010_cookdungeon_hotcakeoflove.7	\nThere isn't enough flour and egg. The dough is too solid.
-710010_cookdungeon_hotcakeoflove.8	\nThere is too many eggs.
-710010_cookdungeon_hotcakeoflove.9	\nThe ratio of ingredients was appropriate.
-710010_cookdungeon_hotcakeoflove.10	\nThe amount is too much.\nThere is no need to overpower.
-710010_cookdungeon_hotcakeoflove.11	\nThe amount is too little. \nTo be a great chef you must use the right amounts.
-710010_cookdungeon_hotcakeoflove.12	\nThe amount was appropriate.
-710010_cookdungeon_hotcakeoflove.13	\nA perfect cake that you will fall in love with just by simply smelling it, has been made.
+710010_cookdungeon_hotcakeoflove.3	The hotcake is burnt to a crisp. With this sort of hotcake, Arzhela's heart will...
+710010_cookdungeon_hotcakeoflove.4	The batter is undercooked.
+710010_cookdungeon_hotcakeoflove.5	The hotcake was cooked in an appropriate amount of time.
+710010_cookdungeon_hotcakeoflove.6	\nThere's too much flour. You messed up an the first step of making the batter.
+710010_cookdungeon_hotcakeoflove.7	\nYou didn't add enough flour and eggs. The batter ended up being too runny...
+710010_cookdungeon_hotcakeoflove.8	\nThere are too many eggs. 
+710010_cookdungeon_hotcakeoflove.9	\nThe dish had the right ratio of ingredients.
+710010_cookdungeon_hotcakeoflove.10	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710010_cookdungeon_hotcakeoflove.11	\nYou didn't add enough ingredients. \nYou can't become a great chef if you're stingy with your ingredients.
+710010_cookdungeon_hotcakeoflove.12	\nYou added the right amount of ingredients.
+710010_cookdungeon_hotcakeoflove.13	\nA perfect cake that you will fall in love with just by simply smelling it has been made.
 710010_cookdungeon_hotcakeoflove.14	
 710010_cookdungeon_hotcakeoflove.15	
-710010_cookdungeon_hotcakeoflove.16	I burnt the cake, this has broken my heart.
-710010_cookdungeon_hotcakeoflove.17	The dough is raw.
-710010_cookdungeon_hotcakeoflove.18	It was burnt slightly.
-710010_cookdungeon_hotcakeoflove.19	\nThere is too much flour. I made a mistake on the very first step of the cake.
-710010_cookdungeon_hotcakeoflove.20	\nThere isn't enough flour and egg. The dough is too solid.
-710010_cookdungeon_hotcakeoflove.21	\nThere is too many eggs.
-710010_cookdungeon_hotcakeoflove.22	\nThe ratio of ingredients was appropriate.
-710010_cookdungeon_hotcakeoflove.23	\nThe amount is too much.\nThere is no need to overpower.
-710010_cookdungeon_hotcakeoflove.24	\nThe amount is too little. \nTo be a great chef you must use the right amounts.
-710010_cookdungeon_hotcakeoflove.25	\nThe amount was appropriate.
-710010_cookdungeon_hotcakeoflove.26	\nA perfect cake that you will fall in love with just by simply smelling it, has been made.
-720006_revengeofpirate.2	Skeleton Captain:Wow, are you trying to knock me down?\nCome out my skeleton warriors!
-720007_monstercastle.2	Border area
-720007_monstercastle.3	Monsters are too close to the village...
+710010_cookdungeon_hotcakeoflove.16	The hotcake is burnt to a crisp. With this sort of hotcake, Arzhela's heart will...
+710010_cookdungeon_hotcakeoflove.17	The batter is undercooked.
+710010_cookdungeon_hotcakeoflove.18	The hotcake was cooked in an appropriate amount of time.
+710010_cookdungeon_hotcakeoflove.19	\nThere's too much flour. You made a mistake on the first step of making the batter.
+710010_cookdungeon_hotcakeoflove.20	\nYou didn't add enough flour and eggs. The batter ended up being too runny...
+710010_cookdungeon_hotcakeoflove.21	\nThere are too many eggs. 
+710010_cookdungeon_hotcakeoflove.22	\nThe dish had the right ratio of ingredients.
+710010_cookdungeon_hotcakeoflove.23	\nYou added too many ingredients.\nAdding too much is just as bad as not adding enough.
+710010_cookdungeon_hotcakeoflove.24	\nYou didn't add enough ingredients. \nYou can't become a great chef if you're stingy with your ingredients.
+710010_cookdungeon_hotcakeoflove.25	\nYou added the right amount of ingredients.
+710010_cookdungeon_hotcakeoflove.26	\nA perfect cake that you will fall in love with just by simply smelling it has been made.
+720006_revengeofpirate.2	Skeleton Captain: Ugh, I can't do this by myself...\nGet out here, Skeleton Ogres!
+720007_monstercastle.2	Border Zone
+720007_monstercastle.3	The monsters are close to the village...
 720007_monstercastle.4	Clear out these monsters and head to the castle.
 720007_monstercastle.5	The front of the castle appears to remain safe.
-720007_monstercastle.6	I wonder if this is the last spawn...
+720007_monstercastle.6	Wonder if this is the last of them...
 720008_guardianofavon.2	Cemetery
-720008_guardianofavon.3	A monster is coming out of the cemetery...
-720008_guardianofavon.4	The aura from the Grim Reaper is felt from inside the castle.
+720008_guardianofavon.3	Monsters are coming out of the cemetery...
+720008_guardianofavon.4	You can feel the Grim Reaper's aura coming from inside the castle.
 720008_guardianofavon.5	The Grim Reaper is here!
-790001_fallon_rp.1	The main enemy force has come back.
+790001_fallon_rp.1	The enemy's main force has returned.
 790001_fallon_rp.2	region
-790002_sealofalchemist.1	Cai : Gah! What ... sort of monster...
+790002_sealofalchemist.1	Cai : Gah! What the...even that monster...
 790002_sealofalchemist.2	region
 790002_sealofalchemist.3	Leymore : In order for us to continue this investigation, we need to clear this out first.
 790002_sealofalchemist.4	region
 790002_sealofalchemist.5	Cai died.
 790002_sealofalchemist.6	region
-790003_deliveringsupply.1	If I follow the road, I should be able to join up with the captain...Hm? There's a strange orb up ahead...
+790003_deliveringsupply.1	If you follow the road, you should be able to join up with the captain...Hm? There's a strange orb up ahead...
 790004_deliveringicemine.1	Jenna was knocked unconscious by a monster.
 790004_deliveringicemine.2	region
-790007_pryingintocamp.1	The barriers to the town square were all broken.
+790007_pryingintocamp.1	You've broken all the barriers to the town square.
 790007_pryingintocamp.2	region
-790008_pryingintocamp2.1	The barriers to the town square were all broken.
+790008_pryingintocamp2.1	You've broken all the barriers to the town square.
 790008_pryingintocamp2.2	region
-790009_pryingintocamp3.1	The barriers to the town square were all broken.
+790009_pryingintocamp3.1	You've broken all the barriers to the town square.
 790009_pryingintocamp3.2	region
-790009_pryingintocamp3.3	The erg of darkness is felt once again throughout.
+790009_pryingintocamp3.3	It feels like the Erg of Darkness has bubbled up in various places once again.
 790009_pryingintocamp3.4	region
-790010_pryingintocamp4.1	The barriers to the town square were all broken.
+790010_pryingintocamp4.1	You've broken all the barriers to the town square.
 790010_pryingintocamp4.2	region
-790010_pryingintocamp4.3	The erg of darkness is felt once again throughout.
+790010_pryingintocamp4.3	It feels like the Erg of Darkness has bubbled up in various places once again.
 790010_pryingintocamp4.4	region
-790011_pryingintocamp5.1	The barriers to the town square were all broken.
+790011_pryingintocamp5.1	You've broken all the barriers to the town square.
 790011_pryingintocamp5.2	region
-790012_pryingintocamp6.1	The barriers to the town square were all broken.
+790012_pryingintocamp6.1	You've broken all the barriers to the town square.
 790012_pryingintocamp6.2	region
-790013_pryingintocamp7.1	The barriers to the town square were all broken.
+790013_pryingintocamp7.1	You've broken all the barriers to the town square.
 790013_pryingintocamp7.2	region
-790013_pryingintocamp7.3	The erg of darkness is felt once again throughout.
+790013_pryingintocamp7.3	It feels like the Erg of Darkness has bubbled up in various places once again.
 790013_pryingintocamp7.4	region
-790014_pryingintocamp8.1	The barriers to the town square were all broken.
+790014_pryingintocamp8.1	You've broken all the barriers to the town square.
 790014_pryingintocamp8.2	region
-790014_pryingintocamp8.3	The erg of darkness is felt once again throughout.
+790014_pryingintocamp8.3	It feels like the Erg of Darkness has bubbled up in various places once again.
 790014_pryingintocamp8.4	region
 790015_claimhsolas.1	Leymore was knocked unconscious.
 790015_claimhsolas.2	region
-790016_courcleheart.1	The barriers to the town square were all broken.
+790016_courcleheart.1	You've broken all the barriers to the town square.
 790016_courcleheart.2	region
-790016_courcleheart.3	The erg of darkness is felt once again throughout.
+790016_courcleheart.3	It feels like the Erg of Darkness has bubbled up in various places once again.
 790016_courcleheart.4	region
 790018_helpjenna.1	Jenna was knocked unconscious by a monster.
 790018_helpjenna.2	region
-790020_final2.1	He died.
+790020_final2.1	died.
 790020_final2.2	region
 790020_final2.3	Cai died.
 790020_final2.4	region
-790020_final2.5	??? : An obstacle has appeared...however, you're too late.
+790020_final2.5	??? : Intruders, huh...? However, you're too late...
 790020_final2.6	region
 790020_final2.7	Cai : Hold out just a little longer. This will be over soon.
 790020_final2.8	region
@@ -404,32 +404,32 @@
 791003_meetelatha.2	region
 791003_meetelatha.3	Open the gates.
 791006_joustvsmata.1	A problem has occurred in the dungeon.
-791007_heartofcourcle.1	The ally captain has died.
+791007_heartofcourcle.1	An allied commmander has died.
 791007_heartofcourcle.2	region
-791007_heartofcourcle.3	Unable to find the party leader at the entrance.
-791007_heartofcourcle.4	Unable to find a party leader.
-791009_rarebook.1	It seems the barrier to the square has been solved.
-791009_rarebook.2	I found a rare book from the soldier's corpse.
+791007_heartofcourcle.3	Party leader not found upon entry.
+791007_heartofcourcle.4	Party leader not found.
+791009_rarebook.1	You've broken all the barriers to the town square.
+791009_rarebook.2	You retrieved a rare book from the soldier's corpse.
 791010_alchemist.1	Jenna was knocked unconscious.
 792001_librarybookcard.1	region
-792001_librarybookcard.2	Cichol : Long time no see...
+792001_librarybookcard.2	Cichol : It's been a while...
 792003_medalofalchemist.1	Boss room cleared.
 792003_medalofalchemist.2	region
 792003_medalofalchemist.3	Cai : I'll be waiting in the room at the far east end.
 792004_heartbreakofleymore.1	Shadow Warrior : We've caught you now, alchemist. You will not escape.
 792004_heartbreakofleymore.2	Leymore was knocked unconscious.
 792006_history.1	Talk to Leymore and Cai to have them accompany you.
-792006_history.2	My companions were knocked unconscious.
+792006_history.2	Your companions were knocked unconscious.
 792007_meetbuchanan.1	Talk to Leymore and Cai to have them accompany you.
-792007_meetbuchanan.2	My companions were knocked unconscious.
+792007_meetbuchanan.2	Your companions were knocked unconscious.
 792008_hitorder.1	Talk to Leymore and Cai to have them accompany you.
-792008_hitorder.2	My companions were knocked unconscious.
+792008_hitorder.2	Your companions were knocked unconscious.
 792011_getbruinac.1	Leymore was knocked unconscious.
 792011_getbruinac.2	Leymore was knocked unconscious.
-792013_stairwaytoaltar.1	Are you trying to crush the Partholonians' will...Tuan's will?
-792013_stairwaytoaltar.2	The altar of destiny... we won't hand it over.
+792013_stairwaytoaltar.1	Tuan's will...the Partholonians' will...are you trying to discourage us...?
+792013_stairwaytoaltar.2	The altar of destiny...we won't hand it over.
 792013_stairwaytoaltar.3	Why are you helping them...? Milletians...
-792013_stairwaytoaltar.4	Why...why?...You may hold the key in your hands, but this is not the end.
+792013_stairwaytoaltar.4	Why?...Why?...You may hold the key in your hands, but this is not the end.
 792013_stairwaytoaltar.5	Cai was knocked unconscious.
 792013_stairwaytoaltar.6	Unable to find the party leader at the entrance.
 792202_caiback.1	Cai : I'll be waiting in the room at the far east end.
@@ -456,7 +456,7 @@
 792203_claimhsolas.21	Gimel
 792203_claimhsolas.22	_Gimel
 793001_homunculusexperiment.1	bossroom_message
-793001_homunculusexperiment.2	I could not break the barrier. Talk to the boy.
+793001_homunculusexperiment.2	You couldn't break the barrier. Talk to the boy.
 793001_homunculusexperiment.3	Corrupted Alchemist : Looks like we've got visitors. Hehe, excellent. Time to show them something interesting.
 793001_homunculusexperiment.4	Corrupted Alchemist : Attack the intruders, my cute children!
 793001_homunculusexperiment.5	Corrupted Alchemist : Ugh, failures. Useless.
@@ -529,38 +529,38 @@
 793006_meetnuadha2.19	_Dairam
 793006_meetnuadha2.20	Gimel
 793006_meetnuadha2.21	_Gimel
-793010_killhelvetius.1	We will retreat if the Royal Alchemists are wiped out.
+793010_killhelvetius.1	The Royal Alchemists have been wiped out. Retreat!
 793010_killhelvetius.2	Helvetius : So...we meet once again, Lennox.
-793010_killhelvetius.3	My friends died.
-793010_killhelvetius.4	My friends died.
+793010_killhelvetius.3	Your companions died.
+793010_killhelvetius.4	Your companions died.
 793011_morrighan_rp.1	Mission failed.
 793012_breakbruinac.1	Mission failed.
 793014_nuadha_final.1	Morrighan fell unconscious.
-794000_intro.1	King Elsinore
+794000_intro.1	Elsinore Castle
 794000_intro.2	Test
 794000_intro.3	Test
 794000_intro.4	Test
 794001_warontheborder1.1	Test
 794001_warontheborder1.2	Norwegian Outpost
-794001_warontheborder1.3	It seems you have become the protagonist of the stage. \nYour whole body has gained power.
+794001_warontheborder1.3	It feels like you've become the main character of the performance.\nYour whole body is filled with power.
 794001_warontheborder1.4	Border Area
 794001_warontheborder1.5	Test
 794001_warontheborder1.6	Test
-794002_warontheborder2.1	The way to the dock
-794002_warontheborder2.2	How are you doing?
-794002_warontheborder2.3	I wonder if these guys are the last of them. I will show you my true abilities.
+794002_warontheborder2.1	Path to the dock
+794002_warontheborder2.2	How capable are you?
+794002_warontheborder2.3	Are these the last of them? Show off your true skill.
 794002_warontheborder2.4	Test
 794002_warontheborder2.5	Test
 794002_warontheborder2.6	Test
-794002_warontheborder2.7	Laertes leaves.
-794003_ghostatcastle.1	King Elsinore
+794002_warontheborder2.7	You failed to protect Laertes.
+794003_ghostatcastle.1	Elsinore Castle
 794003_ghostatcastle.2	Test
 794003_ghostatcastle.3	Test
 794003_ghostatcastle.4	Test
-794003_ghostatcastle.5	Horatio leaves.
-794004_warontheborder3.1	The way to the dock
-794004_warontheborder3.2	Gah...(A low howl of a wolf is heard from a distance.)
-794004_warontheborder3.3	Gahh...(The wolf's howl has come closer.)
+794003_ghostatcastle.5	You failed to protect Horatio.
+794004_warontheborder3.1	Path to the dock
+794004_warontheborder3.2	Grr...(You hear the low howl of a wolf in the distance.)
+794004_warontheborder3.3	Grrrr...(The wolf's howling has come closer.)
 794004_warontheborder3.4	A huge wolf has appeared.
 794004_warontheborder3.5	Test
 794004_warontheborder3.6	Test
@@ -568,8 +568,8 @@
 794005_loveletter.1	Test
 794005_loveletter.2	Test
 794005_loveletter.3	Hamlet's Room
-794006_findhamlet.1	I got rid of all the ghosts. Talk to the NPC.
-794006_findhamlet.2	I killed all the mice. Talk to the NPC.
+794006_findhamlet.1	You got rid of all the ghosts. Talk to the NPC.
+794006_findhamlet.2	You killed all the rats. Talk to the NPC.
 794006_findhamlet.3	Test
 794006_findhamlet.4	Test
 794007_festival.1	Test
@@ -580,27 +580,27 @@
 794009_poloniusdead.2	Test
 794010_fireofrevolution.1	Test
 794010_fireofrevolution.2	Test
-794011_hamletrp_pirateship.1	Get rid of the monsters on the boat, while protecting Rosencrantz and Guildenstern
+794011_hamletrp_pirateship.1	Defeat the sea monsters while protecting Rosencrantz and Guildenstern.
 794011_hamletrp_pirateship.2	Test
 794011_hamletrp_pirateship.3	Test
 794012_practicefencing.1	Ask to practice your swordsmanship.
-794012_practicefencing.2	Do your best.
+794012_practicefencing.2	Give it your all.
 794012_practicefencing.3	Test
 794012_practicefencing.4	Test
 794013_final.1	Test
 794013_final.2	Test
 794014_graveyard.1	Test
 794014_graveyard.2	Test
-bossroom.1	The barrier has not yet been cleared.
+bossroom.1	The barrier has not been broken yet.
 bossroom.2	bossroom_message
-bossroom_final.1	I cannot find a party leader at the entrance.
-bossroom_open.1	The barrier has not yet been cleared.
+bossroom_final.1	Failed to find party leader upon entry.
+bossroom_open.1	The barrier has not been broken yet.
 bossroom_open.2	bossroom_message
-puzzle_arattree.1	Arat berry trees has appeared.
+puzzle_arattree.1	An Arat Berry tree has appeared.
 puzzle_arattree.2	region
 puzzle_beacon.1	/magic
 puzzle_beacon.2	The castle gate is tightly closed.
-puzzle_beacon.3	The campfire burns
+puzzle_beacon.3	You have lit the beacon.
 puzzle_castleattackprop.1	The eyes of the Cerberus have begun to glow red.
 puzzle_castleattackprop.2	region
 puzzle_castleattackprop.3	The eyes of the Cerberus have begun to glow white.
@@ -613,20 +613,20 @@ puzzle_castlechandelier.1	region
 puzzle_castlechase.1	Royal Alchemists?!
 puzzle_castlechase.2	The end is so far...
 puzzle_castlechase.3	Haha... persistent...
-puzzle_castlechase.4	There is an iron gate blocking the north area
+puzzle_castlechase.4	There is an iron gate blocking the north area.
 puzzle_castlechase.5	Find a switch to open it.
-puzzle_castledecal.1	Sacrificed Monster :
-puzzle_castledelayspawn.1	Shadow Alchemist : I cannot afford to be made late by a corrupt alchemist!
+puzzle_castledecal.1	Sacrificed Monsters :
+puzzle_castledelayspawn.1	Shadow Alchemist : I won't be outmatched by some Corrupt Alchemist!
 puzzle_castledelayspawn.2	region
 puzzle_castledoor.1	SwitchpropChange
 puzzle_castledoor.2	region
-puzzle_castlehitorder.1	The room gate was closed.
+puzzle_castlehitorder.1	The gate to the room was closed.
 puzzle_castlehitorder.2	region
-puzzle_castlehitorder.3	The room gate has opened.
+puzzle_castlehitorder.3	The gate to the room was opened.
 puzzle_castlehitorder.4	region
-puzzle_castlehitorder.5	It seems that the room gate opens when you touch a switch in a certain order.
+puzzle_castlehitorder.5	If you hit the switches in the correct order, the gate to the room will open.
 puzzle_castlehitorder.6	region
-puzzle_castleinvasion.1	Corrupted Alchemist : If you hit all of the shining orbs you can prevent the spiders from attacking.
+puzzle_castleinvasion.1	Corrupted Alchemist : If you hit all of the glowing orbs you can prevent the spiders from attacking.
 puzzle_castleinvasion.2	Sulfur spiders invade from the northwest gate.
 puzzle_castleinvasion.3	Sulfur spiders invade from the north gate.
 puzzle_castleinvasion.4	Sulfur spiders invade from the northeast gate.
@@ -637,17 +637,17 @@ puzzle_castlekillcount.3	\n
 puzzle_castlekillcount.4	:
 puzzle_castlekillcount.5	:
 puzzle_castlekillcount.6	:
-puzzle_castlekillcount.7	Others killed:
+puzzle_castlekillcount.7	Defeated by others:
 puzzle_castlekillcount.8	\n
 puzzle_castlekillcount.9	\n
 puzzle_castlekillcount.10	Monsters Remaining:
-puzzle_castlenpctalk.1	Hah, you have been lucky so far. You should surrender now.
-puzzle_castlenpctalk.2	Heat Buster？Is this your new alchemy skill?
-puzzle_castlenpctalk.3	Secret experiment in the underground waterway?
-puzzle_castlenpctalk.4	Woah... the corrupt royal government all together...
-puzzle_castlenpctalk.5	Huh, this power is different from that of royal alchemists. This is the power from the Arat Alchemy Society...
-puzzle_castlenpctalk.6	That's it. Completion of the experiment is near.
-puzzle_castlepoisonprop.1	The eyes of the Cerberus begin to shine purple.
+puzzle_castlenpctalk.1	Amos, your luck's run out. It would be better if you surrender quietly. 
+puzzle_castlenpctalk.2	Heat Buster？ Is this your new alchemy skill?
+puzzle_castlenpctalk.3	A homunculus experiment in the underground waterway?
+puzzle_castlenpctalk.4	Ugh...you cruel Royal Alchemists...
+puzzle_castlenpctalk.5	Heh...we're not on the same level as you Royal Alchemists. This is the power of the Arat Alchemy Society...
+puzzle_castlenpctalk.6	That's right. The homunculus is nearing completion.
+puzzle_castlepoisonprop.1	The eyes of the Cerberus begin to glow purple.
 puzzle_castlepoisonprop.2	region
 puzzle_castleroom.1	region
 puzzle_castleroomspawn.1	region
@@ -659,124 +659,124 @@ puzzle_castleswitchprop.4	region
 puzzle_castleswitchprop.5	I touched the orb that opens the room gate.
 puzzle_castlewarpprop.1	
 puzzle_castlewarpprop.2	region
-puzzle_castlewarpprop.3	Suddenly, one of the orbs has begun to shine.
+puzzle_castlewarpprop.3	Suddenly, one of the orbs has begun to glow.
 puzzle_castlewarpprop.4	region
 puzzle_castlewarpprop2.1	
 puzzle_castlewarpprop2.2	region
-puzzle_challenge.1	Commander : Why don't we start slowly... Hehe...
+puzzle_challenge.1	Commander : Show me what you've got.
 puzzle_challenge.2	region
-puzzle_challenge.3	Commander : Have you warmed up yet?
+puzzle_challenge.3	Commander : How's that? Have you finished warming up?
 puzzle_challenge.4	region
-puzzle_challenge.5	Commander : At least you're better than the fools earlier...
+puzzle_challenge.5	Commander : At least you're better than those fools earlier...
 puzzle_challenge.6	region
-puzzle_challenge.7	Commander : Puhaha...I don't mean to insult you, but these guys look bored.
+puzzle_challenge.7	Commander : Heh...I don't mean to insult you, it's just that those guys were so boring.
 puzzle_challenge.8	region
-puzzle_challenge.9	Commander : Let me introduce you to someone more frightening.
+puzzle_challenge.9	Commander : Let me introduce you to a friend of mine...
 puzzle_challenge.10	region
-puzzle_challenge.11	Commander : You there... you look weak. I do not need weak, go take a rest.
+puzzle_challenge.11	Commander : You there... you look weak. Weaklings just get in the way...the rest of you can cheer them on.
 puzzle_challenge.12	region
-puzzle_challenge.13	Commander : These soldiers will not be ready for quite a bit.. I hope you are.
+puzzle_challenge.13	Commander : Hmph, not bad...Let's see how you fare, then.
 puzzle_challenge.14	region
 puzzle_challenge.15	Commander : Is it over already?
 puzzle_challenge.16	region
-puzzle_challenge.17	Commander : Hmm... Better than I expected...
+puzzle_challenge.17	Commander : Hmm...better than I expected...
 puzzle_challenge.18	region
-puzzle_challenge.19	Commander : I'll admit that I underestimated you.
+puzzle_challenge.19	Commander : I have to admit, I underestimated you.
 puzzle_challenge.20	region
-puzzle_cookdungeon.1	Glewyas : So rude.
-puzzle_cookdungeon.2	It seems the dish has been cooked well. Let me show this to Glewyas.
-puzzle_cookdungeon.3	This dish is shameful, but I should show this dish to Glewyas.
-puzzle_cookdungeon.4	This isn't called food at all. Let's try again.
-puzzle_cookmonster2.1	Glewyas : Oh no!!! What are you doing! A mouse got into the food!
-puzzle_cookmonster2.2	Glewyas : Ahhh!!! It's a rat! Get it out of the pot quickly!
+puzzle_cookdungeon.1	Glewyas: I'll take my leave, then.	
+puzzle_cookdungeon.2	It seems the dish has been cooked well. You should show this to Glewyas!
+puzzle_cookdungeon.3	This is an embarrassing attempt at cooking, but you should show this dish to Glewyas anyway.
+puzzle_cookdungeon.4	You can hardly call this food. Try again.
+puzzle_cookmonster2.1	Glewyas: Aaaaaahh!!! What are you doing?! You got a rat in the food!!!
+puzzle_cookmonster2.2	Glewyas: Ahhh!!! It's a rat! Get it out of the pot quickly!
 puzzle_decal.1	Development Version :
 puzzle_decal.2	Mari was killed.
-puzzle_decal.3	Sacrificial Monster :
-puzzle_decal2.1	I cannot go any further.
+puzzle_decal.3	Sacrificed Monsters :
+puzzle_decal2.1	It's become too much to handle.
 puzzle_decal2.2	region
-puzzle_decal2.3	Development Version :
+puzzle_decal2.3	Sacrificed Monsters :
 puzzle_decal2.4	Mari is done.
-puzzle_decal3.1	The barrier has not yet been cleared.
+puzzle_decal3.1	The barrier has not been broken yet.
 puzzle_decal3.2	bossroom_message
-puzzle_decal3.3	Development Version :
+puzzle_decal3.3	Sacrificed Monsters :
 puzzle_decal3.4	Finish
-puzzle_decal3.5	Sacrificial Monster :
-puzzle_dramaplay.1	Remarrying, Is like killing a deceased husband twice. \nIt is not true love.
-puzzle_dramaplay.2	I believed it was true love.\nBut love changes according to destiny.\nWill love guide fate?\nIt depends on whether fate leads love.
-puzzle_dramaplay.3	I believed it was true love.\nHowever...\n(Well... I cannot remember the words.)
-puzzle_dramaplay.4	What do you mean? Your majesty.
-puzzle_dramaplay.5	I do not intend to remarry now,\nIf I die.\nSuch ideas will also die.
+puzzle_decal3.5	Sacrificed Monsters :
+puzzle_dramaplay.1	The instances that second marriage move\nAre base respects of thrift, but none of love\nA second time I kill my husband dead\nWhen second husband kisses me in bed. 
+puzzle_dramaplay.2	This world is not for aye, nor ’tis not strange\nThat even our loves should with our fortunes change;\nFor ’tis a question left us yet to prove,\nWhether love lead fortune, or else fortune love. 
+puzzle_dramaplay.3	This world is not for aye, nor ’tis not strange\nThat even our loves should...\n(Uhh...I can't remember the lines...)
+puzzle_dramaplay.4	What do you mean, Your majesty?
+puzzle_dramaplay.5	Our thoughts are ours, their ends none of our own.\nSo think thou wilt no second husband wed,\nBut die thy thoughts when thy first lord is dead. 
 puzzle_dramaplay.6	(Push the yellow button when the spotlight hits me.)
-puzzle_dramaplay.7	I do not intend to remarry now,\n(Oh... embarassing.. let's try that again...)
-puzzle_dramaplay.8	The earth is so empty\nThe sky is gone\nDay and night has disappeared\nI cannot think of losing my Majesty and remarrying.
-puzzle_dramaplay.9	Believe this solemn oath.\nI am tired.\nI need to go to sleep.
+puzzle_dramaplay.7	Our thoughts are ours, their ends...\n(Oh...how embarrassing...of all the lines...)
+puzzle_dramaplay.8	An anchor’s cheer in prison be my scope.\nEach opposite that blanks the face of joy\nMeet what I would have well and it destroy.\nBoth here and hence pursue me lasting strife\nIf, once a widow, ever I be wife! 
+puzzle_dramaplay.9	‘Tis deeply sworn. Sweet, leave me here awhile.\nMy spirits grow dull, and fain I would beguile\nThe tedious day with sleep. 
 puzzle_dramaplay.10	(Push the yellow button when the spotlight hits me.)
-puzzle_dramaplay.11	Believe in this solemn oath...\n(Uh... I can't remember the words...)
-puzzle_faliasbigstonehenge.1	Let's enter the stonehenge and defeat Nuadha
-puzzle_faliasbigstonehenge.2	The portal did not open.\nYou must open the portal after unlocking the seal to the Stonehenge first.
+puzzle_dramaplay.11	‘Tis deeply sworn...\n(Uhh...I can't remember the lines...)s
+puzzle_faliasbigstonehenge.1	Destroy the stonehenge and seal Nuadha.
+puzzle_faliasbigstonehenge.2	The portal did not open.\nYou must unseal the Stonehenge first in order to open the portal.
 puzzle_faliasbigstonehenge.3	Nothing happens.
-puzzle_faliascenterprop.1	A giant stone board begins to shine with the power of shock.
-puzzle_faliascenterprop.2	You must use the power of shock.
-puzzle_faliascenterprop.3	Unlock Stonehenge's seal from the direction that the stone board is shining.
+puzzle_faliascenterprop.1	A large stone slab begins to glow due to the power of Shock.
+puzzle_faliascenterprop.2	You must use Shock.
+puzzle_faliascenterprop.3	Unseal the stonehenge in the direction highlighted by the stone slab.
 puzzle_faliascenterprop.4	Go meet Nuadha.
-puzzle_faliascenterprop.5	Let's enter the stonehenge and defeat Nuadha
+puzzle_faliascenterprop.5	Destroy the stonehenge and seal Nuadha.
 puzzle_faliascenterprop.6	Nothing happens.
 puzzle_faliascenterprop.7	Nothing happens.
-puzzle_faliascenterprop.8	Investigate another Stonehenge.
-puzzle_faliascenterprop.9	Investigate another Stonehenge.
-puzzle_faliascenterprop.10	Destroy Nuadha's Barrier with the altar.
-puzzle_faliascenterprop.11	The portal is opened. Go meet Nuadha.
-puzzle_faliasstonehenge.1	Using Stonehenge fragments, you can restore the collapsed Stonehenge.
-puzzle_faliasstonehenge.2	Go to the Stonehenge that is in front of the direction the Shining Board is pointing.
-puzzle_faliasstonehenge.3	We have already unlocked all the Stonehenges and opened the portal.
-puzzle_faliasstonehenge.4	After using Shock touch the big stone in the center of the square\nYou will then be able to see the Stonehenge that needs unsealed.
-puzzle_faliasstonehenge.5	The power from the floating stones will not go away\nTry somewhere else first.
+puzzle_faliascenterprop.8	Investigate another stonehenge.
+puzzle_faliascenterprop.9	Investigate another stonehenge.
+puzzle_faliascenterprop.10	Use the altar to destroy Nuadha's barrier.
+puzzle_faliascenterprop.11	The portal has opened. Go meet Nuadha.
+puzzle_faliasstonehenge.1	Using the stonehenge fragments, you can restore a collapsed stonehenge.
+puzzle_faliasstonehenge.2	Deal with the stonehenge that is in the direction highlighted by the glowing stone slab.
+puzzle_faliasstonehenge.3	You have already unsealed all of the Stonehenges and opened the portal.
+puzzle_faliasstonehenge.4	After using Shock, touch the large stone slabs in the center of the plaza.\nYou will then be able to see the Stonehenge that needs to be unsealed.
+puzzle_faliasstonehenge.5	The power that is moving the floating stones is not disappearing.\nTry somewhere else first.
 puzzle_faliasstonehenge.6	Nothing happens.
-puzzle_faliasstonehenge.7	Stonehenge is sealed.\nLet's investigate nearby floating stones.
+puzzle_faliasstonehenge.7	The stonehenge is sealed.\nInvestigate the stones floating nearby.
 puzzle_faliasstonehenge.8	Nothing happens.
-puzzle_faliasstonehenge.9	Stonehenge is collapsed.\nLet's find a way to return it before it collapses.
+puzzle_faliasstonehenge.9	The stonehenge has collapsed.\nFind a way to restore it to a pre-collapsed state.
 puzzle_faliasstonehenge.10	Nothing happens.
-puzzle_faliasstonehenge.11	Stonehenge is protected by the floating stones.\nRemove the power from the floating stones.
-puzzle_faliasstonehenge.12	Stonehenge is protected by a mysterious force.\nTry somewhere else.
-puzzle_faliasstonehenge.13	Stonehenge is already destroyed.
+puzzle_faliasstonehenge.11	The stonehenge is protected by the floating stones.\nEliminate the power that is moving the floating stones.
+puzzle_faliasstonehenge.12	The stonehenge is protected by a mysterious force.\nTry somewhere else.
+puzzle_faliasstonehenge.13	The stonehenge has already been destroyed.
 puzzle_faliasstonehenge.14	Nothing happens.
-puzzle_faliasstonehenge.15	The power to the floating stone has disappeared.
-puzzle_faliasstonehenge.16	The power sealing the Stonehenge has disappeared.
-puzzle_faliasstonehenge.17	Restored the broken Stonehenge.
-puzzle_faliasstonehenge.18	Destroyed the Stonehenge.
+puzzle_faliasstonehenge.15	The power that was moving the floating stones has disappeared.
+puzzle_faliasstonehenge.16	The power that sealed the stonehenge has disappeared.
+puzzle_faliasstonehenge.17	You restored the broken stonehenge.
+puzzle_faliasstonehenge.18	You destroyed the stonehenge.
 puzzle_partition.1	I heard the iron gate opening somewhere.
-puzzle_rescue.1	The remaining monsters
-puzzle_rescue.2	Equal
-puzzle_sieze.1	Jenna collapsed.
-puzzle_spawn_enduretime.1	It seems the battle against Daol is near. Go talk to Neamhain for help.
-puzzle_spawn_enduretime.2	When the swords of Nuadha scatter use Morrighan's feather.
-puzzle_spawn_enduretime.3	I could  not save Neamhain.
-puzzle_spawn_ghost.1	The energy from the Brionac and Shock was cancelled.
-puzzle_spawn_ghost.2	Do not be touched by the powerful energy of the Brionac.
-puzzle_spawn_ghost.3	Leymore cannot stop Neamhain anymore.
-puzzle_spawn_jenna.1	I could not protect Jenna.
-puzzle_spawnbyperiod.1	I cannot go any further.
+puzzle_rescue.1	Remaining monsters:
+puzzle_rescue.2	left
+puzzle_sieze.1	Jenna died.
+puzzle_spawn_enduretime.1	You won't be able to handle the Daols. Go help Neamhain.
+puzzle_spawn_enduretime.2	When Nuadha's swords scatter across Falias, use Morrighan's Feather.
+puzzle_spawn_enduretime.3	You failed to save Neamhain.
+puzzle_spawn_ghost.1	The energies from Brionac and Shock canceled each other out.
+puzzle_spawn_ghost.2	You can't touch it due to the powerful electric energy being emitted by Brionac.
+puzzle_spawn_ghost.3	Leymore couldn't hold back Neamhain anymore.
+puzzle_spawn_jenna.1	You failed to protect Jenna.
+puzzle_spawnbyperiod.1	It's become too much to handle.
 puzzle_spawnbyperiod.2	region
 puzzle_stagedungeon_720003_control.1	
 puzzle_stagedungeon_720003_control.2	
 puzzle_stagedungeon_720003_control.3	
 puzzle_stagedungeon_720003_control.4	
 puzzle_stagedungeon_720003_control.5	
-puzzle_stagedungeon_720003_control.6	Civillians: 7
+puzzle_stagedungeon_720003_control.6	Civilians: 7
 puzzle_stagedungeon_720003_control.7	Monsters: 1
 puzzle_stagedungeon_720003_control.8	
-puzzle_stagedungeon_720003_control.9	Protected Civillians: 0
-puzzle_stagedungeon_720003_control.10	Rescued Civillians: 0
-puzzle_stagedungeon_720003_control.11	Weakened Protection: 0
-puzzle_stagedungeon_720003_control.12	HP Reduction: 0
-puzzle_stagedungeon_720003_control.13	I have knocked down all of the monsters that attacked.\nMore monsters will appear after a while.
-puzzle_stagedungeon_720003_control.14	Civillians:
+puzzle_stagedungeon_720003_control.9	Civilian Defense: 0
+puzzle_stagedungeon_720003_control.10	Rescued Civilians: 0
+puzzle_stagedungeon_720003_control.11	Monster Defense Decrease: 0
+puzzle_stagedungeon_720003_control.12	Monster HP Reduction: 0
+puzzle_stagedungeon_720003_control.13	You have defeated all of the attacking monsters.\nMore monsters will appear after a while.
+puzzle_stagedungeon_720003_control.14	Civilians:
 puzzle_stagedungeon_720003_control.15	Monsters:
 puzzle_stagedungeon_720003_control.16	
 puzzle_stagedungeon_720003_control.17	Civilian Protection:
 puzzle_stagedungeon_720003_control.18	Rescued Civilians:
-puzzle_stagedungeon_720003_control.19	Weakened Protection:
-puzzle_stagedungeon_720003_control.20	HP Reduction:
+puzzle_stagedungeon_720003_control.19	Monster Defense Decrease:
+puzzle_stagedungeon_720003_control.20	Monster HP Reduction:
 puzzle_stagedungeon_720004_control.1	
 puzzle_stagedungeon_720004_control.2	
 puzzle_stagedungeon_720004_control.3	
@@ -785,44 +785,44 @@ puzzle_stagedungeon_720004_control.5
 puzzle_stagedungeon_720004_control.6	Civilians: 7
 puzzle_stagedungeon_720004_control.7	Monsters: 1
 puzzle_stagedungeon_720004_control.8	
-puzzle_stagedungeon_720004_control.9	Civilian Vitality: 0
+puzzle_stagedungeon_720004_control.9	Civilian HP: 0
 puzzle_stagedungeon_720004_control.10	Rescued Civilians: 0
-puzzle_stagedungeon_720004_control.11	Weakened Protection: 0
-puzzle_stagedungeon_720004_control.12	HP Reduction: 0
-puzzle_stagedungeon_720004_control.13	I have knocked down all of the monsters that attacked.\nMore monsters will appear after a while.
+puzzle_stagedungeon_720004_control.11	Monster Defense Decrease: 0
+puzzle_stagedungeon_720004_control.12	Monster HP Reduction: 0
+puzzle_stagedungeon_720004_control.13	You have defeated all of the attacking monsters.\nMore monsters will appear after a while.
 puzzle_stagedungeon_720004_control.14	Civilians:
 puzzle_stagedungeon_720004_control.15	Monsters:
 puzzle_stagedungeon_720004_control.16	
-puzzle_stagedungeon_720004_control.17	Civilians Vitality:
+puzzle_stagedungeon_720004_control.17	Civilian HP:
 puzzle_stagedungeon_720004_control.18	Rescued Civilians:
-puzzle_stagedungeon_720004_control.19	Weakened Protection:
-puzzle_stagedungeon_720004_control.20	HP Reduction:
+puzzle_stagedungeon_720004_control.19	Monster Defense Decrease:
+puzzle_stagedungeon_720004_control.20	Monster HP Reduction:
 puzzle_stagedungeon_794008_control.1	!!!
-puzzle_stagedungeon_794008_control.2	You are getting too close.
-puzzle_stagedungeon_794008_control.3	Be careful, you will be caught if you go any closer.
-puzzle_stagedungeon_794008_control.4	You are too far away and will lose sight.\nMore in a little closer.
-puzzle_stagedungeon_794008_control.5	I lost sight of Claudius.
+puzzle_stagedungeon_794008_control.2	You got too close and were discovered.
+puzzle_stagedungeon_794008_control.3	Be careful, you will be caught if you get any closer.
+puzzle_stagedungeon_794008_control.4	You are too far away and will lose sight of him.\nFollow him a bit more closely.
+puzzle_stagedungeon_794008_control.5	You lost sight of Claudius.
 puzzle_stagedungeon_794008_control.6	You must follow Claudius without getting caught.
-puzzle_stagedungeon_794010_control.1	We must protect the Civilians from the Soldiers.\nDo not attack civilians.
-puzzle_stagedungeon_794010_control.2	The civilian damage is too great.
+puzzle_stagedungeon_794010_control.1	Protect the civilians from the sentries.\nDo not attack the civilians.
+puzzle_stagedungeon_794010_control.2	The civilians have taken too much damage.
 puzzle_stagedungeon_794010_control.3	Protect the civilians.
-puzzle_stagedungeon_794010_control.4	You must fight the soldiers, but do not attack civilians. 
+puzzle_stagedungeon_794010_control.4	Fight the sentries, but take care not to attack civilians. 
 puzzle_stagedungeon_curtain.1	Test
-puzzle_stagedungeon_delaycomplete2.1	I could not protect Shakespeare.
-puzzle_stagedungeon_delaycomplete2.2	Shakespeare : The Grim Reaper is immortal. Please be careful.
+puzzle_stagedungeon_delaycomplete2.1	You failed to protect Shakespeare.
+puzzle_stagedungeon_delaycomplete2.2	Shakespeare : The Grim Reaper is an immortal god of death. Please be careful.
 puzzle_stagedungeonratrace2.1	
 puzzle_stagedungeonratrace2.2	
 puzzle_stagedungeonratrace2.3	
 puzzle_stagedungeonratrace2.4	
 puzzle_stagedungeonratrace2.5	
-puzzle_stagedungeonratrace2.6	Captured: 50 / 100
-puzzle_stagedungeonratrace2.7	Summoned Mouse:
-puzzle_stagedungeonratrace2.8	Raise your captured score by chasing the mouse.
-puzzle_stagedungeonratrace2.9	Catch the mouse and regain the letter.
-puzzle_stagedungeonratrace2.10	Mouse
-puzzle_stagedungeonratrace2.11	Impossible
-puzzle_stagedungeonratrace2.12	Raise your captured score by chasing the mouse.
+puzzle_stagedungeonratrace2.6	Capture Points: 50 / 100
+puzzle_stagedungeonratrace2.7	Rat minion summoning: Possible
+puzzle_stagedungeonratrace2.8	Raise your capture points by chasing the rats.
+puzzle_stagedungeonratrace2.9	You caught the rats and took the letter back.
+puzzle_stagedungeonratrace2.10	Possible
+puzzle_stagedungeonratrace2.11	Not possible
+puzzle_stagedungeonratrace2.12	Raise your capture points by chasing the rats.
 puzzle_stagedungeonratrace2.13	It seems you have to eliminate the minions first.
-puzzle_stagedungeonratrace2.14	Captured:
+puzzle_stagedungeonratrace2.14	Capture Points:
 puzzle_stagedungeonratrace2.15	/ 100
-puzzle_stagedungeonratrace2.16	Summoned Mouse:
+puzzle_stagedungeonratrace2.16	Rat minion summoning:

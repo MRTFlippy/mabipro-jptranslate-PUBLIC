@@ -200,8 +200,8 @@
 5th_anniversary_announce_event.200	시골길같은 티르와 정겨운 배경음악, 내 꿈의 마을, 마비노기! 5주년축하!     하프-캐터필러
 5th_anniversary_announce_event.201	
 5th_anniversary_announce_event.202	
-anniversary.1	ライミラク教団では法皇庁の寄付箱を通じて慈善基金を集めています。現在の合計寄付金額は
-anniversary.2	ゴールドです。
+anniversary.1	The Church of Lymilark collects charitable funds through the Pontiff's Offering Box. Currently, the donations total
+anniversary.2	Gold.
 collectionbook.1	に
 collectionbook.2	を収集しました。
 collectionbook.3	コレクションの全てのアイテムを集めました。
@@ -214,14 +214,14 @@ collectionbook.9	のサイズが小さくて収集できません。
 collectionbook.10	のサイズが大きくて収集できません。
 collectionbook.11	のサイズが小さくて収集できません。
 collectionbook.12	のサイズが大きくて収集できません。
-collectionbook.13	ウルフハンター
-collectionbook.14	ライオンハンター
-collectionbook.15	ネイチャー
+collectionbook.13	Wolf Hunter's
+collectionbook.14	Lion Hunter's
+collectionbook.15	Nature
 collectionbook.16	ウルフハンターとネイチャー
 collectionbook.17	初歩のと忍耐の
 collectionbook.18	精巧な
-collectionbook.19	フォックスハンター
-collectionbook.20	クレイフィッシュ
+collectionbook.19	Fox Hunter's
+collectionbook.20	Crayfish
 collectionbook.21	賢い
 collectionbook.22	ひびが入った
 collectionbook.23	鋭い
@@ -585,7 +585,7 @@ falias.25	Altar :
 falias.26	You cannot destroy the barrier without first destroying its power source.\nDestroy the Stonehenge providing power to the barrier.
 falias.27	You cannot check the altar while you are mounted.
 falias.28	You cannot check the altar while others are on it.
-falias.29	You cannot check the altar mid-flight.
+falias.29	You cannot check the altar while flying.
 falias.30	The altar is currently not working.\nSearch for a way to activate it.
 falias.31	You cannot obtain treasures unless you protect the altar from the Aonbharrs.
 falias.32	You failed to protect the altar.\nYou will not receive any treasures.
@@ -611,7 +611,7 @@ fashionshow_event.6	The Tara Fashion Contest Preliminaries have ended.
 fashionshow_event.7	Applications for the Tara Fashion Contest Finals are now closed.
 fashionshow_event.8	The Tara Fashion Contest Finals have ended.
 fashionshow_event.9	The Tara Fashion Contest Preliminaries are scheduled to begin at 8 p.m. We look forward to your participation.
-fashionshow_event.10	The Tara Fashion Contest Preliminaries are taking place now. We look forward to your participation.
+fashionshow_event.10	The Tara Fashion Contest Preliminaries are currently in progress. We look forward to your participation.
 fashionshow_event.11	The Tara Fashion Contest Finals are scheduled to begin at 8 p.m. We look forward to your participation.
 fashionshow_event.12	The Tara Fashion Contest Finals are currently in progress.
 g1_event.1	G1_40_b カットシーンが終了しました。
