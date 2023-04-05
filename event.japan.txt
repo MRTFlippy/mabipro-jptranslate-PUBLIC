@@ -668,10 +668,10 @@ item.item12280.1	You have unlocked a Falias Treasure slot.
 item.item12280.2	The effect of this item has already been applied.
 item.item12280.3	Using this item now will have no effect.
 item.item12280.4	Using this item now will have no effect.
-item.item12281.1	家系図の子供スロット追加に成功しました。
-item.item12281.2	子供スロットの追加に失敗しました。
-item.item12281.3	すでに家系図のすべての子供スロットが開いています。
-item.item12281.4	養子縁組権利証書は家長のみ使用できます。
+item.item12281.1	You have successfully added a slot for a child to your family tree.
+item.item12281.2	Failed to add child slot.
+item.item12281.3	All slots for children in your family tree are already open.
+item.item12281.4	Adoption certificates can only be used by the head of a household.
 item.item51097.1	ザルディンの遺物9種類をすべて持っているため、今は使用できません。
 item.item51097.2	古いドラゴンの骨片は9個集まらなければ使用できません。
 item.item51097.3	ザルディンの遺物をすべて集めました。コレクションブックに収集して報酬を受け取ったあと、使用してください。
@@ -711,9 +711,9 @@ item.item73211.4	비가 오지 않는 날에는 물이 든 병으로 화분에 �
 item.item73211.5	물을 주었더니 화분에서 꽃이 피었다.
 item.item75356.1	進行中のミッションを完了させて、蔵書館図書カードを再び使用してみよう。
 item.item75371.1	You cannot use the Goddess Needle while you have another mission in progress.
-item.item75372.1	すでにカリバーンを取り戻した。
-item.item75372.2	進行中のミッションを完了または放棄して、カリバーンの通行証を再び使用してみよう。
-item.item75372.3	今の状態では使えない。
+item.item75372.1	You have already taken the Caliburn back.
+item.item75372.2	Complete or abandon your current mission, then try using the Caliburn pass once again.
+item.item75372.3	You cannot use this in your current condition.
 item.item75420.1	You must be near the Statue of the Goddess to use this item.
 item.item75420.2	You must be near the Statue of the Goddess in the Underground Waterway to use this item.
 item.item75420.3	You must be near the Statue of the Goddess in the Underground Waterway to use this item.
@@ -804,21 +804,21 @@ joust_event.16	トーナメントの受付を承っております。ふるっ�
 joust_event.17	適正人数の参加がなかったため、週間トーナメントはキャンセルされました。
 joust_event.18	適正人数の参加がなかったため、トーナメントはキャンセルされました。
 joust_event.19	サーバー週間トーナメントで勝利しました。
-monster_event.1	食べ物以外には興味がないようだ。
-monster_event.2	サルはこの食べ物に興味がないようだ。
-monster_event.3	臨時インベントリを整理してからあげよう。
-monster_event.4	あまり好きではなさそうだが、とりあえず {0}{を} 取り出してくれた。
-monster_event.5	あげた食べ物に感謝して {0}{を} 取り出してくれた。
-monster_event.6	私があげた食べ物をとても喜んで {0}{を} 取り出してくれた。
-monster_event.7	このサルはこれ以上私にあげる持ち合わせがないようだ。
-monster_event.8	シカは興味がないようだ。夜にだけ生えるキノコが好きらしいが…
-monster_event.9	臨時インベントリを整理してからあげよう。
-monster_event.10	シカは私があげたキノコに感謝して{0}をくれた。
-monster_event.11	このシカはこれ以上私にあげる持ち合わせがないようだ。
-monster_event.12	鳥が好きな色の玉ではないようだ。
-monster_event.13	臨時インベントリを整理してからあげよう。
-monster_event.14	私があげた玉に感謝して{0}をくれた。
-monster_event.15	この鳥はこれ以上私にあげる持ち合わせがないようだ。
+monster_event.1	They don't seem to be interested in anything but food.
+monster_event.2	The monkeys don't seem interested in this type of food.
+monster_event.3	Organize your temporary inventory before giving it an item.
+monster_event.4	The monkey didn't really like the food, but it gave you {0} anyway.
+monster_event.5	The monkey gave you {0} as thanks for the food.
+monster_event.6	The monkey was very pleased with the food you gave it and gave you {0}.
+monster_event.7	It looks like this monkey has nothing left to give to you.
+monster_event.8	The deer doesn't seem interested. It seems to only want mushrooms that grow at night...
+monster_event.9	Organize your temporary inventory before giving it an item.
+monster_event.10	The deer gave you {0} as thanks for the mushroom.
+monster_event.11	It looks like this deer has nothing left to give to you.
+monster_event.12	This isn't one of the colored gems the birds like.
+monster_event.13	Organize your temporary inventory before giving it an item.
+monster_event.14	The bird gave you {0} as thanks for the colored gem.
+monster_event.15	It looks like this bird has nothing left to give to you.
 monster_event.16	/pythonstone/
 monster_event.17	/shadowmission/
 monster_event.18	/normalmode/
@@ -828,7 +828,7 @@ monster_event.21	/shadowmission/
 monster_event.22	/hardmode/
 monster_event.23	/shadowmission/
 monster_event.24	PythonstoneBarrier
-monster_event.25	サルの友達タイトルを獲得しました
+monster_event.25	Acquired the "a friend of Monkeys" title
 nubes_undermaze_chest.1	この宝箱はすでに開いています。
 nubes_undermaze_chest.2	アイテムドロップに失敗しました。
 nubes_undermaze_chest.3	アイテムドロップに失敗しました。
@@ -870,11 +870,11 @@ pc_event.31	ライミラク慈善基金から手紙が到着しました。\nお
 pc_event.32	リリスからもらった寄付金を寄付した。
 pc_event.33	寄付箱に入れることができない。
 pet_event.1	オットセイにカバンの中の魚を投げてやることができます。
-portal_condition.1	レベル 10 以上ではないと入れません。
-portal_condition.2	テストの為、怖い図書館の入場が可能になります。
-portal_condition.3	不思議な力が感じられる…
-portal_condition.4	ペッカダンジョンの入口が塞がれています。
-portal_condition.5	図書館の不思議な力が\nこれ以上多くの人が入れないように阻んでいる。
+portal_condition.1	You cannot enter unless you are level 10 or higher.
+portal_condition.2	For testing purposes, you will be able to enter the Scary Library.
+portal_condition.3	You feel a mysterious force...
+portal_condition.4	The entrance to Peaca Dungeon is blocked.
+portal_condition.5	The mysterious force from the library\nis preventing more people from entering.
 portal_condition.6	入場することができな状態です。
 portal_condition.7	新郎と新婦だけが入場することができます。
 portal_condition.8	結婚式の服を着たままでは外へ出ることができません。\n外へ出るにはNPCへ服を返してください。
@@ -1135,16 +1135,16 @@ prop_event.149	扉が私に反応した。
 prop_event.150	遠距離にいる行動不能になった人を復活させることができる者だけが、この扉を開けられるはずだ。
 prop_event.151	既に開かれた扉です。
 prop_event.152	GM・devCATの権限で常に開けることができます。
-prop_event.153	私の叫びに扉が反応した。
+prop_event.153	The door reacted to my shout.
 prop_event.154	幼い頃に聞いた、扉を開けるために必要なあの呪文を叫べば開きそうな気がする！
-prop_event.155	私の叫びに扉が反応した。
+prop_event.155	The door reacted to my shout.
 prop_event.156	ひらけ○○！
-prop_event.157	私の叫びに扉が反応した。
-prop_event.158	いつも誕生日にささやかなプレゼントをくれるあの人の名前を叫べば開きそうな気がする！
-prop_event.159	私の叫びに扉が反応した。
-prop_event.160	クロウクルアフと一緒に消えた昔の英雄の名を叫べば開きそうな気がする！
-prop_event.161	私の叫びに扉が反応した。
-prop_event.162	夜のシドスネッターにのみ姿を現す彼の名を叫べば開きそうな気がする！
+prop_event.157	The door reacted to my shout.
+prop_event.158	It seems like it will open if you yell the name of the person who always gives you a small gift on your birthday!
+prop_event.159	The door reacted to my shout.
+prop_event.160	It seems like it will open if you yell the name of the old hero who disappeared with Cromm Cruaich!
+prop_event.161	The door reacted to my shout.
+prop_event.162	It seems like it will open if you yell the name of he who only appears at night at Sidhe Sneachta!
 prop_event.163	既に開かれた扉です。
 prop_event.164	ひらけ～！ と叫べば開きそうな気がする。
 prop_event.165	ひらけ～ゴマ！ と叫べば開きそうな気がする。
@@ -1249,30 +1249,30 @@ prop_event.263	扉が私に反応した。
 prop_event.264	短時間で多くを成しえた者だけが、この扉を開けられるはずだ。
 prop_event.265	扉が私に反応した。
 prop_event.266	体の大きい相手であっても落ち着いて対応できる者だけが、この扉を開けられるはずだ。
-prop_event.267	人間
-prop_event.268	私の叫びに扉が反応した。
-prop_event.269	「人間！」と叫べばなぜか開きそうだ。
-prop_event.270	エルフ
-prop_event.271	私の叫びに扉が反応した。
-prop_event.272	「エルフ！」と叫べばなぜか開きそうだ。
-prop_event.273	ジャイアント
-prop_event.274	私の叫びに扉が反応した。
-prop_event.275	「ジャイアント！」と叫べばなぜか開きそうだ。
-prop_event.276	タルラーク
-prop_event.277	私の叫びに扉が反応した。
-prop_event.278	「タルラーク！」と叫べばなぜか開きそうだ。
-prop_event.279	ナオ
-prop_event.280	私の叫びに扉が反応した。
-prop_event.281	「ナオ！」と叫べばなぜか開きそうだ。
-prop_event.282	ルエリ
-prop_event.283	私の叫びに扉が反応した。
-prop_event.284	「ルエリ！」と叫べばなぜか開きそうだ。
-prop_event.285	「人間！」と叫べばなぜか開きそうだ。
-prop_event.286	「エルフ！」と叫べばなぜか開きそうだ。
-prop_event.287	「ジャイアント！」と叫べばなぜか開きそうだ。
-prop_event.288	「タルラーク！」と叫べばなぜか開きそうだ。
-prop_event.289	「ナオ！」と叫べばなぜか開きそうだ。
-prop_event.290	「ルエリ！」と叫べばなぜか開きそうだ。
+prop_event.267	Human
+prop_event.268	The door reacted to my shout.
+prop_event.269	It seems like it will open if you yell "Human!" 
+prop_event.270	Elf
+prop_event.271	The door reacted to my shout.
+prop_event.272	It seems like it will open if you yell "Elf!" 
+prop_event.273	Giant
+prop_event.274	The door reacted to my shout.
+prop_event.275	It seems like it will open if you yell "Giant!" 
+prop_event.276	Tarlach
+prop_event.277	The door reacted to my shout.
+prop_event.278	It seems like it will open if you yell "Tarlach!" 
+prop_event.279	Nao
+prop_event.280	The door reacted to my shout.
+prop_event.281	It seems like it will open if you yell "Nao!" 
+prop_event.282	Ruairi
+prop_event.283	The door reacted to my shout.
+prop_event.284	It seems like it will open if you yell "Ruairi!" 
+prop_event.285	It seems like it will open if you yell "Human!" 
+prop_event.286	It seems like it will open if you yell "Elf!" 
+prop_event.287	It seems like it will open if you yell "Giant!" 
+prop_event.288	It seems like it will open if you yell "Tarlach!" 
+prop_event.289	It seems like it will open if you yell "Nao!" 
+prop_event.290	It seems like it will open if you yell "Ruairi!" 
 prop_event.291	雪のかたまりを固めて足していけば、雪だるまが作れそうだ。
 prop_event.292	雪のかたまりのほかにも、雪だるまを飾る材料を足してみよう。
 prop_event.293	雪だるまらしくなってきた。もう少し飾りを足してみよう。
@@ -1315,8 +1315,8 @@ renes.2	(개발서버 Message) Cycle :
 renes.3	Stage :
 renes.4	(개발서버 Message)
 renes.5	개의 스테이지 클리어.
-renes.6	レガトゥスに十分な時間を稼いであげられなかったようだ。
-renes.7	モンスターはもう出てこないようだ。残りのモンスターたちを倒そう。
+renes.6	Looks like you didn't buy enough time for Legatus.
+renes.7	It looks like the monsters have stopped appearing. Defeat the remaining monsters.
 renes.8	드래곤의 알을 지켜라 이벤트에 참여하셨습니다.
 renes.9	8名を超えるプレイヤーが存在します。しばらくするとダンジョンが消滅します。
 renes.10	モンスターが多すぎる。これ以上は耐えられない。
