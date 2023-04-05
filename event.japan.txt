@@ -225,38 +225,38 @@ collectionbook.20	Crayfish
 collectionbook.21	賢い
 collectionbook.22	ひびが入った
 collectionbook.23	鋭い
-collectionbook.24	楽な
-collectionbook.25	水の
-collectionbook.26	クラブ
-collectionbook.27	強い
-collectionbook.28	滑石
-collectionbook.29	スワンサマナー
-collectionbook.30	ハイエナ
+collectionbook.24	Restful
+collectionbook.25	Water
+collectionbook.26	Crab
+collectionbook.27	Strong
+collectionbook.28	Talcum
+collectionbook.29	Swan Summoner's
+collectionbook.30	Hyena's
 collectionbook.31	のろまの
-collectionbook.32	フォーチュン
-collectionbook.33	スケルトン
-collectionbook.34	祝福の
+collectionbook.32	Fortune
+collectionbook.33	Skeleton
+collectionbook.34	Blessing
 collectionbook.35	安いと沼の
 collectionbook.36	緑のとグリーン
-collectionbook.37	良い
-collectionbook.38	スネーク
+collectionbook.37	Good
+collectionbook.38	Snake
 collectionbook.39	風の
-collectionbook.40	ジェイド
-collectionbook.41	ミスト
-collectionbook.42	褐色キツネ
-collectionbook.43	アンダースタンディング
+collectionbook.40	Jade
+collectionbook.41	the Mist
+collectionbook.42	Brown Fox
+collectionbook.43	Understanding
 collectionbook.44	泉の
-collectionbook.45	褐色クマ
-collectionbook.46	偽の
-collectionbook.47	オモチャの
-collectionbook.48	チキンサマナー
-collectionbook.49	赤キツネ
-collectionbook.50	ソルジャー
-collectionbook.51	赤クマ
-collectionbook.52	ゴールドゴブリン
-collectionbook.53	トパーズ
-collectionbook.54	コンシデレーション
-collectionbook.55	ダイアウルフ
+collectionbook.45	Brown Bear
+collectionbook.46	Imitation
+collectionbook.47	Toy
+collectionbook.48	Chicken Summoner's
+collectionbook.49	Red Fox
+collectionbook.50	Soldier
+collectionbook.51	Red Bear
+collectionbook.52	Gold Goblin
+collectionbook.53	Topaz
+collectionbook.54	Considerate
+collectionbook.55	Dire Wolf
 collectionbook.56	ヘルス
 collectionbook.57	灰色オオカミ
 collectionbook.58	ブラッド
@@ -292,18 +292,18 @@ collectionbook.87	ダンジョンでは使用できません。
 collectionbook.88	室内では使用できません。
 collectionbook.89	現在の位置では報酬を受け取れません。\n広い地域に移動してから使用してください。 
 collectionbook.90	現在の地域では使用できません。
-confessional.1	人が訪ねてくるのを待とう。
-confessional.2	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.3	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.4	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.5	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.6	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.7	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.8	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.9	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.10	誰も来ないようだ。\n他の時間にまた来よう。
+confessional.1	Wait for people to visit you.
+confessional.2	Looks like's nobody's coming.\nTry again some other time.
+confessional.3	Looks like's nobody's coming.\nTry again some other time.
+confessional.4	Looks like's nobody's coming.\nTry again some other time.
+confessional.5	Looks like's nobody's coming.\nTry again some other time.
+confessional.6	Looks like's nobody's coming.\nTry again some other time.
+confessional.7	Looks like's nobody's coming.\nTry again some other time.
+confessional.8	Looks like's nobody's coming.\nTry again some other time.
+confessional.9	Looks like's nobody's coming.\nTry again some other time.
+confessional.10	Looks like's nobody's coming.\nTry again some other time.
 connous_undermaze_chest.1	The key has already been used.
-connous_undermaze_chest.2	I do not have a key that fits this treasure box.
+connous_undermaze_chest.2	You do not have a key that fits this treasure box.
 connous_undermaze_chest.3	This treasure box is already open.
 connous_undermaze_chest.4	Failed to drop item.
 connous_undermaze_chest.5	Failed to drop item.
@@ -656,10 +656,10 @@ impdream.2	1位 {0} ({1}点)
 impdream.3	2位 {0} ({1}点)
 impdream.4	3位 {0} ({1}点)
 impdream.5	イベント終了 {0}秒前です。終了後は精算されません。
-item.glewyas_book.1	グルアスの本を読んでいる途中、図書カードを発見した。
-item.glewyas_book.2	ミッションに失敗したら、蔵書館図書カードを使用してみよう。
-item.glewyas_book.3	グルアスの本を読んでいる途中、図書カードを発見した。
-item.glewyas_book.4	進行中のミッションを完了させて、蔵書館図書カードを使用してみよう。
+item.glewyas_book.1	While you were reading Glewyas' book, you found a library card.
+item.glewyas_book.2	If you fail the mission, use the Royal Library Card.
+item.glewyas_book.3	While you were reading Glewyas' book, you found a library card.
+item.glewyas_book.4	Finish your current mission, then use the Royal Library Card.
 item.item12279.1	You have unlocked a Falias Treasure slot.
 item.item12279.2	The effect of this item has already been applied.
 item.item12279.3	Using this item now will have no effect.
