@@ -515,12 +515,12 @@
 515	私をぶちたい？|私を殴りたい？|私が嫌い？|どうして私をぶとうとするの？|ぶつの？|ひどいわ！
 516	罰よ|思い通りにならないでしょ？|ひどすぎ|私が嫌い？|^^
 517	成功？|練習どおり～|今日はとても楽しかったわ！|^^|
-518	悟ったか…|クルル…|ううむ…力が抜けるな|気が散る…|
-519	俺は今強い|俺の気を乱さなければならないはずだ。たとえ短い瞬間でも、機会はその時だけだ|お前の力が弱かったら、自然の力を利用しろ！
-520	今からでも遅くはない…|まだ分からないのか？|実戦から習えと言ったのに…ただ倒してきただけなのか？||
-521	ここで習ったもの使え！|実戦で習ったものはないのか？|ただ倒して来たのか？||
-522	俺の気を瞬間にでも乱してみろ！|実戦を通して何か学んだか？|学んだものがあるなら、俺に見せてみろ！|クルル…||
-523	タキ グラナイド インチャトラ マナ プラウ！
+518	You've realized it...|Grr...|Nngh...my strength is draining.|I'm distracted...|
+519	I am powerful.|You'll need to break my concentration. It may be in a blink of an eye, but that's your only chance.|If your power is weak, use the force of nature!
+520	It's not too late...|Do you still not get it?|You should be using what you've learned from real combat...do you think you can defeat me with brute force?||
+521	Use what you've learned here!|Have you learned nothing from your battles?|Are you trying to defeat me with just brute force?||
+522	Break my concentration for a moment!|Have you learned nothing from your battles?|If you've learned anything, show it to me!|Grr...||
+523	Tachy Granide Inchatora Mana Prow!
 524	>set_body /h:1.2
 525	>mc set(str,100)
 526	>mc sound(data/sound/Glasgavelen_MagicCasting.wav)
