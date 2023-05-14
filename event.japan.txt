@@ -200,8 +200,8 @@
 5th_anniversary_announce_event.200	시골길같은 티르와 정겨운 배경음악, 내 꿈의 마을, 마비노기! 5주년축하!     하프-캐터필러
 5th_anniversary_announce_event.201	
 5th_anniversary_announce_event.202	
-anniversary.1	ライミラク教団では法皇庁の寄付箱を通じて慈善基金を集めています。現在の合計寄付金額は
-anniversary.2	ゴールドです。
+anniversary.1	The Church of Lymilark collects charitable funds through the Pontiff's Offering Box. Currently, the donations total
+anniversary.2	Gold.
 collectionbook.1	に
 collectionbook.2	を収集しました。
 collectionbook.3	コレクションの全てのアイテムを集めました。
@@ -214,49 +214,49 @@ collectionbook.9	のサイズが小さくて収集できません。
 collectionbook.10	のサイズが大きくて収集できません。
 collectionbook.11	のサイズが小さくて収集できません。
 collectionbook.12	のサイズが大きくて収集できません。
-collectionbook.13	ウルフハンター
-collectionbook.14	ライオンハンター
-collectionbook.15	ネイチャー
+collectionbook.13	Wolf Hunter's
+collectionbook.14	Lion Hunter's
+collectionbook.15	Nature
 collectionbook.16	ウルフハンターとネイチャー
 collectionbook.17	初歩のと忍耐の
 collectionbook.18	精巧な
-collectionbook.19	フォックスハンター
-collectionbook.20	クレイフィッシュ
+collectionbook.19	Fox Hunter's
+collectionbook.20	Crayfish
 collectionbook.21	賢い
 collectionbook.22	ひびが入った
 collectionbook.23	鋭い
-collectionbook.24	楽な
-collectionbook.25	水の
-collectionbook.26	クラブ
-collectionbook.27	強い
-collectionbook.28	滑石
-collectionbook.29	スワンサマナー
-collectionbook.30	ハイエナ
+collectionbook.24	Restful
+collectionbook.25	Water
+collectionbook.26	Crab
+collectionbook.27	Strong
+collectionbook.28	Talcum
+collectionbook.29	Swan Summoner's
+collectionbook.30	Hyena's
 collectionbook.31	のろまの
-collectionbook.32	フォーチュン
-collectionbook.33	スケルトン
-collectionbook.34	祝福の
+collectionbook.32	Fortune
+collectionbook.33	Skeleton
+collectionbook.34	Blessing
 collectionbook.35	安いと沼の
 collectionbook.36	緑のとグリーン
-collectionbook.37	良い
-collectionbook.38	スネーク
+collectionbook.37	Good
+collectionbook.38	Snake
 collectionbook.39	風の
-collectionbook.40	ジェイド
-collectionbook.41	ミスト
-collectionbook.42	褐色キツネ
-collectionbook.43	アンダースタンディング
+collectionbook.40	Jade
+collectionbook.41	the Mist
+collectionbook.42	Brown Fox
+collectionbook.43	Understanding
 collectionbook.44	泉の
-collectionbook.45	褐色クマ
-collectionbook.46	偽の
-collectionbook.47	オモチャの
-collectionbook.48	チキンサマナー
-collectionbook.49	赤キツネ
-collectionbook.50	ソルジャー
-collectionbook.51	赤クマ
-collectionbook.52	ゴールドゴブリン
-collectionbook.53	トパーズ
-collectionbook.54	コンシデレーション
-collectionbook.55	ダイアウルフ
+collectionbook.45	Brown Bear
+collectionbook.46	Imitation
+collectionbook.47	Toy
+collectionbook.48	Chicken Summoner's
+collectionbook.49	Red Fox
+collectionbook.50	Soldier
+collectionbook.51	Red Bear
+collectionbook.52	Gold Goblin
+collectionbook.53	Topaz
+collectionbook.54	Considerate
+collectionbook.55	Dire Wolf
 collectionbook.56	ヘルス
 collectionbook.57	灰色オオカミ
 collectionbook.58	ブラッド
@@ -292,18 +292,18 @@ collectionbook.87	ダンジョンでは使用できません。
 collectionbook.88	室内では使用できません。
 collectionbook.89	現在の位置では報酬を受け取れません。\n広い地域に移動してから使用してください。 
 collectionbook.90	現在の地域では使用できません。
-confessional.1	人が訪ねてくるのを待とう。
-confessional.2	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.3	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.4	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.5	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.6	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.7	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.8	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.9	誰も来ないようだ。\n他の時間にまた来よう。
-confessional.10	誰も来ないようだ。\n他の時間にまた来よう。
+confessional.1	Wait for people to visit you.
+confessional.2	Looks like's nobody's coming.\nTry again some other time.
+confessional.3	Looks like's nobody's coming.\nTry again some other time.
+confessional.4	Looks like's nobody's coming.\nTry again some other time.
+confessional.5	Looks like's nobody's coming.\nTry again some other time.
+confessional.6	Looks like's nobody's coming.\nTry again some other time.
+confessional.7	Looks like's nobody's coming.\nTry again some other time.
+confessional.8	Looks like's nobody's coming.\nTry again some other time.
+confessional.9	Looks like's nobody's coming.\nTry again some other time.
+confessional.10	Looks like's nobody's coming.\nTry again some other time.
 connous_undermaze_chest.1	The key has already been used.
-connous_undermaze_chest.2	I do not have a key that fits this treasure box.
+connous_undermaze_chest.2	You do not have a key that fits this treasure box.
 connous_undermaze_chest.3	This treasure box is already open.
 connous_undermaze_chest.4	Failed to drop item.
 connous_undermaze_chest.5	Failed to drop item.
@@ -311,256 +311,256 @@ connous_undermaze_chest.6	Failed to drop item.
 connous_undermaze_chest.7	Failed to drop item.
 connous_undermaze_chest.8	Failed to drop item.
 connous_undermaze_chest.9	Failed to drop item.
-enter_dungeon.1	このダンジョンは1人しか入れません。
-enter_dungeon.2	このダンジョンに入るには2人でパーティーを組んでください。
-enter_dungeon.3	このダンジョンは1人しか入れません。
-enter_dungeon.4	このダンジョンは1人しか入れません。
-enter_dungeon.5	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
-enter_dungeon.6	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.7	このダンジョンに入るには3人でパーティーを組む必要があります。
-enter_dungeon.8	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.9	このダンジョンに入るには2人でパーティーを組む必要があります。
-enter_dungeon.10	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
-enter_dungeon.11	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.12	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.13	このダンジョンは1人しか入れません。
-enter_dungeon.16	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
-enter_dungeon.17	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.18	このダンジョンに入るには3人でパーティーを組む必要があります。
-enter_dungeon.19	有料サービスの期間が終了しました。\n有料サービスを受けるとダンジョンに入ることができます。
-enter_dungeon.20	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.21	このダンジョンは1人しか入れません。
-enter_dungeon.22	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.23	このダンジョンに入るには3人でパーティーを組む必要があります。
-enter_dungeon.24	このダンジョンに入るには3人でパーティーを組む必要があります。
-enter_dungeon.25	このダンジョンに入るには3人でパーティーを組む必要があります。
-enter_dungeon.26	有料サービスの期間が終了しました。\n有料サービスを受けるとダンジョンに入ることができます。
-enter_dungeon.27	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.28	このダンジョンは1人しか入れません。
-enter_dungeon.29	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
-enter_dungeon.30	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.31	このダンジョンに入るには2人でパーティーを組む必要があります。
-enter_dungeon.32	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.33	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.34	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
-enter_dungeon.35	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.36	3人以下のパーティーまたは1人ならダンジョンに入ることができます。
-enter_dungeon.37	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
-enter_dungeon.38	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.39	このダンジョンに入るには3人でパーティーを組む必要があります。
-enter_dungeon.41	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
-enter_dungeon.43	3人以下のパーティーまたは1人ならダンジョンに入ることができます。
-enter_dungeon.44	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
-enter_dungeon.45	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.46	3人以下のパーティーまたは1人ならダンジョンに入ることができます。
-enter_dungeon.47	有料サービスの期間が終了しました。\nこのダンジョンはパーティーのリーダーが有料サービスを受けていると入ることができます。
-enter_dungeon.48	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.49	3人以下のパーティーまたは1人ならダンジョンに入ることができます。
-enter_dungeon.50	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.51	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.52	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.53	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.54	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.55	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.56	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.57	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.58	このダンジョンは1人しか入れません。
-enter_dungeon.59	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.60	このダンジョンに入るには2人でパーティーを組む必要があります。
-enter_dungeon.61	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.62	このダンジョンに入るには4人でパーティーを組む必要があります。
-enter_dungeon.63	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.64	このダンジョンに入るには2人でパーティーを組んでください。
-enter_dungeon.65	有料サービスを受けるとダンジョンに入ることができます。
-enter_dungeon.66	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.67	このダンジョンは1人しか入れません。
-enter_dungeon.68	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.69	このダンジョンは1人しか入れません。
-enter_dungeon.70	テストのための、2人ダンジョンにようこそ。
-enter_dungeon.71	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.72	このダンジョンに入るには2人でパーティーを組む必要があります。
-enter_dungeon.73	テストのための、4人ダンジョンにようこそ。
-enter_dungeon.74	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.75	このダンジョンに入るには4人でパーティーを組む必要があります。
-enter_dungeon.76	有料サービスを受けるとダンジョンに入ることができます。
-enter_dungeon.77	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.78	このダンジョンは1人しか入れません。
-enter_dungeon.79	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.80	このダンジョンに入るには2人でパーティーを組む必要があります。
-enter_dungeon.81	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.82	このダンジョンに入るには3人でパーティーを組む必要があります。
-enter_dungeon.83	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.84	この通行証では、もうこのダンジョンには入れません。
-enter_dungeon.85	有料サービスを受けるとダンジョンに入ることができます。
-enter_dungeon.86	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.87	このダンジョンは1人しか入れません。
-enter_dungeon.88	有料サービスを受けるとダンジョンに入ることができます。
-enter_dungeon.89	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.90	このダンジョンは1人しか入れません。
-enter_dungeon.91	有料サービスを受けるとダンジョンに入ることができます。
-enter_dungeon.92	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.93	このダンジョンは1人しか入れません。
-enter_dungeon.94	違う世界のシールブレイカーのみダンジョンに入れます。
-enter_dungeon.95	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.96	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.97	このダンジョンは1人しか入れません。
-enter_dungeon.98	テストのための、2人ダンジョンにようこそ。
-enter_dungeon.99	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.100	このダンジョンに入るには2人でパーティーを組む必要があります。
-enter_dungeon.101	テストのための、4人ダンジョンにようこそ。
-enter_dungeon.102	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.103	このダンジョンに入るには4人でパーティーを組む必要があります。
-enter_dungeon.104	有料サービスを受けるとダンジョンに入ることができます。
-enter_dungeon.105	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.106	このダンジョンは1人しか入れません。
-enter_dungeon.107	有料サービスを受けるとダンジョンに入ることができます。
-enter_dungeon.108	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.109	このダンジョンは1人しか入れません。
-enter_dungeon.110	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.111	このダンジョンに入るには2人でパーティーを組む必要があります。
-enter_dungeon.112	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.113	このダンジョンに入るには3人でパーティーを組む必要があります。
-enter_dungeon.114	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.115	パーティーにパラディンがいるため、入れません。
-enter_dungeon.116	パーティーにパラディンがいるため、入れません。
-enter_dungeon.117	パーティーにパラディンがいません。
-enter_dungeon.118	パーティーの中に動物でログインしたメンバーがいるため、このダンジョンに入ることができない。
-enter_dungeon.119	パーティーの中でペットを召喚したメンバーがいるため、このダンジョンに入ることができません。
-enter_dungeon.120	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.121	このアイテムは祭壇に落とすことが出来ません。
-enter_dungeon.122	このダンジョンは有料サービスを受けているユーザーのみ入場できます。
-enter_dungeon.123	このダンジョンは有料サービスを受けているユーザーのみ入場できます。
-enter_dungeon.124	抗魔のローブが威力を発揮する\nインボリックの時にだけこのダンジョンに入れます。
-enter_dungeon.125	このダンジョンは有料サービスを受けているユーザーのみ入場できます。
-enter_dungeon.126	このダンジョンに入るためには、特別な通行証が必要です。
-enter_dungeon.127	このダンジョンは最低４人以上のパーティーを組んで入場してください。
-enter_dungeon.128	ペットはこのダンジョンに入れません。
-enter_dungeon.129	ペットはこのダンジョンに入れません。
-enter_dungeon.130	ペットはこのダンジョンに入れません。
-enter_dungeon.131	ペットはこのダンジョンに入れません。
-enter_dungeon.132	パーティーにパラディンかダークナイトがいるため、入れません。
-enter_dungeon.133	このダンジョンでは使用できない通行証です。\n通行証名を確認してください。
-enter_dungeon.134	このダンジョンでは使用できない通行証です。\n通行証名を確認してください。
-enter_dungeon.135	城主の命令により城のギルドメンバーでない人がいると入れません。
-enter_dungeon.136	現在、城の主人がいないため入れません。
-enter_dungeon.137	城がないためダンジョン進入に失敗しました。
-enter_dungeon.138	城ロビーの警備兵が販売するトゥガルド城ダンジョン通行証を入れなければ\nダンジョンに入場できません。
-enter_dungeon.139	城主の命令により城のギルドメンバーでない人がいると入れません。
-enter_dungeon.140	現在、城の主人がいないため入れません。
-enter_dungeon.141	城がないためダンジョン進入に失敗しました。
-enter_dungeon.142	城ロビーの警備兵が販売するセンマイ城ダンジョン通行証を入れなければ\nダンジョンに入場できません。
-enter_dungeon.143	このダンジョンに入るには2人以上でパーティーを組む必要があります。
-enter_dungeon.144	このダンジョンに入るには2人以上でパーティーを組む必要があります。
-enter_dungeon.145	このダンジョンに入るには2人以上でパーティーを組む必要があります。
-enter_dungeon.146	このダンジョンに入るには2人以上でパーティーを組む必要があります。
-enter_dungeon.147	パーティーの中にパラディン・ダークナイト・ファルコン・ビーストのいずれかがいるため、入場できません。
-enter_dungeon.148	すでに村の住民を救出しています。
-enter_dungeon.149	이 던전은 혼자서만 들어갈 수 있습니다.
-enter_dungeon.150	이 던전을 들어가기에 너무 강합니다.
-enter_dungeon.151	2008 신년 이벤트 기간만 사용 가능한 통행증입니다.
-enter_dungeon.152	마족 통행증의 유효시간이 지나서 던전에 들어갈 수 없습니다.
-enter_dungeon.153	마족 통행증의 유효시간이 지나서 던전에 들어갈 수 없습니다.
-enter_dungeon.154	2008 신년 이벤트 기간동안에만 사용 가능한 통행증입니다.
-enter_dungeon.155	마족 통행증의 유효시간이 지나서 던전에 들어갈 수 없습니다.
-enter_dungeon.156	2008 신년 이벤트 기간동안에만 사용 가능한 통행증입니다.
-enter_dungeon.157	これ以上魔法のカカオダンジョンを生成することが出来ません。
-enter_dungeon.158	パーティーメンバーの中にまだ能力が足りないプレイヤーがいるため入場できません。
-enter_dungeon.159	パーティーメンバーの中にまだ能力が足りないプレイヤーがいるため入場できません。
-enter_dungeon.160	パーティーメンバーの中にまだ能力が足りないプレイヤーがいるため入場できません。
-enter_dungeon.161	パーティーメンバーの中にまだ能力が足りないプレイヤーがいるため入場できません。
-enter_dungeon.162	まだ私は力不足なのでダンジョンに入場できない。
-enter_dungeon.163	パーティーメンバーの中に能力が足りないプレイヤーがいるため入場できません。
-enter_dungeon.164	まだ私は力不足なのでダンジョンに入場できない。
-enter_dungeon.165	パーティーメンバーの中に能力が足りないプレイヤーがいるため入場できません。
-enter_dungeon.166	まだ私は力不足なのでダンジョンに入場できない。
-enter_dungeon.167	パーティーメンバーの中に能力が足りないプレイヤーがいるため入場できません。
-enter_dungeon.168	このアイテムで入る為に必要となるクエストがありません。
-enter_dungeon.169	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.170	このダンジョンへは１人のみが入場可能です。
-enter_dungeon.171	この通行証はサーオィンにのみ利用できます。
-enter_dungeon.172	変身、またはペットを呼び出した状態ではダンジョンに入場できません。
-enter_dungeon.173	1人のみ入場可能なダンジョンです。
-enter_dungeon.174	ベルテン（火曜日）のみダンジョンに入場できます。
-enter_dungeon.175	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.176	進行中のミッションを完了後に入場できます。
-enter_dungeon.177	このアイテムで入場可能な人数は1人のみです。
-enter_dungeon.178	퍼즐 이벤트 용 메모를 여러장 소지한 상태로는\n던전 입장이 불가능합니다.
-enter_dungeon.179	해당 퀘스트를 진행 중인 캐릭터만 입장할 수 있습니다.
-enter_dungeon.180	このアイテムは祭壇に落とすことが出来ません。
-enter_dungeon.181	このダンジョンは1人しか入れません。
-enter_dungeon.182	このダンジョンは1人しか入れません。
-enter_dungeon.183	ペットを呼び出した状態ではダンジョンに入場することができません。
-enter_dungeon.184	城ロビーの警備兵が販売するアブネア城ダンジョン通行証を入れなければ\nダンジョンに入場できません。
-enter_dungeon.185	ペットを呼び出し中のときはダンジョンに入場できません。
-enter_dungeon.186	このアイテムは祭壇に捧げることができません。
-enter_dungeon.187	このダンジョンは1人しか入れません。
-enter_dungeon.188	影ミッションを進行中のときは該当ダンジョンに入ることができません。
-enter_dungeon.189	今はこのアイテムを使用できません。
-enter_dungeon.190	このダンジョンは1人しか入れません。
-enter_dungeon.191	村の住民救出クエストを進めるにはトレボーの通行証を投げなければなりません。
-enter_dungeon.192	このアイテムではこれ以上このダンジョンに入ることができません。
-enter_dungeon.193	このダンジョンは1人しか入れません。
-enter_dungeon.194	このアイテムではこれ以上このダンジョンに入ることができません。
-enter_dungeon.195	このダンジョンは1人しか入れません。
-enter_dungeon.196	男性と女性で構成されたカップルパーティーのみこのダンジョンに入場できます。
-enter_dungeon.197	2名で構成されたパーティーのみこのダンジョンに入場できます。
-enter_dungeon.198	イベント進行中の時のみ入場できます。
-enter_dungeon.199	男性と女性で構成された2人のカップルパーティーのみ\nこのダンジョンに入場できます。
-enter_dungeon.200	男性と女性で構成された2人のカップルパーティーのみ\nこのダンジョンに入場できます。
-enter_dungeon.201	やんちゃ坊主を救出するにはレイナルドの通行証を投げなければなりません。
-enter_dungeon.202	マルコムの指輪を探すにはトレボーの通行証を投げなければなりません。
-enter_dungeon.203	すでにやんちゃ坊主は救出しました。
-enter_dungeon.204	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.205	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.206	このダンジョンは1人しか入れません。
-enter_dungeon.207	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.208	このアイテムでは、もうこのダンジョンには入れません。
-enter_dungeon.209	魔族通行証の有効期限が切れたためダンジョンに入れません。
-enter_dungeon.210	城主の命令により城のギルドメンバーでない人がいると入れません。
-enter_dungeon.211	現在、城の主人がいないため入れません。
-enter_dungeon.212	城がないためダンジョン進入に失敗しました。
-enter_dungeon.213	城ロビーの警備兵が販売するクィリン城ダンジョン通行証を入れなければダンジョンに入場できません。
-enter_dungeon.214	イベント期間のみ入場できる通行証です。
-enter_dungeon.215	パーティーの中に動物でないメンバーがいるため、このダンジョンに入場できません。
-enter_dungeon.216	このダンジョンは1人しか入れません。
-enter_dungeon.217	ネットカフェでのみダンジョンに入場できます。
-enter_dungeon.218	このダンジョンは1人しか入れません。
-enter_dungeon.219	ネットカフェでのみダンジョンに入場できます。
-enter_dungeon.220	このダンジョンは1人しか入れません。
-enter_dungeon.221	ネットカフェでのみダンジョンに入場できます。
-enter_dungeon.222	このダンジョンは1人しか入れません。
-enter_dungeon.223	ネットカフェでのみダンジョンに入場できます。
-enter_dungeon.224	このダンジョンは1人しか入れません。
-enter_dungeon.225	ネットカフェでのみダンジョンに入場できます。
-enter_dungeon_ruin.1	ルワイが自分で書いた探検日誌ではないようだ。
-enter_dungeon_ruin.2	該当アイテムで入場可能なのは一人だけです。
-enter_dungeon_ruin.3	アトラタからもらったウィンドベルではないようだ。
-enter_dungeon_ruin.4	今はこのアイテムを使用できないようだ。
-enter_dungeon_ruin.5	今はこのアイテムを使用できないようだ。
-enter_dungeon_ruin.6	ペットを呼び出した状態ではダンジョンに入場することができません。
-enter_dungeon_ruin.7	ペットを呼び出した状態ではダンジョンに入場することができません。
-enter_dungeon_ruin.8	ペットを呼び出した状態ではダンジョンに入場することができません。
-enter_dungeon_ruin.9	今はこのアイテムを使用できないようだ。
-enter_dungeon_ruin.10	今はこのアイテムを使用できないようだ。
-enter_dungeon_ruin.11	今はこのアイテムを使用できないようだ。
-enter_dungeon_ruin.12	今はこのアイテムを使用できないようだ。
-enter_dungeon_ruin.13	使用できないアイテムです。
-enter_dungeon_ruin.14	該当アイテムで入場可能なのは一人だけです。
-enter_dungeon_ruin.15	ペットを呼び出し中のときはダンジョンに入場できません。
-enter_dungeon_ruin.16	使用できないアイテムです。
-enter_dungeon_ruin.17	該当アイテムで入場可能なのは二人だけです。
-enter_dungeon_ruin.18	ペットを呼び出し中のパーティーメンバーがいるときはダンジョンに入場できません。
-enter_dungeon_ruin.19	今はこのアイテムを使用できないようだ。
-enter_dungeon_ruin.20	レインメーカーのダンジョンはサーオィン(土曜日)のみ入場できる。
-enter_dungeon_ruin.21	今はこのアイテムを使用できないようだ。
-enter_dungeon_ruin.22	今はこのアイテムを使用できないようだ。
-enter_dungeon_ruin.23	今はこのアイテムを使用できないようだ。
+enter_dungeon.1	Only one person may enter this dungeon.
+enter_dungeon.2	Please form a party of two to enter this dungeon.
+enter_dungeon.3	Only one person may enter this dungeon.
+enter_dungeon.4	Only one person may enter this dungeon.
+enter_dungeon.5	The paid service period has expired.\nYou can enter this dungeon if the party leader has paid service.
+enter_dungeon.6	You can no longer enter this dungeon using this item.
+enter_dungeon.7	A party of three is required to enter this dungeon.
+enter_dungeon.8	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.9	A party of two is requird to enter this dungeon.
+enter_dungeon.10	The paid service period has expired.\nYou can enter this dungeon if the party leader has paid service.
+enter_dungeon.11	You can no longer enter this dungeon using this item.
+enter_dungeon.12	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.13	Only one person may enter this dungeon.
+enter_dungeon.16	The paid service period has expired.\nYou can enter this dungeon if the party leader has paid service.
+enter_dungeon.17	You can no longer enter this dungeon using this item.
+enter_dungeon.18	A party of three is required to enter this dungeon.
+enter_dungeon.19	The paid service period has expired.\nYou can only enter this dungeon if you have paid services.
+enter_dungeon.20	You can no longer enter this dungeon using this item.
+enter_dungeon.21	Only one person may enter this dungeon.
+enter_dungeon.22	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.23	A party of three is required to enter this dungeon.
+enter_dungeon.24	A party of three is required to enter this dungeon.
+enter_dungeon.25	A party of three is required to enter this dungeon.
+enter_dungeon.26	The paid service period has expired.\nYou can only enter this dungeon if you have paid services.
+enter_dungeon.27	You can no longer enter this dungeon using this item.
+enter_dungeon.28	Only one person may enter this dungeon.
+enter_dungeon.29	The paid service period has expired.\nYou can enter this dungeon if the party leader has paid service.
+enter_dungeon.30	You can no longer enter this dungeon using this item.
+enter_dungeon.31	A party of two is requird to enter this dungeon.
+enter_dungeon.32	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.33	You can no longer enter this dungeon using this item.
+enter_dungeon.34	The paid service period has expired.\nYou can enter this dungeon if the party leader has paid service.
+enter_dungeon.35	You can no longer enter this dungeon using this item.
+enter_dungeon.36	You can only enter if you are in a party of 3 or fewer, or if you are alone.
+enter_dungeon.37	The paid service period has expired.\nYou can enter this dungeon if the party leader has paid service.
+enter_dungeon.38	You can no longer enter this dungeon using this item.
+enter_dungeon.39	A party of three is required to enter this dungeon.
+enter_dungeon.41	The paid service period has expired.\nYou can enter this dungeon if the party leader has paid service.
+enter_dungeon.43	You can only enter if you are in a party of 3 or fewer, or if you are alone.
+enter_dungeon.44	The paid service period has expired.\nYou can enter this dungeon if the party leader has paid service.
+enter_dungeon.45	You can no longer enter this dungeon using this item.
+enter_dungeon.46	You can only enter if you are in a party of 3 or fewer, or if you are alone.
+enter_dungeon.47	The paid service period has expired.\nYou can enter this dungeon if the party leader has paid service.
+enter_dungeon.48	You can no longer enter this dungeon using this item.
+enter_dungeon.49	You can only enter if you are in a party of 3 or fewer, or if you are alone.
+enter_dungeon.50	You can no longer enter this dungeon using this item.
+enter_dungeon.51	You can no longer enter this dungeon using this item.
+enter_dungeon.52	You can no longer enter this dungeon using this item.
+enter_dungeon.53	You can no longer enter this dungeon using this item.
+enter_dungeon.54	You can no longer enter this dungeon using this item.
+enter_dungeon.55	You can no longer enter this dungeon using this item.
+enter_dungeon.56	You can no longer enter this dungeon using this item.
+enter_dungeon.57	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.58	Only one person may enter this dungeon.
+enter_dungeon.59	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.60	A party of two is requird to enter this dungeon.
+enter_dungeon.61	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.62	A party of four is required to enter this dungeon.
+enter_dungeon.63	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.64	Please form a party of two to enter this dungeon.
+enter_dungeon.65	You can enter this dungeon if you have paid service.
+enter_dungeon.66	You can no longer enter this dungeon using this item.
+enter_dungeon.67	Only one person may enter this dungeon.
+enter_dungeon.68	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.69	Only one person may enter this dungeon.
+enter_dungeon.70	Welcome to the 2-person test dungeon.
+enter_dungeon.71	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.72	A party of two is requird to enter this dungeon.
+enter_dungeon.73	Welcome to the 4-person test dungeon.
+enter_dungeon.74	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.75	A party of four is required to enter this dungeon.
+enter_dungeon.76	You can enter this dungeon if you have paid service.
+enter_dungeon.77	You can no longer enter this dungeon using this item.
+enter_dungeon.78	Only one person may enter this dungeon.
+enter_dungeon.79	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.80	A party of two is requird to enter this dungeon.
+enter_dungeon.81	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.82	A party of three is required to enter this dungeon.
+enter_dungeon.83	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.84	You can no longer enter the dungeon with this pass.
+enter_dungeon.85	You can enter this dungeon if you have paid service.
+enter_dungeon.86	You can no longer enter this dungeon using this item.
+enter_dungeon.87	Only one person may enter this dungeon.
+enter_dungeon.88	You can enter this dungeon if you have paid service.
+enter_dungeon.89	You can no longer enter this dungeon using this item.
+enter_dungeon.90	Only one person may enter this dungeon.
+enter_dungeon.91	You can enter this dungeon if you have paid service.
+enter_dungeon.92	You can no longer enter this dungeon using this item.
+enter_dungeon.93	Only one person may enter this dungeon.
+enter_dungeon.94	Only the Seal-Breaker of Another World may enter this dungeon.
+enter_dungeon.95	You can no longer enter this dungeon using this item.
+enter_dungeon.96	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.97	Only one person may enter this dungeon.
+enter_dungeon.98	Welcome to the 2-person test dungeon.
+enter_dungeon.99	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.100	A party of two is requird to enter this dungeon.
+enter_dungeon.101	Welcome to the 4-person test dungeon.
+enter_dungeon.102	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.103	A party of four is required to enter this dungeon.
+enter_dungeon.104	You can enter this dungeon if you have paid service.
+enter_dungeon.105	You can no longer enter this dungeon using this item.
+enter_dungeon.106	Only one person may enter this dungeon.
+enter_dungeon.107	You can enter this dungeon if you have paid service.
+enter_dungeon.108	You can no longer enter this dungeon using this item.
+enter_dungeon.109	Only one person may enter this dungeon.
+enter_dungeon.110	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.111	A party of two is requird to enter this dungeon.
+enter_dungeon.112	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.113	A party of three is required to enter this dungeon.
+enter_dungeon.114	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.115	You can't enter because there's a Paladin in your party.
+enter_dungeon.116	You can't enter because there's a Paladin in your party.
+enter_dungeon.117	There are no Paladins in your party.
+enter_dungeon.118	You can't enter this dungeon because one of your party members is logged in as a pet.
+enter_dungeon.119	You can't enter this dungeon because one of your party members has summoned a pet.
+enter_dungeon.120	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.121	You cannot drop this item on the altar.
+enter_dungeon.122	This dungeon can only be entered by users with paid service.
+enter_dungeon.123	This dungeon can only be entered by users with paid service.
+enter_dungeon.124	You can only enter this dungeon on Imbolic (Sunday),\nwhen the anti-Fomor robe displays its full effect.
+enter_dungeon.125	This dungeon can only be entered by users with paid service.
+enter_dungeon.126	A special pass is require to enter this dungeon.
+enter_dungeon.127	A party of at least four people is required to enter this dungeon.
+enter_dungeon.128	Pets are not allowed in this dungeon.
+enter_dungeon.129	Pets are not allowed in this dungeon.
+enter_dungeon.130	Pets are not allowed in this dungeon.
+enter_dungeon.131	Pets are not allowed in this dungeon.
+enter_dungeon.132	You can't enter because there is a Paladin or a Dark Knight in your party.
+enter_dungeon.133	This pass cannot be used to enter this dungeon.\nPlease check the name on the pass.
+enter_dungeon.134	This pass cannot be used to enter this dungeon.\nPlease check the name on the pass.	
+enter_dungeon.135	By the order of the lord of the castle, anyone who is not a member of the castle's guild is not allowed to enter.
+enter_dungeon.136	The castle is currently unowned, so you cannot enter.
+enter_dungeon.137	You cannot enter the dungeon because the castle is not built.
+enter_dungeon.138	You cannot enter the dungeon unless you use the Dugald Castle Dungeon pass sold by the guard in the castle lobby.
+enter_dungeon.139	By the order of the lord of the castle, anyone who is not a member of the castle's guild is not allowed to enter.
+enter_dungeon.140	The castle is currently unowned, so you cannot enter.
+enter_dungeon.141	You cannot enter the dungeon because the castle is not built.
+enter_dungeon.142	You cannot enter the dungeon unless you use the Sen Mag Castle Dungeon pass sold by the guard in the castle lobby.
+enter_dungeon.143	A party of two or more people is required to enter this dungeon.
+enter_dungeon.144	A party of two or more people is required to enter this dungeon.
+enter_dungeon.145	A party of two or more people is required to enter this dungeon.
+enter_dungeon.146	A party of two or more people is required to enter this dungeon.
+enter_dungeon.147	You cannot enter because there is a Paladin, Dark Knight, Falcon, or Beast in your party.
+enter_dungeon.148	You have already rescued the villagers.
+enter_dungeon.149	Only one person may enter this dungeon.
+enter_dungeon.150	You are too strong to enter this dungeon.
+enter_dungeon.151	This pass can only be used during the 2008 New Year's Event.
+enter_dungeon.152	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.153	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.154	This pass can only be used during the 2008 New Year's Event.
+enter_dungeon.155	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.156	This pass can only be used during the 2008 New Year's Event.
+enter_dungeon.157	Magic Cacao Dungeons can no longer be generated.	
+enter_dungeon.158	You can't enter because some of your party members aren't strong enough.
+enter_dungeon.159	You can't enter because some of your party members aren't strong enough.
+enter_dungeon.160	You can't enter because some of your party members aren't strong enough.
+enter_dungeon.161	You can't enter because some of your party members aren't strong enough.
+enter_dungeon.162	I'm still not strong enough to enter this dungeon.
+enter_dungeon.163	You can't enter because some of your party members aren't strong enough. 
+enter_dungeon.164	I'm still not strong enough to enter this dungeon.
+enter_dungeon.165	You can't enter because some of your party members aren't strong enough. 
+enter_dungeon.166	I'm still not strong enough to enter this dungeon.
+enter_dungeon.167	You can't enter because some of your party members aren't strong enough. 
+enter_dungeon.168	You have no quests that require using this item to enter.
+enter_dungeon.169	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.170	Only one person may enter this dungeon.
+enter_dungeon.171	This pass may only be used on Samhain (Saturday).
+enter_dungeon.172	You cannot enter this dungeon while you are transformed or have a pet summoned.
+enter_dungeon.173	Only one person may enter this dungeon.
+enter_dungeon.174	You may only enter this dungeon on Baltane (Tuesday).
+enter_dungeon.175	You can no longer enter this dungeon using this item.
+enter_dungeon.176	You may enter after completing the mission in progress.
+enter_dungeon.177	Only one person may enter using this item.
+enter_dungeon.178	You cannot enter the dungeon\nwhile holding multiple memos for the puzzle event.
+enter_dungeon.179	Only characters that are currently on the quest may enter.
+enter_dungeon.180	You cannot drop this item on the altar.
+enter_dungeon.181	Only one person may enter this dungeon.
+enter_dungeon.182	Only one person may enter this dungeon.
+enter_dungeon.183	You cannot enter the dungeon while you have a pet summoned.
+enter_dungeon.184	You cannot enter the dungeon unless you use the Abb Neagh Castle Dungeon pass sold by the guard in the castle lobby.
+enter_dungeon.185	You cannot enter the dungeon while you have a pet summoned.
+enter_dungeon.186	This item cannot be offered at the altar.
+enter_dungeon.187	Only one person may enter this dungeon.
+enter_dungeon.188	You cannot enter the dungeon while you have a Shadow Mission in progress.
+enter_dungeon.189	You cannot use this item right now.
+enter_dungeon.190	Only one person may enter this dungeon.
+enter_dungeon.191	To continue with the Rescue the Villagers quest, you must drop Trefor's pass at the altar.
+enter_dungeon.192	You can no longer use this item to enter this dungeon.
+enter_dungeon.193	Only one person may enter this dungeon.
+enter_dungeon.194	You can no longer use this item to enter this dungeon.
+enter_dungeon.195	Only one person may enter this dungeon.
+enter_dungeon.196	Only couple parties consisting of one man and one woman can enter this dungeon.
+enter_dungeon.197	Only parties of two may enter this dungeon.
+enter_dungeon.198	You can only enter while the event is in progress.
+enter_dungeon.199	Only a 2 person couple party consisting of\na man and a woman can enter this dungeon.
+enter_dungeon.200	Only a 2 person couple party consisting of\na man and a woman can enter this dungeon.
+enter_dungeon.201	To rescue the young troublemaker, you must drop Ranald's pass at the altar.
+enter_dungeon.202	To find Malcolm's Ring, you must drop Trefor's pass at the altar.
+enter_dungeon.203	You have already rescued the young troublemaker.
+enter_dungeon.204	You can no longer enter this dungeon using this item.
+enter_dungeon.205	You can no longer enter this dungeon using this item.
+enter_dungeon.206	Only one person may enter this dungeon.
+enter_dungeon.207	You can no longer enter this dungeon using this item.
+enter_dungeon.208	You can no longer enter this dungeon using this item.
+enter_dungeon.209	You can't enter the dungeon with an expired Fomor pass.
+enter_dungeon.210	By the order of the lord of the castle, anyone who is not a member of the castle's guild is not allowed to enter.
+enter_dungeon.211	The castle is currently unowned, so you cannot enter.
+enter_dungeon.212	You cannot enter the dungeon because the castle is not built.
+enter_dungeon.213	You cannot enter the dungeon unless you use the Cuilin Castle Dungeon pass sold by the guard in the castle lobby.
+enter_dungeon.214	You can only use this pass during the event period.
+enter_dungeon.215	You cannot enter the dungeon because you have non-pet characters in your party.
+enter_dungeon.216	Only one person may enter this dungeon.
+enter_dungeon.217	You can only enter this dungeon at a Net cafe.
+enter_dungeon.218	Only one person may enter this dungeon.
+enter_dungeon.219	You can only enter this dungeon at a Net cafe.
+enter_dungeon.220	Only one person may enter this dungeon.
+enter_dungeon.221	You can only enter this dungeon at a Net cafe.
+enter_dungeon.222	Only one person may enter this dungeon.
+enter_dungeon.223	You can only enter this dungeon at a Net cafe.
+enter_dungeon.224	Only one person may enter this dungeon.
+enter_dungeon.225	You can only enter this dungeon at a Net cafe.
+enter_dungeon_ruin.1	This doesn't seem to be Ruwai's Exploration Journal.
+enter_dungeon_ruin.2	Only one person may enter when using this item.
+enter_dungeon_ruin.3	This doesn't seem to be Atrata's Wind Bell.
+enter_dungeon_ruin.4	You cannot use this item right now.
+enter_dungeon_ruin.5	You cannot use this item right now.
+enter_dungeon_ruin.6	You cannot enter the dungeon with a pet summoned.
+enter_dungeon_ruin.7	You cannot enter the dungeon with a pet summoned.
+enter_dungeon_ruin.8	You cannot enter the dungeon with a pet summoned.
+enter_dungeon_ruin.9	You cannot use this item right now.
+enter_dungeon_ruin.10	You cannot use this item right now.
+enter_dungeon_ruin.11	You cannot use this item right now.
+enter_dungeon_ruin.12	You cannot use this item right now.
+enter_dungeon_ruin.13	You cannot use this item.
+enter_dungeon_ruin.14	Only one person may enter when using this item.
+enter_dungeon_ruin.15	You cannot enter the dungeon while you have a pet summoned.
+enter_dungeon_ruin.16	You cannot use this item.
+enter_dungeon_ruin.17	Only two people may enter when using this item.
+enter_dungeon_ruin.18	You cannot enter the dungeon while a party member has a pet summoned.
+enter_dungeon_ruin.19	You cannot use this item right now.
+enter_dungeon_ruin.20	You may only enter the Rain Maker dungeon on Samhain (Saturday).
+enter_dungeon_ruin.21	You cannot use this item right now.
+enter_dungeon_ruin.22	You cannot use this item right now.
+enter_dungeon_ruin.23	You cannot use this item right now.
 exploration_event.1	船が難破し、イリアの南東に流れてきたようだ。
 exploration_event.2	船が難破し、どこかに流れ着いたようだ。
 falias.1	You failed to protect the altar.\nThe Aonbharrs that sealed the altar are leaving.
 falias.2	You cannot obtain any treasures because the altar is sealed.
 falias.3	
-falias.4	If any more Aonbharrs appear, you won't be able to protect the altar.\nQuickly get rid of the Aonbharrs!
+falias.4	If any more Aonbharrs appear, you won't be able to protect the altar.\nGet rid of them as soon as possible!
 falias.5	Stage Level: 1
 falias.6	Stage Level: 2
 falias.7	Stage Level: 3
@@ -585,7 +585,7 @@ falias.25	Altar :
 falias.26	You cannot destroy the barrier without first destroying its power source.\nDestroy the Stonehenge providing power to the barrier.
 falias.27	You cannot check the altar while you are mounted.
 falias.28	You cannot check the altar while others are on it.
-falias.29	You cannot check the altar mid-flight.
+falias.29	You cannot check the altar while flying.
 falias.30	The altar is currently not working.\nSearch for a way to activate it.
 falias.31	You cannot obtain treasures unless you protect the altar from the Aonbharrs.
 falias.32	You failed to protect the altar.\nYou will not receive any treasures.
@@ -598,22 +598,22 @@ falias.38	Search the altar for treasures.
 falias.39	
 falias.40	You cannot obtain any treasures because the altar is sealed.
 falias.41	You failed to protect the altar.\nThe Aonbharrs that sealed the altar are leaving.
-falias.42	The altar's seal is nearing completion.\nIt's dangerous to allow more Aonbharrs to approach it.
-falias.43	A long time has passed since the altar was sealed.\nPrevent the Aonbharrs' approach.
-falias.44	The Aonbharrs are sacrificing themselves to seal the altar.\nPrevent the Aonbharrs from reaching the altar.
+falias.42	The altar's seal is nearing completion.\nIt's dangerous to allow more Aonbharrs to approach it!
+falias.43	It's taking longer than expected for the seal to complete.\nPrevent any more Aonbharrs from reaching the altar!
+falias.44	The Aonbharrs are sacrificing themselves to seal the altar.\nStop the Aonbharrs from reaching their goal!
 falias.45	{0} experience points gained.
 fashionshow_event.1	Applications for the Tara Fashion Contest Preliminaries are currently being accepted.
-fashionshow_event.2	The Tara Fashion Contest Preliminaries are taking place.
+fashionshow_event.2	The Tara Fashion Contest Preliminaries are currently in progress.
 fashionshow_event.3	Applications for the Tara Fashion Contest Finals are currently being accepted.
-fashionshow_event.4	The Tara Fashion Contest Finals are taking place.
+fashionshow_event.4	The Tara Fashion Contest Finals are currently in progress.
 fashionshow_event.5	Applications for the Tara Fashion Contest Preliminaries are now closed.
 fashionshow_event.6	The Tara Fashion Contest Preliminaries have ended.
 fashionshow_event.7	Applications for the Tara Fashion Contest Finals are now closed.
 fashionshow_event.8	The Tara Fashion Contest Finals have ended.
-fashionshow_event.9	The Tara Fashion Contest Preliminaries are scheduled to take place at 8 p.m. All are cordially invited.
-fashionshow_event.10	The Tara Fashion Contest Preliminaries are now underway. All are cordially invited.
-fashionshow_event.11	The Tara Fashion Contest Finals are scheduled to take place at 8 p.m. All are cordially invited.
-fashionshow_event.12	The Tara Fashion Contest Finals are now underway.
+fashionshow_event.9	The Tara Fashion Contest Preliminaries are scheduled to begin at 8 p.m. We look forward to your participation.
+fashionshow_event.10	The Tara Fashion Contest Preliminaries are currently in progress. We look forward to your participation.
+fashionshow_event.11	The Tara Fashion Contest Finals are scheduled to begin at 8 p.m. We look forward to your participation.
+fashionshow_event.12	The Tara Fashion Contest Finals are currently in progress.
 g1_event.1	G1_40_b カットシーンが終了しました。
 g2_event.1	여신 컷신 보기 시작함
 g2_event.2	컷신이 끝나고 부른다제
@@ -656,10 +656,10 @@ impdream.2	1位 {0} ({1}点)
 impdream.3	2位 {0} ({1}点)
 impdream.4	3位 {0} ({1}点)
 impdream.5	イベント終了 {0}秒前です。終了後は精算されません。
-item.glewyas_book.1	グルアスの本を読んでいる途中、図書カードを発見した。
-item.glewyas_book.2	ミッションに失敗したら、蔵書館図書カードを使用してみよう。
-item.glewyas_book.3	グルアスの本を読んでいる途中、図書カードを発見した。
-item.glewyas_book.4	進行中のミッションを完了させて、蔵書館図書カードを使用してみよう。
+item.glewyas_book.1	While you were reading Glewyas' book, you found a library card.
+item.glewyas_book.2	If you fail the mission, use the Royal Library Card.
+item.glewyas_book.3	While you were reading Glewyas' book, you found a library card.
+item.glewyas_book.4	Finish your current mission, then use the Royal Library Card.
 item.item12279.1	You have unlocked a Falias Treasure slot.
 item.item12279.2	The effect of this item has already been applied.
 item.item12279.3	Using this item now will have no effect.
@@ -668,10 +668,10 @@ item.item12280.1	You have unlocked a Falias Treasure slot.
 item.item12280.2	The effect of this item has already been applied.
 item.item12280.3	Using this item now will have no effect.
 item.item12280.4	Using this item now will have no effect.
-item.item12281.1	家系図の子供スロット追加に成功しました。
-item.item12281.2	子供スロットの追加に失敗しました。
-item.item12281.3	すでに家系図のすべての子供スロットが開いています。
-item.item12281.4	養子縁組権利証書は家長のみ使用できます。
+item.item12281.1	You have successfully added a slot for a child to your family tree.
+item.item12281.2	Failed to add child slot.
+item.item12281.3	All slots for children in your family tree are already open.
+item.item12281.4	Adoption certificates can only be used by the head of a household.
 item.item51097.1	ザルディンの遺物9種類をすべて持っているため、今は使用できません。
 item.item51097.2	古いドラゴンの骨片は9個集まらなければ使用できません。
 item.item51097.3	ザルディンの遺物をすべて集めました。コレクションブックに収集して報酬を受け取ったあと、使用してください。
@@ -711,9 +711,9 @@ item.item73211.4	비가 오지 않는 날에는 물이 든 병으로 화분에 �
 item.item73211.5	물을 주었더니 화분에서 꽃이 피었다.
 item.item75356.1	進行中のミッションを完了させて、蔵書館図書カードを再び使用してみよう。
 item.item75371.1	You cannot use the Goddess Needle while you have another mission in progress.
-item.item75372.1	すでにカリバーンを取り戻した。
-item.item75372.2	進行中のミッションを完了または放棄して、カリバーンの通行証を再び使用してみよう。
-item.item75372.3	今の状態では使えない。
+item.item75372.1	You have already taken the Caliburn back.
+item.item75372.2	Complete or abandon your current mission, then try using the Caliburn pass once again.
+item.item75372.3	You cannot use this in your current condition.
 item.item75420.1	You must be near the Statue of the Goddess to use this item.
 item.item75420.2	You must be near the Statue of the Goddess in the Underground Waterway to use this item.
 item.item75420.3	You must be near the Statue of the Goddess in the Underground Waterway to use this item.
@@ -804,21 +804,21 @@ joust_event.16	トーナメントの受付を承っております。ふるっ�
 joust_event.17	適正人数の参加がなかったため、週間トーナメントはキャンセルされました。
 joust_event.18	適正人数の参加がなかったため、トーナメントはキャンセルされました。
 joust_event.19	サーバー週間トーナメントで勝利しました。
-monster_event.1	食べ物以外には興味がないようだ。
-monster_event.2	サルはこの食べ物に興味がないようだ。
-monster_event.3	臨時インベントリを整理してからあげよう。
-monster_event.4	あまり好きではなさそうだが、とりあえず {0}{を} 取り出してくれた。
-monster_event.5	あげた食べ物に感謝して {0}{を} 取り出してくれた。
-monster_event.6	私があげた食べ物をとても喜んで {0}{を} 取り出してくれた。
-monster_event.7	このサルはこれ以上私にあげる持ち合わせがないようだ。
-monster_event.8	シカは興味がないようだ。夜にだけ生えるキノコが好きらしいが…
-monster_event.9	臨時インベントリを整理してからあげよう。
-monster_event.10	シカは私があげたキノコに感謝して{0}をくれた。
-monster_event.11	このシカはこれ以上私にあげる持ち合わせがないようだ。
-monster_event.12	鳥が好きな色の玉ではないようだ。
-monster_event.13	臨時インベントリを整理してからあげよう。
-monster_event.14	私があげた玉に感謝して{0}をくれた。
-monster_event.15	この鳥はこれ以上私にあげる持ち合わせがないようだ。
+monster_event.1	They don't seem to be interested in anything but food.
+monster_event.2	The monkeys don't seem interested in this type of food.
+monster_event.3	Organize your temporary inventory before giving it an item.
+monster_event.4	The monkey didn't really like the food, but it gave you {0} anyway.
+monster_event.5	The monkey gave you {0} as thanks for the food.
+monster_event.6	The monkey was very pleased with the food you gave it and gave you {0}.
+monster_event.7	It looks like this monkey has nothing left to give to you.
+monster_event.8	The deer doesn't seem interested. It seems to only want mushrooms that grow at night...
+monster_event.9	Organize your temporary inventory before giving it an item.
+monster_event.10	The deer gave you {0} as thanks for the mushroom.
+monster_event.11	It looks like this deer has nothing left to give to you.
+monster_event.12	This isn't one of the colored gems the birds like.
+monster_event.13	Organize your temporary inventory before giving it an item.
+monster_event.14	The bird gave you {0} as thanks for the colored gem.
+monster_event.15	It looks like this bird has nothing left to give to you.
 monster_event.16	/pythonstone/
 monster_event.17	/shadowmission/
 monster_event.18	/normalmode/
@@ -828,7 +828,7 @@ monster_event.21	/shadowmission/
 monster_event.22	/hardmode/
 monster_event.23	/shadowmission/
 monster_event.24	PythonstoneBarrier
-monster_event.25	サルの友達タイトルを獲得しました
+monster_event.25	Acquired the "a friend of Monkeys" title
 nubes_undermaze_chest.1	この宝箱はすでに開いています。
 nubes_undermaze_chest.2	アイテムドロップに失敗しました。
 nubes_undermaze_chest.3	アイテムドロップに失敗しました。
@@ -870,11 +870,11 @@ pc_event.31	ライミラク慈善基金から手紙が到着しました。\nお
 pc_event.32	リリスからもらった寄付金を寄付した。
 pc_event.33	寄付箱に入れることができない。
 pet_event.1	オットセイにカバンの中の魚を投げてやることができます。
-portal_condition.1	レベル 10 以上ではないと入れません。
-portal_condition.2	テストの為、怖い図書館の入場が可能になります。
-portal_condition.3	不思議な力が感じられる…
-portal_condition.4	ペッカダンジョンの入口が塞がれています。
-portal_condition.5	図書館の不思議な力が\nこれ以上多くの人が入れないように阻んでいる。
+portal_condition.1	You cannot enter unless you are level 10 or higher.
+portal_condition.2	For testing purposes, you will be able to enter the Scary Library.
+portal_condition.3	You feel a mysterious force...
+portal_condition.4	The entrance to Peaca Dungeon is blocked.
+portal_condition.5	The mysterious force from the library\nis preventing more people from entering.
 portal_condition.6	入場することができな状態です。
 portal_condition.7	新郎と新婦だけが入場することができます。
 portal_condition.8	結婚式の服を着たままでは外へ出ることができません。\n外へ出るにはNPCへ服を返してください。
@@ -1135,16 +1135,16 @@ prop_event.149	扉が私に反応した。
 prop_event.150	遠距離にいる行動不能になった人を復活させることができる者だけが、この扉を開けられるはずだ。
 prop_event.151	既に開かれた扉です。
 prop_event.152	GM・devCATの権限で常に開けることができます。
-prop_event.153	私の叫びに扉が反応した。
+prop_event.153	The door reacted to my shout.
 prop_event.154	幼い頃に聞いた、扉を開けるために必要なあの呪文を叫べば開きそうな気がする！
-prop_event.155	私の叫びに扉が反応した。
+prop_event.155	The door reacted to my shout.
 prop_event.156	ひらけ○○！
-prop_event.157	私の叫びに扉が反応した。
-prop_event.158	いつも誕生日にささやかなプレゼントをくれるあの人の名前を叫べば開きそうな気がする！
-prop_event.159	私の叫びに扉が反応した。
-prop_event.160	クロウクルアフと一緒に消えた昔の英雄の名を叫べば開きそうな気がする！
-prop_event.161	私の叫びに扉が反応した。
-prop_event.162	夜のシドスネッターにのみ姿を現す彼の名を叫べば開きそうな気がする！
+prop_event.157	The door reacted to my shout.
+prop_event.158	It seems like it will open if you yell the name of the person who always gives you a small gift on your birthday!
+prop_event.159	The door reacted to my shout.
+prop_event.160	It seems like it will open if you yell the name of the old hero who disappeared with Cromm Cruaich!
+prop_event.161	The door reacted to my shout.
+prop_event.162	It seems like it will open if you yell the name of he who only appears at night at Sidhe Sneachta!
 prop_event.163	既に開かれた扉です。
 prop_event.164	ひらけ～！ と叫べば開きそうな気がする。
 prop_event.165	ひらけ～ゴマ！ と叫べば開きそうな気がする。
@@ -1249,30 +1249,30 @@ prop_event.263	扉が私に反応した。
 prop_event.264	短時間で多くを成しえた者だけが、この扉を開けられるはずだ。
 prop_event.265	扉が私に反応した。
 prop_event.266	体の大きい相手であっても落ち着いて対応できる者だけが、この扉を開けられるはずだ。
-prop_event.267	人間
-prop_event.268	私の叫びに扉が反応した。
-prop_event.269	「人間！」と叫べばなぜか開きそうだ。
-prop_event.270	エルフ
-prop_event.271	私の叫びに扉が反応した。
-prop_event.272	「エルフ！」と叫べばなぜか開きそうだ。
-prop_event.273	ジャイアント
-prop_event.274	私の叫びに扉が反応した。
-prop_event.275	「ジャイアント！」と叫べばなぜか開きそうだ。
-prop_event.276	タルラーク
-prop_event.277	私の叫びに扉が反応した。
-prop_event.278	「タルラーク！」と叫べばなぜか開きそうだ。
-prop_event.279	ナオ
-prop_event.280	私の叫びに扉が反応した。
-prop_event.281	「ナオ！」と叫べばなぜか開きそうだ。
-prop_event.282	ルエリ
-prop_event.283	私の叫びに扉が反応した。
-prop_event.284	「ルエリ！」と叫べばなぜか開きそうだ。
-prop_event.285	「人間！」と叫べばなぜか開きそうだ。
-prop_event.286	「エルフ！」と叫べばなぜか開きそうだ。
-prop_event.287	「ジャイアント！」と叫べばなぜか開きそうだ。
-prop_event.288	「タルラーク！」と叫べばなぜか開きそうだ。
-prop_event.289	「ナオ！」と叫べばなぜか開きそうだ。
-prop_event.290	「ルエリ！」と叫べばなぜか開きそうだ。
+prop_event.267	Human
+prop_event.268	The door reacted to my shout.
+prop_event.269	It seems like it will open if you yell "Human!" 
+prop_event.270	Elf
+prop_event.271	The door reacted to my shout.
+prop_event.272	It seems like it will open if you yell "Elf!" 
+prop_event.273	Giant
+prop_event.274	The door reacted to my shout.
+prop_event.275	It seems like it will open if you yell "Giant!" 
+prop_event.276	Tarlach
+prop_event.277	The door reacted to my shout.
+prop_event.278	It seems like it will open if you yell "Tarlach!" 
+prop_event.279	Nao
+prop_event.280	The door reacted to my shout.
+prop_event.281	It seems like it will open if you yell "Nao!" 
+prop_event.282	Ruairi
+prop_event.283	The door reacted to my shout.
+prop_event.284	It seems like it will open if you yell "Ruairi!" 
+prop_event.285	It seems like it will open if you yell "Human!" 
+prop_event.286	It seems like it will open if you yell "Elf!" 
+prop_event.287	It seems like it will open if you yell "Giant!" 
+prop_event.288	It seems like it will open if you yell "Tarlach!" 
+prop_event.289	It seems like it will open if you yell "Nao!" 
+prop_event.290	It seems like it will open if you yell "Ruairi!" 
 prop_event.291	雪のかたまりを固めて足していけば、雪だるまが作れそうだ。
 prop_event.292	雪のかたまりのほかにも、雪だるまを飾る材料を足してみよう。
 prop_event.293	雪だるまらしくなってきた。もう少し飾りを足してみよう。
@@ -1315,8 +1315,8 @@ renes.2	(개발서버 Message) Cycle :
 renes.3	Stage :
 renes.4	(개발서버 Message)
 renes.5	개의 스테이지 클리어.
-renes.6	レガトゥスに十分な時間を稼いであげられなかったようだ。
-renes.7	モンスターはもう出てこないようだ。残りのモンスターたちを倒そう。
+renes.6	Looks like you didn't buy enough time for Legatus.
+renes.7	It looks like the monsters have stopped appearing. Defeat the remaining monsters.
 renes.8	드래곤의 알을 지켜라 이벤트에 참여하셨습니다.
 renes.9	8名を超えるプレイヤーが存在します。しばらくするとダンジョンが消滅します。
 renes.10	モンスターが多すぎる。これ以上は耐えられない。
