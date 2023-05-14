@@ -1,0 +1,2738 @@
+﻿actionlog.1	{0} reason: {1}
+airballoonmgr.1	Unable to create hot-air balloon.
+airballoonmgr.2	Unable to create hot-air balloon.
+airballoonmgr.3	You cannot set up a hot-air balloon here.
+anniversaryschedulemgr.1	기념일 스케쥴러에 임의의 스케쥴을 추가합니다.\n추가된 스케쥴은 삭제할 수 없습니다.
+anniversaryschedulemgr.2	addanniversaryschedule(시간, 스크립트명)\n예) addanniversaryschedule(200908081800, data/script/event/anniversary.mint::OnGiveItem1_3rdEventSummer2009Korea)
+anthell.1	If I stay here, I'll definitely fall in.
+banquetcouponmgr.1	Banquet Helper: Ladies and gentlemen, you have my sincere thanks for participating in\n the Royal Castle Banquet.
+banquetcouponmgr.2	Banquet Helper: For attending the banquet, we've prepared a small gift for a lucky person.
+banquetcouponmgr.3	Banquet Helper: The winning number is...
+banquetcouponmgr.4	Banquet Helper: Who's the winner?
+banquetcouponmgr.5	Banquet Helper: The winning number is...{0}! Please confirm your number!
+banquetcouponmgr.6	Banquet Helper: So, who's the lucky winner? There you are!
+banquetcouponmgr.7	Banquet Helper: {0}, congratulations!
+banquetcouponmgr.8	Banquet Helper: I wish you a wonderful time, see you next year!
+banquetcouponmgr.9	Banquet Helper: How unfortunate. The winner seems to not be present.
+banquetcouponmgr.10	Banquet Helper: I wish you a wonderful time, see you next year!
+banquetcouponmgr.11	{0} attended the Royal Castle Banquet {1}.
+banquetmgr.1	You are not participating in the Tara Royal Castle Banquet.
+banquetmgr.2	Food catering failed.
+banquetmgr.3	This food is too low quality to share with others.
+banquetmgr.4	You can only provide food.
+banquetmgr.5	Royal Castle Banquet is in progress.
+banquetmgr.6	Confirming reservation list.
+banquetmgr.7	You have a reservation.\nUsing this will cancel the reservation.
+banquetmgr.8	schedule_banquet()\n   Banquet.xml에 定義された時間どおりに遂行する。\n\nまたは\n\nschedule_banquet([delay_time], running_time, prepare_time, finish_time)\n   delay_time後に開始し、省略すると直ちに開始する。\n   prepare_timeが過ぎた後に running_timeだけ実行され finish_timeは running_timeより小さくなければならない。\n   時間の単位は秒で、すべての時間は0より大きくなければならない。\n\nまたは\n\nschedule_banquet(start_time, day_of_week, running_time, prepare_time, finish_time)\n   Banquet.xmlに定義する形式どおりに設定しパーティーを開始する。
+banquetmgr.9	Royal Castle Banquet's schedule is confirmed.
+banquetmgr.10	You are slowly earning experience from Tara Royal Castle Banquet.
+banquetmgr.11	Reloading Banquet.xml.\nYou must create a new party for the changes to apply.
+banquetmgr.12	{0}/{1}/{2} {3}:{4}:{5}
+banquetmgr.13	Not valid.
+banquetmgr.14	Current Status : {0}\nReservation Status : {1}\nAppointment Time : {2}
+banquetmgr.15	すでに実行中か、予約されたスケジュールがあります。\n新たに予約するには cancel_banquet() 命令でキャンセルしたあと再度実行してください。
+banquetmgr.16	It didn't work as planned.
+banquetmgr.17	Appointment failed.
+banquetmgr.18	Tara Royal Castle Banquet has ended.
+banquetmgr.19	Tara Royal Castle Banquet is not in progress. Reservation is canceled.
+banquetmgr.20	You will gain Tara Royal Castle Banquet experience in {0} seconds.
+banquetmgr.21	It didn't work as planned.
+banquetmgr.22	Banquet.xml loaded successfully.
+banquetmgr.23	Banquet.xml loading failed.
+banquetprepareregionhandler.1	Tara Royal Castle Banquet is about to begin in the Rath Royal Castle Great Hall.
+banquetregionhandler.1	Tara Royal Castle Banquet is in progress.
+banquetregionhandler.2	Tara Royal Castle Banquet has ended.
+capturetheflagregionhandler.1	海辺へ行こうイベント中にイベント地域を出ました。
+capturetheflagregionhandler.2	{0} イベント途中にイベント地域を出ました。
+capturetheflagteam.1	Red Team
+capturetheflagteam.2	Blue Team
+capturetheflagteam.3	海辺へ行こうイベントに {0}として参加しました。
+capturetheflagteam.4	Exiting Capture the Flag event.
+capturetheflagteam.5	Capturing was canceled!
+capturetheflagteam.6	Get the flag and bring it safely across.
+capturetheflagteam.7	{0} イベントに {1}で参加しました。
+capturetheflagteam.8	Exiting {0} event。
+capturetheflagteam.9	Accidentally dropped the watermelon!
+capturetheflagteam.10	Cannot take watermelon while you are frozen.
+capturetheflagteam.11	Got the watermelon. Take it to the umbrella on the other side.
+cdaycontrol.1	PVP penalty reduced.
+cdaycontrol.2	Pets are blessed with the power of Palala.
+cdaycontrol.3	Pets are blessed with the power of Palala.
+cdaycontrol.4	Pets are blessed with the power of Eweca.
+cdaycontrol.5	Pets are blessed with the power of Eweca.
+cdaycontrol.6	Pets are blessed with the power of Palala.
+cdaycontrol.7	Pets are blessed with the power of Eweca.
+combatmanager.1	You have {0} ammunition left.|
+combatmanager.2	You are running out of ammunition.|
+combatmanager.3	You have {0} ammunition left.|
+combatmanager.4	You cannot attack with this skill. Try using other skills!
+combatmanager.5	You cannot attack with this weapon. Try using another weapon! 
+combatmanager.6	You have {0} ballista ammunition remaining.|
+combatmanager.7	You are running out of ballista ammunition.|
+combatmanager.8	You have {0} ballista ammunition remaining.|
+combatmanager.9	You have {0} ballista ammunition remaining.|
+combatmanager.10	You are running out of ballista ammunition.|
+combatmanager.11	You have {0} ballista ammunition remaining.
+combatmanager.12	Continuing to attack is a waste of energy.
+combatmanager.13	You need to attack the others.
+combatmanager.14	Attacking is totally unreasonable.
+combatpromotiontest.1	Current score: {0}
+combatpromotiontest.2	Lost {0} points.
+combatpromotiontest.3	現在の点数: {0}
+commonapi.1	近くに他の氷の穴があるので、氷の穴を掘ることができなそうだ
+commonapi.2	{0}が涼しげに水を撒いてくれた。
+commonapi.3	{0}が涼しげに水を撒いてくれた。
+commonapi.4	ゾウが撒いてくれた水が乾いたようだ。
+component_achievement.1	業績を追加する。
+component_achievement.2	addachievement(業績id)
+component_achievement.3	業績を除去する。
+component_achievement.4	removeachievement(業績id)
+component_action.1	{0} 様は召喚要請できない状態です。
+component_action.2	{0} 様は召喚要請を受けられない状態です。
+component_action.3	{0} 様は召喚要請できない地域にいます。
+component_action.4	{0} 様は召喚要請を受けられない地域にいます。
+component_action.5	{0} 様は召喚できない対象です。
+component_action.6	Race not supported. Summoning canceled.
+component_action.7	{0} 様が乗り物に乗っているため召喚できません。
+component_action.8	Unable to summon.
+component_action.9	Unable to summon.
+component_action.10	You must wait 3 minutes.
+component_action.11	閉じ込められないようだ。
+component_action.12	泡を発射しても閉じ込められなそうだ。
+component_action.13	{0}に泡を発射しても閉じ込められなそうだ。
+component_action.14	Summoned players cannot participate.
+component_action.15	Cannot summon participating player.
+component_action.16	Cannot summon when participating.
+component_action.17	Cannot summon participating player.
+component_actionmove.1	相手が近すぎて突進に失敗しました。
+component_actionmove.2	相手が突進可能な距離から外れました。
+component_actionmsg.1	{0}様の召喚要請を受けることが出来ません。
+component_advertise.1	ハウスインベントリの金額が足りません。
+component_advertise.2	広告チラシは最大1000枚まで発行できます。
+component_advertise.3	すでに同じ広告チラシを持っています。
+component_advertise.4	広告チラシがなくなりました。
+component_advertise.5	インベントリに空きがありません。
+component_advertise.6	今は使用できません。
+component_antimacrocaptcha.1	対象ユーザーがマクロチェックに失敗しました。
+component_antimacrocaptcha.2	マクロユーザーと判断されたため、{0} 分間動けません。
+component_antimacrocaptcha.3	正解です。
+component_antimacrocaptcha.4	不正解でした。残り {0} 回です。
+component_antimacrocaptcha.5	これまで間違えた回数は {0} 回です。
+component_antimacrocaptcha.6	これまで間違えた回数は {0} 回です。
+component_antimacrocaptcha.7	今までの成功回数は {0} 回です。
+component_appearance.1	The potion poisoning seems to be getting better.|Recovered from potion poisoning.|Starting to feel better from potion poisoning.
+component_appearance.2	Pet seems to be full.
+component_appearance.3	가슴을 적시는 이 느낌!|그 언제나 상쾌한 맛!|난 느껴요 코카-콜라!
+component_appearance.4	천사가 내려준 눈처럼 감미롭고 시원하다! | 천사와 달콤한 사랑에 빠진다.
+component_appearance.5	각종 파라메터를 변경합니다.\nmodify는 set과 달리 현재값에 상대적인 값으로 변경하는 함수입니다.\n(하지만 일부 함수는 set과 동일한 동작을 합니다.)
+component_appearance.6	modify(파라메터, 수치)\n\n파라메터 목록 (대소문자 구분합니다):\n   str - 체력\n   dex - 솜씨\n   int - 지력\n   will - 의지\n   luck - 행운\n   life - 생명력\n   mana - 마나\n   stamina - 스태미너\n   strbyfood - 음식에 의한 체력\n   dexbyfood - 음식에 의한 솜씨\n   intbyfood - 음식에 의한 지력\n   willbyfood - 음식에 의한 의지\n   luckbyfood - 음식에 의한 행운\n   lifebyfood - 음식에 의한 생명력\n   manabyfood - 음식에 의한 마나\n   food - 음식\n   ap - AP\n   exp - 경험치\n   def - 방어력\n   protect - 보호\n   level - 레벨 (단순히 레벨값만 변경)\n   Level - 레벨 (값을 올리면 레벨업 핸들러를 호출해줌)\n   age - 나이 (단순히 나이값만 변경)\n   Age - 나이 (나이에 따른 체형변화도 발생함)\n   poison - 중독\n   poisonimmune - 독저항\n   exploexp - 탐험경험치\n   explolevel - 탐험레벨 (단순히 레벨값만 변경)\n   Explolevel - 탐험레벨 (값을 올리면 레벨업 핸들러를 호출해줌)\n   untouchable - 수치에 true/false를 설정하며 언터쳐블NPC 상태를 변경함\n
+component_appearance.7	각종 파라메터를 변경합니다.\nset는 modify와 달리 현재값과 상관없이 절대값으로 변경하는 함수입니다.\n(하지만 일부 함수는 modify와 동일한 동작을 합니다.)
+component_appearance.8	modify의 도움말을 참조
+component_appearance.9	얼굴을 변경합니다.
+component_appearance.10	setface(타입:인덱스,타입:인덱스,...)\n\n   타입 - 설명\n   et - 눈모양\n   ec - 눈색상\n   mt - 입모양\n   sc - 피부색\n   ft - 얼굴모양\n   c1 - 기타색1\n   c2 - 기타색2\n   c3 - 기타색3\n\n
+component_appearance.11	料理を分け合って食べ、能力値ボーナスが {0}%, 持続時間が {1}分増加した。
+component_appearance.12	{0} 番コンディションが {1}秒間追加された。メタ:{2}
+component_auction.1	Banks are no longer usable.
+component_auction.2	Insufficient bank balances.
+component_auction.3	Auction cannot be listed lower than basic bid price.
+component_auction.4	You must bid at least 5% higher.
+component_auction.5	You've already been outbid.
+component_auction.6	These are not on auction.
+component_auction.7	The auction has ended.
+component_auction.8	A problem occured.
+component_auction.9	You cannot keep the auctioned item.
+component_auction.10	There is no auction right now.
+component_auction.11	Bid amount cannot exceed the limit set by the bank account.
+component_auction.12	You cannot bid.
+component_auction.13	You cannot bid.
+component_auction.14	Please try again later.
+component_bank.1	Certain items cannot be placed in the bank.
+component_bank.2	봉인 해제 중인 아이템은 보관할 수 없습니다.
+component_bank.3	銀行の最大保有額以上を預けることはできません。\n最大保有額は{0}万ゴールドです。
+component_bankctx.1	アイテムを整理しないと保管できません。
+component_bankservice.1	{0} : 銀行アカウント情報を読み込まない状態でロック状態を確認しました。
+component_bankservice.2	{0} : 銀行アカウント情報を読み込まない状態で遮断状態を確認しました。
+component_bankservice.3	{0} : 銀行アカウント情報を読み込まない状態でパスワードをチェックしました。
+component_bankservice.4	{0} :Cannot withdraw coins.
+component_bankservice.5	{0} :Cannot withdraw coins.
+component_bankservice.6	{0} :Cannot withdraw coins.
+component_bankservice.7	{0} :Cannot withdraw coins.
+component_bankservice.8	{0} :Cannot withdraw coins.
+component_bankservice.9	{0} :Cannot withdraw coins.
+component_brionacsword.1	Brionac is not equipped.
+component_brionacsword.2	Brionac is not activated.
+component_brionacsword.3	You cannot use Brionac's skill training.\nPlease wait another {0} second(s).
+component_brionacsword.4	You cannot use Brionac's skill training.\nPlease wait another {0} minute(s).
+component_brionacsword.5	You cannot use Brionac's skill training.\nPlease wait another {0} hour(s) and {1} minutes.
+component_brionacsword.6	Cannot use skill training.
+component_brionacsword.7	Brionac is not equipped.
+component_brionacsword.8	Brionac's durability is low.
+component_brionacsword.9	Cannot use.
+component_brionacsword.10	Cannot use.
+component_brionacsword.11	Brionac's durability is low.
+component_brionacsword.12	Skill practice failed.
+component_brionacsword.13	Skill practice failed.
+component_brionacsword.14	Skill practice failed.
+component_brionacsword.15	Skill practice failed.
+component_brionacsword.16	Skill training cooldown has been reset.
+component_brionacsword.17	Skill training has been put on cooldown.
+component_campingchecker.1	(Experience +{0}%)
+component_cashitem.1	Please organize your inventory.
+component_cashitem.2	Please organize your inventory.
+component_combat.1	The dragon's wings are crippled.
+component_combat.2	The dragon's neck is injured.
+component_combat.3	The dragon's belly sustained heavy injuries.
+component_combat.4	The dragon's mouth is weakened.
+component_combat.5	The dragon's tail is wounded.
+component_combat.6	Dragon's tail cannot be used.
+component_combat.7	Dragon's tail cannot be used.
+component_combat.8	The dragon's legs seem to be wounded.
+component_combat.9	The Dragon's mobility is limited.
+component_combat.10	The dragon's leg sustained injury.
+component_combat.11	Damage on wings = {0}
+component_combat.12	Cumulative damage on wings
+component_combat.13	Neck damage = {0}，cumulative damage = {1}
+component_combat.14	Cumulative damage on neck 
+component_combat.15	Belly damage = {0} (1.5x multiplier)
+component_combat.16	Belly damage = {0}
+component_combat.17	Head damage = {0} (3x multiplier)
+component_combat.18	Head damage = {0}
+component_combat.19	Tail damage = {0}，total damage = {1}
+component_combat.20	Leg damage = {0}，total damage = {1}
+component_combocard.1	Extra +{0}%
+component_condition.1	There are explosives wrapped around the monsters!
+component_condition.2	The explosives on the monster look like they're about to blow!
+component_condition.3	You are receiving increased combat experience.
+component_condition.4	You are petrified.
+component_condition.5	Combat experience gain returned to normal.
+component_condition.6	You have recovered from petrification.
+component_condition.7	Speed potion effect has worn off
+component_condition.8	相手が突進可能な距離から外れました。
+component_condition.9	桜が舞い始まる。
+component_condition.10	桜が消える。
+component_condition.11	나의 힘이 약해져서 적들이 좀 더 강해 보이기 시작한다.
+component_condition.12	Life Skill training potion is in effect.
+component_condition.13	Combat Skill training potion is in effect.
+component_condition.14	Magic Skill training potion is in effect.
+component_condition.15	Alchemy Skill training potion is in effect.
+component_condition.16	Life Skill training potion effect has worn off.
+component_condition.17	Combat Skill training potion effect has worn off.
+component_condition.18	Magic Skill training potion effect has worn off.
+component_condition.19	Alchemy Skill training potion effect has worn off.
+component_condition.20	You are no longer receiving combat experience rewards.
+component_condition.21	물리 공격력이 증가한 것 같다.
+component_condition.22	전보다 마법을 좀 더 빨리 시전할 수 있을 것 같다.
+component_condition.23	물리 공격력이 원래대로 돌아온 것 같다.
+component_condition.24	마법을 시전하는 속도가 원래대로 돌아온 것 같다.
+component_demigod.1	Awakening of Light ends in 10 seconds.
+component_donation.1	强制设置目前捐赠次数。 \nPM Purin for translation
+component_donation.2	Display donations
+component_donation.3	Donate money
+component_donation.4	View my donations
+component_donation.5	Donation ranking information
+component_donation.6	Display donation window
+component_donation.7	Display donation rankings
+component_donation.8	Day countが意図どおりに動作するのかテストするための命令。
+component_donation.9	Clear donation records
+component_donation.10	Donation failed
+component_enchantentrust.1	Cannot entrust enchant.
+component_entrust.1	Combine magic
+component_entrust.2	Could not entrust with {0}.
+component_entrust.3	Could not entrust with {0}.
+component_entrust.4	You are too far.
+component_entrust.5	You are not in the party.
+component_entrust.6	Item does not exist.
+component_entrust.7	{0} could not be found.
+component_entrust.8	Entrust cancelled.
+component_entrust.9	Entrust cancelled.
+component_event.1	制限時間を経過しました。
+component_event.2	スキーイベント\n逃した旗門 : {0}
+component_event.3	ゴールライン通過成功！\n\n到着時間   : {0}\n逃した旗門 : {1}      \n最終時間   : {2}
+component_event.4	スキーイベント\n逃した旗門 : {0}
+component_event.5	かかし再配置時間が {0}秒に変更されました。
+component_event.6	かかし最小良い子時間が {0}秒に変更されました。
+component_event.7	かかし最大良い子時間が {0}秒に変更されました。
+component_event.8	召喚されるゾンビの数が {0}匹に変更されました。
+component_event.9	パーティーメンバーがログアウトしたため、ゲームが中断されました。
+component_event.10	パーティーメンバーが脱退したため、ゲームが中断されました。
+component_event.11	일반 좀비 소환 간격이 {0}ms로 조정
+component_event.12	문이 뚫렸을 때 좀비 소환 간격이 {0}ms로 조정
+component_event.13	보스 출현시 일반 좀비 소환 간격이 {0}ms로 조정
+component_event.14	게이트 당 일반 좀비 최대 수가 {0}마리로 조정
+component_event.15	문이 뚫렸을 때 특수 좀비 최대 수가 {0}마리로 조정
+component_event.16	보스 출현시 특수 좀비 최대 수가 {0}마리로 조정
+component_event.17	킬 포인트가 {0}점으로 조정
+component_event.18	클리어 포인트가 {0}점으로 조정
+component_event.19	깃발 공격시 데미지가 {0}점으로 조정
+component_event.20	좀비 이벤트\n점수 : {0}점
+component_event.21	フクロウをお願いイベントでフクロウスタンプブックを一度にすべて押します。
+component_event.22	パラメーターなくそのまま実行
+component_event.23	フクロウをお願いイベントでフクロウスタンプブックをすぐにもらいます。
+component_event.24	パラメーターなくそのまま実行
+component_event.25	소환 간격 {0}ms로 조정
+component_event.26	소환 최대개수 {0}로 조정
+component_event.27	러너좀비 속도 조정 {0}로 조정
+component_event.28	좀비왕 속도 조정 {0}로 조정
+component_event.29	러너좀비 속도 variation 조정 {0}로 조정
+component_event.30	좀비왕 속도 variation 조정 {0}로 조정
+component_event.31	좀비 스케일 {0}로 조정
+component_event.32	좀비 출현 비율 {0}로 조정
+component_event.33	쿠폰이 존재하지 않습니다.
+component_event.34	쿠폰이 존재하지 않습니다.
+component_event.35	응모 가능한 기간이 아닙니다.
+component_event.36	월드컵 이벤트에 [ {0} ] 쿠폰을 응모하셨습니다.
+component_event.37	정상적으로 응모하였습니다.
+component_event.38	응모에 실패했습니다.\n잠시 후 다시 시도해주세요.
+component_event.39	응모에 실패했습니다.\n잠시 후 다시 시도해주세요.
+component_event_newyear2009.1	{0} お月見イベント対象者をDBに入れることができませんでした。  {1}, {2}
+component_event_takecareofmyowl2009_korea.1	フクロウをお願い({0}) イベント中ではありません。
+component_event_takecareofmyowl2009_korea.2	すでにフクロウスタンプブックを持っています。
+component_event_takecareoftiger.1	아기 호랑이를 부탁해 이벤트 중이 아닙니다
+component_event_takecareoftiger.2	이미 아기 호랑이 스탬프 북을 갖고 있습니다.
+component_event_waterballoonbattle.1	Refresh in 10 Seconds.
+component_exploration.1	Nothing was found.
+component_exploration.2	There's definitely something here, but this tool is not enough.
+component_exploration.3	Remains were found within a 500m radius.
+component_family.1	{0} has left the family.
+component_family.2	{0} family has been dissolved.
+component_family.3	A family custom has been established.
+component_family.4	A family custom has been removed.
+component_family.5	Father: You punk! I'm going to have to teach you a lesson!|Father: I can't stay mad at you for being young and stupid, but don't do it again.|Father: I won't tell your mother. Next time I will, however.|Father: You have to be a good role model for your younger siblings, you know.|Father: Families have strict rules to follow.|Father: I should come to you right now and show you some discipline!
+component_family.6	Mother: How careless of you, child.|Mother: Mama is very worried for you.|Mother: What if your father found out about this?|Mother: Mama will always love you.|Mother: I'm very proud of our family for following our customs.
+component_family.7	{0} : I always hated this rule, too!|{0} : Our family tradition is very important. It keeps us together.|{0} : We'll be doomed if you keep this up!
+component_family.8	{0} : {1}, I'm so sick of you!|{0} : Don't tell Dad! {1}?|{0} : {1}, be careful from now on!|{0} : {1}!|{0} : {1}, you never listen. I'm disappointed.
+component_family.9	(Hope nobody saw that...)|(Oops, my hand slipped...)|(At least I wasn't seen.)|(Oh... I forgot.)|(Following traditions is never easy.)
+component_family.10	(Oh, that was shameful.)|(I promised myself to be strict...)|(What would I have done if the kids saw? I need to be careful.)|(It's hard to kick a habit. I'll worker harder from now on!)|(I wouldn't have gotten married if it meant this!)
+component_family.11	Broken Family Custom
+component_family.12	Younger Brother
+component_family.13	Older Brother
+component_family.14	Younger Sister
+component_family.15	Older Brother
+component_family.16	Younger Brother
+component_family.17	Older Sister
+component_family.18	Younger Sister
+component_family.19	Older Sister
+component_family.20	Older Brother
+component_family.21	Younger Brother
+component_family.22	Older Sister
+component_family.23	Younger Brother
+component_family.24	Older Brother
+component_family.25	Younger Sister
+component_family.26	Older Sister
+component_family.27	Younger Sister
+component_family.28	{0} has already been summoned.
+component_family.29	{0} has rejected your summon.
+component_family.30	Father: You punk! I'm going to have to teach you a lesson!|Father: I can't stay mad at you for being young and stupid, but don't do it again.|Father: I won't tell your mother. Next time I will, however.|Father: You have to be a good role model for your younger siblings, you know.|Father: Families have strict rules to follow.|Father: I should come to you right now and show you some discipline!
+component_family.31	Unable to summon family members.
+component_family.32	Unable to summon family members.
+component_farming.1	You have no crops to sell.
+component_farming.2	The crops do not belong to you.
+component_farming.3	It is too late to sell these crops.
+component_farming.4	You do not have enough crops.
+component_farming.5	That is not a valid crop.
+component_farming.6	That cannot be sold.
+component_farming.7	You do not have enough inventory.
+component_farming.8	There was a problem. 
+component_farming.9	There was a problem.
+component_farming.10	You do not have any crops to sell.
+component_farming.11	The crops do not belong to you.
+component_farming.12	It is too late to sell these crops.
+component_farming.13	You do not have enough crops.
+component_farming.14	That is not a valid crop.
+component_farming.15	That cannot be sold.
+component_farming.16	You do not have enough inventory.
+component_farming.17	There was a problem.
+component_farming.18	There was a problem.
+component_farming.19	Invalid request.
+component_farming.20	Ripening has started.
+component_farming.21	Failed to obtain farm status.
+component_farming.22	Wine aging requires {1} {0}.
+component_farming.23	Wine aging failed. \nPlease try again later.
+component_farming.24	Wine aging failed. \nPlease try again later.
+component_farming.25	Failed to age wine. \nPlease try again later.
+component_farming.26	Wine has not started aging yet.
+component_farming.27	Failed to age wine.
+component_farming.28	Invalid request.
+component_farming.29	Invalid request.
+component_farming.30	Could not process results. \nPlease try again later.
+component_farming.31	Wine has not started maturing.
+component_farming.32	Abnormal results...
+component_farming.33	Invalid request.
+component_fashion.1	Unable to participate from the Fashion Contest because you are too far away from the stage.
+component_fashion.2	Perfect!
+component_fashion.3	Success!
+component_fashion.4	10 seconds until performance.\nGet ready!
+component_fashion.5	The winner of this week's Fashion Show Contest is {0}! 
+component_fashion.6	Strike your pose within the next 10 seconds.
+component_fashion.7	The winner of this week's Popular Fashion Show Contest is {0}!
+component_fashion.8	Strike your pose within the next 10 seconds.
+component_fashion.9	Failure!
+component_fashion.10	Unable to get on stage.
+component_fashion.11	Unable to get on stage.
+component_fashion.12	Unable to get on stage.
+component_fashion.13	Unable to get on stage.
+component_fashion.14	Unable to get on stage.
+component_fashion.15	Unable to get on stage.
+component_fashion.16	Unable to get on stage.
+component_fashion.17	Strike your pose within the next 15 seconds.
+component_fashion.18	Strike your pose within the next 15 seconds.
+component_fashion.19	Grand Prize
+component_fashion.20	Choice Award
+component_fashion.21	ファッションコンテスト進行中は周辺でスキルを使えません。
+component_fashioncontest.1	参加申請をしました。
+component_fashioncontest.2	参加申請に失敗しました。
+component_gamemaster.1	船の上ではユーザーを召喚できないようにしました。すみません。
+component_guild.1	Insufficient guild funds.
+component_guild.2	Insufficient guild points.
+component_guild.3	There are no changes to the guildstone.
+component_guild.4	Cannot recruit any more guild members.
+component_guild.5	You cannot use this function today.
+component_guild.6	You cannot use this function today.
+component_guild.7	Guild title instated.
+component_guild.8	setguildtitle(title)
+component_guild.9	Using guild title.
+component_guild.10	useguildtitle(true or false)
+component_heartsticker.1	You have received a heart-shaped sticker! The letter can not be returned.
+component_heartsticker.2	Converted into heart points.
+component_heartsticker.3	Only beginners are able to send heart-shaped stickers.
+component_heartsticker.4	There are no usable heart-shaped stickers.
+component_heartsticker.5	The heart-shaped sticker is expired.
+component_heartsticker.6	You cannot gift this item.
+component_heartsticker.7	Failed to send.
+component_heartsticker.8	You have sent the heart-shaped sticker.
+component_heartsticker.9	You cannot send to other characters on your account.
+component_heartsticker.10	Could not find player.\nPlease check if the name entered was correct.
+component_house.1	your house's ID is {0}.
+component_houseowner.1	Bank transaction failed.
+component_houseowner.2	Unable to make transaction.
+component_houseowner.3	Transferred {0} gold to your house.
+component_houseowner.4	Bank transaction failed.
+component_houseowner.5	House has insufficient funds.
+component_houseowner.6	Transfer expense of {0} gold.\nTransferred {1} gold to the bank.
+component_houseowner.7	Housing deposit failed.
+component_houseowner.8	Failed to withdraw gold.
+component_inventory2.1	Item cannot be traded.
+component_inventory2.2	Item cannot be traded.
+component_inventory2.3	You set off some heart fireworks.
+component_inventory2.4	Sent cake to {0}.
+component_inventory2.5	Sending cake failed.
+component_inventory2.6	You are too close to the statue.
+component_inventory2.7	코-크 불꽃을 쏘아 올립니다.
+component_inventory2.8	Pets cannot build bridges.
+component_inventory2.9	You cannot use this on the bridge.
+component_inventory2.10	Ice bridge has been built.
+component_inventory2.11	This can only be used for ice bridge construction.
+component_inventory2.12	You set off some Nao fireworks.
+component_inventory2.13	You set off some devCAT fireworks.
+component_inventory2.14	You cannot advertise while on board.
+component_inventory2.15	A key is needed to open the chest.
+component_inventory2.16	A key is needed to open the chest.
+component_inventory2.17	아이스 폭죽을 쏘아 올립니다
+component_inventory2.18	{0}님에게 월병을 선물하였습니다.
+component_inventory2.19	월병을 선물하는데 실패하였습니다.
+component_inventory2.20	근처의 동상 또는 초콜릿 과자와 너무 가깝습니다.
+component_inventory2.21	3周年記念花火を打ち上げます。
+component_inventory2.22	祭り記念花火を打ち上げます。
+component_inventory2.23	전장에서는 광고지를 사용할 수 없습니다.
+component_inventory2.24	칠석 기념 폭죽을 쏘아 올립니다.
+component_inventory2.25	CInventoryBase::RemoveBundleCountItemFilter() 残った個数より消した個数のほうが多い。\n 消さなければならない個数: %d, 残った個数: %d, 今回消した個数: %d
+component_inventory2.26	You can only gift chocolates to the opposite gender.
+component_inventory2.27	Your inventory is full.
+component_inventory2.28	ペット、モンスター、NPCにはプレゼントできません。
+component_inventory2.29	5주년 기념 불꽃을 쏘아 올립니다.
+component_inventory2.30	You cannot use this item here.
+component_inventory2.31	You can only place crystals in the crystal pouch.
+component_inventory2.32	You cannot discard this item.
+component_inventory2.33	Organize your inventory before discarding this item.
+component_inventory2.34	이 장비는 윈리 록벨 헤어일때만 착용 가능합니다.
+component_inventory2.35	You do not have space for another combo card.
+component_inventory2etc.1	{0} 効果が発動しました。\n
+component_inventory2etc.2	{0}의 사용시간이 초과되어 제거되었습니다.
+component_inventory2etc.3	{0}의 봉인이 해제되었습니다.
+component_inventory2msg.1	Fill the flower pot with water.
+component_inventory2msg.2	Filled with water %d times.
+component_inventory2msg.3	I cannot water the pot now.
+component_inventory2msg.4	Failled with water {0} times today.
+component_inventory2msg.5	シャドウストーンの亀裂が始まった。\nしかしまだ早い。\nパルホロンの闇が必要ゆえ…
+component_inventory2msg.6	まだその時でないゆえ…\nシャドウストーンは割れなかった。
+component_inventory2msg.7	パルホロンの闇がシャドウストーンを覚醒させる。
+component_inventory2msg.8	古書の復元に成功しました。
+component_inventory2msg.9	{0}{을} 사용하였습니다.
+component_inventoryevent.1	精霊の知識欲と実体化エネルギーが増加しました。
+component_inventorystript.1	다양한 옵션을 이용하여 아이템을 추가합니다.
+component_inventorystript.2	아이템을 추가합니다.
+component_inventorystript.3	골드를 추가합니다.
+component_inventorystript.4	addmoney [금액]
+component_inventorystript.5	addmoney(금액)
+component_inventorystript.6	ポケットのアイテムを専用化する。
+component_inventorystript.7	ポケットのアイテムの専用状態を一時解除する。
+component_joust.1	{0}馬から運送手段が見つかりません。 
+component_lostandfound.1	マウスに他のアイテムを取った状態で回収することはできません。
+component_macrochecker.1	Macro : {0}\n Increase/Decrease : {1}
+component_macrochecker.2	Macro Set Points
+component_macrochecker.3	Received Macro Points
+component_mailbox.1	There was a problem accessing your mail.
+component_monster.1	They escaped.
+component_monster.2	They look like they're about to run away.
+component_monster.3	They fled.
+component_monster.4	The spider will weaken after a counterattack.
+component_monster.5	The Crag Cows seem to be confused. Try another wind blast!
+component_monster.6	The Crag Cows are confused. They're attacking Glas Ghaibhleann.
+component_monster.7	I don't seem to have the strength to break the barrier.
+component_party.1	General
+component_party.2	Dungeon
+component_party.3	Arena
+component_party.4	Ensemble
+component_party.5	Unable to join.
+component_party.6	Party members must be in the same guild.
+component_party.7	Already in another party.
+component_party.8	You cannot join due to cumulative level restrictions.
+component_party.9	You cannot join due to skill level restrictions.
+component_party.10	캡쳐 더 플래그의 다름 팀원과는 같은 파티에 있을 수 없는 것 같다.
+component_party.11	この募集はすでに掲示板から削除されています。
+component_party.12	{0} イベントの異なるチームメンバーとは同じパーティーにいられないようだ。
+component_party.13	Cannot form party in the shadow world.
+component_party.14	Cannot form party in the shadow world.
+component_party.15	You cannot leave party in the shadow world.
+component_party.16	You cannot join the party while the game is in progress.
+component_party.17	You cannot leave the party while the game is in progress.
+component_party.18	You cannot participate in a party.
+component_party.19	You cannot join a party while participating.
+component_party.20	You cannot create a party while participating.
+component_party.21	You cannot create a party here.
+component_party.22	You cannot create a party here.
+component_party.23	You cannot join a party here.
+component_party.24	You cannot join a party here.
+component_party.25	You cannot leave the party here.
+component_personalshop.2	이벤트용 캐릭터는 아이템을 타인에게 줄 수 없습니다.
+component_personalshop.3	有効時間終了時に消えてしまうアイテムは、販売することが出来ません。
+component_personalshop.4	허용되지 않는 개인 상점 이름입니다. 다시 입력하세요.
+component_personalshop.5	허용되지 않는 개인 상점 이름입니다. 다시 입력하세요.
+component_personalshop.6	Kiosk has been set up.
+component_personalshop.7	Personal shop has been set up.
+component_personalshop.8	Kiosk has closed.
+component_personalshop.9	Kiosk has closed.
+component_personalshop.10	You cannot sell this.
+component_personalshop.11	[{0}] sold to [{1}] for {2}G.\n(Transaction fee: {3}G)
+component_personalshopcustomer.1	Bank transaction disabled.
+component_personalshopcustomer.2	Cannot set up shop while mounting.
+component_personalshopcustomer.3	Cannot set up shop while riding a giant.
+component_personalshopcustomer.4	Transaction failed.\nPlease try again later.
+component_pet.1	{0} can't grow any larger!
+component_pet.2	Can't grow any larger!
+component_pet.3	{0} seems to be a little taller.
+component_pet.4	Seems to have grown taller...
+component_pet.5	{0} grew way bigger!|{0} very obviously grew in size!
+component_pet.6	{0} grew way bigger!|{0} very obviously grew in size!
+component_pet.7	Cannot guard personal shop.
+component_pet.8	{0} cannot sweep while guarding your personal shop.
+component_pet.9	{0} is tired and needs to rest.
+component_pet.10	{0} needs time before it can sweep.
+component_pet.11	{0} is tired and needs to rest.
+component_pet.12	Nothing was found.
+component_pet.13	(테스트) {0}초 뒤에 아이템을 물어옵니다.
+component_petpvp.1	カウントダウン {0}!
+component_pvp.1	Battle Blessing disappeared.
+component_royalalchemist.1	Get Tara Royal Alchemist points.
+component_service.1	You need {0} to establish a guild.
+component_service.2	{0} service expired, housing will be reset.
+component_service.3	Homeowner {0} service expired, housing recovered.
+component_service.4	You do not have {0} service, unable to produce.
+component_service.5	You do not have {0} service, unable to change housing.
+component_service.6	You do not have {0} service, unable to build housing.
+component_service.7	You do not have {0} service, unable to destroy housing.
+component_service.8	You do not have {0} service, union is not active.
+component_service.9	You do not have {0} service, only item removal is allowed.
+component_service.10	You do not have any emergency escape bombs.
+component_ship.1	You cannot board together.
+component_ship.2	You cannot board.
+component_ship.3	You can take a boat to leave.
+component_ship.4	You cannot bring others with you.
+component_ship.5	I can't get on this raft.
+component_ship.6	There are other rafts nearby.
+component_showdown.1	You have lost the battle.
+component_showdown.2	You have won the battle.
+component_showdown.3	You have lost the battle.
+component_showdown.4	You have won the battle.
+component_showdown.5	You have lost the battle.
+component_showdown.6	You have won the battle.
+component_showdown.7	Unable to request.
+component_showdown.8	You are not the party leader.
+component_showdown.9	They are not the party leader.
+component_showdown.10	Unable to request.
+component_showdown.11	Unable to request.
+component_showdown.12	Your duel invitation was refused. You cannot request again within 3 minutes.
+component_skiing.1	座っている状態ではスキーはできそうに無い。
+component_skiing.2	ペットキャラクターを召喚した状態ではスキーができないようだ。
+component_skiing.3	モンスターを手なずけている状態ではスキーができないようだ。
+component_skiing.4	スキル使用中はスキーができないようだ。
+component_skiing.5	誰かを乗せている状態ではスキーができません。
+component_skiing.6	乗り物に乗っている状態ではスキーができません。
+component_skiing.7	ジャンプ距離 : {0} meter\n芸術点 : {1}点\n\n合計点 : {2}点
+component_skiing.8	대전 중일 때는 스키를 탈 수 없습니다.
+component_skill.1	{0} 昇段修練値減少
+component_skill.2	{0}% の数値でチェーンシリンダー習得を試みました。0.5% 以下のとき習得します。
+component_skilletc.1	Reeled in a chest.
+component_skilletc.2	Underwater relic
+component_skilletc.3	{0}'s caught fish will be placed into your inventory.
+component_skilletc.4	{0}'s caught fish will be placed into your inventory.
+component_skilletc.5	Not enough skill proficiency.
+component_skilletc.6	(Production training potion is in effect.)
+component_skilletc.7	(Combat training potion is in effect.)
+component_skilletc.8	(Magic training potion is in effect.)
+component_skilletc.9	(Alchemy training potion is in effect.)
+component_skilletc.10	現在の圧力 : {0}
+component_skilletc.11	Weapon not equipped.
+component_skilletc.12	2x production skill training bonus
+component_skilletc.13	2x combat skill training bonus
+component_skilletc.14	2x magic skill training bonus
+component_skilletc.15	2x alchemy skill training bonus
+component_skilletc.16	{0}x skill specialization bonus
+component_skilletc.17	{0}x event bonus
+component_skilletc.18	Production skill +%.2f experience
+component_skilletc.19	Production experience reward: %.2f EXP
+component_skilletc.20	Production experience reward: +%.2f
+component_skilletc.21	Production experience +{0} 
+component_skilletc.22	Production experience reward: {0} EXP
+component_skilletc.23	Production reward: +{0} EXP
+component_skilletc.24	악기 연주 스킬 수련치 2배
+component_summonmaster.1	Cannot trade.
+component_summonmaster.2	Pet summoning canceled.
+component_summonmaster.3	Unable to summon while on board.
+component_summonmaster.4	You cannot summon while flying.
+component_summonmaster.5	You cannot summon while flying.
+component_summonmaster.6	You cannot summon pets here.
+component_summonmaster.7	You cannot summon while on a hot-air balloon.
+component_summonmaster.8	You cannot summon pets right now.
+component_summonmaster.9	You cannot summon right now.
+component_summonmaster.10	During {0}, pets cannot be summoned.
+component_summonmaster.11	You cannot summon while skiing.
+component_summonmaster.12	You cannot summon pets right now.
+component_summonmaster.13	During {0}, pets cannot be summoned.
+component_summonmaster.14	You cannot summon while on board.
+component_summonmaster.15	You cannot summon while on a hot-air balloon.
+component_summonmaster.16	You cannot summon while flying.
+component_summonmaster.17	You cannot summon while skiing.
+component_summonmaster.18	You cannot summon while flying.
+component_summonmaster.19	You cannot summon here.
+component_summonmaster.20	Something is already summoned.
+component_summonmaster.21	I can't seem to summon.
+component_summonmaster.22	You cannot summon right now.
+component_summonmaster.23	You cannot summon during the battle.
+component_summonmaster.24	Pets cannot participate in the battle and have had their summons ended.
+component_summonmaster.25	You cannot summon pets during the Fashion Show Contest.
+component_summonmaster.26	Pet summons have ended.
+component_summonmaster.27	犬はこの島に入る事ができません。
+component_summonmaster.28	犬とネズミはこの島に入る事ができません。
+component_summonmaster.29	ここでは犬を召喚することができません。
+component_summonmaster.30	ここでは犬またはネズミを召喚することができません。
+component_summonmaster.31	You cannot summon pets right now.
+component_summonmaster.32	You cannot summon right now.
+component_summonmaster.33	You cannot mount right now.
+component_summonmaster.34	Only VIP users can summon.
+component_tame.1	Golem turned back into a pile of rocks.
+component_tame.2	Attack, it's distracted.
+component_tame.3	Your soul returned to your body.
+component_title.1	You must be allied to use this title.
+component_title.2	You must be allied to use this title.
+component_title.3	'{0}' title expired.
+component_transport.1	現在ペットが搭乗できません。
+component_treasureofgod.1	{0}'s power increased.\n
+component_treasureofgod.2	{0}'s effect has activated.\n
+component_treasureofgod.3	{0}'s effect disappeared.\n
+component_treasureofgod.4	{0}'s power has weakened.\n
+component_treasureofgod.5	Falias Treasure Restoration
+component_treasureofgod.6	Open Falias Treasure Slot
+component_treasureofgod.7	Close Falias Treasure Slot
+component_tutorial.1	You cannot start while a pet is summoned.
+component_vehicle.1	You cannot mount this horse.
+component_vehicle.2	You cannot mount.
+component_vehicle.3	Explosives are strapped to the monster.
+component_vehicle.4	The explosives look ready to set off.
+component_vehicle.5	Press [V] to take off.
+component_vehicle.6	Press <hotkey name=\"TakeOff\"/> to take off.
+component_vehicle.7	Unable to integrate.
+component_vehicle.8	Abnormal state.
+component_vehicle.9	Unable to remove integration.
+component_vehicle.10	Abnormal state.
+component_vehicle.11	頭の上にとまるのに失敗しました。
+component_vehicle.12	頭の上から降りるのに失敗しました。
+consolebattleground.1	전장 매니저가 테스트 모드로 바뀝니다. 시간에 의한 State 변경이 동작하지 않습니다.
+consolebattleground.2	전장 매니저가 일반 모드로 바뀝니다. 시간에 의한 State 변경이 동작합니다.
+consolebattleground.3	당신의 길드가 센마이 길드전에 참가하게 되었습니다.
+consolebattleground.4	당신의 길드가 센마이 길드전에서 빠지게 되었습니다.
+consolebattleground.5	당신이 센마이 길드전에 참가합니다.
+consolebattleground.6	당신이 센마이 길드전에서 빠집니다.
+consolebattleground.7	성공
+consolebattleground.8	길드장이 아니다
+consolebattleground.9	길드 포인트가 부족하다
+consolebattleground.10	길드 골드가 부족하다
+consolebattleground.11	전장 타입이 같다
+consolebattleground.12	알수없는 오류
+consolebattleground.13	'closed' State일 때만 길드를 등록할 수 있습니다.
+consolebattleground.14	성공
+consolebattleground.15	알수없는 오류
+consolecontest.1	大会を手動コンソールモードに転換します。
+consolecontest.2	大会を一般モードに戻します。
+consolecontest.3	{0} 大会の状態を {1}に変更します。
+consolecontest.4	{0} 大会の状態を変更するのに失敗しました。
+consolecontest.5	大会の名前を入力してください。
+consoleevent.1	Starting time: {1}/{2}, year {0}. {3}:{4}:{5}. \nEnding time: {7}/{8}, year {6}. {9}:{10}:{11}.
+consoleevent.2	Cancel all scheduled events.
+consoleevent.3	Other events are already scheduled.
+consoleevent.4	Event start time cannot be later than event end time.
+consoleevent.5	Event end time cannot be later than event start time.
+consoleevent.6	Please confirm the original time for {0}.
+consoleevent.7	Current event: {1} of {0}.
+consoleevent.8	There are no events ongoing.
+consoleevent.9	There are no scheduled events.
+consoleevent.10	Remove a scheduled event.
+consoleevent.11	{0} is not scheduled.
+consoleevent.12	실행가능한 이벤트 목록은 총 {0}개이며 {1} 입니다.
+consolegameprop.1	propが初期化されました。
+consolejoustschedule.1	{0}番大会の状態を{1}に変更します。
+consolejoustschedule.2	{0}番大会の状態を変更するのに失敗しました。
+consolesetfullswing.1	>set_full_swing /T:スキルチャージング時間
+consolesetfullswing.2	フルスイングスキルチャージング時間を固定させます。
+consolesetfullswing.3	/T:時間(単位は ms)
+consolesetfullswing.4	/T:0 : チャージング固定時間を除去します。
+consolesetfullswing.5	フルスイングチャージング時間が {0}に固定されました。(ms 単位)
+consolesetfullswing.6	フルスイングチャージング時間が除去されました。
+consolesetfullswing.7	フルスイングチャージング固定スキルキャラクターを見つけられませんでした。
+consolesetpartyarena.1	>set_party_arena /S:단계 /T:부활 후 투명화 시간.\n
+consolesetpartyarena.2	콘누스 아레나 스탭을 수동으로 바꿉니다.\n
+consolesetpartyarena.3	/S:0 : 파티 모집 단계\n
+consolesetpartyarena.4	/S:1 : 대전 전 대기 단계\n
+consolesetpartyarena.5	/S:2 : 대전 단계\n
+consolesetpartyarena.6	/S:3 : 대전 종료 단계\n
+consolesetpartyarena.7	/T:시간 : 단위는 ms 입니다.\n
+consolesetpartyarena.8	파티 모집 단계로 변경되었습니다..\n\n
+consolesetpartyarena.9	대전 전 대기 단계로 변경되었습니다.\n\n
+consolesetpartyarena.10	대전 단계로 변경되었습니다.\n\n
+consolesetpartyarena.11	대전 종료 단계로 변경되었습니다.\n\n
+consolesetpartyarena.12	부활 후 반투명 상태 시간이 {0}ms로 설정 되었습니다.\n\n
+consoleworldmeta.1	Type unsupported.
+consoleworldmeta.2	Command unsupported.
+damagemodulator.1	This weapon doesn't seem to be useful.
+damagemodulator.2	The attack has little effect.|The weapon has no effect. Use a better weapon!
+dunemgr.1	ここでは地形を変化させることはできないようだ。
+dunemgr.2	この位置はこれ以上地形を変化させることはできないようだ。
+dunemgr_dunecreate.1	ここでは地形を変化させることはできないようだ。
+dunemgr_dunecreate.2	この位置はこれ以上地形を変化させることはできないようだ。
+dunemgr_dunecreate.3	この位置はこれ以上地形を変化させることはできないようだ。
+dunemgr_dunecreate.4	ここでは地形を変化させることはできないようだ。
+dungeon.upstairs	<mini>UP</mini>上層
+dungeon2.1	Cooking time: {0} minutes, {1} seconds
+dungeon2mgr.1	You can only enter the shadow world when you have a mission.
+dungeon2mgr.2	A problem occured.
+dungeon2mgr.3	Previous shadow world still exists.\nTry joining another party.
+dungeon2mgr.4	Please try again later.
+dungeon2mgr.5	Previous shadow world still exists.\nTry joining another party or try again later.
+dungeon2mgr.6	You can only enter the shadow world when you have a mission.
+dungeon2mgr.7	Unable to find the mission. Please try again later.
+dungeon2mgr.8	You don't have enough party members.
+dungeon2mgr.9	You have too many party members.
+dungeon2mgr.10	{0} is too low leveled.
+dungeon2mgr.11	Unable to enter the shadow world. Try again later or use other channels.
+dungeon2mgr.12	There are too many users (LOLWAT). Try again later.
+dungeon2mgr.13	A problem entering the shadow world occured.
+dungeon2mgr.14	Unable to find shadow mission. Try again later.
+dungeon2mgr.15	Unable to find party leader.
+dungeon2mgr.16	Unable to find shadow mission. Try again later.
+dungeon2mgr.17	No information about the shadow world. Try again later.
+dungeon2mgr.18	You cannot have pets here.
+dungeon2mgr.19	Pets cannot enter.
+dungeon2mgr.20	You cannot enter.
+dungeon2mgr.21	You have another shadow mission in progress.
+dungeon2mgr.22	\n\nYou can only bring one Royal Alchemist with you.
+dungeon2mgr.23	\n\nYou cannot bring another alchemist.
+dungeon2mgr.24	\n\nYou cannot bring a Royal Alchemist with you for this mission.
+dungeon2mgr.25	Unable to enter.
+dungeon2mgr.26	Unable to enter.
+dungeon2puzzleroom.1	部屋の中に入りますか？
+dungeon2puzzleroom.2	結界がまだ解けていない。
+dungeon2questprocessor.1	%s의 효과로 경험치가 %d%%, 상금이 %d%% 만큼 증가했습니다
+dungeon2questprocessor.2	{0}의 효과로 경험치가 {1}%, 상금이 {2}% 만큼 증가했습니다
+dungeoncreator.1	影の世界が生成されるまで約 {0}秒かかります。
+dungeonpuzzlechest.1	宝を守るモンスターを先に退治しなければならない。
+dungeonpuzzledoor.1	門が閉ざされているため、ボスルームに入ることができない。
+dungeonpuzzledoor.2	まだモンスターが残っています。\nすべてのモンスターを退治すると門が開きます。
+etc.contents_book_address	http://patch.mabinogi.jp/book/japan/
+event2ndanniversarychina.1	2주년 이벤트가 시작되었습니다.
+event2ndanniversarychina.2	2주년 이벤트가 종료되었습니다.
+event2ndanniversarychina.3	2주년 이벤트가 진행중입니다.
+event3rdanniversarykorea.1	마비노기 3주년 이벤트를 시작합니다.
+event3rdanniversarykorea.2	마비노기 3주년 이벤트를 종료합니다.
+event3rdanniversarykorea.3	마비노기 3주년 이벤트가 진행중입니다.
+event4thanniversary2009china.1	4주년 이벤트를 시작합니다.
+event4thanniversary2009china.2	4주년 이벤트를 종료합니다.
+event4thanniversary2009china.3	4주년 이벤트가 진행중입니다.
+event4thanniversary2009china.4	해당 난이도의 미션을 더 이상 받을 수 없습니다.\n5분 후에 다시 시도해 보세요.
+event4thanniversary2009taiwan.1	4주년 이벤트를 시작합니다.
+event4thanniversary2009taiwan.2	4주년 이벤트를 종료합니다.
+event4thanniversary2009taiwan.3	4주년 이벤트가 진행중입니다.
+event5thanniversarykorea.1	마비노기 5주년 이벤트를 시작합니다.
+event5thanniversarykorea.2	마비노기 5주년 이벤트를 종료합니다.
+event5thanniversarykorea.3	마비노기 5주년 이벤트가 진행 중 입니다.
+eventangelinus2007.1	Angel-In-us 이벤트가 시작되었습니다.
+eventangelinus2007.2	Angel-In-us 이벤트가 종료되었습니다.
+eventangelinus2007.3	Angel-In-us 이벤트가 진행중입니다.
+eventaprilfoolsday2008.1	만우절 이벤트가 시작되었습니다.
+eventaprilfoolsday2008.2	만우절 이벤트가 종료되었습니다.
+eventaprilfoolsday2009.1	エイプリルフールイベントが始まりました。
+eventaprilfoolsday2009.2	エイプリルフールイベントが終了しました。
+eventbanquet2009korea.1	Style 이벤트를 시작합니다.
+eventbanquet2009korea.2	Style 이벤트를 종료합니다.
+eventbanquet2009korea.3	Style 이벤트가 진행 중 입니다.
+eventbeginnerhelp2006.1	初心者イベントを開始します。
+eventbeginnerhelp2006.2	初心者イベントを終了します。
+eventbeginnerhelp2006.3	初心者イベントを開催しています。
+eventblossom2008japan.1	「お花見しませんか？」イベントを開始します。
+eventblossom2008japan.2	「お花見しませんか？」イベントを終了します。
+eventblossom2008japan.3	「お花見しませんか？」イベントを開催しています。
+eventbreakwatermelon2007.1	「Break the watermelons！」Event will start
+eventbreakwatermelon2007.2	「Break the watermelons！」Event will end
+eventbreakwatermelon2007.3	「Break the watermelons！」Event is now in progress. Head over to Port Qilla, Connous Beach, or NekoJima to participate!
+eventcapturetheflag.1	Capture the flagイベント期間が始まります。
+eventcapturetheflag.2	Capture the flagイベント期間が終了しました。
+eventcapturetheflag2008summer.1	海辺へ行こうイベント期間が始まります。
+eventcapturetheflag2008summer.2	海辺へ行こうイベント期間が終了しました。
+eventcapturetheflag2008summergame.1	5分後ケアン海岸で海辺へ行こうイベントが始まります。
+eventcapturetheflag2008summergame.2	海辺へ行こう
+eventcapturetheflag2008summergame.3	ケアン海岸
+eventcapturetheflag2008summergame.4	海辺へ行こうイベントが終了しました。
+eventcapturetheflag2008summergame.5	海辺へ行こうイベント期間が終了しました。
+eventcapturetheflag2008summergame.6	ケアン海岸で海辺へ行こうイベントが開催中です。
+eventcapturetheflaggame.1	5分後にトゥガルドアイル南でCapture the flagイベントが始まります。
+eventcapturetheflaggame.2	Capture the flagイベントが終了しました。
+eventcapturetheflaggame.3	Capture the flagイベント期間が終了しました。
+eventcapturetheflaggame.4	トゥガルドアイル南でCapture the flagイベントが開催中です。
+eventcherrytree2008korea.1	벚꽃놀이 이벤트를 시작합니다.
+eventcherrytree2008korea.2	벚꽃놀이 이벤트를 종료합니다.
+eventcherrytree2008korea.3	벚꽃놀이 이벤트가 진행중입니다.
+eventchildrensday2007korea.1	ハロウィンイベントを開始します。
+eventchildrensday2007korea.2	ハロウィンイベントを終了します。
+eventchildrensday2007korea.3	ハロウィンイベントを開催しています。
+eventchildrensday2010korea.1	어린이날, 우리 모두 다 함께 이벤트가 시작됩니다.
+eventchildrensday2010korea.2	어린이날, 우리 모두 다 함께 이벤트가 종료됩니다.
+eventchildrensday2010korea.3	제스처에 성공했지만 선물은 받지 못했다.
+eventchildrensday2010korea.4	제스처에 성공했지만 더 이상 선물을 받을 수 없다.
+eventchildrensday2010korea.5	지시와 다른 제스처를 취한 것 같다.
+eventchildrensday2010korea.6	너무 늦게 제스처를 취한 것 같다
+eventchildrensday2010korea.7	어린이날, 우리 모두 다 함께 이벤트가 진행중입니다.
+eventchildrensday2010korea.8	데이안 : DJ 데이안과 함께하는 \"우리 모두 다 함께\" 제스처 타임!\n우리 모두 다함께 [{0}] 제스처!!
+eventchildrensday2010korea.9	데이안 : 즐거운 어린이날, \"우리 모두 다 함께\" 제스처 타임이 곧 시작됩니다.\n모두들 실수하지 않게 제스처 준비!!.
+eventchinacommunitydungeon.1	커뮤니티 던전 이벤트를 시작합니다.
+eventchinacommunitydungeon.2	커뮤니티 던전 이벤트를 종료합니다.
+eventchinacommunitydungeon.3	커뮤니티 던전 이벤트가 진행 중입니다.
+eventchristmas2007.1	クリスマスイベントが始まりました。
+eventchristmas2007.2	クリスマスイベントが終了しました。
+eventchristmas2007.3	クリスマスイベントが開催中です。
+eventchristmas2007japan.1	クリスマスイベントを開始します。
+eventchristmas2007japan.2	クリスマスイベントが終了しました。
+eventchristmas2007japan.3	クリスマスイベントが開催中です。
+eventchristmas2007reward1japan.1	クリスマスイベントを開始します。
+eventchristmas2007reward1japan.2	クリスマスイベントが終了しました。
+eventchristmas2007reward1japan.3	クリスマスイベントが開催中です。
+eventchristmas2007reward2japan.1	クリスマスイベントを開始します。
+eventchristmas2007reward2japan.2	クリスマスイベントが終了しました。
+eventchristmas2007reward2japan.3	クリスマスイベントが開催中です。
+eventchristmas2007reward3japan.1	クリスマスイベントを開始します。
+eventchristmas2007reward3japan.2	クリスマスイベントが終了しました。
+eventchristmas2007reward3japan.3	クリスマスイベントが開催中です。
+eventcocacola2007.1	코-크 이벤트를 시작합니다.
+eventcocacola2007.2	코-크 이벤트를 종료합니다.
+eventcocacola2007.3	코-크 이벤트가 진행중입니다.
+eventcoketime2007.1	코-크 타임 이벤트를 시작합니다.
+eventcoketime2007.2	코-크 타임 이벤트를 종료합니다.
+eventdragonship2008taiwan.1	ドラゴンボートイベントを開始します。
+eventdragonship2008taiwan.2	ドラゴンボートイベントを終了します。
+eventdragonship2008taiwan.3	ドラゴンボートイベントを再開します。
+eventdragonship2008taiwan.4	ドラゴンボートイベントが開催中です。
+eventdragonship2008taiwan.5	{0}位 {1}
+eventdragonship2008taiwan.6	{0}分 {1}秒:{2}
+eventexperiencepet2010europe.1	펫 체험 이벤트가 시작되었습니다.
+eventexperiencepet2010europe.2	펫 체험 이벤트를 종료합니다.
+eventexperiencepet2010europe.3	펫 체험 이벤트를 다시 시작합니다.
+eventexperiencepet2010europe.4	펫 체험 이벤트가 진행중입니다.
+eventfantasticsummerfishingkorea.1	Fantastic Summer 낚시 대회 이벤트를 시작합니다.
+eventfantasticsummerfishingkorea.2	Fantastic Summer 낚시 대회 이벤트를 종료합니다.
+eventfantasticsummerfishingkorea.3	Fantastic Summer 낚시 대회 이벤트를 다시 시작합니다.
+eventfantasticsummerfishingkorea.4	Fantastic Summer 낚시 대회 이벤트가 진행중입니다.
+eventfirstanniversarychina.1	중국 서비스 1주년 이벤트를 시작합니다.
+eventfirstanniversarychina.2	중국 서비스 1주년 이벤트를 종료합니다.
+eventfirstanniversarychina.3	중국 서비스 1주년 이벤트가 진행중입니다.
+eventfloodhelp2006korea.1	수재민에게 희망을! 행사를 시작합니다.
+eventfloodhelp2006korea.2	수재민에게 희망을! 행사를 종료합니다.
+eventfloodhelp2006korea.3	수재민에게 희망을! 행사가 진행중입니다.
+eventguild2009summerkorea.1	우리 길드로 오세요 이벤트가 시작됩니다.
+eventguild2009summerkorea.2	우리 길드로 오세요 이벤트가 종료됩니다.
+eventguild2009summerkorea.3	우리 길드로 오세요 이벤트가 진행 중입니다. 길드 마스터님은 길드석을 확인해주세요.
+eventhalloween.1	ハロウィンイベントを開始します。
+eventhalloween.2	ハロウィンイベントを終了します。
+eventhalloween.3	ハロウィンイベントを開催しています。
+eventhalloween2008usa.1	ハロウィンイベントを開始します。
+eventhalloween2008usa.2	ハロウィンイベントを終了します。
+eventhalloween2008usa.3	ハロウィンイベントを開催しています。
+eventhalloween2009overseas.1	ハロウィンイベントを開始します。
+eventhalloween2009overseas.2	ハロウィンイベントを終了します。
+eventhalloween2009overseas.3	ハロウィンイベントを開催しています。
+eventhalloween2009overseas.4	ハロウィンイベントを開始します。
+eventhalloween2009overseas.5	ハロウィンイベントを終了します。
+eventhalloween2009overseas.6	ハロウィンイベントを開催しています。
+eventharvest2006korea.1	「水面に映るイウェカ」イベントを開始します。
+eventharvest2006korea.2	「水面に映るイウェカ」イベントを終了します。
+eventharvest2006korea.3	「水面に映るイウェカ」イベントを再開します。
+eventharvest2006korea.4	{0}位:{1} ,
+eventharvest2006korea.5	「水面に映るイウェカ」イベントが開催中です。
+eventharvestmooncake.1	추석 기념 월병 먹고 키크기 이벤트를 시작합니다.
+eventharvestmooncake.2	추석 기념 월병 먹고 키크기 이벤트를 종료합니다.
+eventharvestmooncake.3	동물 :
+eventharvestmooncake.4	{0}위 {1}
+eventharvestmooncake.5	추석 기념 월병 먹고 키크기 이벤트가 진행중입니다. 사람 :
+eventharvestmooncake.6	{0}위 {1}
+eventharvestsimon2006.1	2006년 추석 한복 이벤트를 시작합니다.
+eventharvestsimon2006.2	2006년 추석 한복 이벤트를 종료합니다.
+eventharvestsimon2006.3	2006년 추석 한복 이벤트가 진행중입니다.
+eventharvestsimon2007korea.1	아름다운 이세계의 옷 이벤트가 시작됩니다.
+eventharvestsimon2007korea.2	아름다운 이세계의 옷 이벤트가 종료됩니다.
+eventharvestsimon2007korea.3	아름다운 이세계의 옷 이벤트가 진행 중입니다.
+eventindependenceday2008usa.1	독립 기념일 이벤트를 시작합니다.
+eventindependenceday2008usa.2	독립 기념일 이벤트를 종료합니다.
+eventindependenceday2008usa.3	독립 기념일 이벤트를 다시 시작합니다.
+eventindependenceday2008usa.4	독립 기념일 이벤트가 진행중입니다.
+eventindependenceday2008usa.5	{0}위:{1}
+eventjapan2ndanniversary.1	二周年記念イベントを開始します。
+eventjapan2ndanniversary.2	二周年記念イベントを終了します。
+eventjapan2ndanniversary.3	二周年記念イベントを開催しています。
+eventjapan5thanniversary.1	5周年釣りイベントが始まりました。
+eventjapan5thanniversary.2	5周年釣りイベントを終了します。
+eventjapan5thanniversary.3	5周年釣りイベント中です。
+eventlunarnewyear2010.1	{0}年5周年記念ペット育成大会を開始します。
+eventlunarnewyear2010.2	{0}年5周年記念ペット育成大会を終了します。
+eventmakeice2007japan.1	「いろいろな味のかき氷！」イベントが始まりました。
+eventmakeice2007japan.2	「いろいろな味のかき氷！」イベントが終了しました。
+eventmakeice2007japan.3	「いろいろな味のかき氷！」イベントが進行中です。
+eventmakesnowice2010.1	2010かき氷作りイベントが始まりました。
+eventmakesnowice2010.2	2010かき氷作りイベントが終了しました。
+eventmakesnowice2010.3	2010かき氷作りイベントが開催中です。
+eventmakesnowice2010.4	かき氷の器がいっぱいになった。
+eventmaple2007korea.1	紅葉狩りイベントを開始します。
+eventmaple2007korea.2	紅葉狩りイベントを終了します。
+eventmaple2007korea.3	紅葉狩りイベントを開催しています。
+eventmatsuri2009overseas.1	{0}点:{1}
+eventmatsuri2009overseas.2	祭りイベントを始めます。
+eventmatsuri2009overseas.3	祭りイベントを終了します。
+eventmatsuri2009overseas.4	祭りイベントを始めます。
+eventmatsuri2009overseas.5	祭りイベントが行なわれています。ハンマー叩き記録 -
+eventmatsuri2009overseas.6	{0}位 {1}.
+eventmgr.1	{0} イベントが予約中です。 開始時間は {1}年 {2}月 {3}日 {4}時 {5}分 {6}秒で、 終了時間は {7}年 {8}月 {9}日 {10}時 {11}分 {12}秒です。
+eventmgr.2	現在、予約されたイベントがありません。
+eventmgr.3	{0} 이벤트가 {1}년 {2}월 {3}일 {4}시 {5}분 {6}초에 종료될 예정입니다.
+eventmgr.4	이벤트 주기를 조절합니다. 개별 이벤트에 구현되어 있어야 함
+eventnationalday2007china.1	국경절 이벤트를 시작합니다.
+eventnationalday2007china.2	국경절 이벤트를 종료합니다.
+eventnationalday2007china.3	국경절 이벤트가 진행중입니다.
+eventnewyear2008japan.1	 
+eventnewyear2008japan.2	 
+eventnewyear2008japan.3	 
+eventnewyear2008koreaseesaw.1	{0} (%4.2fm)
+eventnewyear2008koreaseesaw.2	シーソーイベントを開始します。
+eventnewyear2008koreaseesaw.3	シーソーイベントを終了します。
+eventnewyear2008koreaseesaw.4	シーソーイベント開催中です。
+eventnewyear2008koreaseesaw.5	{0}等 {1}. 
+eventnewyear2009foreign.1	新春イベントを開始します。
+eventnewyear2009foreign.2	新春イベントを終了します。
+eventnewyear2009foreign.3	新春イベントが開催中です。
+eventnewyear2009foreign.4	今年も残すところ、あと30分となりました。\n皆さんの中には2010年を締めくくる準備をされた方も多いと思います。\n『マビノギ』でも2010年を締めくくる準備をしてみました。
+eventnewyear2009foreign.5	あと20分ほどで2011年になりますね。\nもしよければ、仲の良いお友達とご一緒に\n町の見える静かな場所でお喋りなどは如何でしょうか？
+eventnewyear2009foreign.6	2010年もあと10分ほどです。\nティルコネイル、ダンバートン、バンホールにイメンマハ、\n是非これらの街で、思い出を残してみてください。
+eventnewyear2009foreign.7	さあ、5分後には2011年が始まります。\nダンジョンいる方も、ぜひティルコネイル、ダンバートン、バンホールにイメンマハに来てみて下さい。
+eventnewyear2009foreign.8	それでは、カウントダウンです。
+eventnewyear2009foreign.9	５
+eventnewyear2009foreign.10	４
+eventnewyear2009foreign.11	３
+eventnewyear2009foreign.12	２
+eventnewyear2009foreign.13	１
+eventnewyear2009foreign.14	Happy New Year！！！\n今年も皆さんにたくさんの幸せがありますように！！！
+eventnewyear2009foreign.15	１０
+eventnewyear2009foreign.16	９
+eventnewyear2009foreign.17	８
+eventnewyear2009foreign.18	７
+eventnewyear2009foreign.19	６
+eventnewyear2009koreaseesaw.1	お月見シーソーイベントを開始します。
+eventnewyear2009koreaseesaw.2	お月見シーソーイベントを終了します。
+eventnewyear2009koreaseesaw.3	お月見シーソーイベントが開催中です。
+eventnewyear2009koreaseesaw.4	{0}等 {1}
+eventnewyear2010koreaseesaw.1	설날 널뛰기 이벤트를 시작합니다.
+eventnewyear2010koreaseesaw.2	설날 널뛰기 이벤트를 종료합니다.
+eventnewyear2010koreaseesaw.3	설날 널뛰기 이벤트가 진행중입니다.
+eventnewyear2010koreaseesaw.4	{0}등 {1}
+eventnightfishing2008korea.1	이웨카를 낚아보자 이벤트를 시작합니다.
+eventnightfishing2008korea.2	이웨카를 낚아보자 이벤트를 종료합니다.
+eventnightfishing2008korea.3	이웨카를 낚아보자 이벤트를 다시 시작합니다.
+eventnightfishing2008korea.4	이웨카를 낚아보자 이벤트가 진행중입니다.
+eventpaperairplane.1	{0} (%4.2fm)
+eventpaperairplane.2	{0} (%4.2f秒)
+eventpaperairplane.3	종이비행기  멀리 날리기 이벤트가 시작되었습니다.
+eventpaperairplane.4	종이비행기 오래 날리기 이벤트가 시작되었습니다.
+eventpaperairplane.5	종이비행기  멀리 날리기 이벤트가 종료되었습니다.
+eventpaperairplane.6	종이비행기 오래 날리기 이벤트가 종료되었습니다.
+eventpaperairplane.7	종이비행기  멀리 날리기 이벤트를 다시 시작합니다.
+eventpaperairplane.8	종이비행기 오래 날리기 이벤트를 다시 시작합니다.
+eventpaperairplane.9	종이비행기 멀리 날리기 이벤트가 진행중입니다.
+eventpaperairplane.10	종이비행기 오래 날리기 이벤트가 진행중입니다.
+eventpaperairplane.11	{0}等 {1}
+eventseventhjulytaiwan.1	칠월칠석 이벤트를 시작합니다.
+eventseventhjulytaiwan.2	칠월칠석 이벤트를 종료합니다.
+eventseventhjulytaiwan.3	칠월칠석 이벤트가 진행중입니다.
+eventskiing2008.1	{0}分{1}秒{2}:{3}
+eventskiing2008.2	ピシススキー大会を開始します。
+eventskiing2008.3	ピシススキー大会を終了します。
+eventskiing2008.4	ピシススキー大会を再開します。
+eventskiing2008.5	ピシススキー大会が開催中です。
+eventskiing2008.6	{0}位:{1} ,
+eventskiing2008.7	{0}秒{1}:{2}
+eventskijump2009.1	{0}点 : {1}
+eventskijump2009.2	スキージャンプイベントを開始します。
+eventskijump2009.3	スキージャンプイベントを終了します。
+eventskijump2009.4	スキージャンプイベントを開始します。
+eventskijump2009.5	スキージャンプイベントが開催中です。
+eventskijump2009.6	{0}位 {1}
+eventsongpeon2007korea.1	추석 송편 이벤트가 시작됩니다.
+eventsongpeon2007korea.2	추석 송편 이벤트가 종료됩니다.
+eventsongpeon2007korea.3	추석 송편 이벤트가 진행 중입니다.
+eventspringfishing2007taiwan.1	낚시 이벤트를 시작합니다.
+eventspringfishing2007taiwan.2	낚시 이벤트를 종료합니다.
+eventspringfishing2007taiwan.3	낚시 이벤트가 진행중입니다.
+eventsummer2006taiwan.1	여름방학 기념 낚시 이벤트를 시작합니다.
+eventsummer2006taiwan.2	여름방학 기념 낚시 이벤트를 종료합니다.
+eventsummer2006taiwan.3	여름방학 기념 낚시 이벤트가 진행중입니다.
+eventsummerfireworks2007korea.1	2007년 여름 불꽃 놀이 이벤트를 시작합니다.
+eventsummerfireworks2007korea.2	2007년 여름 불꽃 놀이 이벤트를 종료합니다.
+eventsummerfireworks2007korea.3	2007년 여름 불꽃 놀이 이벤트를 다시 시작합니다.
+eventsummerfireworks2007korea.4	2007년 여름 불꽃 놀이 이벤트가 진행중입니다.
+eventsummerfireworks2007korea.5	{0}위 {1}
+eventsummerfishing2007korea.1	2007년 여름 낚시 대회 이벤트를 시작합니다.
+eventsummerfishing2007korea.2	2007년 여름 낚시 대회 이벤트를 종료합니다.
+eventsummerfishing2007korea.3	2007년 여름 낚시 대회 이벤트를 다시 시작합니다.
+eventsummerfishing2007korea.4	2007년 여름 낚시 대회 이벤트가 진행중입니다.
+eventsummerfishing2007korea.5	{0}위:{1}
+eventsummervacation.1	여름방학 이벤트를 시작합니다.
+eventsummervacation.2	여름방학 이벤트를 종료합니다.
+eventsummervacation.3	여름방학 이벤트가 진행 중입니다.
+eventsweetdream2008korea.1	{0} (%d点)
+eventsweetdream2008korea.2	インプの夢イベントを開始します。
+eventsweetdream2008korea.3	インプの夢イベントを終了します。
+eventsweetdream2008korea.4	インプの夢イベントが開催中です。
+eventsweetdream2008korea.5	{0}等 {1}
+eventsweetdream2009korea.1	{0} (%d점)
+eventsweetdream2009korea.2	임프의 꿈 이벤트를 시작합니다.
+eventsweetdream2009korea.3	임프의 꿈 이벤트를 종료합니다.
+eventsweetdream2009korea.4	임프의 꿈 이벤트가 진행중입니다.
+eventsweetdream2009korea.5	{0}등 {1}
+eventtarafestival2009overseas.1	{0}점:{1}
+eventtarafestival2009overseas.2	타라 페스티벌 이벤트를 시작합니다.
+eventtarafestival2009overseas.3	타라 페스티벌 이벤트를 종료합니다.
+eventtarafestival2009overseas.4	타라 페스티벌 이벤트를 시작합니다.
+eventtarafestival2009overseas.5	타라 페스티벌 이벤트가 진행중입니다. 해머치기 기록 -
+eventtarafestival2009overseas.6	{0}위 {1}.
+eventtreasurebox2010.1	2010古代の宝箱イベントが始まりました。
+eventtreasurebox2010.2	2010古代の宝箱イベントが終了しました。
+eventtreasurebox2010.3	2010古代の宝箱イベントが開催中です。
+eventtreasurefishing2007korea.1	바닷속 고대 유물 낚기 이벤트가 시작됩니다.
+eventtreasurefishing2007korea.2	바닷속 고대 유물 낚기 이벤트가 종료됩니다.
+eventtreasurefishing2007korea.3	바닷속 고대 유물 낚기 이벤트가 진행 중입니다.
+eventtreasurehunting2007china.1	보물상자 이벤트가 시작되었습니다.
+eventtreasurehunting2007china.2	보물상자 이벤트가 종료되었습니다.
+eventtreasurehunting2007china.3	보물상자 이벤트가 진행중입니다.
+eventtreasurehuntingtaiwan.1	이리아 대륙에서 신기한 보물상자 찾기 이벤트를 시작합니다.
+eventtreasurehuntingtaiwan.2	이리아 대륙에서 신기한 보물상자 찾기 이벤트를 종료합니다.
+eventtreasurehuntingtaiwan.3	이리아 대륙에서 신기한 보물상자 찾기 이벤트가 진행중입니다.
+eventvalentine2007korea.1	발렌타인 데이 이벤트를 시작합니다.
+eventvalentine2007korea.2	발렌타인 데이 이벤트를 종료합니다.
+eventvalentine2007korea.3	발렌타인 데이 이벤트를 다시 시작합니다.
+eventvalentine2007korea.4	발렌타인 데이 이벤트가 진행중입니다.
+eventvalentine2007korea.5	{0}위 {1}
+eventwaterballoonbattle.1	The great waterballoon event has started.
+eventwaterballoonbattle.2	The great waterballoon event has started.
+eventwinter2007korea.1	アイスソードイベントを開始します。
+eventwinter2007korea.2	アイスソードイベントを終了します。
+eventwinter2007korea.3	アイスソードイベントを再開します。
+eventwinter2007korea.4	アイスソードイベントが開催中です。
+eventzombie2009.1	Zombie Event has started.
+eventzombie2009.2	Zombie Event\nPoints : {0}
+eventzombie2009.3	Zombie Event has ended.
+eventzombie2009.4	The Iria Zombie Event is in progress.
+eventzombie2009.5	The boss zombie appeared in the northwest!!!
+eventzombie2009.6	The boss zombie appeared in the south!!!
+eventzombie2009.7	The boss zombie appeared in the northeast!!!
+eventzombie2009.8	The Zombie Invasion has began.
+eventzombie2009.9	Zombie Event\nPoints : {0}
+eventzombie2009.10	The northwest gate was opened!
+eventzombie2009.11	The south gate was opened!
+eventzombie2009.12	The northeast gate was opened!
+eventzombie2009.13	The flag has been attacked by a wave of zombies, It's becoming too dangerous!
+eventzombie2009.14	The flag has been slightly crushed down by the zombies.
+eventzombie2009.15	We have succeeded in defending the camp.
+eventzombie2009.16	Zombie Event\nPoints : {0}
+eventzombie2009.17	Zombie Event\nPoints : 0
+eventzombie2009.18	Failed to defend the camp.
+extendextratrunkkey.1	유료 서비스를 이용 중이 아닙니다.
+extendextratrunkkey.2	만료된 확장 인벤토리가 없습니다.
+fashionshowapplystate.1	Please wait.
+fashionshowapplystate.2	End conversation.
+fashionshowapplystate.3	End conversation.
+fashionshowapplystate.4	At least four players are needed.
+fashionshowapplystate.5	At least four players are needed.
+fashionshowapplystate.6	At least four players are needed.
+fashionshowapplystate.7	At least four players are needed.
+finishcounter.1	戦闘参加探検経験値 +{0} exp
+fishingpromotiontest.1	提出しました。
+fishingpromotiontest.2	現在の点数: {0}
+hamletsswordmgr.1	消えたハムレットの剣を出現させます。
+harvestfestival2010korea.1	라데카 그림자 낚시 이벤트를 시작합니다.
+harvestfestival2010korea.2	라데카 그림자 낚시 이벤트를 종료합니다.
+harvestfestival2010korea.3	라데카 그림자 낚시 이벤트를 다시 시작합니다.
+harvestfestival2010korea.4	라데카 그림자 낚시 이벤트가 진행중입니다.
+japanextendbagkey.1	このアイテムで有効期間を延長できるカバンがありません。
+japanextendbagkey.2	カバンの使用期間が{0}日延長されました。
+joust.1	開始前
+joust.2	トーナメント会場へワープ
+joust.3	Ready
+joust.4	Mount
+joust.5	Command
+joust.6	Attack
+joust.7	Preparation
+joust.8	Award
+joust.9	Complete
+jouststates.1	You can participate in jousting.
+jouststates.2	Jousting has been canceled.
+jouststates.3	{0} opens with {1} participants.
+jouststates.4	Now conducting other games, please wait.
+jouststates.5	New opponent found.\nWaiting for confirmation.\nPlease wait.
+jouststates.6	NPC
+jouststates.7	NPC
+jouststates.8	Please wait for the opponent.
+jouststates.9	{0}\nCalculating results.
+jouststates.10	{0} matching has failed. {1}
+jouststates.11	Unable to participate. Automatically forfeited from jousting.
+jouststates.12	Unable to participate. Automatically forfeited from jousting.
+jouststates.13	Unable to participate. Automatically forfeited from jousting.
+jouststates.14	Failed to add to vanquished list {0}. pRoundLooserList NULL. Round {1}
+logutility.1	Time up
+logutility.2	Give up
+logutility.3	Exit
+logutility.4	Force end
+logutility.5	Beginner
+logutility.6	Intermediate
+logutility.7	Advanced
+logutility.8	Hard
+logutility.9	Elite
+lostpeoplemgr.1	進行中のクエストが失敗しました。
+luckyupgraderollback.1	該当アイテムが見つかりません。
+luckyupgraderollback.2	職人改造されていないアイテムです。\n職人改造されたアイテムにのみ使用できます。
+luckyupgraderollback.3	職人改造された後、他の改造された\nアイテムには使用できません。
+luckyupgraderollback.4	{0}の職人改造を復元し\n改造に使用した修練値を返してもらいました。
+luckyupgraderollback.5	職人改造に失敗しました(1)。\n不具合掲示板に報告してください。
+luckyupgraderollback.6	職人改造に失敗しました(2)。\n不具合掲示板に報告してください。
+mailboxmgr.1	Invite
+mailboxmgr.2	Validate
+mailboxmgr.3	Letter
+mailboxmgr.4	Package
+mailboxmgr.5	Return
+mailboxmgr.6	Fee
+mailboxmgr.7	Success
+mailboxmgr.8	None
+mailboxmgr.9	Recipient is a pet.
+mailboxmgr.10	You cannot send mail to yourself.
+mailboxmgr.11	Inbox is full.
+mailboxmgr.12	Outbox is full.
+mailboxmgr.13	Recipient has over 10 pending mail.
+mailboxmgr.14	Recipient's inbox is full.
+mailboxmgr.15	Inadequate fee.
+mailboxmgr.16	Send item
+mailboxmgr.17	Mail is too long.
+mailboxmgr.18	Mail has no content.
+mailboxmgr.19	Cannot request fee without an item.
+mailboxmgr.20	Item cannot be mailed.
+mailboxmgr.21	Asking fee is too high.
+mailboxmgr.22	Mail over 30 days old are returned.
+mailboxmgr.23	You cannot send mail to other characters on your account.
+mailboxmgr.24	The recipient is a pet.
+mailboxmgr.25	You cannot send mail to yourself.
+mailboxmgr.26	Inbox is full.
+mailboxmgr.27	Outbox is full.
+mailboxmgr.28	Recipient has over 10 pending mail.
+mailboxmgr.29	Recipient's inbox is full.
+mailboxmgr.30	Inadequate fee.
+mailboxmgr.31	Send item
+mailboxmgr.32	Mail is too long.
+mailboxmgr.33	Mail has no content.
+mailboxmgr.34	Cannot request fee without an item.
+mailboxmgr.35	Item cannot be mailed.
+mailboxmgr.36	Asking fee is too high.
+mailboxmgr.37	Recovered message
+mailboxmgr.38	Recovered message
+mailboxmgr.39	Mail over 30 days old are returned.
+mailboxmgr.40	Lock bank account
+mailboxmgr.41	Account blocked
+mailboxmgr.42	Administrator mail
+mailboxmgr.43	GM mail
+makingpromotiontest.1	提出しました。
+makingpromotiontest.2	現在の点数: {0}
+msg.advplay.recvd_item	今日のアドバンストプレイアイテムをもらいました。
+msg.age10potion	10歳の姿になりました。
+msg.age17potion	17歳の姿になりました。
+msg.agepotion	{0}歳の姿になりました。
+msg.arbeit.fail_arbeit	アルバイトを達成できませんでした。
+msg.arbeit.fail_homework	宿題を完成できませんでした。
+msg.arena.deny_enter	入場できません。
+msg.arena.enter_start_one_star	アリーナに入ると星は１個から始まります。
+msg.arena.not_enter	入場できません。
+msg.arena.out_you_lose	このラウンドで負けてアリーナから出ました。
+msg.arena.overtime	プレイ時間が超過している為、アリーナに入ることができません。
+msg.arena.query_enter	Do you wish to Enter?
+msg.arena.ticket	{0}'s entrance fee is {2} {1}。\n
+msg.arena.transform_end	今日はもう変身することができない。\nもうしばらくの後、変身が解除されます。
+msg.arena.unable_enter_unmovable	移動できない状態ではアリーナに入場できません。
+msg.assemble_buff	モンスターたちのアンサンブル効果が発揮される！
+msg.assemble_buff_end	モンスターたちのアンサンブル効果が消えた。
+msg.bag.no_bag_in_bag	You cannot have a bag in another bag in another bag in another bag.
+msg.bag.no_licence_in_bag	You cannot place your personal license in there.
+msg.bag.no_trade_in_bag	Bags cannot be traded.
+msg.bank.cannot_load_notmine	You cannot withdraw from this bank account.
+msg.bank.cannot_save_notmine	You cannot deposite into this bank account.
+msg.bank.cannot_use_in_region	You cannot use this here.
+msg.bank.keep_empty_bag	You can only store an empty bag.
+msg.bank.no_item_in_inventory	You cannot take this item.
+msg.bank.no_keep_item	You cannot store this item.
+msg.bank.no_keep_music	You cannot store this item.
+msg.bank.no_keep_quest	You cannot store this quest.
+msg.bank.no_save_max_money	You cannot deposit any more gold.
+msg.bank.no_space_inventory	Insufficient inventory.
+msg.bank.no_trade_so_far	You are too far for a transaction.
+msg.bank.not_pay_fee	Unable to pay fee.
+msg.bank.not_pay_fee01	Unable to pay fee.
+msg.bird_gift.ps_shop_opening	{0}は個人商店の見張りをしている間にはアイテムを取りにいくことができない。
+msg.birdgift.pet_in_ps_shop	{0}は個人商店の見張りをしている間にはアイテムを取りにいくことができない。
+msg.birdgift.test	(テスト) {0}秒後にアイテムの取替えに行く。
+msg.body.decrease_lower	Your legs are getting slim.
+msg.body.decrease_upper	Your upper body muscles have slimmed.
+msg.body.decrease_weight	You lost some weight.
+msg.body.increase_lower	Your legs are getting sturdier.
+msg.body.increase_upper	Your upper body muscles have bulked up.
+msg.body.increase_weight	You gained some weight.
+msg.boost_potion	Strengthening potion has worn off.
+msg.bossgroup.not_reveal	You cannot use the Fomor Command Scroll here.
+msg.bossgroup.repulse	{0} has defeated {2} that appeared in {1}！
+msg.bossgroup.reveal_pos	{0} has informed that、{3} will appear in {1} at {2}。
+msg.bossgroup.spawn	{1} has appeared in {0}!
+msg.bsg.no_ego_in_bag	You cannot place your spirit weapon here.
+msg.buffer.decrease	{0:param} {1:value} decrease
+msg.buffer.increase	{0:param} {1:value} increase
+msg.buffer.recover_msg	{0} recovery speed {1}%
+msg.buffer.recover_points	{0} recovery {2} points per {1} second
+msg.camp.already_have	You already have another camp set up.
+msg.camp.cannot_enter_full	You cannot enter a tent that is full.
+msg.camp.caption_name_modified	Tent name changed to {0}.
+msg.camp.destroy_msg	Destroy this tent. It will collapse after everyone leaves.
+msg.camp.destroy_no_permission	You don't have permission to do that.
+msg.camp.destroy_no_permission2	You don't have permission to do that.
+msg.camp.destroy_warn_inner	When everyone leaves, the tent will collapse.
+msg.camp.destroyed	Camp destroyed.
+msg.camp.entered	Entered camp.
+msg.camp.increased_heal_rate	Recovery speed increased.
+msg.camp.invalid_camp	Camp cannot be moved.
+msg.camp.invalid_password	Incorrect password.
+msg.camp.name_modified	Camp name changed.
+msg.camp.no_permission	You do not have permission to do this.
+msg.camp.pw_modified	Camp password changed.
+msg.camp.pw_modified_caption	Camp password changed.
+msg.camp.pw_no_permission	You do not have permission to do this.
+msg.camp.touched_too_far	You are too far from the camp.
+msg.camp.unable_region_insuff	Unable to generate camp.
+msg.cannot_use_weaken_potion	Drinking this potion is useless.
+msg.castle.bid_already	You have bid on this castle.
+msg.castle.bid_cancel	Bid was canceled.\n{0}G returned to guild deposit. {1}G
+msg.castle.bid_cancel_error	Bid cancelling failed.
+msg.castle.bid_end	Bidding has ended.
+msg.castle.bid_error	Encountered error.
+msg.castle.bid_fail_desc	One guild can only have one castle.
+msg.castle.bid_gold	Minimum bid is {0}G.
+msg.castle.bid_gold2	Guild currently has {0}G.\nYou cannot withdraw {1}G.
+msg.castle.bid_guild_error	Error retrieving guild information.
+msg.castle.bid_info	{0}\n\nSuccessful bid.\n{1}G spent.\n{2}G remaining.\n\n结果发表日期\n{3}\n
+msg.castle.bid_no_extra_service	Guild is not active.
+msg.castle.bid_no_record	No record of castle bid.
+msg.castle.bid_not_bidder	No record of castle bid.
+msg.castle.bid_not_bidder2	No record of castle bid.
+msg.castle.bid_not_bidder3	No record of castle bid.
+msg.castle.bid_not_guildmaster	Only a guild can bid.
+msg.castle.bid_not_guildmaster2	Only the guild master can bid.
+msg.castle.bid_winner	[{0}] guild has become the owner of {2} for {1}G.
+msg.castle.bid_winner2	[{0}] guild has become the owner of {2} for {1}G.
+msg.castle.build_building	[{0}]ギルドが{1}の{2}段階建設のための資材収集を完了しました。建設を始めます。
+msg.castle.build_building2	[{0}]ギルドが{1}の{2}段階建設のための資材収集を完了しました。建設を始めます。
+msg.castle.build_complete	[{0}]ギルドが{1}を完成させました。
+msg.castle.build_complete2	[{0}]ギルドが{1}を完成させました。
+msg.castle.build_fail	[{0}]ギルドが{1}の建設に失敗しました。
+msg.castle.build_preparing	[{0}]ギルドが{1}の{2}段階建設のための資材収集を始めました。
+msg.castle.build_resource	お城の建設材料として{0} {1}個を寄付しました。
+msg.castle.destroyed	城が崩れたため、脱出しました。
+msg.castle.guild_error	ギルドの情報が見つかりません。同じ問題が続く場合は不具合掲示板に報告してください。
+msg.castle.guild_not_usable	ギルドが現在、活動している状態ではありません。
+msg.castle.guild_not_usable2	ギルドが現在、活動している状態ではありません。
+msg.castle.no_authority_move_gold	ゴールドを移す権限がありません。
+msg.castle.no_authority_move_gold2	ゴールドを移す権限がありません。
+msg.castle.not_bidding	この城は現在、入札中ではありません。
+msg.castle_notbuilt	城はまだ完成されていません。
+msg.channel.unavailable	This Server Channel is unavailable
+msg.channel_event.resume	Event has been resumed.
+msg.channel_event.start	Event has started.
+msg.channel_event.stop	Event has ended.
+msg.char.exp.not_gain	(Weak Monster) +0 Experience
+msg.character.cannot_use_item_in_region	You cannot use this item here.
+msg.character.drop_item_and_goto_ruin	Drop an item into the ruins.
+msg.character.explo_ruin_exp	Relic exploration +{0} Experience
+msg.character.require_key_exploquest	You must complete an expedition quest in order to reach the next level.
+msg.character.respawn_by_char	Resurrected by {0}.
+msg.character.respawn_by_pet	Resurrected by {0}.
+msg.chat.cur_state_disable_whisper	Whispers are disabled.
+msg.chat.cur_state_enable_whisper	Whispers are enabled.
+msg.chat.disable_state_whisper	Whispers disabled.
+msg.chat.enable_state_whisper	Whispers enabled.
+msg.chat.guild_master_change	Changed guild master.
+msg.chat.guild_master_only_use	Only the guild master may use this function.
+msg.chat.not_find_char	対象のキャラクターが見つかりません。
+msg.chat.whisper_refusal	相手はささやきを拒否している状態です。
+msg.combat.lack_attack_no_stamina	You are too exhausted to attack.
+msg.combat.magazine.decrease00	You have {0} arrows left.|
+msg.combat.magazine.decrease01	You are running out of arrows.|
+msg.combat.magazine.decrease02	You have {0} arrows left.
+msg.combat.no_attack_invalid_object	Invalid Attack Move.
+msg.combat.no_attack_no_stamina	You are too exhausted to attack.
+msg.combat.no_attack_no_target	You cannot attack.
+msg.combat.rise_damage_gauntlet	スネークガントレットの影響でダメージが大幅アップ！
+msg.combat.undead_immune	This attack is ineffective!|You may need a different weapon!
+msg.command.condition.clear_info	Condition has been cleared.
+msg.command.condition.info	Condition status： {0}
+msg.command.help	Mabinogi help commands :\n\t\t\t\t\t\t\t\nadd_item， add_quest， announce， alloc_zone， free_zone      \nalloc_dungeon， free_dungeon， revive， server_state         \nset_body， set_condition， set_face， set_hair， set_inventory\nset_npc_flag， set_skill， set_title， move， sets_login_max  \nshop， shutdown， resume， worldprop                         
+msg.command.help_title	GM Help Message\nGM Commands!
+msg.command.login_max.all_channel_changed	Channel capacity is {0}.\n
+msg.command.login_max.channel_status	Server capacity is at {0}/{1}
+msg.command.login_max.local_channel_changed	Server capacity raised from {0} to {1}.\n
+msg.command.move.lower_auth	You have lower authority.
+msg.command.resume.accept_msg	Server starts in {0} seconds.
+msg.command.resume.instant_accept_msg	The server is now up.
+msg.command.resume.not_scheduled	Restart is not scheduled or is in progress.
+msg.command.resume.scheduled	{0} seconds before server restart.
+msg.command.server_state.info0	Currently connected: {0}/{1}.
+msg.command.server_state.info1	Currently connected (including NPCs): {0}.\nConnected clients: {1}.\n
+msg.command.sets_dungeon_max.changed	Dungeon limit changed from {0} to {1}.\n
+msg.command.sets_dungeon_max.state	Current dungeons: {0}/{1}.
+msg.command.shutdown.cancel_msg	Shutdown canceled.
+msg.command.shutdown.invalid_timeopt	Entered time is not correct. Please confirm -t.
+msg.command.shutdown.success_msg	Server shut down.
+msg.command.stats.conn_info	Currently connected: {0}/{1}.
+msg.stats.server_info	Connected to {0} clients.\nNumber of characters (including NPCs): {1}.\nGenerated dungeons: {2}.\nMessage queue: {3}.\nTotal message queue: {4}.\nThreads: {5}.\nMemory: {6}MB.\nPaging file size: {7}MB.\nCPU: {8}%.\nOverall CPU usage: {9}%.\nInput/output speed: {10}，{11}.
+msg.command.title.devcat_lowauth	Only devCAT employees can use the devCAT title.
+msg.command.title.gm_lowauth	Only GMs can use GM titles.
+msg.compensation_event.arbeit_exp_rate	Part-time experience ({0}x)
+msg.compensation_event.arbeit_gold	Part-time gold ({0}x)
+msg.compensation_event.content	Reward details
+msg.compensation_event.end	Event ended.
+msg.compensation_event.item_drop_rate	Item drop rate ({0}x)
+msg.compensation_event.monster_exp_rate	Monster experience ({0}x)
+msg.compensation_event.on	Event in progress.
+msg.compensation_event.quest_exp_rate	Quest experience ({0}x)
+msg.compensation_event.quest_gold	Quest gold ({0}x)
+msg.compensation_event.start	Event has started.
+msg.cooked_food	Cooking
+msg.cooked_food_disappeared	{0}'s effect has disappeared.
+msg.cooked_food_disappearing	{0}'s effect is disappearing.
+msg.course.depart_soon	Departing immediately.
+msg.course.remaining_time1	Departing in {0} minutes and {1} seconds.
+msg.course.remaining_time2	Departing in {0} minutes.
+msg.course.remaining_time3	Departing in {0} seconds.
+msg.darknight.disarming	Darkness begins to erode your body.\nThe armor starts draining you of life.
+msg.darknight.disarming_msg	暗闇の力が私の身を圧迫して来る。\n鎧が私の生命力を吸収している！
+msg.daycontrol.moon_rise	Eweca has risen. Mana begins to accumulate.
+msg.deliver.item_int_transit	{0} is in transit.
+msg.deliver.less_money	Insufficient gold.
+msg.draw_guildgold.general_error	Guild gold error.
+msg.draw_guildgold.general_error2	Guild gold error.
+msg.draw_guildgold.info_issuecheck	Insufficient funds.\n{0}G maximum expenditure.
+msg.draw_guildgold.info_noauth	Only the guild master can handle the guild budget.
+msg.draw_guildgold.info_timeout	Guild deposit info timeout.\n
+msg.draw_guildgold.insufficient_gold	Insufficient gold.\n\nCurrent funds: {0}G.
+msg.draw_guildgold.insufficient_vote	Failed to initiate.\n\nBudget use: {0}G.
+msg.dungeon.ask_enter_room	Enter room?
+msg.dungeon.ask_open_chest	Open chest?
+msg.dungeon.cur_floor	You are on floor {1} of {0}.
+msg.dungeon.cur_floor01	{0}(floor {1})
+msg.dungeon.dungeon_creating_time	Please wait {0} seconds.
+msg.dungeon.entrance	{0}(entrance)
+msg.dungeon.error.create	A fatal error occured during dungeon creation.
+msg.dungeon.error.invalid_item	Invalid item. Try again later.
+msg.dungeon.error.max_dungeon_limit	Maximum dungeons generated.
+msg.dungeon.error.max_queue_wait	Maximum dungeons generated. Please try again later or switch channels.
+msg.dungeon.error.monsterserver	Monster server is down. Contact GM!
+msg.dungeon.exist_char	\tCurrently in the dungeon: 
+msg.dungeon.key.not_match	No matching keys.
+msg.dungeon.make_me	This dungeon was created by you or your party.
+msg.dungeon.make_other	This dungeon was created by someone else.
+msg.dungeon.mark_safezone	You have memorized this location.
+msg.dungeon.no_chest_key	There is no matching key.
+msg.dungeon.no_reward	Because you did not participate in creating this dungeon, you will not recieve rewards for clearing.
+msg.dungeon.open_door	Open this door?
+msg.dungeon.party.into_dungeon	The party leader must enter the dungeon.
+msg.dungeon.ruin_creating_time	Please wait {0} seconds.
+msg.dungeon.total_char	... total {0}
+msg.dungeon.used_key	Used {0} to open door.
+msg.dungeon.warning.overtime	You cannot enter the dungeon now.
+msg.dungeon_party_title	[Dungeon] {0}/{1}-{2}
+msg.dungeon_party_title_default	[Dungeon] {0}/{1}
+msg.ego.durability_up_disabled	Unable to use.
+msg.ego.fixed_durability	Durability fixed.
+msg.ego.need_item	{0} needs an item.
+msg.ego.need_talk	{0} wants to talk.
+msg.enable_chat	Chat enabled.
+msg.enchant.campfire_not_exist	There is no fire.
+msg.enchant.campfire_too_far	The campfire is too far.
+msg.enchant.enchant_accepted	Your enchant request was accepted.
+msg.enchant.enchant_ask_fail	You could not request enchant entrustment.
+msg.enchant.enchant_canceled	Your request was canceled.
+msg.enchant.enchant_canceled2	Your request was canceled.
+msg.enchant.enchant_distance_failed	You cannot entrust from far away.
+msg.enchant.enchat_ask_failed	You could not request enchant entrustment.
+msg.enchant.give_reward_item_failed	Item reward {0} failed.
+msg.enchant.give_reward_item_success	Item reward {0} accepted.
+msg.enchant.indestructible_item	Item cannot be burned.
+msg.enchant.invalid_item	Invalid item.
+msg.enchant.item_lost_warning	If an enchant over rank 6 fails, the item will be destroyed.
+msg.enchant.item_skill_restrict	このエンチャントスクロールを使うにはエンチャントスキルのランクが5以上必要です。
+msg.enchant.item_skill_restrict2	このエンチャントスクロールを使うにはエンチャントスキルのランクが5以上必要です。
+msg.enchant.level_limit	Enchant skill must be rank 5 or higher.
+msg.enchant.level_limit2	Enchant skill must be rank 5 or higher.
+msg.enchant.not_enchantable_item	This item cannot be enchanted.
+msg.enchant.not_enchanted_item	This item is not enchanted.
+msg.enchant.not_enough_level	Enchant skill must be rank 5 or higher.
+msg.enchant.not_enough_level2	Enchant skill must be rank 5 or higher.
+msg.enchant.not_party_member	You must be in the same party.
+msg.enchant.not_scroll_item	Not an enchant scroll.
+msg.enchant.recieve_reward_item_failed	{0} reward failed.
+msg.enchant.recieve_reward_item_success	{0} reward accepted.
+msg.enchant.reward_item_bag	Cannot use bag as payment.
+msg.enchant.reward_item_tradable	Cannot offer items that cannot be traded as compensation.
+msg.enchant.scroll_item	Cannot enchant this item.
+msg.end_to_weaken	Power has returned to its original state.
+msg.event.cannot_give_to_myself	You cannot gift to yourself.
+msg.event.coin_resume	コインイベントを再開します
+msg.event.coin_running	コインイベントを開催しています
+msg.event.coin_start	コインイベントを開始します
+msg.event.coin_stop	コインイベントを終了します
+msg.event.discover_msg	{0} 発見！
+msg.event.fireworks_resume	花火イベントを再開します。
+msg.event.fireworks_running	花火イベント開催中！ 只今の順位:
+msg.event.fireworks_standing_msg	{0}位 {1} ,
+msg.event.fireworks_start	花火イベントを開始します。
+msg.event.fireworks_stop	花火イベントを終了します。
+msg.event.fishing_resume	釣りイベントを再開します。
+msg.event.fishing_running	釣りイベント開催中！ 只今の順位:
+msg.event.fishing_standing_msg	{0}位 {1} ,
+msg.event.fishing_start	釣りイベントを開始します。
+msg.event.fishing_stop	釣りイベントを終了します。
+msg.event.invalid_command	命令を実行することが出来ません。
+msg.event.lny.end	イベントが終了しました。
+msg.event.lny.invalid_region	イベントはダンバートンの野外のみで可能です。
+msg.event.lny.new_record	========================== [最高記録更新] ==========================
+msg.event.lny.not_started	イベントは進行中ではありません。
+msg.event.lny.start	イベントが始まりました。
+msg.event.lny.woodenman_name	{0}の{1}
+msg.event.lny.woodenman_upgrade_title	Congratulation!\nおめでとうございます！
+msg.event.lny2005.char_rank	%t{0}位 {1}
+msg.event.lny2005.event_during_msg	ペット育成イベントが開催中！人：
+msg.event.lny2005.event_start_msg	ペット育成イベントを開始します。
+msg.event.lny2005.event_stop_msg	ペット育成イベントを終了します。
+msg.event.lny2005.pet_rank	{0}位 {1}
+msg.event.lny2005.pet_rank_msg	順位：
+msg.event.race.during_announce	ティルコネイル杯争奪・勤勉なユーザー認定イベントを開催しています。
+msg.event.race.end	ティルコネイル杯争奪・勤勉なユーザー認定イベントを終了します。
+msg.event.race.resume	ティルコネイル杯争奪・勤勉なユーザー認定イベントを再開します。
+msg.event.race.round_end	ティルコネイル杯争奪・勤勉なユーザー認定イベントが終了しました。
+msg.event.race.round_start	ティルコネイル杯争奪・勤勉なユーザー認定イベントが始まりました。
+msg.event.race.standing	{0}位 {1}
+msg.event.race.start	ティルコネイル杯争奪・勤勉なユーザー認定イベントを開始します。
+msg.event.race.start_announce	ティルコネイル杯争奪・勤勉なユーザー認定イベントを開催しています。ダンカン村長に会って申し込んでください。
+msg.event.race_child.during_announce	ティルコネイル杯争奪・勤勉なユーザー認定競技が進行中です。
+msg.event.race_child.end	ティルコネイル杯争奪・勤勉なユーザー認定イベントを終了します。
+msg.event.race_child.resume	ティルコネイル杯争奪・勤勉なユーザー認定イベントを再開します。
+msg.event.race_child.round_end	ティルコネイル杯争奪・勤勉なユーザー認定競技が終了しました。
+msg.event.race_child.round_start	ティルコネイル杯争奪・勤勉なユーザー認定競技を開始しました。
+msg.event.race_child.start	ティルコネイル杯争奪・勤勉なユーザー認定イベントを開始します。
+msg.event.race_child.start_announce	ティルコネイル杯争奪・勤勉なユーザー認定イベントを開催しています。競技に参加する方はダンカン村長に申し込んでください。
+msg.event.valentine.broadcast_msg	{0}愛してる。|{0！あなたが好き。|{0さん、あなたが好き。|{0}さん、愛してるよ。|{0}、愛してるよ。|{0}…友達になって下さい。|{0}さんだいすき！|{0}だいすき！|{0}さんだ～いすき！|{0}さん、受け取ってください！|{0}。私の気持ちを受け止めて下さい。|愛してます。{0}さん|私の気持ちを受け止めて下さい。{0}…|{0}さん…これ…どうぞ…|べっ、別に{0}が好きだからじゃないんだからね！可哀想だとおもってあげたんだからねっ！勘違いしないでよねっ！|あの…{0}さん、これ…|私の気持ちを受け止めて下さい。{0}さん…|{0}さん………|はい。しょうがないから{0}にあげるっ。|{0}さん…これ私の気持ちです。受けとってくれませんか？|{0}さん、私の気持ち受け止めてください…。|あの…{0}さん…どうか受け取ってくださいませ…。|{0}さんへ特大のチョコが手渡されました！|{0}さん、愛してます…。|あ、あのっ　{0}さん……………|{0}さんへ超特大のチョコが手渡されました！！|{0}はにげられない
+msg.event.valentineday.use_condition	チョコレートは女性だけがプレゼントできます。
+msg.event.valentineday.use_condition_2	チョコレートは男性だけにプレゼントできます。
+msg.event.valentineday.used	{0}さんにチョコレートをプレゼントしました。
+msg.event.whiteday.broadcast_msg	{0}。ボクの気持ちを受け止めて下さい。|{0}…友達になって下さい。|チョコありがとう。{0}…。|{0}チョコありがとう。|{0}…これを受け取ってほしいんだ。|{0}さん、これ、ありがとう。|{0}、やる。|{0}さんありがとう！|{0}、バレンタインの時の礼だ。受け取りやがれ。|{0}さんバレンタインの恨…感謝をどうぞ！|{0}、まぁ…なんだ、これ、とっておいてくれ。|{0}さん、ありがとう。|{0}さん、これを君に|{0}、これ、受け取ってもらえるか|{0}、ちょうどホワイトデーだし、これ、お返し。|あれ、めっちゃ美味かったよ！
+msg.event.whiteday.cannot_find_target	相手が見つかりません。
+msg.event.whiteday.failed_give_candy	キャンディーのプレゼントに失敗しました。
+msg.event.whiteday.gave_candy	{0}さんにキャンディーをプレゼントしました。
+msg.event.whiteday.giver_invalid_gender	女性キャラクターはキャンディーをプレゼントすることができません。
+msg.event.whiteday.love_queue_msg	{0}番目の告白メッセージに予約されました。
+msg.event.whiteday.recver_invalid_gender	男性キャラクターにキャンディーをプレゼントすることはできません。
+msg.event.whiteday.use_condition	キャンディーは男性だけがプレゼントできます。
+msg.event.whiteday.use_condition_2	キャンディーは女性だけにプレゼントできます。
+msg.event.whiteday.use_failed	キャンディーのプレゼントに失敗しました。
+msg.event.xmas.broadcast_msg	{0}！ メリークリスマス！|{0}さん、幸せなクリスマスを！|{0}！ 安らかな年末を！
+msg.event.xmas.failed_gave_cake	ケーキをプレゼントするのに失敗しました。
+msg.event.xmas.gave_cake	{0}さんにケーキをプレゼントしました。
+msg.event.xmas.thx_queue_msg	{0} 番目の感謝メッセージとして予約されました。
+msg.event_treasure_hunting.end	イリア大陸の宝探しイベントを終了します。
+msg.event_treasure_hunting.ongoing	イリア大陸で宝探しイベントを開催しています。
+msg.event_treasure_hunting.start	イリア大陸で宝探しイベントを開始します。
+msg.event_winter_vacation.end	「Let’s Collect M.A.B.I.N.O.G.I」イベントを終了します。
+msg.event_winter_vacation.ongoing	「Let’s Collect M.A.B.I.N.O.G.I」イベントを開催しています。
+msg.event_winter_vacation.start	「Let’s Collect M.A.B.I.N.O.G.I」イベントを開催しています。
+msg.exp.camping_penalty	(Camping penalty {0}%)
+msg.exp.dungeon	Dungeon experience +{0}
+msg.exp.expedition_bonus	Exploration experience {0}% +{1}
+msg.exp.join_combat	Combat experience +{0}
+msg.exploquestmgr.level	Level [{0}] {1}-{2}
+msg.fireworks_once_in_minute	You may only use fireworks once every 10 seconds.
+msg.fishing.failed_auto	The fish got away...
+msg.fishing.failed_manual	The fish got away...
+msg.food.best_taste	Absolutely perfect.|Delicious! I'd love another serving!|I want to eat this every day.|I could eat this every day.|This is the best thing I've tasted in my life.|The divine taste sends me into ecstasy.|I wouldn't have known if everyone died next to me.|Mama mia!
+msg.food.better_taste	Pretty yummy.|I'd like to eat this again.|Quite tasty.|Better than expected.|Om nom nom.|This is really good.|I want to eat this again.
+msg.food.effect_decrease	Decrease in {0}.
+msg.food.effect_disappeared	Food effects has disappeared.
+msg.food.effect_disappearing	Food effects are disappearing.
+msg.food.effect_increase	Increase in {0}.
+msg.food.effect_remain_longer	I can feel the effects of the food will last for a long time.
+msg.food.effect_remain_longest	I can feel the effects of the food will last for a very long time.
+msg.food.effect_remain_normal	I can feel the effects of the food spread to every part of my body.
+msg.food.effect_remain_shorter	I can feel the effects of the food in my body.
+msg.food.effect_remain_shortest	I can feel the effects of the food.
+msg.food.nao_feel	I feel a mysterious power.|I can feel Nao's sincerity.|My body is overflowed with a mysterious energy!|It feels like I just died and came back to life.|I think I smell Nao's scent!
+msg.food.normal_taste	Tastes good.|You can taste the effort the chef put in this dish.|Not bad.|It's quite filling.|I hope I'll get to eat something tastier next time.|The taste is quite decent.
+msg.food.worse_taste	The taste is a little strange.|Something was lacking.|It's edible.|It would be good if the chef put a little more effort into this dish.|It's not very good.|I managed to finish it.
+msg.food.worst_taste	This is simply not human food.|What a waste of ingredients.|It would be impressive if anyone could finish this dish.|I can't believe I actually ate that.|I hope I will never eat this again.
+msg.g1.feeling_goddess	You recieved the blessing of the goddess.
+msg.gate.open_mana_tunnel	Mana Tunnels have opened across Iria.
+msg.get_cash_item_failed1	Please organize your inventory.
+msg.get_cash_item_failed2	Other orders are being processed.
+msg.gm.character_noexist	Character does not exist.
+msg.gm.higher_authority_char	This is outside your authority.
+msg.gm.no_authority	No authority.
+msg.gm.no_authority_2	No authority.
+msg.guild.cannot_create	Guild creation failed.
+msg.guild.cannot_create_alreadyanother	Guild creation failed.
+msg.guild.cannot_create_notstorage	Guild creation requires extended inventory service.
+msg.guild.cannot_destroy	Guild could not be dissolved.
+msg.guild.cannot_destroy_guildstone	Only guild masters can destroy guildstones.
+msg.guild.cannot_use_command	This command cannot be used now.
+msg.guild.cannot_view_guildpage	Unable to view guild page.
+msg.guild.char.invalid_select	Character selection error.
+msg.guild.char.no_login	Character is not logged in.
+msg.guild.char.no_master	Not a guild master.
+msg.guild.char.no_pendant	No guild pendant present.
+msg.guild.char.not_member	Not a guild member.
+msg.guild.complete_create	{1} has founded the guild {0}.
+msg.guild.created	[{0}] has been founded.
+msg.guild.disabled	Guild service is disabled.
+msg.guild.guild_join_day_limit	Your one week restriction has not yet finished.
+msg.guild.guildstone_destroyed	guildstone successfully destroyed.
+msg.guild.incorrect_guildinfo	Incorrect guild information.
+msg.guild.invalid_command	Invalid command.
+msg.guild.join.fail	Failed to join guild.\nMembership is full.\nTry again later.
+msg.guild.join.greeting_mastermsg	[{0} recruitment message]\n{1}
+msg.guild.join.greeting_msg	(0) has joined the guild.
+msg.guild.join.success	Application sent.\nPlease wait for the guild master's approval.
+msg.guild.join_canceled	[{0}]'s application was cancelled.
+msg.guild.join_request	[{0}] requested to join the guild.
+msg.guild.leave.bye_mastermsg	[{0} guild message]\n{1}
+msg.guild.leave.bye_msg	{0} has left the guild.
+msg.guild.leave.finish	You have left the guild.\nBai bai~
+msg.guild.leaved	[{0}] has left the guild.
+msg.guild.money.add_fail	No coins were deposited.
+msg.guild.money.add_success	{0}G was deposited.
+msg.guild.money.no_money	No gold.
+msg.guild.point.add_fail	Point calculation error.
+msg.guild.point.add_success	{0} guild points contributed.
+msg.guild.point.no_point	No points to contribute.\nTry again later.
+msg.guild.refuse.refuse_mastermsg	[{0} guild message]\n{1}
+msg.guild.refuse.refuse_msg	{0} has refused your request.
+msg.guild.service_unavailable	Guild is currently unavailable.
+msg.guild.too_far_guildstone	No guildstones are around.
+msg.guild.transition_err_target_far	Character is too far away.
+msg.guild.wait_for_destroy	Guild successfully dissolved.
+msg.guild.warning.has_guild	You are in a guild or are applying to one.\nYou cannot be in a new guild.
+msg.guild.warning.has_guild01	You are in a guild or are applying to one.\nYou cannot be in a new guild.
+msg.guild.warning.instable_pendant	System error!
+msg.guild.warning.not_get_pedant	Could not get approval.
+msg.guild.warning.not_give_pedant	Could not give approval.
+msg.guild.warning.transfer_master	Guild master transfer error.
+msg.guild.warning.try_new_name	Try using another name.
+msg.guild_create.already_guildmember	Already a guild member.
+msg.guild_create.cannot_retry	You must be in a new party.
+msg.harvest_event_2005.cat_moon	夜空に変なネコのイウェカが昇りました
+msg.harvest_event_2005.cat_moon_monster	オオカミ、ダイアウルフ、ジャッカル、タヌキが巨大化しました
+msg.harvest_event_2005.cat_moon_monster2	オオカミ、ダイアウルフ、ジャッカル、タヌキがイウェカの影響で巨大化しました
+msg.harvest_event_2005.end	2005年の月見イベントを終了します
+msg.harvest_event_2005.end2	イウェカの影イベントを終了します
+msg.harvest_event_2005.large_moon	夜空に大きなイウェカが昇りました
+msg.harvest_event_2005.large_moon_monster	オオカミ、ダイアウルフ、ジャッカルが巨大化しました
+msg.harvest_event_2005.large_moon_monster2	オオカミ、ダイアウルフ、ジャッカルがイウェカの影響で巨大化しました
+msg.harvest_event_2005.nao_moon	夜空にナオのイウェカが昇りました
+msg.harvest_event_2005.nao_moon_monster	オオカミ、ダイアウルフ、ジャッカル、キツネが巨大化しました
+msg.harvest_event_2005.nao_moon_monster2	オオカミ、ダイアウルフ、ジャッカル、キツネがイウェカの影響で巨大化しました
+msg.harvest_event_2005.on	イウェカの影イベントを開催しています。
+msg.harvest_event_2005.start	2005年の月見イベントを開始します。
+msg.harvest_event_2005.start2	イウェカの影イベントを開始します。
+msg.house.abandon_desc	You have lost your house.\nFurniture and gold can be recovered at the bank.
+msg.house.abandon_desc2	You have lost your house.
+msg.house.abandon_desc3	You have lost your house.\nFurniture and gold can be recovered at the bank.
+msg.house.bid_another_house	Each account may only have one house.
+msg.house.bid_another_house2	Each account may only have one house.
+msg.house.bid_banking	銀行が使用中のため、家の入札に参加できません。
+msg.house.bid_bidding	既に入札が実施中です。
+msg.house.bid_error	不明な理由で家の入札を始めることが出来ません。\n同じ問題が続く場合は不具合掲示板に報告してください。
+msg.house.bid_error2	不明な理由で家の入札に失敗しました。\n同じ問題が続く場合は不具合掲示板に報告してください。
+msg.house.bid_gold	入札の最低入札金額は{0}ゴールドです。
+msg.house.bid_has_item	以前、所有していた家の中にあったアイテムがまだ保管中です。\nこの地域にある銀行に行けば、保管されているアイテムを取り戻すことができます。
+msg.house.bid_has_owner	既に持ち主がいる家は入札することが出来ません。
+msg.house.bid_no_authority	家の入札を行う権限がありません。
+msg.house.bid_not_bidding	現在、この家は入札中ではありません。 入札時間が締め切られている可能性があります。
+msg.house.bid_not_build	建てられていない家は入札を行うことができません。
+msg.house.bid_not_enough_money	銀行の残高不足です。\n現在、、銀行には{0}ゴールドが入金されています。
+msg.house.bid_not_found	入札したゴールドの払い戻しの情報が見つかりません。\nこの地域で入札を行ってないか、払い戻し可能な時間が既に過ぎている可能性があります。
+msg.house.bid_pet	ペットは入札することが出来ません。
+msg.house.bid_refund_time	最近の入札が終了した後の払い戻し期間には入札を行えません。
+msg.house.bid_success	家の入札が出来ました。\n銀行から{0}ゴールドが引かれて\n{1}ゴールドが残りました。\n\n入札結果発表日 ： {2}\n払い戻し期間 ： {3}まで
+msg.house.block_desc	家の持ち主から追い出されました。
+msg.house.build_fail	誤った建設費用を請求されました。\n不具合掲示板にお問い合わせください。
+msg.house.build_gold	この家を建てるには{0}ゴールドが必要です。\n現在、お城には{1}ゴールドしかありません。
+msg.house.build_no_authority	家を建てる権限がありません。
+msg.house.build_no_storage_service	エクストラストレージサービスを利用していないため、家を建てることができません。
+msg.house.contract_expired	{0}さんの契約期間が残りわずかです。家にある個人物品の整理を行ってください。
+msg.house.destroy_has_owner	現在、持ち主がいる家は撤去することができません。
+msg.house.destroy_no_authority	家を撤去する権限がありません。
+msg.house.destroy_no_storage_service	エクストラストレージサービスを利用していないため、家を壊すことができません。
+msg.house.destroy_success	{0}が破壊されました。
+msg.house.enterance_list_changing	現在、他のギルド員が訪問者制限を設定しています。
+msg.house.guide_book_already_received	既にガイドブックをお持ちです。
+msg.house.guide_book_receive_failed	ガイドブックをもらうのに失敗しました。
+msg.house.guide_book_received	ガイドブックをもらいました。
+msg.house.item_money_draw	{0}ゴールドを引き出しました。
+msg.house.item_money_draw_fail	理由は不明ですが引き出すことができませんでした。
+msg.house.item_money_draw_fail_title	Warning\n警告
+msg.house.item_money_limit	これ以上、お金を家の中に保管できません。
+msg.house.item_money_limit2	これ以上、お金を家の中に保管できません。
+msg.house.item_no_inventory	インベントリに空きがありません。
+msg.house.item_no_inventory_title	Warning\n警告
+msg.house.item_no_storage_service	ストレージサービスを利用していないため、\n家の中にお金を保管する事と物を取ることのみ可能です。
+msg.house.item_not_enough_money	インベントリのお金が足りません。
+msg.house.item_not_selling	販売するアイテムではありません。
+msg.house.item_prop	利用料金が設定されてある生産用家具には価格の設定ができません。
+msg.house.item_prop_title	Warning\n警告
+msg.house.item_selling	販売中のアイテムは移すことができません。
+msg.house.item_selling_fail	持ち主の家の金庫に空きがなく、お金を受け取れないため、\nモノを買うことができません。
+msg.house.item_selling_prop	価格が既に設定されてある生産用家具には利用料金の設定ができません。
+msg.house.item_selling_prop_title	Warning\n警告
+msg.house.item_sellingprice_changed	アイテムの販売価格が変更されました。
+msg.house.item_unkeepable	家に保管できないアイテムです。
+msg.house.item_unkeepable2	家に保管できないアイテムです。
+msg.house.item_unkeepable3	家に保管できないアイテムです。
+msg.house.no_tax_last_time	今回の納入日 ： 納入記録無し
+msg.house.not_enough_authority_entrance_list	訪問者制限を設定する権限がありません。
+msg.house.production_expired	有効期間が切れているため、これ以上生産することができません。
+msg.house.production_expired_title	Warning\n警告
+msg.house.rebuild_fail	誤ったリフォーム費用を請求されました。\n不具合掲示板にお問い合わせください。
+msg.house.rebuild_gold	こちらの家を建てるには{0}ゴールドが必要です。\n現在、お城には{1}ゴールドしかありません。
+msg.house.rebuild_no_authority	家の外見を変える権限がありません。
+msg.house.rebuild_no_owner	この家の持ち主のみ、リフォームすることができます。
+msg.house.rebuild_no_storage_service	ストレージサービスを利用していないため、リフォームすることができません。
+msg.house.rebuild_not_enough_money	家の金庫の残高不足で、リフォームすることができません。
+msg.house.rebuild_success	リフォームに成功しました。
+msg.house.rebuild_success2	リフォームに成功しました。
+msg.house.refund_banking	銀行が使用中のため、入札された金額を払い戻すことができません。
+msg.house.refund_counting	現在、内部処理を行っています。予想処理時間を計算しています。
+msg.house.refund_counting2	現在、内部処理を行っています。{0}後に行ってください。
+msg.house.refund_error	この家に入札している情報が見つかりません。\n同じ問題が続く場合は不具合掲示板に報告してください。
+msg.house.refund_error2	不明な理由で入札金の払い戻しに失敗しました。\n同じ問題が続く場合は不具合掲示板に報告してください。
+msg.house.refund_over	銀行に預けてある金額が限度を超えました。\n現在、銀行には{0}ゴールドが入金されています。\n{1}ゴールド以下に預金額を下げてください。
+msg.house.refund_success	払い戻しが問題なく処理されました。\n{0}ゴールドを銀行に入金し、銀行の残高が {1}ゴールドになりました。
+msg.house.refund_time	10分
+msg.house.refund_time2	20分
+msg.house.refund_time3	{0}時間 30分
+msg.house.refund_time4	{0}時間
+msg.house.refund_time5	30分
+msg.house.storage_service_over	ストレージサービスが終了されたため、家から追い出されます。
+msg.house.tax_amount	納入金額 ： {0}ゴールド
+msg.house.tax_delay	税金が滞納されました。\n家に戻って、税金をお支払いください。
+msg.house.tax_delayed	{0}さんは家賃が滞納されています。\n次回の納入期限まで納入されない場合、強制退去されます。
+msg.house.tax_failed	税金の納入に失敗しました。
+msg.house.tax_last_time	今回の納入日 ： {0}年 {1}月 {2}日 {3}時 {4}分
+msg.house.tax_last_warning	税金の滞納に対する最後の案内です。\n税金の最終滞納の場合、退去の際もらう金額から滞納された分が控除されます。
+msg.house.tax_last_warning2	税金の延滞に対する最後の案内です。\nこのまま税金を支払わない場合、家から追い出されます。
+msg.house.tax_next_time	滞納期間 ： {0}
+msg.house.tax_next_time2	次回納入日 ： {0}年 {1}月 {2}日 {3}時 {4}分
+msg.house.tax_not_enough_money	残高不足で税金を支払うことができませんでした。\n 家の金庫の残高をご確認ください。
+msg.house.tax_pay_time	{0}日 {1}時間 {2}分
+msg.house.tax_pay_time2	{0}日 {1}時間
+msg.house.tax_pay_time3	{0}日 {1}分
+msg.house.tax_pay_time4	{0}日
+msg.house.tax_pay_time5	{0}時間 {1}分
+msg.house.tax_pay_time6	{0}時間
+msg.house.tax_pay_time7	{0}分
+msg.house.tax_payed	{0}ゴールドを税金として納入しました。
+msg.houseowner.book_received	マイホーム白書をもらいました。
+msg.houseowner.contract_expired	契約期間が満了しました。
+msg.houseowner.no_one_live	誰も住んでいない家です。
+msg.houseowner.not_enough_gold	残高不足です。\n配置図を開き、ゴールドを入金してください。
+msg.houseowner.repr_character_set	'{0}'さんをこの家の代表キャラクターとして設定しました。
+msg.houseowner.storage_service_over	家の持ち主のストレージサービスが終了され、家から追い出されました。
+msg.houseowner.tax_already_payed	既に税金を納入しています。
+msg.houseowner.tax_auto_pay	ブラウニーが税金を払うように設定されました。
+msg.houseowner.tax_delayed	税金が滞納しています。\n執事ブラウニーを通じて税金を払ってください。
+msg.houseowner.tax_failed	税金の納入に失敗しました。
+msg.houseowner.tax_manual_pay	家の持ち主が手動で税金を支払うように設定されました。
+msg.houseshop.notify_item_selled	[{0}]が[{1}]に売れました。
+msg.housevisitor.bidding_house	入札中の家
+msg.housevisitor.bidding_house_desc	入札中の家を見ることができます。
+msg.housevisitor.owner	{0}の家
+msg.housevisitor.owner2	{0}が住む家です。
+msg.incineration.exp	焼却経験値{0}exp
+msg.inventory.brownie_item_expired	Brownie expired.
+msg.inventory.cannot_call_brownie	Unable to summon. 
+msg.inventory.cannot_drop_filledbag	Unable to discard filled bags.
+msg.inventory.cannot_drop_startedquest	The quest has been started and cannot be dropped.
+msg.inventory.cannot_find_item	Cannot find item.
+msg.inventory.cannot_firework_invregion	Fireworks cannot be used here.
+msg.inventory.cannot_firework_invregion_2	Fireworks cannot be used here.
+msg.inventory.cannot_firework_needcamp	Campfire is required.
+msg.inventory.cannot_firework_notnight	Fireworks can only be used during the night.
+msg.inventory.equipped_firework	Fireworks equipped.
+msg.inventory.item_expired	Item expired.
+msg.inventory.personalshop_not_exist	Personal Shop does not exist.
+msg.item.antidot_desc	Poison cured.
+msg.item.can_have_only1	You cannot have more than one of that item.
+msg.item.can_have_only2	You cannot have more than one of that item.
+msg.item.cannot_have_carry_limit	You can only carry one of that item.
+msg.item.cannot_have_limit	You can only carry one of that item.
+msg.item.cannot_use_expired	You cannot use an expired item.
+msg.item.disappear_bless	has lost its blessing.
+msg.item.give	Gave {1} to (0). 
+msg.item.no_inventory	{0} does not have inventory space.\nTrade cannot proceed.
+msg.item.no_restore_less_money	Not enough gold for repairs.
+msg.item.no_trade	Trade disabled.\n[{0}]
+msg.item.not_use_devil_order_scroll	You can no longer use the Fomor order scroll.
+msg.item.poison_durability_end	's poison has evaporated.
+msg.item.potion_toxic_600	This potion goes down quite smooth.
+msg.item.potion_toxic_700	The potion's effects are quite noticeable.
+msg.item.potion_toxic_800	The potion is very effective, but you feel a bit strange.
+msg.item.potion_toxic_900	The potion has some side effects.
+msg.item.potion_toxic_1500	The potion is very effective, but something clearly feels wrong.
+msg.item.potion_toxic_danger	It's dangerous to drink any more of this potion!
+msg.item.take	Took {1} from {0}.
+msg.item.take.self	Got {0}.
+msg.item_breakdown	{0} is no longer usable.
+msg.item_durability_downed	{0} has lost durability.
+msg.item_faster	has gained speed.
+msg.item_now_disable	{0} is broken.
+msg.item_property_decreased	{0:mod} decreased.
+msg.item_property_increased	{0:mod} increased.
+msg.item_slower	has lost speed.
+msg.item_upgrade_personalize	has been personalized.
+msg.itemuse.buffing_disappeared	{0}'s effect has disappeared.
+msg.itemuse.buffing_disappearing	{0}'s effect is disappearing.
+msg.keyword.cannot_use_premium	Only premium players can use this keyword.
+msg.keyword.unable_by_temporary_inv	Please organize your temporary inventory.
+msg.license.not_used	License not used.
+msg.lny_event_end	背がもとに戻った…
+msg.lny_event_end_pet	{0}の体長がもとに戻った…
+msg.lny_event_failed	{0}の体長がもとに戻ったようだ…
+msg.lny_event_failed2	背がもとに戻った…
+msg.lny_event_success	{0}の体長が{1}cm増えて、合計{2}cm大きくなった！
+msg.lny_event_success2	背が{0}cm伸びて、合計{1}cm大きくなった！
+msg.manatunnel.mana_increasing	Your mana is quickly recovering due to the effect of a nearby mana tunnel.
+msg.manatunnel.pet_cannot_use	Pets cannot use mana tunnels.
+msg.marriage.title	{0} and {1}'s wedding ceremony
+msg.marriage.title2	{0} and {1}'s wedding ceremony
+msg.master_title_unusable	You can only use a master title if you've reached the highest level for that skill.
+msg.mate.find_error	Cannot find partner.
+msg.mate.marriage_buff_bonus	Partnering bonus is in effect.
+msg.mate.marriage_buff_end	Partnering bonus effect ended.
+msg.mate.marriage_married_mate	Cannot find partner.
+msg.mate.marriage_no_mate	Cannot find partner.
+msg.mate.marriage_no_ring	Your partner cancelled the engagement.
+msg.mate.marriage_not_my_wedding	自分の結婚式ではありません。
+msg.mate.marriage_not_weddinghall	You must both be in the wedding hall.
+msg.mate.marriage_ring_expired	Ring has expired.
+msg.mate.married_mate	Already married.
+msg.mate.mate_buffing	Partnering bonus is in effect.
+msg.mate.mate_buffing_end	Partnering bonus has ended.
+msg.mate.mate_is_not_in_weddinghall	You must both be in the wedding hall.
+msg.mate.mate_no_engage_ring	Your partner cancelled the engagement.
+msg.mate.not_my_wedding	This is not my wedding ceremony.
+msg.mate.ring_expired	Ring has expired.
+msg.monster.ensemble_effect	Monster ensemble is in effect.
+msg.monster.ensemble_effect_disappear	Monster ensemble effect has disappeared.
+msg.moon_down	Eweca has set.\nThe surrounding mana is dissipating.
+msg.moongate.confirm_move	Travel to {0} moon gate?
+msg.moongate.harvest_event_closed	お盆休みのイベントが終了しました。
+msg.moongate.notify_opened	Moon gates leading to {0} have opened across Erinn.
+msg.move_channel.current_channel	Currently logged channel.
+msg.move_channel.requested	Channel change requested.
+msg.nottradable_entrusting_enchant	Cannot entrust.
+msg.nottradable_petpvp	애완동물 대전 중에는 교환을 요청할 수 없습니다.
+msg.nottradable_preparing_psshop	Personal shops are being prepared.
+msg.nottradable_pvp	Transactions are disabled during a pet duel.
+msg.nottradable_talking	You cannot request trade while a dialogue is in progress.
+msg.nottradable_trading_psshop	Another trade is in progress.
+msg.npc_production.contract_over	The production contract has ended.\nYou will get your materials back.
+msg.npc_production.contract_over2	The production contract has ended.
+msg.npc_production.fail	Production failed.
+msg.npc_production.no_prop	You do not have the adequate tools. Production cancelled.
+msg.npc_production.no_prop2	You cannot produce more than the maximum number.
+msg.npc_production.no_storage_service	You do not have extended inventory service.\nProduction is cancelled.
+msg.npc_production.no_storage_service2	You do not have extended inventory service.\nCannot store item.
+msg.npc_production.success	Production success!
+msg.npc_production.unfinished_job	(テスト)最終更新から遂行できなかった作業は {0}回です。
+msg.partquest.exp_bonus	Party quest completed. Experience +{0} x{1}% (party bonus)
+msg.party.invalid_party_name	Invalid party name.
+msg.party.min_member	Party must have a minimum of 2 members to accept the party quest.
+msg.party_auto_title	[Recruit] {0} : [{1}/{2}] - {3}
+msg.party_autotitle_default	[Recruit] {0} : [{1}/{2}]
+msg.party_member_moved	Party member {0} has moved to {1}.
+msg.partyquest.min_member	A minimum of 2 members are required to complete the quest.
+msg.partyquest.unable_by_temporary_inv	Please organize your temporary inventory.
+msg.pet.cannot_summon_cooltime	The pet has been summoned recently. Please wait {0} seconds before trying again.
+msg.pet.cannot_summon_in_dead	Pets cannot be summoned during unconsciousness.
+msg.pet.dead_pet_unsummoned	The unconscious pet had its summons lifted.
+msg.pet.ensemble_bonus	Ensemble Bonus
+msg.pet.gave_food	Gave food.
+msg.pet.giftitem_cooltime_fail	{0} is too tired to fly.
+msg.pet.giftitem_fail	Seems like nothing was found.
+msg.pet.giftitem_region_fail	Can't fly too far when indoors.
+msg.pet.giftitem_stamina_fail	{0} is hungry and cannot fly.
+msg.pet.giftitem_start_fail	{0} needs some time to look for items.
+msg.pet.together_buff	{0}'s partner buff is active.
+msg.pet.together_buff_removed	Partner buff disappeared.
+msg.pet.unable_put_bag_inventory	Pet inventory could not be saved.
+msg.pet.unable_transform_dead	Pet cannot transform while unconscious.
+msg.pet.unable_transform_today	Pet cannot transform any more today.
+msg.pet.unputtable_item	Item cannot be placed into pet inventory.
+msg.pet.unsummoned_timelimit	Pet summon time limit has been reached.
+msg.pet_pvp.bag_untradable	カバンは交換できません。
+msg.pet_pvp.banner	g{0}と対戦中
+msg.pet_pvp.banner2	g{0}と対戦中
+msg.pet_pvp.cancel_ok	対戦がキャンセルされました。
+msg.pet_pvp.cancel_rejected	Pet duel was refused.
+msg.pet_pvp.canceled	Pet duel was cancelled.
+msg.pet_pvp.cancle_rejected	対戦キャンセル申請を断られました。
+msg.pet_pvp.not_available	Pet duel is not available.
+msg.pet_pvp.not_challengable	Cannot challenge.
+msg.pet_pvp.not_challengable2	今は対戦の申し込みができません。
+msg.pet_pvp.not_in_region	同じ地域にいる相手と対戦が可能です。
+msg.pet_pvp.not_in_region2	同じ地域にいる相手と対戦が可能です。
+msg.pet_pvp.not_invitable	対戦可能な相手ではありません。
+msg.pet_pvp.not_valid_region	ペット対戦ができない地域です。
+msg.pet_pvp.not_valid_region2	ペット対戦ができない地域です。
+msg.pet_pvp.ring_create_fail	Too many obstacles or another battle is in progress.
+msg.pet_pvp.ring_out	You are too far from the battle.
+msg.pet_pvp.ring_out2	You are too far from the battle.
+msg.pet_pvp.ringfail	近くに障害物があるか他の対戦が行われています。
+msg.pet_pvp.ringout	対戦相手との距離が遠すぎる。
+msg.pet_pvp.ringout2	対戦相手との距離が遠すぎる。
+msg.poison_mod_end	に塗った毒が消えました。
+msg.poison_removed	解毒しました。
+msg.prop.not_attack_no_stamina	Insufficient stamina.
+msg.ps_shop.alert_customer_closed	Personal shop closed.
+msg.ps_shop.already_closed	Personal shop does not exist.
+msg.ps_shop.cannot_find_pshop	Could not find personal shop.
+msg.ps_shop.cannot_open_narrow_area	There is not enough space to set up a personal shop.
+msg.ps_shop.cannot_open_prohibitted_area	You cannot set up a personal shop here.
+msg.ps_shop.cannot_open_prohibitted_area2	You cannot set up a personal shop here.
+msg.ps_shop.cannot_open_used_item	You cannot reuse a personal shop license.
+msg.ps_shop.cannot_sell_dungeon_item	You cannot sell dungeon items.
+msg.ps_shop.cannot_sell_limit_exceed	You have reached the limit on your license.
+msg.ps_shop.cannot_sell_money	You cannot sell money.
+msg.ps_shop.cannot_sell_untradable	You cannot sell untradeable items.
+msg.ps_shop.failed_to_buy	Purchase failed.
+msg.ps_shop.general_cannot_have	Unable to obtain item.
+msg.ps_shop.insufficient_gold	Insufficient gold.
+msg.ps_shop.item_already_selled	Item has already been sold.
+msg.ps_shop.item_price_changed	Item prices have been changed.
+msg.ps_shop.not_selling	Not for sale.
+msg.ps_shop.not_selling2	Not for sale.
+msg.ps_shop.notify_already_selled	Item has already been sold.
+msg.ps_shop.notify_item_selled	[{0}] was sold to [{1}].
+msg.ps_shop.notify_item_selled2	[{0}] was sold to [{1}].
+msg.ps_shop.notify_item_selled3	Item has already been sold.
+msg.ps_shop.notify_new_goods	New merchandise has been added.
+msg.ps_shop.notify_sell_cancelled	Items have been taken off the shop.
+msg.ps_shop.pet_cannot_open	Pets cannot open a personal shop.
+msg.ps_shop.pet_cannot_open2	Pets cannot open a personal shop.
+msg.ps_shop.pet_cannot_open_riding	Shops cannot be set up or opened while mounted.
+msg.ps_shop.pet_cannot_open_vehicle	Unable to open a personal shop.
+msg.ps_shop.pet_pvp	Shops cannot be set up during a pet duel.
+msg.ps_shop.pet_pvp2	Shops cannot be set up during a pet duel.
+msg.ps_shop.pet_pvp_cannot_open	ペット対戦中に個人商店を開くことはできません。
+msg.ps_shop.pet_pvp_cannot_open2	ペット対戦中に個人商店を開くことはできません。
+msg.ps_shop.selling_price_changed	Item prices have changed.
+msg.ps_shop_alert_closed	Personal shop closed.
+msg.quest.take	{1} quest accepted from {0}.
+msg.questhandler.give_monster_sketch	Turned in sketch to {0}.
+msg.questhandler.give_prop_sketch	Turned in sketch to {0}.
+msg.questhandler.give_sketch	Turned in sketch to {0}.
+msg.region_channel_move_error	誠に申し訳ありませんが、現在、サーバーでのトラブルのため、他の地域には移動できません。
+msg.relicmgr.relic_discovered	{0} discovered {1}.
+msg.revive.less_exp	Unable to resurrect in place due to lack of experience.
+msg.revive.no_camp	No camp exists.
+msg.revive.no_statue	No goddess statue exists.
+msg.ruin.go_out	Outside
+msg.ruin.ruin_disappeared	The ruins entrance disappeared. A new entrance can be found with the L-Rod.
+msg.ruin.ruin_discover	{0} discovered {1} ruins.
+msg.ruin.ruin_door	Ruins Entrance
+msg.ruin_dungeon.exist_char	\tPlayers in the ruins:
+msg.ruin_dungeon.make_me	These ruins were discovered by you or your party.
+msg.ruin_dungeon.make_other	These ruins were discovered by other players.
+msg.ruin_dungeon.party.into_dungeon	Only the party leader may access the ruins.
+msg.ruinmgr.request_ruin_destroy	All ruins will be destroyed across all channels in 1 minute.
+msg.sealstone.already_have_one	You already have a seal title and cannot lift another seal.
+msg.sealstone.condition_bangor	The Seal of Bangor\n\nOnly a person who aims far can break the seal...
+msg.sealstone.condition_ciar	The Seal of Ciar\n\nOnly a person with strong power can destroy this seal...
+msg.sealstone.condition_dugald_aisle	The Seal of Dugald Aisle\n\nOnly the one who has mastered various skills can break the seal...
+msg.sealstone.condition_fiodh	The Seal of Fiodh\n\nOnly an honorable person can break this seal...
+msg.sealstone.condition_math	The Seal of Math\n\nOnly those on the path to musical talent can break this seal...
+msg.sealstone.condition_rabbie	The Seal of Rabbie\n\nOnly the strong can break the seal...
+msg.sealstone.disjoint	{0} has lifted {1}.
+msg.sealstone.emainmacha.condition	The Seal of South Emain Macha\n\nThose who achieve more in the same time period may break the seal...
+msg.sealstone.osnasail.condition	The Seal of North Emain Macha\n\nThose who achieve more in the same time period may break the seal...
+msg.sealstone.start_disjoint	{0} has started breaking {1}.
+msg.sealstone.unable_in_transform_mode	Seal inaccessible in transformation.
+msg.sealstone.unable_pet	Pets cannot break this seal.
+msg.sealstone.unavail_before_g2	Seal cannot yet be destroyed.
+msg.sealstone.unavail_before_g2_osna	Seal cannot yet be destroyed.
+msg.sealstone.unavail_closebeta	Seal cannot be destroyed in closed beta.
+msg.server_event.resume	Events resumed.
+msg.server_event.stop	Events stopped.
+msg.server_event.stop_2	Events stopped.
+msg.shop.cannot_get_quest	You can only accept this quest once per day.
+msg.shop.cannot_get_quest_dev	개발서버에선 게임시간으로 1시간에 한 번만 탐험 퀘스트를 받을 수 있습니다.
+msg.shop.cannot_get_same_quest	You already have the same quest.
+msg.shop.cannot_use_in_region	You cannot use that here.
+msg.shop.explolevel_too_low	Your exploration level is too low to accept this quest.
+msg.shop.have_exploquest	You already have an exploration quest.
+msg.shop.unsellable_item	This item cannot be sold.
+msg.start_to_weaken	My strength is weakening.
+msg.system.run_server	The server has started.
+msg.system.run_server01	The server has started.
+msg.system.run_server_after	Server starts in {0} seconds.
+msg.system.stop_server	Server will shut down due to maintenance.
+msg.tame.release	{0} ran away.
+msg.tame.release_soon	Tamed monster will be released in 10 seconds.
+msg.tame.time_over	{0}に対する魔符の力が消えていきます。
+msg.tame.timeover	The scroll on {0} has lost its strength.
+msg.title.master_unavailable	This title is only available when its corresponding skill is at a sufficient rank.
+msg.title.no_change_arbeit	Title cannot be changed during part-time job hours.
+msg.title.no_change_arbeit_2	The current title cannot be changed right now.
+msg.title.no_change_today	Titles cannot be changed any more for today.
+msg.trace.bag_untradable	Bag cannot be traded.
+msg.trade.cannot_complete	Item cannot be traded while it is equipped.
+msg.trade.direct_trade_buy	Bank Transaction Note\n\nPre-trade balance: {0} Gold\nItem bought： {1} Gold\nTransaction fee： {2} Gold\nBalance after transaction: {3} Gold
+msg.trade.direct_trade_sell	Bank Transaction Note\n\nPre-trade balance： {0} Gold\nItem sold： {1} Gold\nTransaction fee： {2} Gold\nBalance after transaction: {3} Gold
+msg.trade.give_item_other	Gave {1} to {0}.
+msg.trade.give_take_item	Gave {1} to {0}， received {2}.
+msg.trade.insuff_money_bank	Insufficient bank balance.
+msg.trade.insuff_money_inv	Insufficient gold inventory.
+msg.trade.item.add	{0} placed {1} in the trade window.
+msg.trade.item.exchange	{0} exchanged {1} with {2}.
+msg.trade.item.remove	{0} removed {1} from the trade window.
+msg.trade.no_change_much_same_item	Trade window cannot conduct exchange with the same item.
+msg.trade.nothing_left	There is no more of this item.
+msg.trade.otherchar_invalidstate	Trade could not be completed.
+msg.trade.shop_so_far	You are too far to trade.
+msg.trade.take_item_other	Obtained {1} from {0}.
+msg.trade.too_much_money_bank	You have too much money, aww man!\nYou can only have 5000000 gold deposited.
+msg.trade.too_much_money_inv	Insufficient inventory for gold.
+msg.trade.untradable_item	Item cannot be traded.
+msg.trade.warning.no_trade_so_far	You are too far to trade.
+msg.transform_timeover	Transformation ends in 10 seconds.
+msg.transform_unavailable	Transformation is not available for the rest of the day.
+msg.treasurechest.cannot_open_chest	Unable to open chest.
+msg.treasurechest.find_event_item	{0} has found {1}.
+msg.treasurechest.kill_monster_first	Kill the monsters guarding the chest.
+msg.tutorial.success	Success!
+msg.unable_chat_area_1	You are in a silent zone. Chat is disabled.
+msg.unable_chat_area_2	Chat is disabled in the silent zone.
+msg.unable_chat_by_gm	You are silenced by a GM.
+msg.unable_chat_by_gm_minute	You are silenced by a GM. You may resume chat in {0} minutes.
+msg.unable_chat_silence_mode	Unable to chat in a silent zone.
+msg.untrain.compensate_exp	Skill Level Unranking Compensation\n\n Experience: {0}\n Gold: {1}
+msg.vehicle.aready_ride	Already riding.
+msg.vehicle.cannnot_pickup	Cannot ride pet.
+msg.vehicle.cannot_get_off_stop	Cannot get off while in motion.
+msg.vehicle.cannot_pickupnpc	NPCs cannot ride pets.
+msg.vehicle.cannot_ride	Unable to ride.
+msg.vehicle.cannot_ride_arena	Cannot ride in the arena.
+msg.vehicle.cannot_ride_cutscene	Currently viewing cutscene.
+msg.vehicle.cannot_ride_enchant	Currently enchanting.
+msg.vehicle.cannot_ride_no_allow	Request was refused.
+msg.vehicle.cannot_ride_no_allow_owner	Request was refused.
+msg.vehicle.cannot_ride_no_seat	No empty seat available.
+msg.vehicle.cannot_ride_not_party	Not in the same party.
+msg.vehicle.cannot_ride_npc_talk	Currently talking to NPC.
+msg.vehicle.cannot_ride_obstacle	Cannot ride due to obstacle.
+msg.vehicle.cannot_ride_passenger_dead	Passenger cannot be unconscious.
+msg.vehicle.cannot_ride_personal_shop	Viewing personal shop.
+msg.vehicle.cannot_ride_pet	Pets cannot ride.
+msg.vehicle.cannot_ride_pet_pvp	Currently in a pet duel.
+msg.vehicle.cannot_ride_sitdown	Cannot ride while sitting down.
+msg.vehicle.cannot_ride_skill	Cannot ride while skill is active.
+msg.vehicle.cannot_ride_too_far	Too far to ride.
+msg.vehicle.cannot_ride_trade	Currently in a trade.
+msg.vehicle.cannot_ride_vehicle_dead	Currently unconscious.
+msg.vehicle.cannot_ride_when_moving	Cannot ride while in motion.
+msg.warp_unable_while_unmovable	Cannot be unconscious during warp.
+object.memotitle	<<CAUTION>>
+object_airballoon.1	Cannot board hot-air balloon during battle.
+object_airballoon.2	Cannot board hot-air balloon while in motion.
+object_airballoon.3	Cannot board hot-air balloon while it is in flight.
+object_airballoon.4	Maximum number of passengers reached.
+object_airballoon.5	Cannot board a hot-air balloon about to break.
+object_airballoon.6	You must be in the hot-air balloon party to board.
+object_airballoon.7	Too far away to board.
+object_airballoon.8	If you leave the area, board another hot-air balloon, or go offline, you will lose your stars.\nYou will not be able to turn them in to Kelpie for a reward.
+object_airballoon.9	The hot-air balloon is falling.
+object_airballoon.10	The hot-air balloon is damaged.
+object_airballoon.11	The hot-air balloon is falling.
+object_airballoon.12	The hot-air balloon is damaged.
+object_airballoon.13	Player limit for the hot-air balloon exceeded.
+object_bridge.1	{0} successfully established {1}.
+object_bridge.2	The bridge has collapsed.
+object_character.2	Switched to control mode.
+object_character.3	Switched to control mode.
+object_character.4	Mushrooms have appeared.
+object_character.5	Mushrooms have disappeared.
+object_character.6	Switched to control mode.
+object_character.7	Switched to normal mode.
+object_character.8	{0} 大会志願者の募集を開始します。
+object_character.9	大会志願者の募集を開始できません。
+object_character.10	{0} 大会を開始します。
+object_character.11	大会を開始できません。
+object_character.12	{0} 大会を終了します。
+object_character.13	大会を終了できません。
+object_character.14	{0} 大会の段階を {1}に変更します。
+object_character.15	大会の段階を変更できません。
+object_character.16	モンスターレイドがコンソールモードで動作するようになります。
+object_character.17	モンスターレイドが一般モードで動作するようになります。
+object_character.18	レイド {0}の stateを {1}に変更します。
+object_character.19	mclist.csv에 함수 목록이 저장되었습니다.
+object_character.20	스트립트 함수 목록을 파일로 덤프합니다.
+object_character.21	(No registration instructions.)
+object_character.22	(No registered uses.)
+object_character_hc.1	Night-time exploration bonus: +{0} experience
+object_character_hc.2	Too far away to share food.
+object_character_hc.3	Pets cannot perform gestures.
+object_character_hc.4	Cannot perform gesture while moving.
+object_character_hc.5	Cannot perform gesture while skill is active.
+object_character_hc.6	Cannot perform gesture while riding.
+object_character_hc.7	Cannot perform gesture while riding.
+object_character_hc.8	Non-exclusive status.
+object_character_hc.9	Exclusive status has been lifted.
+object_character_hc.10	Non-removable exclusive potion.
+object_character_hc.11	Unable to remove exclusive status.
+object_character_hc.12	Failed to use the potion.
+object_characteretc.1	Exploration: +{0} experience 
+object_characteretc.2	(weak monster) Exploration: +0 experience 
+object_characteretc.3	Now that I'm sitting, I feel much more relaxed.
+object_characteretc.4	Resting has sped up recovery.
+object_characteretc.5	I can share food with other people like this.
+object_characteretc.6	Sheep remaining: {0}
+object_characteretc.7	Protect the sheep from the wolf attacks.
+object_characteretc.8	締め切り時間まで{0}
+object_characteretc.9	残っている羊: {0}匹
+object_characteretc.10	受けられる試験がありません。
+object_characteretc.11	修理に失敗したが、修理保護ポーションの効果で耐久度は減少しなかった。
+object_characteretc.12	{0} Fusion Bonus\n
+object_characteretc.13	Fusion bonus disappeared.
+object_characteretc.14	Insufficient Jousting points.
+object_characteretc.15	Bank transaction failed.
+object_characteretc.16	Bank transaction failed.
+object_characteretc.17	Not enough {0}.
+object_characteretc.18	Not enough points.
+object_characteretc.19	You cannot ask for help.
+object_characteretc.20	You cannot ask for help.
+object_characteretc.21	You can only send out one request per day.
+object_characteretc.22	Waiting for a reply.
+object_characteretc.23	There is nobody around to help. Try again later.
+object_characteretc.24	You have issued a request for help.
+object_characteretc.25	Falias still exists. Try quitting your current party and forming a new one.
+object_characteretc.26	Eclipse Wing has dispersed.
+object_characteretc.27	Eclipse Wing has been deactivated due to lack of experience values.
+object_characteretc.28	You have not received any rewards.
+object_characterevent.1	首長の祝福が消えました。
+object_characterevent.2	首長の祝福が消えました。
+object_characterevent.3	首長の祝福が消えました。
+object_characterevent.4	누적 레벨 30 이상이 되시면 무료 서비스 제공이 중단되오니, 이용에 착오 없으시기 바랍니다.
+object_characterevent.5	キャラクター移動が正常に行われなかったため、帰還アイテムを削除しました。
+object_characterevent.6	キャラクター移動が正常に行われなかったため、帰還アイテムを削除しました。
+object_characterevent.7	{0}が地面に落ちました。
+object_charactermsg.1	今は移動できない状態です。
+object_charactermsg.2	{0}님 새해 복 많이받으세요.
+object_charactermsg.3	{0} 번째 새해 메세지로 예약되었습니다.
+object_charactermsg.4	[몰입방지안내] 현재 {0}시간째 플레이중입니다.
+object_charactermsg.5	[몰입방지안내] 플레이 시간이 {0}시간을 초과하였습니다. 경험치, 골드 및 아이템 드랍율 50% 패널티가 적용됩니다. 게임 종료후 5시간이 지나면 초기화됩니다.
+object_charactermsg.6	[몰입방지안내] 플레이 시간이 {0}시간을 초과하였습니다. 경험치, 골드 및 아이템을 받을 수 없습니다. 게임 종료후 5시간이 지나면 초기화됩니다.
+object_charactermsg.7	{0}님 즐거운 추석되세요.
+object_charactermsg.8	昇段試験を申請しました。
+object_charactermsg.9	今日はこれ以上試験を受けることができません。
+object_charactermsg.10	受験資格がありません。
+object_charactermsg.11	すでに昇段試験の申請済みです。
+object_charactermsg.12	インベントリにお金が足りません。
+object_charactermsg.13	試験の進行中ではありません。
+object_charactermsg.14	参加人数が上限に達しました。これ以上参加することはできません。
+object_charactermsg.15	昇段試験待機室に移動することができません。
+object_charactermsg.16	1段低い試験に変更することができません。
+object_charactermsg.17	試験は戦闘、魔法、生活にわけられており、それぞれ1日に1回受けることが出来ます。\n今日はこれ以上試験を受けることが出来ません。
+object_charactermsg.18	プレゼントとの交換をキャンセルしました。
+object_charactermsg.19	願い事をしっかりとくくりつけた。なにかいいことが起りそうな予感がする。
+object_charactermsg.20	このエモーションは使用できません。
+object_charactermsg.21	허용되지 않는 캠프 이름입니다. 다시 입력하세요.
+object_charactermsg.22	허용되지 않는 캠프 이름입니다. 다시 입력하세요.
+object_charactermsg.23	(開発)ボーナス名前の色が {0}番目の色に変わった。 - {1}
+object_charactermsg.24	(開発)名前の色が {0}番目の色に変わった。 - {1}
+object_charactermsg.25	Name color has been changed.
+object_charactermsg.26	Special statuses have been temporarily lifted.
+object_charactermsg.27	Shadow spirits have been fully absorbed.
+object_charactermsg.28	Only VIP players may summon.
+object_charactermsg.29	The script has expired.
+object_charactermsg.30	You cannot participate in this difficulty.
+object_charactermsg.31	Only you or the party leader may participate in this drama.
+object_charactermsg.32	You cannot select a new drama while the current drama or shadow mission is in progress.
+object_charactermsg.33	Pet transactions cannot be completed while they are summoned.
+object_charactermsg.34	You do not have any pet badges.
+object_charactermsg.35	You do not have any pet badges.
+object_charactermsg.36	The information on the badge is incorrect.
+object_charactermsg.37	The information on the badge is incorrect.
+object_charactermsg.38	The badge has been traded.
+object_charactermsg.39	Pet cannot be traded.
+object_charactermsg.40	Pet cannot be traded.
+object_charactermsg.41	You can only have up to 80 characters.\nPet cannot be traded.
+object_charactermsg.42	You can only have up to 20 pets.\nPet cannot be traded.
+object_charactermsg.43	Pet name must be between 3~12 characters.
+object_charactermsg.44	Pet name contains banned text.
+object_charactermsg.45	Pet name could not be used.
+object_charactermsg.46	You do not own the pet badge.
+object_charactermsg.47	Pet cannot be traded.
+object_charactermsg.48	Pet cannot be traded.
+object_charactermsg.49	Pet transfer failed.
+object_charactermsg.50	Pet transfer success.
+object_charactermsg.51	Pet transfer success.
+object_charactermsg.52	(Daily Mission)
+object_charactermsgnpctalk.1	離れすぎています。
+object_charactermsgnpctalk.2	首長の祝福で {0}しました。
+object_charactermsgnpctalk.3	アイリには祝福の精霊リキュールを使用できません。
+object_cherrytree2008korea.1	桜が満開になった。
+object_christmastree.1	Use decorations to adorn the Christmas Tree.
+object_christmastree.2	The Christmas Tree is getting prettier!
+object_christmastree.3	The Christmas Tree is beautifully decorated.
+object_christmastree.4	The Christmas Tree decorations disappeared.
+object_christmastree.5	Use decorations to pretty up the tree!
+object_christmastree.6	Hang some ornaments on the tree!
+object_christmastree2008_foreign.1	Light up the Christmas Tree with candles!
+object_christmastree2008_foreign.2	The Christmas Tree is beautifully lit.
+object_dartgameprop.1	15秒後に競技が始まります。\nパーティーメンバーは直ちにダーツボード前に集まってください。
+object_dartgameprop.2	パーティーメンバーが集まらなかったため、ゲームが取消されました。
+object_dartgameprop.3	時間切れ！！
+object_dartgameprop.4	ミニゲーム開始まであと{0}チームです。
+object_dartgameprop.5	結果発表\n\n
+object_dartgameprop.6	{0}位 : {1} - {2}点\n
+object_dartgameprop.7	\nおめでとうございます！
+object_dartgameprop.8	順位内のプレイヤーがいません。
+object_dragonfearsite.1	ドラゴンの咆哮は、忠実なペットですら恐怖に震えさせる。
+object_eventflag.1	まだイベントが始まる前だ。相手側のスイカパラソル前に立っていよう。
+object_eventflag.2	まだイベントが始まる前だ。
+object_eventflag.3	NPCに声をかけてチームに所属しなければならない。
+object_eventflag.4	相手側のスイカを持ってこよう。
+object_eventflag.5	スイカを拾っている。
+object_eventflag.6	点数獲得！
+object_eventflag.7	スイカを回収してきた。
+object_eventflag.8	2秒間スイカを拾い上げる状態になる。その間に攻撃されないよう注意しよう。
+object_eventflag.9	スイカを拾っている最中だ。
+object_eventflag.10	2秒間スイカを拾い上げる状態になる。その間に攻撃されないよう注意しよう。
+object_eventflag.11	味方側のスイカを持っている。味方側のスイカパラソルに回収してこよう。
+object_eventhall.1	1分後に公演が始まります。しばらくお待ち下さい。
+object_eventhall.2	1分後に公演が始まります。しばらくお待ち下さい。
+object_eventhall.3	公演を始めます。お楽しみ下さい！
+object_eventhall.4	公演残り時間
+object_eventhall.5	誰も舞台に登壇しなかったため公演がキャンセルされました。
+object_eventhall.6	公演残り時間
+object_eventwatermelonflag.1	まだイベントが始まる前だ。相手側のスイカパラソル前に立っていよう。
+object_eventwatermelonflag.2	まだイベントが始まる前だ。
+object_eventwatermelonflag.3	NPCに声をかけてチームに所属しなければならない。
+object_eventwatermelonflag.4	凍った状態で触ることはできない。
+object_eventwatermelonflag.5	相手側のスイカを持ってこよう。
+object_eventwatermelonflag.6	スイカを拾っている。
+object_eventwatermelonflag.7	点数獲得！
+object_eventwatermelonflag.8	スイカを回収してきた。
+object_eventwatermelonflag.9	2秒間スイカを拾い上げる状態になる。その間に攻撃されないよう注意しよう。
+object_eventwatermelonflag.10	スイカを拾っている最中だ。
+object_eventwatermelonflag.11	味方側のスイカを持っている。味方側のスイカパラソルに回収してこよう。
+object_eventwatermelonflag.12	すでにこのスイカを持っている。味方側のスイカパラソルまで無事に到着しよう。
+object_hamletsswordprop.1	(Go closer to inspect it...)
+object_hamletsswordprop.2	The sword is engulfed by flame. Using bare hands would be crazy!
+object_hamletsswordprop.3	You must first uncover Elsinore's secrets.
+object_hamletsswordprop.4	You can use Elsinore's sword.
+object_hammergameprop.1	15秒後に競技が始まります。\nパーティーメンバーは直ちにハンマーゲームの前に集まってください。
+object_hammergameprop.2	パーティーメンバーが集まらなかったため、ゲームが取消されました。
+object_hammergameprop.3	大当たりだ～!!!
+object_hammergameprop.4	大当たりだ～!!!
+object_hammergameprop.5	時間切れです。
+object_hammergameprop.6	ミニゲーム開始まであと{0}チームです。
+object_hammergameprop.7	結果発表\n\n
+object_hammergameprop.8	{0}位 : {1} - {2}点\n
+object_hammergameprop.9	\nおめでとうございます！
+object_hammergameprop.10	順位内のプレイヤーがいません。
+object_hammergameprop.11	パーティーメンバーがログアウトしたため、ゲームが中断されました。
+object_hammergameprop.12	\n\n\n\n\nハンマーを叩いてください!!!\n30秒内に叩かないと取消されます。
+object_hammergameprop.13	{0}さんの順番です。
+object_hotspring.1	Your body fat is melting away.
+object_hotspring.2	Your body is absorbing the water's nutrients.
+object_hotspring.3	Your muscles are shrinking.
+object_hotspring.4	Your muscles are enlarging.
+object_hotspring.5	You are recovering from injury.
+object_instantzone.1	You can enter in {0} seconds.
+object_instantzone.2	You can enter in {0} seconds.
+object_instantzonebase.1	Monster server is down, Shadow World Failed!
+object_instantzonebase.2	Monster server is down, Dungeon Failed!
+object_item.3	Collecting speed increased, repair fees increased
+object_item.4	Collecting speed increased, repair fees increased
+object_item.5	Splash radius increased
+object_item.6	Splash radius decreased
+object_item.7	Splash angle increased
+object_item.8	Splash angle decreased
+object_item.9	Splash damage increased
+object_item.10	Splash damage decreased
+object_item.11	Magic deflect {0}% increase
+object_item.12	Magic deflect {0}% decrease
+object_item.13	Melee deflect {0}% increase
+object_item.14	Melee deflect {0}% decrease
+object_item.15	Ranged attack {0}% increase
+object_item.16	Ranged attack {0}% decrease
+object_item.17	Magic fusion +{0}
+object_item.18	Magic fusion -{0}
+object_item.19	Mana consumption -{0}
+object_item.20	Mana consumption +{0}
+object_item.21	Mana evaporation -{0}
+object_item.22	Mana evaporation +{0}
+object_item.23	Casting speed +{0}%
+object_item.24	Casting speed -{0}%
+object_item.25	Magic damage +{0}%
+object_item.26	Magic damage -{0}%
+object_itemuse.1	家設定カードで家の設定を変更しました。
+object_itemuse.2	PVP 페널티를 초기화 하였습니다.
+object_itemuse.3	料理大会用の食べ物は食べられません。
+object_itemuse.4	내 모습이 마치 어린아이처럼 작아졌다.
+object_itemuse.5	이 약을 먹어봐야 전투시 경험치가 더 늘 것 같지 않다.
+object_itemuse.6	고급 상자 열쇠가 있어야 열 수 있습니다.
+object_itemuse.7	고급 상자 열쇠나 일반 상자 열쇠가 있어야 열 수 있습니다.
+object_itemuse.8	何か採集したい欲求が燃え上がり始める。
+object_itemuse.9	まだ採集速度増加ポーションの効果が残っています。
+object_itemuse.10	これ以上のエリクサーは体が受け付けない！
+object_itemuse.11	ペットが {0}歳の姿になりました。
+object_itemuse.12	{0}歳の姿になりました。
+object_itemuse.13	아직 이 포션의 효과가 남아 있다.
+object_itemuse.14	아직 이 포션의 효과가 남아 있다.
+object_itemuse.15	금 상자 열쇠가 있어야 열 수 있습니다.
+object_itemuse.16	은 상자 열쇠가 있어야 열 수 있습니다.
+object_itemuse.17	동 상자 열쇠가 있어야 열 수 있습니다.
+object_itemuse.18	手が滑りやすくなったようだ。
+object_itemuse.19	生産失敗ポーションの効果が消えた。
+object_itemuse.20	まだこのポーションの効果が残っている。
+object_itemuse.21	全身に熟練した感じがみなぎり始める。
+object_itemuse.22	熟練のポーションの効果が消えた。
+object_itemuse.23	まだこのポーションの効果が残っている。
+object_itemuse.24	まだこのポーションの効果が残っている。
+object_itemuse.25	全身に熟練した感じがみなぎり始める。
+object_itemuse.26	熟練のポーションの効果が消えた。
+object_itemuse.27	まだこのポーションの効果が残っている。
+object_itemuse.28	すでに該当のポーションを使用中です。
+object_itemuse.29	エリン定着サポータークエストがありません。
+object_itemuse.30	エリン定着サポータークエストが完了可能時間を超過しました。
+object_itemuse.31	助けを要請したキャラクターが見つかりません。
+object_itemuse.32	ベテラン冒険家{0}さんが到着しました。
+object_itemuse.33	{0}さんのところに到着しました。あなたの能力を見せてください。 
+object_itemuse.34	関連イベントが終了したため使用できません。
+object_itemuse.35	その場所へ移動できません。
+object_itemuse.36	{0}{을} 사용하여 다음 그림자 미션 보상이 증가합니다
+object_itemuse.37	いいことが起こりそうな気がする。
+object_itemuse.38	アイテムドロップ確率増加ポーションの効果が消えた。
+object_itemuse.39	낚시가 잘 될 것 같다.
+object_itemuse.40	낚시 확률 증가 포션의 효과가 사라졌다.
+object_itemuse.41	使用できない地域です。
+object_itemuse.42	エイヴォンの羽根は
+object_itemuse.43	再度使用できます。
+object_itemuse.44	移動できません。
+object_mapletree.1	紅葉が赤く染まった。
+object_marinagate.1	クルクレを出る、他の船に乗る、ログアウトするなどの行動をした場合は獲得した星を失います。\n先住民と会話すると、獲得した星に応じて報酬が受け取れます。
+object_marinagate.2	私が乗れるイカダは無さそうだ。
+object_marinagate.3	動くイカダには乗れないようだ。
+object_marinagate.4	私が乗れるイカダではないようだ。
+object_partygameprop.1	ゲームを開始するための人数が足りません。
+object_partygameprop.2	乗り物に乗っているキャラクターがいるため、ゲームをスタートすることができません。
+object_partygameprop.3	スキル唱中のキャラクターがいるため、ゲームをスタートすることができません。
+object_partygameprop.4	取引中のキャラクターがいるため、ゲームをスタートすることができません。
+object_partygameprop.5	会話中のキャラクターがいるため、ゲームをスタートすることができません。
+object_partygameprop.6	ミニゲームにいないキャラクターがいるため、ゲームをスタートすることができません。
+object_partygameprop.7	存在していないキャラクターがいるため、ゲームをスタートすることができません。
+object_partygameprop.8	ペットなどがいるためゲームを開始できません。
+object_prop.1	Goldをドラッグすると演奏者に渡すことができます。
+object_prop.2	取引できないアイテムです。
+object_prop.3	{0}さんに{1} Goldを渡しました。
+object_prop.4	{0}さんから{1} Goldを受け取りました。
+object_prop.5	演奏者のインベントリに空きがありません。
+object_prop.6	Goldのみ入れることができます。
+object_prop.7	Information\n案内
+object_prop.8	{0}の畑です。
+object_prop.9	主人のいない空き畑です。
+object_prop.10	データの読み込みに失敗しました。\nしばらくしてから再びお試しください。
+object_prop.11	エラー\nError
+object_prop.12	原因不明のエラーが発生しました。
+object_prop.13	エラー\nError
+object_prop.14	他の農場ですでにワインを作っています。
+object_prop.15	エラー\nError
+object_prop.16	ペットはワインを作ることが出来ません。
+object_prop.17	お知らせ
+object_remembrancetree.1	나무가 자라기 시작한 것 같다.
+object_remembrancetree.2	나무가 좀 더 자란 것 같다.
+object_remembrancetree.3	나무가 다 자란 것 같다.
+object_remembrancetree.4	나무가 원래 상태로 돌아갔다.
+object_remembrancetree.5	좋은 흙을 나무에 뿌렸다.
+object_remembrancetree.6	나무 회복약을 나무에 뿌렸다.
+object_remembrancetree.7	설산의 깨끗한 샘물을 나무에 뿌렸다.
+object_remembrancetree.8	이 아이템은 나무에 줄 수 없을 것 같다.
+object_remembrancetree.9	더 이상 아이템을 나무에 주지 않아도 될 것 같다.
+object_remembrancetree.10	더 이상 아이템을 나무에 주지 않아도 될 것 같다.
+object_sealpot.1	発見者のみ開けることができるようだ。
+object_sealstonehandler.1	\"今はまだ壊すことが出来ないようだ。\"
+object_sealstonehandler.2	\"もう少し待つ必要があるようだ\"
+object_sealstonehandler.3	\"今はまだ壊すことができないようだ。\"
+object_sealstonehandler.4	\"諸君、私は一足先に新しい村に行かせてもらう！\" - P
+object_sealstonehandler.5	\"何？わたしは出てこない？\" - インプ
+object_sealstonehandler.6	\"犯人は足の不自由な人物だ！\" - スポイラーマン
+object_sealstonehandler.7	\"海に行きたい…ああ\" - B
+object_sealstonehandler.8	\"私たちも話していいのかな？\" - ???
+object_sealstonehandler.9	\"か…怪物が！ウッ\" - スポイラーマン
+object_sealstonehandler.10	\"クルルルル…\" - 怪物
+object_sealstonehandler.11	\"ゲームも変化がなくちゃ面白くないよね。\" - マラン
+object_sealstonehandler.12	\"私たちも出るみたい!!ザワザワ\" - ???
+object_sealstonehandler.13	\"ドラゴンの騎士になれば…ウッ\" - スポイラーマン
+object_sealstonehandler.14	\"スポイラーマン、バリダンジョンに送っちゃった\" - さっきのインプ
+object_sealstonehandler.15	\"マビノギの次のチャプターをお楽しみに！Coming Soon!にゃん\" - デブキャット
+object_sealstonehandler.16	まだこの封印を解除することはできない
+object_sealstonehandler.17	\"いち！に！それだ！…?!\" - レイナルド
+object_sealstonehandler.18	\"おっと、これはすまない。ハッハッハッ。\" - ファーガス
+object_sealstonehandler.19	\"俺のようにタフでなければ壊せないのだ。ハハッ…\" - トレイシー
+object_sealstonehandler.20	\"…イビー、そんなことできない…。\" - イビー
+object_sealstonehandler.21	\"おまえ！ちょっとは運動しろ！やせすぎだ！\" - マヌス
+object_sealstonehandler.22	\"こんなことよりあなたのファッションセンスを気にしなさいな。\" - シモン
+object_sealstonehandler.23	\"ハア…ハア…ここの石はちょっと…ハア…変わってるぞ…\" - セイマス
+object_sealstonehandler.24	\"斧を振り回しすぎて腕が痛い。誰かシップを買ってくれ～\" - トレイシー
+object_sealstonehandler.25	\"この後ろに何があるのかしら？ああっ、気になるわ！リカド～～～？お前知ってる？\" - ジェニファー
+object_sealstonehandler.26	\"イビーならこの封印石の向こうの村にもきっと行ったことがあるんだろうな。\" - ショーン
+object_sealstonehandler.27	\"わあっ、ここが開けば新刊がたくさん入荷するかな！\" - アイラ
+object_sealstonehandler.28	\"タラに行けば弟の病気を治せるかしら？\" - ルア
+object_sealstonehandler.29	\"ワンワン！\" - ラブ
+object_sealstonehandler.30	まだこの封印石を解除することはできない
+object_sealstonehandler.31	今は解くことが出来ません。
+object_sealstonehandler.32	秘密が込められた書籍を持った者だけがこの封印を解くことができる。
+object_sealstonehandler.33	思索とは時として病を生むが、多くの思索を行った者こそがこの封印石を壊すことができる。
+object_sealstonehandler.34	誰が見ても錬金術師と認められる者のみがこの封印を解ける。
+object_seesaw.1	シーソーの板が壊れました。
+object_seesaw.2	シーソーの板が壊れました。
+object_ship.1	You cannot use someone else's paddle.
+object_ship.2	Reached destination safely.\n\nTime: {0} minutes, {1} seconds
+object_ship.3	Boat Race
+object_skijumpprop.1	待機者が多すぎます。しばらくしてから再度お試しください。
+object_skijumpprop.2	準備
+object_skijumpprop.3	スタート！
+object_skijumpprop.4	現在スキージャンプ待機中ですね。ジャンプを楽しんで再び申請してください。
+object_skijumpprop.5	現在非常に多くの方が待機しています。しばらくしてから再び申請してください。
+object_skijumpprop.6	インベントリを空けてから再び申請してください。
+object_skijumpprop.7	現在、番号札{0}番の方が滑っています。しばらくお待ちください。
+object_skijumpprop.8	申請後に入場できます。
+object_skijumpprop.9	{0}番のお客様は{1}秒以内にスキージャンプ台に入場してください。
+object_snowman.1	雪のかたまりで、雪だるまを作ってみよう。
+object_snowman.2	雪のかたまりと飾りで、雪だるまを作ってみよう。
+object_snowman.3	少しずつ雪だるまの形になってきた。雪のかたまりをもっと足そう。
+object_snowman.4	だいぶ雪だるまらしくなった。雪のかたまりをもっと足してみよう。
+object_snowman.5	もうちょっと頑張れば立派な雪だるまになりそうだ。雪のかたまりと飾りをもっと足してみよう。
+object_snowman.6	ステキな雪だるまが完成した。
+object_snowman.7	雪だるまが崩れた。
+object_snowman.8	雪のかたまりを固めて足していけば、雪だるまが作れそうだ。
+object_snowman.9	雪のかたまりのほかにも、雪だるまを飾る材料を足してみよう。
+object_snowman.10	雪だるまが少し大きくなってきた。もう少し雪のかたまりと飾りを足してみよう。
+object_snowman.11	雪だるまがたいぶ大きくなってきた。もう少し雪のかたまりを足してみよう。
+object_snowman.12	雪だるまが可愛いかんじになってきた。もう少し飾りを足してみよう。
+object_snowman.13	飾りを作って、雪だるまを飾ってみよう。
+object_snowman.14	もうちょっと頑張れば立派な雪だるまになりそうだ。もっと飾りを増やしてみよう。
+object_treasurechest.1	海の中の古代遺物を開けることが出来ません。
+object_valentinestoneprop.1	溢れ出んばかりの愛の力でチョコレートソードを抜いた！
+object_valentinestoneprop.2	お前にチョコレートの味が分かるのか！？|あなたはまだチョコレートの味を理解できてない。|未熟！|フハハハハッ！|まだまだのようです|まだまだです|だめですね|チョコレートの味を理解する必要がある|まだ真のチョコレートの味へ至っていない|チョコレートの味を理解しなければ無理のようだ|ふぅ………|まだチョコレートが何たるものか理解できていないようだ|チョコレートの味を理解できてない|愛が足りない！|無理っぽい|まだまだまだです|まだまだまだまだです|チョコレートを甘く見てはいけない|（チョコレートソードはピクリとも動かない）|もう少し愛が必要だ|もっと愛を…|チョコレートの深淵には辿りつけていないようだ|（チョコレートソードを抜くことは出来なかった）|貴方にはもう少しチョコレートが必要だ
+object_valentinestoneprop.3	すでに剣は抜いている。
+object_whitedaystoneprop.1	満ち溢れんばかりの愛の力でキャンディーソードを抜いた！
+object_whitedaystoneprop.2	あなたはまだ愛を知らないみたいです|あなたはまだキャンディーの味を理解できていないようです|くすっ|キャンディーの味をもっと知る必要があるみたいです|まだ愛を深く知る必要があるようです|キャンディーを通じて愛を知る必要があるみたいです|とりあえず愛が足りないみたいです|足りないみたいです|がんばってくださいね|がんばってくださいー|恋に恋するお年頃っ！ということでしょうか？|甘くて美味しいキャンディーはいかがですか？|（キャンディーソードはピクリとも動かなかった）|キャンディーが足りないようです|あ…あのそろそろ体重が気になったりしません？|がんばってくださいねっ！|ふぁいとー|キャンディーがもう少し必要みたいです。|あ…やっぱ怒ってます…？|（キャンディーソードはまだ抜けない）|（キャンディーソードはまだまだ抜けない）|（キャンディーソードはまだまだまだ抜けない）|（キャンディーソードもそろそろ抜けたそうにしてる）|（キャンディーソードはなんだかすまなそうだ）
+object_whitedaystoneprop.3	すでに剣を抜いています。
+object_wishtree.1	紙を入れると、願い事を書くことが出来る。\nまた、探検で手に入れた「願い事の紙」を入れると、プレゼントをもらうことが出来る。
+object_wishtree.2	願い事の紙が昇華している最中だ。
+object_wishtree.3	おみくじをくくりつけた。
+object_wishtree.4	紙を入れると、願い事を書くことが出来る。\n願い事の紙を入れると、プレゼントをもらうことが出来る。
+object_wishtree.5	願い事の紙が昇華中でない時のみ、紙をくくりつけることが出来る。
+object_wishtree.6	願い事の紙が昇華中でない時のみ、プレゼントを交換することが出来る。
+object_wishtree.7	願い事の紙が昇華中でない時のみ、おみくじをくくりつけることが出来る。
+object_wishtree.8	願い事の紙が昇華している最中だ。
+object_wishtree.9	願い事の紙が、昇華して天に飛んで行きはじめた。
+party.13	[合奏] {0}
+pettrainingkit.1	ペットを呼び出して使用しなければなりません。
+pettrainingkit.2	行動不能なペットには使用できません。
+pettrainingkit.3	現在呼び出したペットには合わない訓練キットです。
+pettrainingkit.4	{0}に訓練が適用されました。
+pettrainingkit.5	{0} スキル +{1} ランク
+pettrainingkit.6	{0} スキル {1} ランク
+plw_pvpdescmgr.1	순위 목록을 받아오지 못했습니다.
+plw_pvpdescmgr.2	순위보기
+plw_pvpdescmgr.3	순위 목록을 받아오지 못했습니다.
+plw_pvpdescmgr.4	순위보기
+promotionevent.1	Earned {0} bonus points!!!
+promotionevent.2	{0} points gained.
+promotionevent.3	Earned {0} bonus points!!!
+promotionevent.4	{0} points gained.
+promotionevent.5	{0} points gained.
+promotionevent.6	{0} points gained.
+promotionevent.7	Earned {0} bonus points!!!
+promotionevent.8	{0} points gained.
+promotionevent.9	{0} points gained.
+promotionmgr.1	Advancement Tests are being conducted. The skills in progress are:
+promotionmgr.2	The Advancement Test has been completed.
+promotionmgr.3	Because the test was not performed within the time limit, \n{0} {1} training value was lost.\nThe results are as follows.\n\nAbility Points {2} increase\n{3} Returned to rank\nTraining {4} decreased
+promotionmgr.4	Because the test was not performed within the time limit, \n{0} {1} training value was lost.\nThe results are as follows.\n\nTraining {2} decreased
+promotionmgr.5	Remaining recruitment time: {0}
+promotionmgr.6	Number of challengers: {0}
+promotionmgr.7	Because the test was not performed within the time limit, \n{0} {1}training value was lost.\nThe results are as follows.\n\nAbility Points {2} increase\n1 Returned to rank
+promotionmgr.8	{0} Applied for the Advancement Test with gold.
+promotionmgr.9	Today, Advancement Tests are being held in Emain Macha. The following skills are available for the exam.
+promotionmgr.10	{0} Advancement Test completed.
+promotionmgr.11	{0} hours {1} minutes
+promotionmgr.12	{0} hours {1} minutes
+promotionmgr.13	From {1} to {2}, Advancement Tests are to be held in Emain Macha. The following skills are available for the exam.
+promotionmgr.14	Currently, Advancement Tests are being conducted at all sites.\nYou will be able to take the exam after the next recruitment.
+promotionroom.1	Life
+promotionroom.2	Combat
+promotionroom.3	Magic
+promotionroom.4	Other
+promotionroom.5	Start the exam.
+promotionroom.6	{0} time remaining
+promotionroom.7 {0} until the test begins.
+promotionroom.8	The exam is over.\nYou will move to the lobby in {0} seconds.
+promotionroom.9	Advancement Test success!
+promotionroom.10	Advancement Test was a huge failure...
+promotiontest.1	{0} until the test begins.
+promotiontest.2	Take this time to set up skill hotkeys.
+promotiontest.4	{0} until the test begins.
+promotiontest.5	Take this time to set up skill hotkeys.
+promotiontest.6	Current Score: {0}
+questcomponent.1	Shadow Mission Party
+questcomponent.2	A shadow mission is already in progress.
+questcomponent.3	Your level is too low.
+questcomponent.4	Only the party leader can accept missions.
+questcomponent.5	The Shadow mission quest has failed and cannot be given to you.\n If you have tried to reach this with normal means please Contact GM!
+questcomponent.6	Unable to accept shadow mission.
+questcomponent.7	The Shadow mission quest has failed and cannot be given to you.\n If you have tried to reach this with normal means please Contact GM!
+questcomponent.8	パーティーリーダーのみ掲示板に登録できます。
+questcomponent.9	Party does not exist.
+questcomponent.10	No shadow missions in progress.
+questcomponent.11	Shadow mission information error.
+questcomponent.12	ミッションに必要なアイテムがありません。
+questcomponent.13	You still need {0}.
+questcomponent.14	Unable to receive the shadow mission.
+questcomponent.15	퀘스트 디스크립션을 리로딩합니다.
+questcomponent.16	이벤트 중이 아니므로 그림자 미션을 받을 수 없습니다.
+questcomponent.17	エリートミッションを受けると、\n{0} アイテムがなくなり、\nミッションを放棄しても復旧されません。
+questcomponent.18	エリートミッションを遂行するためには、専用通行証が必要です。\nエリートミッション通行証は、影の世界の宝箱から手に入ります。
+questcomponent.19	誤ったミッションです。
+questcomponent.20	エリートミッションを遂行するためには、専用通行証が必要です。\nエリートミッション通行証は、影の世界の宝箱から手に入ります。
+questcomponent.21	今日のミッション
+realtimemessagefilter.1	입력하신 문장에 허용되지 않는 단어가 포함되어 있습니다.
+ruin.1	유적이 열려있지 않습니다
+ruin.2	この遺跡に捧げることの出来ないアイテムだ。
+ruin.3	この遺跡に捧げることの出来ないアイテムです。
+scriptcharacteretc.1	character.CreateDecal() : この関数はdevelopmentモード専用です。リリースバージョンでは作動しません。
+scriptcharacteretc.2	character.FindDecal() : この関数はdevelopmentモード専用です。リリースバージョンでは作動しません。 
+scriptcharacteretc.3	character.DestroyDecal() :この関数はdevelopmentモード専用です。リリースバージョンでは作動しません。
+scriptcharacterevent.1	오랜만에 에린에 돌아와주셨군요!\n감사의 마음을 담아 작은 선물을 준비했습니다.\n인벤토리에서 퍼펙트 스킬 언트레인 캡슐을 확인해보세요.\n\n새롭게 시작된 네번째 챕터와 함께\n언제나 즐거운 모험이 되시기를 바랍니다.
+scriptcharacterevent.2	마지막으로 마비노기를 플레이한 시간은\n{0}년 {1}월 {2}일 {3}시 입니다.
+scriptcharacterevent.3	오랜만에 에린에 돌아와주셨군요!\n감사의 마음을 담아 작은 선물을 준비했습니다.\n인벤토리에서 퍼펙트 스킬 언트레인 캡슐을 확인해보세요.
+scriptcharacterevent.4	마지막으로 마비노기를 플레이한 시간은\n{0}년 {1}월 {2}일 {3}시 입니다.
+scriptcharacteritem.1	{0}{이} 사라졌습니다.
+scriptcharacteritem.2	{0}{이} 사라졌습니다.
+senmagbattleground.1	{0}점 획득하여 현재 {1}점.
+senmagbattleground.2	{0}점 획득하여 현재 {1}점.
+senmagbattleground.3	{0}점 잃어서 현재 {1}점.
+senmagbattleground.4	길드 점수 {0}점 획득하여 현재 {1}점.
+senmagbattleground.5	내 점수 {0}점 획득하여 현재 {1}점.
+senmagbattleground.6	전장에 입장하였습니다.
+senmagbattleground.7	'{0}'님이 전장에 들어왔습니다.
+senmagbattleground.8	깃발을 새로 받게 되어, 생명력이 50% 회복되었습니다.
+senmagbattleground.9	깃발을 받았습니다.
+senmagbattleground.10	'{0}'님이 깃발을 새로 받았습니다.
+senmagbattleground.11	잠시후 센마이 평원에서 길드전이 시작될 예정입니다. 등록을 마치신 길드의 길드원들은 속히 입장해 주시기 바랍니다.
+senmagbattleground.12	센마이 평원에서 길드전이 시작되었습니다. 길드전 도중에도 등록된 길드의 길드원은 길드전에 합류하실 수 있습니다.
+senmagbattleground.13	이번 길드전의 우승 길드는..............................  '{0}' 길드입니다! {1}점을 획득하여 우승하셨습니다. 축하합니다!!!
+senmagbattleground.14	이번 길드전의 우승 길드는 없습니다.
+senmagbattleground.15	센마이 평원에서 있었던 길드전이 종료되었습니다.
+senmagbattleground.16	길드가 우승하여 '{0}' 타이틀을 얻었다.
+senmagbattleground.17	'{0}' 타이틀을 더 이상 사용할 수 없게 되었다.
+senmagbattleground.18	행동불능이 된 상태에서 깃발을 받았으므로, 20초 후에 자동 부활 처리됩니다.
+senmagbattleground.19	길드전이 정식으로 시작되었습니다.
+senmagbattleground.20	길드전이 정식으로 시작되었습니다.\n지금 센마이 전장에 가시면 길드전에 합류하실 수 있습니다.
+senmagbattleground.21	오늘 저녁 8시에 길드전이 시작될 예정입니다. 참가를 원하는 길드의 길드장은 던바튼의 '에반'에게 신청해 주시기 바랍니다.
+senmagbattleground.22	현재 길드전이 진행중입니다. 신청하신 분들인 속히 '센마이 평원 전장'으로 가시기 바랍니다.
+serverauctionmgr.1	{0}アイテムを落札しました。
+serverauctionmgr.2	{0}アイテムがより高値で入札されました。 
+serverauctionmgr.3	{0}アイテムが より高値で入札されたため、入札金{1} Goldが返還されました。
+serverauctionmgr.4	競売人クリアナ
+serverauctionmgr.5	To. {0}様\n\nこんにちは。\nタラ競売場で入札された\n{1}アイテムがより高値で入札されました。 \n\n入札された金額{2}Goldは\n私が保管していますので、お時間のある際にお立ち寄りください。\nでは、次の競売でお会いしましょう。\n\n<b>From. 競売人 クリアナ</b>
+serverauctionmgr.6	まもなく{0}時から{1} タラ競売場で{2}アイテムの競売が始まります。ぜひご参加ください。 
+serverauctionmgr.7	只今よりタラ競売場で競売が始まります。
+serverauctionmgr.8	タラ競売場で今日の競売が終了しました。
+servercapturetheflagmgr.1	5分後にCapture the flagイベントが終了します。
+servercapturetheflagmgr.2	トゥガルドアイル南でCapture the flagイベントが始まりました。
+servercapturetheflagmgr.3	ほか {0}名
+servercapturetheflagmgr.4	({0}点)
+servercapturetheflagmgr.5	なし
+servercapturetheflagmgr.6	Capture the flagイベントが終了しました。レッドチーム  {0}点 : ブルーチーム {1}点      最高得点者 : レッドチーム {2}   ブルーチーム {3}
+servercapturetheflagmgr.7	Capture the flagが終了しました！点数 {0}点、守備ポイント {1}点、奪取ポイント  {2}点を獲得しました！ (チーム最高点数 {3}点 / 最高守備 {4}点 / 最高強奪 {5}点)
+servercapturetheflagmgr.8	Capture the flag
+servercapturetheflagmgr.9	トゥガルドアイル南
+servercapturetheflagmgr.10	5分後に{0}イベントが終了します。 
+servercapturetheflagmgr.11	{0}で{1}イベントが始まりました。
+servercapturetheflagmgr.12	{0}をもらいました。
+servercapturetheflagmgr.13	{0}イベントが終了しました。レッドチーム {1}点 : ブルーチーム {2}点      最高得点者 : レッドチーム {3}   ブルーチーム {4}
+servercontestmgr.1	志願者を見つけられません。
+servercontestmgr.2	現在 {0}で {1}を開催中です。大会参加人員 : {2}名
+servercontestmgr.3	現在 {0} {1}で {2}を開催中です。
+servercontestmgr.4	現在 {0}で {1}の授賞式を開催中です。\t
+servercontestmgr.5	{0}等 : {1}\t
+servercontestmgr.6	現在 {0} {1}で {2}の授賞式を開催中です。\t
+servercontestmgr.7	1時間後に {0}で {1}が開かれます。
+servercontestmgr.8	1時間後に {0} {1}で {2}が開かれます。
+servercontestmgr.9	30分後に {0}で {1}が開かれます。
+servercontestmgr.10	30分後に {0} {1}で {2}が開かれます。
+serverdonationmgr.1	レザール
+serverdonationmgr.2	エリネド
+serverdonationmgr.3	ダンカン
+serverdonationmgr.4	キース
+serverdonationmgr.5	エヴァン
+serverdonationmgr.6	- 第{0}回 -
+serverdonationmgr.7	{0}位 : {1}/{2}
+serverdonationmgr.8	寄付金総額 : {0}
+serverdonationmgr.9	=====寄付情報=====
+serverevent.1	そりに乗った状態では移動することができません。
+serverevent.2	パーティーリーダーのみ影の世界進入を決定できます。
+serverevent.3	現在モンスターサーバーに問題があり、\n影の世界に入ることができません。
+serverevent.4	現在モンスターサーバーに問題があり、\n影の世界に入ることができません。
+serverevent.5	プレイ時間が超過しているため、影の世界に入ることができません。
+serverevent.6	影の世界に進入できません。\nしばらくしてから再び試してください。
+serverfamilymgr.1	{0}さんがファミリーを脱退しました。
+serverfarm.1	農場資産管理人ブラット
+serverfarm.2	耕作報告書が発送されました。
+serverfarm.3	耕作報告書が発送されました。
+serverfarm.4	水やり
+serverfarm.5	害虫駆除
+serverfarm.6	肥料まき
+serverfarm.7	農場資産管理人ブラット
+serverfarm.8	耕作報告書が発送されました。
+serverfarm.9	耕作報告書が発送されました。
+serverfarm.10	{0} {1} キャラクターの{2}耕作地が見つかりません。 
+serverfarm.11	{0} 収穫物アイテム生成に失敗しました。 classId: {1}, itemCount : {2}, Owner : {3}
+serverfarm.12	{0} - 畑賃貸失敗 (id:{1}, error:{2})
+serverfarm.13	{0} - 畑満了失敗 (id:{1}, error:{2})
+serverfarm.14	{0} {1} キャラクターの {2} 耕作地が見つかりません。
+serverfarm.15	{0} 収穫物アイテム生成に失敗しました。 classId: {1}, itemCount : {2}, Owner : {3}
+serverfarm.16	収穫
+serverfarm.17	種蒔き
+serverfarmingmgr.1	この度はタルティーン農場をご利用いただき誠にありがとうございます。\n\n今回の結果は以下の通りです。\n{1} : {2}個 (成長度 : {3}%)\n\n作物の流通期限は {9} までです。\n\n新鮮度が落ちた作物は買い取りできませんので\n必ず流通期限内にお売り頂きますようお願い致します。
+serverfarmingmgr.2	この度はタルティーン農場をご利用いただき誠にありがとうございます。\n\nお貸しした畑は私どもが整理・回収いたしました。\n\n取り入れた完全な農作物の個数は {1}個です。\n収穫した農作物は流通期限があるため、私どもがすぐに買い取りました。\n(基準価格 : {2})\n\n直接収穫される場合、はるかに多くの利益が得られます。\n今後もタルティーン農場をご利用ください。
+serverfarmingmgr.3	この度はタルティーン農場をご利用いただきありがとうございます。\n\nお貸しした畑は私どもが整理・回収いたしました。\n残念ながら、今回は収穫できる農作物がありませんでした。\n\nもし、耕作がまだ難しいと感じられるのならば\nいつでも私にご質問ください。\n\n{0} 様に耕作の楽しさを感じていただけますよう\n最大限のお手伝いをいたします。\n\nそれでは、次回もタルティーン農場の\nご利用をお待ちしております。\n\n今日も楽しいファンタジーライフをお送りください！
+serverfarmingmgr.4	{0}年 {1}月 {2}日 {3}:{4}
+serverfarmingmgr.5	{0} 収穫完了メッセージを送信中にエラーが発生しました。 {1} キャラクターの {2} 畑の売買した作物アイテムがありません。
+serverfarmingmgr.6	{0} 満了メッセージを送信中にエラーが発生しました。 {1} キャラクターの {2} 畑の売買した作物アイテムがありません。
+serverfashionshowmgr.1	ファッションコンテストに{0}番目の順序で参加する予定です。
+serverfashionshowmgr.2	ファッションコンテストウォーキングパートで{0}点を獲得しました。
+serverfashionshowmgr.3	おめでとうございます！
+serverfashionshowmgr.4	ファッションコンテスト予選で{0}名中{1}位になり\n本選進出権を得ました。
+serverfashionshowmgr.5	おめでとうございます！
+serverfashionshowmgr.6	ファッションコンテスト本選で{0}名中1位になりました。
+serverfashionshowmgr.7	大賞を受賞しました！
+serverhouseestate.1	入札者リストから {0}を見つけられませんでした。
+serverhouseinventory.1	誰かが座っているイスは取り出せません。
+serverhouseinventory.2	誰かが座っているイスは方向を変えられません。
+serverhouseinventory.3	誰かが座っているイスは買えません。
+serverhouseinventory.4	サーバー終了中は、銀行直取引はできません。
+serverhouseinventory.5	内側の壁にはかけられないアイテムです。
+serverhouseinventory.6	外側の壁にはかけられないアイテムです。
+serverhouseinventory.7	옷장 안에 옷이 들어있으면 옮길 수 없습니다.
+serverhouseinventory.8	가방 안에 아이템이 들어있으면 옮길 수 없습니다.
+serverhouseinventory.9	옷장에는 의류만 넣을 수 있습니다.
+serverhouseinventory.10	옷장은 하나만 배치할 수 있습니다.
+serverhouseinventory.11	유효 기간이 지난 옷장에는 옷을 넣을 수 없습니다.
+serverhouseinventory.12	유효 기간이 지난 가방에는 아이템을 넣을 수 없습니다.
+serverhouseinventory.13	사용할 수 있는 기간이 지났습니다.
+serverhouseinventory.14	유효 기간이 지난 빈 옷장은 열 수 없습니다.
+serverhouseinventory.15	アイテム取引が失敗しました。\nしばらくしてから再びお試しください。
+serverhouseinventory.16	取引可能回数制限のあるアイテムは家に保管できません。
+serveritemenhancemgr.1	ゴールドが足りません。
+serveritemenhancemgr.2	同じアイテムを同時に何回も強化できません。
+serveritemenhancemgr.3	特別改造できませんでした。
+serveritemenhancemgr.4	{0}の {1}段階特別改造に成功しました。
+serveritemenhancemgr.5	{0}の {1}段階特別改造に失敗しました。
+serveritemenhancemgr.6	\nアイテムが破壊されました。
+serveritemenhancemgr.7	\nアイテムの特別改造レベルが減少します : {0} -> {1}
+serveritemenhancemgr.8	EHLV: {0} - {1}
+serveritemenhancemgr.9	特別改造ができる種類のアイテムではありません。
+serveritemenhancemgr.10	宝石改造が適用された武器のみ強化できます。
+serveritemenhancemgr.11	最大耐久度が0のアイテムは強化できません。
+serveritemenhancemgr.12	特別改造ができますが、着用できないアイテムです。
+serveritemenhancemgr.13	さらに高い段階に改造できません。
+serveritemenhancemgr.14	アイテムと改造石の組み合わせが合っていません。
+serveritemenhancemgr.15	改造石のみ入れられます。
+serveritemenhancemgr.16	さらに高い段階に改造できません。
+serveritemenhancemgr.17	アイテムと改造石の組み合わせが合っていません。
+serveritemenhancemgr.18	特別改造する武器を入れてください。
+serveritemenhancemgr.19	改造石を入れてください。
+serveritemenhancemgr.20	アイテムと改造石の組み合わせが合っていません。
+serveritemenhancemgr.21	所持金が {0}ゴールド足りません。
+serveritemenhancemgr.22	改造石
+serveritemenhancemgr.23	タイプ {0}段階
+serveritemenhancemgr.24	成功確率\n <color=7>{0}%</color>\n
+serveritemenhancemgr.25	改造に失敗すると、武器が破壊されることがあります。\nそれでも改造しますか？
+serveritemenhancemgr.26	\n改造に失敗すると、改造段階が下がることがあります。\nそれでも改造しますか？
+serveritemenhancemgr.27	変換する
+serveritemenhancemgr.28	改造する
+serveritemenhancemgr.29	他の武器を着用中です。
+serveritemenhancemgr.30	アイテム強化関連サーバーデータを再度読み込みます。
+serveritemenhancemgr.31	指定ポケットのアイテムを指定段階に強化します。
+serveritemenhancemgr.32	{0}ゴールド
+serveritemenhancemgr.33	\n{0} {1}個
+serveritemupgrademgr.1	発見されていない改造式のうちidが最も小さな改造式を発見します。
+serveritemupgrademgr.2	発見されていない改造式のうちidが最も高い改造式を再び隠します。
+serveritemupgrademgr.3	改造式発見に失敗しました。
+serveritemupgrademgr.4	もう隠された改造式が存在しません。
+serveritemupgrademgr.5	改造式 [{0}]{1}が発見されていない状態で転換されました。
+serverjoustmgr.1	トーナメントゲームの生成に失敗しました。
+serverjoustmgr.2	第{0}トーナメントへ移動するのに失敗しました。
+serverpartyarena.1	レッド
+serverpartyarena.2	ブルー
+serverpartyarena.3	今回のラウンドは {0} チームの勝利です。
+serverpartyarena.4	対戦が進行中のときはパーティーに加入できません。\n対戦が終わってから加入してください。
+serverpartyarena.5	アリーナに入ると星は１個から始まります。
+serverpartyarena.6	移動できない状態ではアリーナに入場できません。
+serverpartyarena.7	パーティーに加入できません。
+serverpartyarena.8	パーティーに加入するには {0} {1}個が必要です。\n
+serverpartyarena.9	加入しますか?
+serverpartyarena.10	加入できません。
+serverpartyarena.11	すでにパーティーに加入した状態です。
+serverpartyarena.12	対戦が進行中のときはパーティーに加入できません。\n対戦が終わってから加入してください。
+serverroyalalchemistmgr.1	%x 該当キャラクターの王政錬金術師情報を読み込めません。
+serverroyalalchemistscheduler.1	The Royal Alchemist selection process will take place shortly. We cordially invite all that are eligible to apply.
+serverroyalalchemistselector.1	Sinead
+serverroyalalchemistselector.2	Unfortunately {0}, you was not selected as a royal alchemist. Better luck next time.
+serverroyalalchemistselector.3	I am pleased to write that, in the name of His Majesty Ethur Mac Cuill II, you, {0}, have been appointed a Royal Alchemist. Please report to me at Tara's Royal Castle. We expect you to actively fulfill your duties as a Royal Alchemist.
+serverroyalalchemistselector.4	A royal alchemist has been selected. I look forward to active activities in the future.
+servershipmgr.1	待機時間が終わり自分の番になった時、\n船着き場の近くにいないとイカダ製作依頼がキャンセルされます。\nイカダ製作依頼がキャンセルされると\n自動的に次の人の番となります。
+servershipmgr.2	パーティーリーダーが船着き場の近くにいないため、イカダ製作依頼がキャンセルされました。
+servershipmgr.3	イカダ作成が完了しました。急いでイカダにご搭乗下さい。
+servertransporterpart_engine.1	熱気球の耐久度がありません。
+servertransporterpart_engine.2	熱気球の燃料がない時は、供給することが出来ません。
+servertransporterpart_engine.3	まだ発火石を補充する必要はない。
+servertransporterpart_engine.4	発火石ではない。
+servertransporterpart_engine.5	熱気球の耐久度がなくなった。
+servertransporterpart_flycontroller.1	他の人が操縦中だ。
+servertransporterpart_flycontroller.2	他の人が操縦中だ。
+servertransporterpart_flycontroller.3	着陸が不可能な地域です。
+serverworld.1	{0}の使用期間が終了し、持ち物から消えました。
+serverworld.2	{0}{が} 持っていた {1}の使用期間が終了し、持ち物から消えました。
+serverworld.3	현 채널에 접속해 있는 길드원이 {0}명입니다.
+serverworld.4	\t{0}분 뒤에 {1}명 이상일 경우 길드원 총동원 이벤트 아이템을 받을 수 있습니다.
+serverworld.5	\t길드원들을 조금 더 모아보세요.
+serverworld.6	\t이대로만 유지하면 길드원 총동원 이벤트 아이템을 받을 수 있습니다.
+serverworldutil.1	인자로 들어온 문자열을 포함하는 모든 함수 목록을 출력합니다.
+serverworldutil.2	help(문자열1, 문자열2, ...)
+showdown.1	リングアウトで対戦に負けました。
+showdown.2	リングアウトで対戦に勝ちました。
+showdown.3	파티 대전에서 이겼습니다.
+showdown.4	파티 대전에서 졌습니다.
+showdownmgr.1	파티 리더에게만 파티 대전을 신청할 수 있습니다.
+trademgr.1	対戦中にはトレードできません。
+trademgr.2	取引できない状態です。
+trademgr.3	相手が取引できない状態です。
+trademgr.4	相手が取引することができない状態です。
+trademgr.5	相手がファッションコンテスト進行中のため、交換を要請できません。
+vehicle.1	Cannot dismount while using skill.
+vehicle.5	You are unable to ride.
+vehicle.6	The pet looks too small.
+vehicle.7	It is too small to ride.
+vehicle.8	Unable to ride.
+vehicle.9	It looks too dangerous to ride there.
+vehicle.10	Unable to go to wedding hall.
+vehicle.11	Unable to ride.
+vehicle.12	That is not allowed.
+vehicle.13	Unable to ride there.
+vehicle.14	Unable to take off.
+vehicle.15	飛行する乗り物にはペットキャラクターを召喚して搭乗することは出来ません。
+vehicle.16	飛行中は乗り物から下りられないようだ。
+vehicle.17	캡쳐 더 플래그 이벤트 참여중에는 탈 수 없습니다.
+vehicle.18	泡の為に搭乗できないようだ。
+vehicle.19	泡の為に搭乗させることができないようだ。
+vehicle.20	泡の為に搭乗できないようだ。
+vehicle.21	泡の為に搭乗させることができないようだ。
+vehicle.22	スプライトと結合した状態では乗ることができない。
+vehicle.23	ミミズクを頭に乗せた状態では乗ることができない。
+vehicle.24	フクロウを頭に乗せた状態では乗ることができない。
+vehicle.25	動いている状態では頭にペットを乗せることができません。
+vehicle.26	マクロチェック失敗ペナルティ適用中は搭乗できません。
+vehicle.27	{0} イベント参加中は乗れないようだ。
+vehicle.28	イベント参加中は搭乗することができません。
+vehicle.29	体が小さくなったときは一部の行動ができません。
+vehicle.30	タワーシリンダーを設置しているときは乗れません。
+vehicle.31	PVP中は乗ることができません。
+vehicle.32	かき氷用の大きな器を持っているときはペットに乗ることができません。
+vehicle.33	今は乗らないほうがよさそうだ。
+waterballoonbattle.1	RedBalloon
+waterballoonbattle.2	BlueBalloon
+waterballoonbattle.3	YellowBalloon
+waterballoonbattle.4	{0}が{1}を割りました。RedTeam {2}Points : BlueTeam {3}Points、 Highest Scroe  : RedTeam {4} BlueTeam {5}
+waterballoonbattle.5	You have taken a water balloon.
+waterballoonbattle.6	You cannot take any more water balloons.
+waterballoonbattleevent.1	The Waterballoon Battle event will start soon.
+waterballoonbattleevent.2	The Waterballoon Battle event has started.
+waterballoonbattleevent.3	The Waterballoon Battle event is in progress.
+waterballoonbattleevent.4	RedTeam {0}Points : BlueTeam {1}Points、Highest Points : RedTeam {2} BlueTeam {3}
+waterballoonbattleevent.5	The Waterballoon Battle event has ended
+waterballoonbattleevent.6	RedTeam {0}Points : BlueTeam {1}Points、Highest Points : RedTeam {2} BlueTeam {3}
+waterballoonbattleevent.7	The red team has won! \n
+waterballoonbattleevent.8	The blue team has won! \n
+waterballoonbattleevent.9	The game has resulted in a draw. \n
+waterballoonbattleevent.10	RedTeam {0}Points : BlueTeam {1}Points
+waterballoonbattleevent.11	The Waterballoon Battle event has ended
+waterballoonbattleevent.12	NULL
+waterballoonbattleevent.13	NULL
+window.event.childrenday_msg	生命力に溢れる若葉の季節！\n体も心も若くなった気分だ！
+window.event.childrenday_title	Event Message\nイベントメッセージ
+world_regionhandlerundergroundmaze.1	アリ地獄に落ちたようだ。 どこかに出口はないだろうか？
+worldmetamgr.1	동기방식으로 싱크합니다.
