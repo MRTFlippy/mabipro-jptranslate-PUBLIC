@@ -1225,9 +1225,9 @@ msg.body.increase_upper	You gained some muscle on your upper body.
 msg.body.increase_weight	You gained some weight.
 msg.boost_potion	The potion's buff is in effect.
 msg.bossgroup.not_reveal	You cannot use this Fomor Command Scroll in this area.
-msg.bossgroup.repulse    {0} has defeated {2} in {1}.
-msg.bossgroup.reveal_pos    {0} has informed that {3} will appear at {1} in {2}.
-msg.bossgroup.spawn    {1} has appeared in {0}!
+msg.bossgroup.repulse	{0} has defeated {2} in {1}.
+msg.bossgroup.reveal_pos	{0} has informed that {3} will appear at {1} in {2}.
+msg.bossgroup.spawn	{1} has appeared in {0}!
 msg.bsg.no_ego_in_bag	Spirit weapons cannot be placed in bags.
 msg.buffer.decrease	{0:param} {1:value} decrease.
 msg.buffer.increase	{0:param} {1:value} increase.
