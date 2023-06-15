@@ -2693,8 +2693,8 @@ vehicle.10	You can't mount while you're in the wedding hall.
 vehicle.11	You can't get on the boat.
 vehicle.12	You can't get on the boat.
 vehicle.13	You cannot get off here.
-vehicle.14	You cannot board something that is flying.
-vehicle.15	You cannot summon a pet while you are flying.
+vehicle.14	You cannot board something that is currently flying.
+vehicle.15	You cannot have a pet summoned while you are flying.
 vehicle.16	You cannot dismount while you are flying.
 vehicle.17	You can't mount while participating in the Capture the Flag event.
 vehicle.18	You can't get on board because you're trapped in a bubble.
