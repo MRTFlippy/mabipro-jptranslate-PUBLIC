@@ -93,12 +93,12 @@ component_action.3	{0} is in an area where they cannot request summons.
 component_action.4	{0} is in an area where summon requests cannot be received.
 component_action.5	{0} is not a valid summon target.
 component_action.6	Race not supported. Summoning canceled.
-component_action.7	{0} can't be summoned because they're riding a vehicle.
+component_action.7	{0} can't be summoned because they're mounted.
 component_action.8	You can't summon yourself!
 component_action.9	You can't summon someone else's pet.
 component_action.10	You must wait 3 minutes after a rejected summon to attempt another.
-component_action.11	I can't seem to trap them.
-component_action.12	Even if I shoot bubbles, I can't seem to trap the target.
+component_action.11	You can't seem to trap them.
+component_action.12	Even if you shoot bubbles, you can't seem to trap the target.
 component_action.13	It seems that shooting bubbles at {0} won't trap them.
 component_action.14	You cannot summon friends who are currently participating in Jousting Tournaments.
 component_action.15	You cannot summon a friend who is currently participating in a fashion contest.
@@ -1313,7 +1313,7 @@ msg.combat.magazine.decrease02	You have {0} arrows remaining.
 msg.combat.no_attack_invalid_object	Invalid attack target.
 msg.combat.no_attack_no_stamina	You are unable to attack due to a lack of stamina.
 msg.combat.no_attack_no_target	Cannot attack.
-msg.combat.rise_damage_gauntlet	The Snake Gauntlets' effect has greatly increased your damage!
+msg.combat.rise_damage_gauntlet	The power within your equipment has greatly increased your damage!
 msg.combat.undead_immune	This attack won't work!|I need a weapon made from things that are not from this world!
 msg.command.condition.clear_info	Character status conditions were reinitialized.
 msg.command.condition.info	Status Conditions : {0}
@@ -2525,7 +2525,7 @@ servercapturetheflagmgr.12	Received {0}.
 servercapturetheflagmgr.13	The {0} event has ended. Red Team {1} Points : Blue Team {2} Points      Top Scorer : Red Team {3}   Blue Team {4}
 servercontestmgr.1	Could not find applicants.
 servercontestmgr.2	{1} is currently being held at {0}. Tournament participants : {2}
-servercontestmgr.3	{1} is currently being held at {0} {1}.
+servercontestmgr.3	{2} is currently being held at {0} {1}.
 servercontestmgr.4	The {1} awards ceremony is currently being held at {0}.\t
 servercontestmgr.5	{0}th Place : {1}\t
 servercontestmgr.6	The {2} awards ceremony is currently being held at {0} {1}.\t
