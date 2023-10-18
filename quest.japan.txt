@@ -208,8 +208,8 @@
 208	
 209	
 210	Gather Giant Potato
-211	Today I want you to gather 5 Giant Potatos. Giant Potatos are very rare.
-212	Gather 5 Giant Potatos
+211	Today I want you to gather 5 Giant potatoes. Giant potatoes are very rare.
+212	Gather 5 Giant potatoes
 213	
 214	
 215	
@@ -1444,14 +1444,14 @@
 1443	Speak with Tracy
 1444	
 1445	Thank you hero.<br/>You defeated the Black Warrior for me, right?<p/>...<br/>You knew from the beginning it was me!<br/>Do not look at me like that!<p/>Well, anyway, thank you. The Black Warrior was beginning to scare the soldiers.<br/>...<p/>Go on! You can do it!<br/>Do you think I will be hurt if I try to go up against the Black Warrior?<p/>
-1446	Digging Potatos
-1447	It is Kristell of Dunbarton. Potatos can be found in fields around Dunbarton. Could you dig up some potatos to help me for the church? Don't forget you need a weeding hoe to dig up potatos. - Kristell -
-1448	Deliver 5 Potatos To Kristell
-1449	Use Holy Water
+1446	Digging potatoes
+1447	This is Kristell of Dunbarton. potatoes can be found in fields around Dunbarton. Could you dig up some potatoes to help me for the church? Don't forget you need a weeding hoe to dig up potatoes. - Kristell -
+1448	Deliver 5 potatoes To Kristell
+1449	Use Holy sater
 1450	Speak with Kristell
-1451	Thank you<username/>Mr.<br/>Potatos are a special product in Dunbarton.<br/>The field is maintained by the church.<p/>The church cannot afford to pay in gold.<br/>However, to anyone who has helped,<br/>including you I will give Holy Water to.<p/>Holy Water can be used to bless swords, armor, tools, etc,<br/>Items will not drop even if you die.<p/>Why don't you go ahead and test the holy water for yourself?
+1451	Thank you <username/>.<br/>Potatoes are a special product in Dunbarton.<br/>The field is maintained by the church.<p/>But since the church cannot afford to pay in gold,<br/>we reimburse our volunteers, inlcuding you,<br/>with holy water.<p/>Holy water can be used to bless swords, armor, tools, etc,<br/>Items will not drop even if you die.<p/>Why don't you go ahead and test the holy water for yourself?
 1452	
-1453	Yes, you did a good job. It was easier than you thought?<br/>Please enjoy the Holy Water.<p/>Kind<username/>I, ask the Goddess to protect you.<p/>
+1453	Yes, you did a good job. It was easier than you thought?<br/>Please enjoy the Holy Water.<p/>Kind <username/>I ask the Goddess to protect you.<p/>
 1454	Hunt a Red Bear
 1455	It is Eavan, I work at the Adventurer's Association in Dunbarton. A ferocious bear has appeared around Dunbarton. Could you hunt a red bear before it causes damage? - Eavan -
 1456	Hunt Red Bear
@@ -1548,7 +1548,7 @@
 1547	How are you doing? It is Duncan from Tir Chonaill. If you'd like to learn how to gather water, come see me any time in Tir Chonaill. - Duncan -
 1548	Speak with Duncan
 1549	Gather Water
-1550	I'm glad you came,<username/><br/>You seem to be healthy.<p/>After speaking with Nao,<p/>I realized that I hadn't offered <username/>a drink<p/>Since Tir Chonaill's water is beautiful,<br/>I wasn't concerned<p/>However, other areas are not.<br/>So let me tell you how to gather water.<br/>There are markers that show where you can gather from in lakes and wells.<p/>Just use an empty bottle,<br/>and try gathering water for you to drink later.<p/>
+1550	I'm glad you came,<username/>.<br/>You seem to be healthy.<p/>After speaking with Nao,<p/>I realized that I hadn't offered <username/> a drink<p/>Since Tir Chonaill's water is beautiful,<br/>I wasn't concerned<p/>However, other areas are not.<br/>So let me tell you how to gather water.<br/>There are markers that show where you can gather from in lakes and wells.<p/>Just use an empty bottle,<br/>and try gathering water for you to drink later.<p/>
 1551	
 1552	Mining Silver Ore
 1553	Hello, I am Elen and I work as a blacksmith in Bangor! Recently there aren't enough people mining ores. Could you go into Barri Dungeon and mine 5 Silver Ores for me? - Elen -
@@ -2261,8 +2261,8 @@
 2260	You heard from Ailionoa to stop in here?<br/>Here this is Fraser's wine.<p/>Please deliver this wine to him.<br/>It seems that I received it by mistake.<p/><title name="NONE"/>(I recieved wine.)<p/>That saves me the trouble,<br/>thank you.<p/>
 2261	That wine...<p/><title name="NONE"/>(I handed the wine to Fraser.)<p/>Indeed, this is my wine.<br/>Thank you, that saves me alot.<br/>Thanks again.<p/>
 2262	Church Volunteer
-2263	Today's part-time job is to harvest crops from the fields. Harvest 10 Potatos. Potatos are harvested with a weeding hoe.
-2264	Harvest 10 Potatos
+2263	Today's part-time job is to harvest crops from the fields. Harvest 10 potatoes. potatoes are harvested with a weeding hoe.
+2264	Harvest 10 potatoes
 2265	
 2266	Church Volunteer
 2267	Today's part-time job is to harvest grains from the fields. Harvest 10 barley. Barley is harvested with a sickle.
@@ -2285,8 +2285,8 @@
 2284	Harvest 10 Corn
 2285	
 2286	Church Volunteer
-2287	Today's part-time job is to gather crops from the fields. Gather 15 potatos. Potatos are harvested by using a weeding hoe.
-2288	Harvest 15 Potatos
+2287	Today's part-time job is to gather crops from the fields. Gather 15 potatoes. potatoes are harvested by using a weeding hoe.
+2288	Harvest 15 potatoes
 2289	
 2290	Church Volunteer
 2291	Today's part-time job is to harvest grains from the fields. Harvest 15 barley. Barley is harvested with a sickle.
@@ -2309,8 +2309,8 @@
 2308	Harvest 15 Corn
 2309	
 2310	Church Volunteer
-2311	Today's part-time job is to gather crops from the fields. Gather 20 potatos. Potatos are harvested by using a weeding hoe.
-2312	Harvest 20 Potatos
+2311	Today's part-time job is to gather crops from the fields. Gather 20 potatoes. potatoes are harvested by using a weeding hoe.
+2312	Harvest 20 potatoes
 2313	
 2314	Church Volunteer
 2315	Today's part-time job is to harvest grains from the fields. Harvest 20 barley. Barley is harvested with a sickle.
@@ -4339,7 +4339,7 @@
 4338	@mini_aeira
 4339	I want to cook
 4340	Today, Stewart is still focusing on research, but I am really worried about his health. I don't think he has been eating on time so I decided to make his favorite food. However, it is very difficult to make, can you help me?
-4341	Take 5 Boiled Potatos to Aeira
+4341	Take 5 Boiled potatoes to Aeira
 4342	@mini_aeira
 4343	I want to cook
 4344	Today, Stewart is still focusing on research, but I am really worried about his health. I don't think he has been eating on time so I decided to make his favorite food. However, it is very difficult to make, can you help me?
@@ -4382,7 +4382,7 @@
 4381	
 4382	
 4383	
-4384	Boiled Potatos
+4384	Boiled potatoes
 4385	You need [Steamed Potato]? Then help me collect [potato, water, salt]. You can use ingredients to exchange for [Steamed Potato].
 4386	Collect 1 Potato
 4387	Collect 1 Water
