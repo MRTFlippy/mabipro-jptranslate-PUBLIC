@@ -1445,9 +1445,9 @@
 1444	
 1445	Thank you hero.<br/>You defeated the Black Warrior for me, right?<p/>...<br/>You knew from the beginning it was me!<br/>Do not look at me like that!<p/>Well, anyway, thank you. The Black Warrior was beginning to scare the soldiers.<br/>...<p/>Go on! You can do it!<br/>Do you think I will be hurt if I try to go up against the Black Warrior?<p/>
 1446	Digging potatoes
-1447	This is Kristell of Dunbarton. potatoes can be found in fields around Dunbarton. Could you dig up some potatoes to help me for the church? Don't forget you need a weeding hoe to dig up potatoes. - Kristell -
+1447	This is Kristell of Dunbarton. Potatoes can be found in fields around Dunbarton. Could you dig up some potatoes to help me for the church? Don't forget you need a weeding hoe to dig up potatoes. - Kristell -
 1448	Deliver 5 potatoes To Kristell
-1449	Use Holy sater
+1449	Use Holy Water
 1450	Speak with Kristell
 1451	Thank you <username/>.<br/>Potatoes are a special product in Dunbarton.<br/>The field is maintained by the church.<p/>But since the church cannot afford to pay in gold,<br/>we reimburse our volunteers, inlcuding you,<br/>with holy water.<p/>Holy water can be used to bless swords, armor, tools, etc,<br/>Items will not drop even if you die.<p/>Why don't you go ahead and test the holy water for yourself?
 1452	
