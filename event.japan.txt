@@ -1005,7 +1005,7 @@ prop_event.19	音楽に対する素養を身につけられた者だけが、こ
 prop_event.20	It seems to have the wrong effect.
 prop_event.21	良い曲が作れる者だけが、この扉を開けられるはずだ。
 prop_event.22	It seems to have the wrong effect.
-prop_event.23	少ないエサでたくThreeの魚を釣れる者だけが、この扉を開けられるはずだ。
+prop_event.23	Only those who can catch a lot of fish with little bait will be able to open this door.
 prop_event.24	It seems to have the wrong effect.
 prop_event.25	おいしい料理を作れる者だけが、この扉を開けられるはずだ。
 prop_event.26	It seems to have the wrong effect.
