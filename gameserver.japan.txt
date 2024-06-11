@@ -864,7 +864,7 @@ eventfirstanniversarychina.2	The 1st Anniversary Event has ended.
 eventfirstanniversarychina.3	The 1st Anniversary Event is currently in progress.
 eventfloodhelp2006korea.1	The Hope for Flood Victims! event has started.
 eventfloodhelp2006korea.2	The Hope for Flood Victims! event has ended.
-eventfloodhelp2006korea.3	The Hope for Flood Victims! event is currently underway.
+eventfloodhelp2006korea.3	The Hope for Flood Victims! event is currently in progress.
 eventguild2009summerkorea.1	The Come to Our Guild event has started.
 eventguild2009summerkorea.2	The Come to Our Guild event has ended.
 eventguild2009summerkorea.3	The Come to Our Guild event is currently in progress. Guild masters, please check your guild stones.
