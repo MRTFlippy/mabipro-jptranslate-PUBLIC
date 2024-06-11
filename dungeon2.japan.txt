@@ -31,30 +31,30 @@
 701001_waterfall.1	To Tara
 701001_waterfall.2	Monsters have invaded.
 701004_enemyannihilation.1	Enemies have appeared at the north gate.
-701005_trouble.1	Looks like all the minions have been defeated. Search for the boss.
+701005_trouble.1	It appears that you have defeated all of the minions. Search for the boss.
 701005_trouble.2	region
-701008_smellslikewinespirit.1	All monsters have been eliminated.
-701009_castleep1alchemist.1	You have defeated all of the enemies. Please proceed to the first floor.
-701009_castleep1alchemist.2	You have defeated all of the enemies. Please proceed to the first floor.
+701008_smellslikewinespirit.1	All of the monsters have been eliminated.
+701009_castleep1alchemist.1	You have defeated all of the enemies. Proceed to the first floor.
+701009_castleep1alchemist.2	You have defeated all of the enemies. Proceed to the first floor.
 701010_castleep2ghost.1	You can only proceed by knocking the ghosts into the circle near the dining room as a sacrifice.
-701010_castleep2ghost.2	You have defeated all of the enemies. Please proceed to the first floor.
+701010_castleep2ghost.2	You have defeated all of the enemies. Proceed to the first floor.
 701011_castleep3fomor.1	Fomor: Where did you run off to?!
-701011_castleep3fomor.2	You have defeated all of the enemies. Please proceed to the first floor.
+701011_castleep3fomor.2	You have defeated all of the enemies. Proceed to the first floor.
 701012_castlepuzzlecollect.1	
 701012_castlepuzzlecollect.2	region
 701012_castlepuzzlecollect.3	Boss Summon.
 701012_castlepuzzlecollect.4	region
 701012_castlepuzzlecollect.5	Boss Room Clear.
 701012_castlepuzzlecollect.6	region
-701014_uroborosagain.1	You heard the lock of the gate to the outdoors opening.
-701014_uroborosagain.2	A battle with the Uroborus is underway.
+701014_uroborosagain.1	It sounds like the door leading outdoors was unlocked.
+701014_uroborosagain.2	A battle with the Uroborus is in progress.
 701014_uroborosagain.3	Secret Puzzle Cleared
-701014_uroborosagain.4	A battle with the Uroborus is underway.
+701014_uroborosagain.4	A battle with the Uroborus is in progress.
 701014_uroborosagain.5	Secret Puzzle Cleared
 701015_bossmission2reddragon.1	Search for the entrance to the underground waterway.
-701015_bossmission2reddragon.2	A battle with the red dragon is underway.
+701015_bossmission2reddragon.2	A battle with the red dragon is in progress.
 701015_bossmission2reddragon.3	Secret Puzzle Cleared
-701015_bossmission2reddragon.4	A battle with the red dragon is underway.
+701015_bossmission2reddragon.4	A battle with the red dragon is in progress.
 701015_bossmission2reddragon.5	Secret Puzzle Cleared
 701015_bossmission2reddragon.6	Dalet
 701015_bossmission2reddragon.7	Tiferet
@@ -77,14 +77,14 @@
 701015_bossmission2reddragon.24	_Dairam
 701015_bossmission2reddragon.25	Gimel
 701015_bossmission2reddragon.26	_Gimel
-701016_bossmission3claimhsolas.1	A battle with Claimh Solas is underway.
+701016_bossmission3claimhsolas.1	A battle with Claimh Solas is in progress.
 701016_bossmission3claimhsolas.2	Secret Puzzle Cleared
-701016_bossmission3claimhsolas.3	A battle with Claimh Solas is underway.
+701016_bossmission3claimhsolas.3	A battle with Claimh Solas is in progress.
 701016_bossmission3claimhsolas.4	Secret Puzzle Cleared
 701016_bossmission3claimhsolas.5	Search for the entrance to the underground waterway.
-701016_bossmission3claimhsolas.6	A battle with Claimh Solas is underway.
+701016_bossmission3claimhsolas.6	A battle with Claimh Solas is in progress.
 701016_bossmission3claimhsolas.7	Secret Puzzle Cleared
-701016_bossmission3claimhsolas.8	A battle with Claimh Solas is underway.
+701016_bossmission3claimhsolas.8	A battle with Claimh Solas is in progress.
 701016_bossmission3claimhsolas.9	Secret Puzzle Cleared
 701016_bossmission3claimhsolas.10	Dalet
 701016_bossmission3claimhsolas.11	Tiferet
@@ -107,7 +107,7 @@
 701016_bossmission3claimhsolas.28	_Dairam
 701016_bossmission3claimhsolas.29	Gimel
 701016_bossmission3claimhsolas.30	_Gimel
-701017_castleep4spider.1	You have defeated all of the enemies. Please proceed to the first floor.
+701017_castleep4spider.1	You have defeated all of the enemies. Proceed to the first floor.
 710001_cookdungeontest.1	End
 710002_cookdungeon_juice.1	
 710002_cookdungeon_juice.2	
@@ -656,7 +656,7 @@ puzzle_castleswitchprop.1	The room gate was closed.
 puzzle_castleswitchprop.2	region
 puzzle_castleswitchprop.3	The room gate has opened.
 puzzle_castleswitchprop.4	region
-puzzle_castleswitchprop.5	I touched the orb that opens the room gate.
+puzzle_castleswitchprop.5	You touched the orb that opens the room gate.
 puzzle_castlewarpprop.1	
 puzzle_castlewarpprop.2	region
 puzzle_castlewarpprop.3	Suddenly, one of the orbs has begun to glow.
@@ -667,7 +667,7 @@ puzzle_challenge.1	Commander : Show me what you've got.
 puzzle_challenge.2	region
 puzzle_challenge.3	Commander : How's that? Have you finished warming up?
 puzzle_challenge.4	region
-puzzle_challenge.5	Commander : At least you're better than those fools earlier...
+puzzle_challenge.5	Commander : At least you're better than those fools from earlier...
 puzzle_challenge.6	region
 puzzle_challenge.7	Commander : Heh...I don't mean to insult you, it's just that those guys were so boring.
 puzzle_challenge.8	region
@@ -684,7 +684,7 @@ puzzle_challenge.18	region
 puzzle_challenge.19	Commander : I have to admit, I underestimated you.
 puzzle_challenge.20	region
 puzzle_cookdungeon.1	Glewyas: I'll take my leave, then.	
-puzzle_cookdungeon.2	It seems the dish has been cooked well. You should show this to Glewyas!
+puzzle_cookdungeon.2	It looks like you cooked the dish well. You should show this to Glewyas!
 puzzle_cookdungeon.3	This is an embarrassing attempt at cooking, but you should show this dish to Glewyas anyway.
 puzzle_cookdungeon.4	You can hardly call this food. Try again.
 puzzle_cookmonster2.1	Glewyas: Aaaaaahh!!! What are you doing?! You got a rat in the food!!!
@@ -744,7 +744,7 @@ puzzle_faliasstonehenge.15	The power that was moving the floating stones has dis
 puzzle_faliasstonehenge.16	The power that sealed the stonehenge has disappeared.
 puzzle_faliasstonehenge.17	You restored the broken stonehenge.
 puzzle_faliasstonehenge.18	You destroyed the stonehenge.
-puzzle_partition.1	I heard the iron gate opening somewhere.
+puzzle_partition.1	It sounds like an iron gate opened somewhere.
 puzzle_rescue.1	Remaining monsters:
 puzzle_rescue.2	left
 puzzle_sieze.1	Jenna died.
