@@ -727,7 +727,7 @@ item.item75444.5	This item can only be used in front of a repairable Stonehenge.
 item.item75444.6	This item can only be used in front of a Falias Stonehenge in The Final Chapter.
 item.item75444.7	This item can only be used in front of a Falias Stonehenge in The Final Chapter.
 item.item75451.1	You cannot use the Falias Fragment while you have another mission in progress.
-item.item85047.1	Threeが古い宝箱から
+item.item85047.1	From an old treasure chest
 item.item85047.2	アイテムを獲得しました。
 item.item85053.1	님께서 시몬의 럭셔리 신상품 상자에서
 item.item85053.2	아이템을 획득하였습니다.
@@ -752,14 +752,14 @@ item.item85059.12	아이템을 획득하였습니다.
 item.item91136.1	カボチャボックスからアイテムを手に入れました。
 item.item91136.2	カボチャボックスからアイテムを手に入れました。
 item.item91197.1	アイテムをプレミアムランダムボックスから
-item.item91197.2	Threeが獲得しました。
+item.item91197.2	was won.
 item.item91205.1	5주년 기념 가챠폰을 사용하여 아이템을 받았습니다.
 item.item91206.1	임시 소지품창을 비우신 후 사용해주세요.
-item.item91251.1	Threeがベリタの古代遺物の地図から
+item.item91251.1	From Belita's ancient relics map.
 item.item91251.2	アイテムを獲得しました。
-item.item91251.3	Threeがベリタの古代遺物の地図から
+item.item91251.3	From Belita's ancient relics map.
 item.item91251.4	アイテムを獲得しました。
-item.item91251.5	Threeがベリタの古代遺物の地図から
+item.item91251.5	From Belita's ancient relics map.
 item.item91251.6	アイテムを獲得しました。
 item.item91252.1	님께서 2NE1 판타지 뮤직 박스에서
 item.item91252.2	아이템을 획득하였습니다.
@@ -779,7 +779,7 @@ item_grow_pet_event.3	アイテムドロップに失敗しました。
 item_grow_pet_event.4	金の豚にお金をあげたらいいことが起きそうだ。満腹 :
 item_grow_pet_event.5	金の豚にお金をあげたらいいことが起きそうだ。
 item_grow_pet_event.6	もう食べさせないほうがよさそうだ。
-item_grow_pet_event.7	お金をもう少したくThree食べさせたほうがよさそうだ。
+item_grow_pet_event.7	I think it would be better if you gave them a little more money to eat.。
 item_grow_pet_event.8	金の豚が大きくなったような気がする。満腹 :
 item_grow_pet_event.9	大きさ :
 item_grow_pet_event.10	金の豚が大きくなったような気がする。
@@ -861,11 +861,11 @@ pc_event.22	Gです。
 pc_event.23	寄付に失敗しました。再びお試しください。
 pc_event.24	法皇庁
 pc_event.25	いつも温かい手を差し伸べてくださりありがとうございます。\n寄付していただいた金額の一部をエリンにいらっしゃる方に伝達いたしました。\n神の祝福が共にあらんことを…。
-pc_event.26	ライミラク教団です。\n匿名のボランティアの方が皆Threeを助けるためにくださった寄付金の一部を支援いたします。\nエリンで楽しい生活をお送りください。
+pc_event.26	We are the Lymilark Church\nWe will support a portion of the donations made by anonymous volunteers to help you.\nPlease enjoy your life in Erin.
 pc_event.27	いつも温かい手を差し伸べてくださりありがとうございます。\n寄付していただいた金額の一部を
-pc_event.28	Threeに伝達いたしました。\n神の祝福が共にあらんことを…。
-pc_event.29	ライミラク教団です。\n
-pc_event.30	Threeが皆Threeを助けるためにくださった寄付金の一部を支援いたします。\nエリンで楽しい生活をお送りください。
+pc_event.28	I have conveyed this to them. May God bless you.
+pc_event.29	This is the Lymilark Church\n
+pc_event.30	We will support a portion of the donation you made to help us. \nPlease enjoy your life in Erin.
 pc_event.31	ライミラク慈善基金から手紙が到着しました。\nお近くの郵便箱をご確認ください。
 pc_event.32	リリスからもらった寄付金を寄付した。
 pc_event.33	寄付箱に入れることができない。
@@ -1146,7 +1146,7 @@ prop_event.160	It seems like it will open if you yell the name of the old hero w
 prop_event.161	The door reacted to my shout.
 prop_event.162	It seems like it will open if you yell the name of he who only appears at night at Sidhe Sneachta!
 prop_event.163	既に開かれた扉です。
-prop_event.164	ひらけ～！ I feel like it would open if I shouted that.
+prop_event.164	Open!I feel like it would open if I shouted that.
 prop_event.165	Open Sesame！ I feel like it would open if I shouted that.
 prop_event.166	test！ I feel like it would open if I shouted that.
 prop_event.167	Open Sesame！ I feel like it would open if I shouted that.
@@ -1351,7 +1351,7 @@ useitem_event.26	みんな楽しそうでなによりです。\n私も子供た�
 useitem_event.27	このトレイシーのところにもお菓子をもらいに来てネ♪\n- トレイシー
 useitem_event.28	ハロウィンだからって\n食べてばかりいたら太るかもしれないわよー？\n- フィオン
 useitem_event.29	ハロウィンのフォーチュンクッキーを食べる時、俺は左手を使う。\n心臓から最も近いこの左手をな。\n- タウネス
-useitem_event.30	ハロウィン。この季節にぴったりのイベントですよね。\n皆Three、ハロウィンで楽しい思い出を作って下さい。\n- ヒルブリン
+useitem_event.30	Halloween. It's the perfect event for this season. \nEveryone, make some fun memories on Halloween. \n- Hilbrin
 useitem_event.31	根性だよ！根性！\nハロウィンだからってハンパしないでバンバン預金するんだよ！!\n- エトゥナ
 useitem_event.32	ハロウィンのフォーチュンクッキーが美味なること、\n余の右腕にかけて保障しよう。\n- クリューグ
 useitem_event.33	空が澄んでいると気分がよくなります。.\n秋は空がきれいでいいですね。\n- レプス
@@ -1377,7 +1377,7 @@ useitem_event.52	님 께서 전사 가챠폰에서
 useitem_event.53	아이템을 획득하였습니다.
 useitem_event.54	プレゼントの箱を開けてアイテムを受け取りました。
 useitem_event.55	プレミアムランダムボックスからアイテムを受け取りました。
-useitem_event.56	Threeがプレミアムランダムボックスから
+useitem_event.56	From the Premium Random Box
 useitem_event.57	アイテムを獲得しました。
 useitem_event.58	님 께서 5주년 기념 가챠폰에서
 useitem_event.59	아이템을 획득하였습니다.
