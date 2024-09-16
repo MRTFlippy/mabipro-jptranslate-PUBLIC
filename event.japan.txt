@@ -727,7 +727,7 @@ item.item75444.5	This item can only be used in front of a repairable Stonehenge.
 item.item75444.6	This item can only be used in front of a Falias Stonehenge in The Final Chapter.
 item.item75444.7	This item can only be used in front of a Falias Stonehenge in The Final Chapter.
 item.item75451.1	You cannot use the Falias Fragment while you have another mission in progress.
-item.item85047.1	さんが古い宝箱から
+item.item85047.1	From an old treasure chest
 item.item85047.2	アイテムを獲得しました。
 item.item85053.1	님께서 시몬의 럭셔리 신상품 상자에서
 item.item85053.2	아이템을 획득하였습니다.
@@ -752,14 +752,14 @@ item.item85059.12	아이템을 획득하였습니다.
 item.item91136.1	カボチャボックスからアイテムを手に入れました。
 item.item91136.2	カボチャボックスからアイテムを手に入れました。
 item.item91197.1	アイテムをプレミアムランダムボックスから
-item.item91197.2	さんが獲得しました。
+item.item91197.2	was won.
 item.item91205.1	5주년 기념 가챠폰을 사용하여 아이템을 받았습니다.
 item.item91206.1	임시 소지품창을 비우신 후 사용해주세요.
-item.item91251.1	さんがベリタの古代遺物の地図から
+item.item91251.1	From Belita's ancient relics map.
 item.item91251.2	アイテムを獲得しました。
-item.item91251.3	さんがベリタの古代遺物の地図から
+item.item91251.3	From Belita's ancient relics map.
 item.item91251.4	アイテムを獲得しました。
-item.item91251.5	さんがベリタの古代遺物の地図から
+item.item91251.5	From Belita's ancient relics map.
 item.item91251.6	アイテムを獲得しました。
 item.item91252.1	님께서 2NE1 판타지 뮤직 박스에서
 item.item91252.2	아이템을 획득하였습니다.
@@ -779,7 +779,7 @@ item_grow_pet_event.3	アイテムドロップに失敗しました。
 item_grow_pet_event.4	金の豚にお金をあげたらいいことが起きそうだ。満腹 :
 item_grow_pet_event.5	金の豚にお金をあげたらいいことが起きそうだ。
 item_grow_pet_event.6	もう食べさせないほうがよさそうだ。
-item_grow_pet_event.7	お金をもう少したくさん食べさせたほうがよさそうだ。
+item_grow_pet_event.7	I think it would be better if you gave them a little more money to eat.。
 item_grow_pet_event.8	金の豚が大きくなったような気がする。満腹 :
 item_grow_pet_event.9	大きさ :
 item_grow_pet_event.10	金の豚が大きくなったような気がする。
@@ -861,11 +861,11 @@ pc_event.22	Gです。
 pc_event.23	寄付に失敗しました。再びお試しください。
 pc_event.24	法皇庁
 pc_event.25	いつも温かい手を差し伸べてくださりありがとうございます。\n寄付していただいた金額の一部をエリンにいらっしゃる方に伝達いたしました。\n神の祝福が共にあらんことを…。
-pc_event.26	ライミラク教団です。\n匿名のボランティアの方が皆さんを助けるためにくださった寄付金の一部を支援いたします。\nエリンで楽しい生活をお送りください。
+pc_event.26	We are the Lymilark Church\nWe will support a portion of the donations made by anonymous volunteers to help you.\nPlease enjoy your life in Erin.
 pc_event.27	いつも温かい手を差し伸べてくださりありがとうございます。\n寄付していただいた金額の一部を
-pc_event.28	さんに伝達いたしました。\n神の祝福が共にあらんことを…。
-pc_event.29	ライミラク教団です。\n
-pc_event.30	さんが皆さんを助けるためにくださった寄付金の一部を支援いたします。\nエリンで楽しい生活をお送りください。
+pc_event.28	I have conveyed this to them. May God bless you.
+pc_event.29	This is the Lymilark Church\n
+pc_event.30	We will support a portion of the donation you made to help us. \nPlease enjoy your life in Erin.
 pc_event.31	ライミラク慈善基金から手紙が到着しました。\nお近くの郵便箱をご確認ください。
 pc_event.32	リリスからもらった寄付金を寄付した。
 pc_event.33	寄付箱に入れることができない。
@@ -932,9 +932,9 @@ portal_condition.59	村へ行く前にメルエルと会っておかないと…
 portal_condition.60	メルエルのチュートリアルクエストを完了してからここを出よう。|水晶から与えられるクエストをすべて終わらせてからここを出よう。
 portal_condition.61	メルエルと話をしてみよう。|メルエルに会ってみよう。
 portal_condition.62	ここはまだ入ることができないようだ。
-portal_condition.63	この結婚式場で結婚することはできません。
-portal_condition.64	この結婚式場で結婚することはできません。
-portal_condition.65	この結婚式場で結婚することはできません。
+portal_condition.63	You cannot get married in this wedding hall.
+portal_condition.64	You cannot get married in this wedding hall.
+portal_condition.65	You cannot get married in this wedding hall.
 portal_condition.66	パラディン、またはダークナイトは入場可能です。
 portal_condition.67	試験のある時にしか入れません。
 portal_condition.68	パーティーを率いる人のみ入場を要請できる。
@@ -948,11 +948,11 @@ portal_condition.75	개발버전메세지 : 개인 워프실패
 portal_condition.76	개발버전메세지 : 개인용 존생성 실패
 portal_condition.77	パーティーに所属している場合はリーダーのみ入場を要請できます。
 portal_condition.78	ペットやジャイアントの肩に乗ったパーティーメンバーがいる場合は入場できません。
-portal_condition.79	프리미엄 팩을 사용해야 자기 집에 들어갈 수 있습니다.
-portal_condition.80	프리미엄 팩을 사용해야 경매 중인 집에 들어갈 수 있습니다.
-portal_condition.81	프리미엄 팩을 사용해야 자신의 길드의 성에 들어갈 수 있습니다.
-portal_condition.82	프리미엄 팩을 사용해야 경매 중인 성에 들어갈 수 있습니다.
-portal_condition.83	프리미엄 팩을 사용해야 관리실에 들어갈 수 있습니다.
+portal_condition.79	You have to use the premium pack to get into your own home.
+portal_condition.80	Premium packs are required to gain access to homes being auctioned.
+portal_condition.81	You must use the premium pack to enter your guild's castle.
+portal_condition.82	You must use the premium pack to enter the castle being auctioned.
+portal_condition.83	You must use the premium pack to enter the management room.
 portal_condition.84	ペットを呼び出した状態ではクラブに入場できません。
 portal_condition.85	城主が城ギルドメンバーでない人を地下ダンジョンに行けないように設定しているため入れない。
 portal_condition.86	ここはどこだ？
@@ -963,17 +963,17 @@ portal_condition.90	現在はギルドホールを利用できません。
 portal_condition.91	警備兵と話してみたほうがよさそうだ。
 portal_condition.92	To unlock the enterance of the underground waterway you need to say the secret code on the note. \n(Note: Type it without spaces)
 portal_condition.93	入る前に秘密が書かれたメモを手に入れなければならない。
-portal_condition.94	門が閉ざされている。
-portal_condition.95	門が閉ざされている。
-portal_condition.96	門が閉ざされている。
+portal_condition.94	The door is closed.
+portal_condition.95	The door is closed.
+portal_condition.96	The door is closed.
 portal_condition.97	蔵書館の鍵が必要だ。ネズミが飲み込んだんじゃないか？
 portal_condition.98	のレベルが低すぎます。
 portal_condition.99	パーティーリーダーのみ影の世界への進入を決定できます。
 portal_condition.100	以前に入った影の世界がまだ残っています。\n他のパーティーに加入するか、しばらくしてから試してください。
 portal_condition.101	閉ざされている。
-portal_condition.102	さん
-portal_condition.103	さん
-portal_condition.104	さん
+portal_condition.102	Three
+portal_condition.103	Three
+portal_condition.104	Three
 portal_condition.105	城主が城ギルドメンバーでない人を地下ダンジョンに行けないように設定しているため入れない。
 portal_condition.enter_dunbarton_library	工事中なので入れません。
 portal_condition.enter_emain_mach_club	イウェカが出てる夜のみ入場可能です。
@@ -984,154 +984,154 @@ portal_condition.enter_hidden_tutorial_area_not_rebirth	ここは転生した人
 portal_condition.enter_ruahome_not_available	入ることが出来ません。
 portal_condition.g1_pc_sidhe_sneachta02	まだここに入る資格がありません。
 prop_event.1	GM・devCATの権限で常に開けることができます。
-prop_event.2	攻撃効果がありそうだ。
+prop_event.2	It seems to have the wrong effect.
 prop_event.3	普段から街の人の手助けをしている者だけが、この扉を開けられるはずだ。
-prop_event.4	攻撃効果がありそうだ。
+prop_event.4	It seems to have the wrong effect.
 prop_event.5	自分の鍛え方を学んだ者だけが、この扉を開けられるはずだ。
-prop_event.6	攻撃効果がありそうだ。
+prop_event.6	It seems to have the wrong effect.
 prop_event.7	自分の鍛え方について悩む者だけが、この扉を開けられるはずだ。
-prop_event.8	攻撃効果がありそうだ。
+prop_event.8	It seems to have the wrong effect.
 prop_event.9	生活の基本についてある程度わかる者だけが、この扉を開けられるはずだ。
-prop_event.10	攻撃効果がありそうだ。
+prop_event.10	It seems to have the wrong effect.
 prop_event.11	戦闘だけがすべてではない。適度な余裕を持てる者だけが、この扉を開けられるはずだ。
-prop_event.12	攻撃効果がありそうだ。
+prop_event.12	It seems to have the wrong effect.
 prop_event.13	戦闘中、ケガの治療法についてわかる者だけが、この扉を開けられるはずだ。
-prop_event.14	攻撃効果がありそうだ。
+prop_event.14	It seems to have the wrong effect.
 prop_event.15	焚き火のロマンがわかる者だけが、この扉を開けられるはずだ。
-prop_event.16	攻撃効果がありそうだ。
+prop_event.16	It seems to have the wrong effect.
 prop_event.17	楽器をうまく扱える者だけが、この扉を開けられるはずだ。
-prop_event.18	攻撃効果がありそうだ。
+prop_event.18	It seems to have the wrong effect.
 prop_event.19	音楽に対する素養を身につけられた者だけが、この扉を開けられるはずだ。
-prop_event.20	攻撃効果がありそうだ。
+prop_event.20	It seems to have the wrong effect.
 prop_event.21	良い曲が作れる者だけが、この扉を開けられるはずだ。
-prop_event.22	攻撃効果がありそうだ。
-prop_event.23	少ないエサでたくさんの魚を釣れる者だけが、この扉を開けられるはずだ。
-prop_event.24	攻撃効果がありそうだ。
+prop_event.22	It seems to have the wrong effect.
+prop_event.23	Only those who can catch a lot of fish with little bait will be able to open this door.
+prop_event.24	It seems to have the wrong effect.
 prop_event.25	おいしい料理を作れる者だけが、この扉を開けられるはずだ。
-prop_event.26	攻撃効果がありそうだ。
+prop_event.26	It seems to have the wrong effect.
 prop_event.27	奥地にある隠された薬草を採れる者だけが、この扉を開けられるはずだ。
-prop_event.28	攻撃効果がありそうだ。
+prop_event.28	It seems to have the wrong effect.
 prop_event.29	症状に合ったポーションを作れる者だけが、この扉を開けられるはずだ。
-prop_event.30	攻撃効果がありそうだ。
+prop_event.30	It seems to have the wrong effect.
 prop_event.31	鉱石から不純物をうまく取り除ける者だけが、この扉を開けられるはずだ。
-prop_event.32	攻撃効果がありそうだ。
+prop_event.32	It seems to have the wrong effect.
 prop_event.33	道具だけでなく武器もうまく作れる者だけが、この扉を開けられるはずだ。
-prop_event.34	攻撃効果がありそうだ。
+prop_event.34	It seems to have the wrong effect.
 prop_event.35	生地とシルクの品質について悩む者だけが、この扉を開けられるはずだ。
-prop_event.36	攻撃効果がありそうだ。
+prop_event.36	It seems to have the wrong effect.
 prop_event.37	いろいろな服をうまく作れる者だけが、この扉を開けられるはずだ。
-prop_event.38	攻撃効果がありそうだ。
+prop_event.38	It seems to have the wrong effect.
 prop_event.39	いろいろな生活道具をうまく作れる者だけが、この扉を開けられるはずだ。
-prop_event.40	攻撃効果がありそうだ。
+prop_event.40	It seems to have the wrong effect.
 prop_event.41	接近戦の基礎を着実に磨いた者だけが、この扉を開けられるはずだ。
-prop_event.42	攻撃効果がありそうだ。
+prop_event.42	It seems to have the wrong effect.
 prop_event.43	致命的な攻撃の威力を上げられた者だけが、この扉を開けられるはずだ。
-prop_event.44	攻撃効果がありそうだ。
+prop_event.44	It seems to have the wrong effect.
 prop_event.45	動きだけで敵の次の行動を予測できる者だけが、この扉を開けられるはずだ。
-prop_event.46	攻撃効果がありそうだ。
+prop_event.46	It seems to have the wrong effect.
 prop_event.47	敵の攻撃を効果的に防げる者だけが、この扉を開けられるはずだ。
-prop_event.48	攻撃効果がありそうだ。
+prop_event.48	It seems to have the wrong effect.
 prop_event.49	敵に強力な一撃を与えられる者だけが、この扉を開けられるはずだ。
-prop_event.50	攻撃効果がありそうだ。
+prop_event.50	It seems to have the wrong effect.
 prop_event.51	敵の力をうまく利用できる者だけが、この扉を開けられるはずだ。
-prop_event.52	攻撃効果がありそうだ。
+prop_event.52	It seems to have the wrong effect.
 prop_event.53	危険な状況から落ち着いて脱出できる者だけが、この扉を開けられるはずだ。
-prop_event.54	攻撃効果がありそうだ。
+prop_event.54	It seems to have the wrong effect.
 prop_event.55	遠距離戦闘の基礎を着実に磨いた者だけが、この扉を開けられるはずだ。
-prop_event.56	攻撃効果がありそうだ。
+prop_event.56	It seems to have the wrong effect.
 prop_event.57	矢を使い敵に強力な一撃を与えられる者だけが、この扉を開けられるはずだ。
-prop_event.58	攻撃効果がありそうだ。
+prop_event.58	It seems to have the wrong effect.
 prop_event.59	魔法の基礎を着実に磨いた者だけが、この扉を開けられるはずだ。
-prop_event.60	攻撃効果がありそうだ。
+prop_event.60	It seems to have the wrong effect.
 prop_event.61	電撃を使った魔法攻撃がうまく使える者だけが、この扉を開けられるはずだ。
-prop_event.62	攻撃効果がありそうだ。
+prop_event.62	It seems to have the wrong effect.
 prop_event.63	炎を使った魔法攻撃がうまく使える者だけが、この扉を開けられるはずだ。
-prop_event.64	攻撃効果がありそうだ。
+prop_event.64	It seems to have the wrong effect.
 prop_event.65	氷を使った魔法攻撃がうまく使える者だけが、この扉を開けられるはずだ。
-prop_event.66	攻撃効果がありそうだ。
+prop_event.66	It seems to have the wrong effect.
 prop_event.67	相手の気力を効果的に満たせられる者だけが、この扉を開けられるはずだ。
-prop_event.68	攻撃効果がありそうだ。
+prop_event.68	It seems to have the wrong effect.
 prop_event.69	パーティーの気力を効果的に満たせられる者だけが、この扉を開けられるはずだ。
-prop_event.70	攻撃効果がありそうだ。
+prop_event.70	It seems to have the wrong effect.
 prop_event.71	物に魔法の効果をうまく与えられる者だけが、この扉を開けられるはずだ。
-prop_event.72	攻撃効果がありそうだ。
+prop_event.72	It seems to have the wrong effect.
 prop_event.73	マナの流れをうまく制御できる者だけが、この扉を開けられるはずだ。
-prop_event.74	攻撃効果がありそうだ。
+prop_event.74	It seems to have the wrong effect.
 prop_event.75	普段から街の人の手助けをしている者だけが、この扉を開けられるはずだ。
-prop_event.76	攻撃効果がありそうだ。
+prop_event.76	It seems to have the wrong effect.
 prop_event.77	直感だけで遺跡を発見できる者だけが、この扉を開けられるはずだ。
-prop_event.78	攻撃効果がありそうだ。
+prop_event.78	It seems to have the wrong effect.
 prop_event.79	自分の探検記を他の人に伝授する時が近づいた者だけが、この扉を開けられるはずだ。
-prop_event.80	攻撃効果がありそうだ。
+prop_event.80	It seems to have the wrong effect.
 prop_event.81	探検の道を真っ直ぐ歩んでいる者だけが、この扉を開けられるはずだ。
-prop_event.82	攻撃効果がありそうだ。
+prop_event.82	It seems to have the wrong effect.
 prop_event.83	自分だけのトレーニング方法を他人に伝授する時が近づいた者だけが、この扉を開けられるはずだ。
-prop_event.84	攻撃効果がありそうだ。
+prop_event.84	It seems to have the wrong effect.
 prop_event.85	黙々と自分を鍛えている者だけが、この扉を開けられるはずだ。
-prop_event.86	攻撃効果がありそうだ。
+prop_event.86	It seems to have the wrong effect.
 prop_event.87	強力な雷を生み出せる者だけが、この扉を開けられるはずだ。
-prop_event.88	攻撃効果がありそうだ。
+prop_event.88	It seems to have the wrong effect.
 prop_event.89	強力な炎の玉を生み出せる者だけが、この扉を開けられるはずだ。
-prop_event.90	攻撃効果がありそうだ。
+prop_event.90	It seems to have the wrong effect.
 prop_event.91	強力な氷の槍を生み出せる者だけが、この扉を開けられるはずだ。
-prop_event.92	攻撃効果がありそうだ。
+prop_event.92	It seems to have the wrong effect.
 prop_event.93	一度に多くの矢を使って射ることができる者だけが、この扉を開けられるはずだ。
-prop_event.94	攻撃効果がありそうだ。
+prop_event.94	It seems to have the wrong effect.
 prop_event.95	遠くの敵を素早く移動して倒すことができる者だけが、この扉を開けられるはずだ。
 prop_event.96	既に壊れた扉です。
 prop_event.97	GM・devCATの権限で常に開けることができます。
-prop_event.98	攻撃効果がありそうだ。
+prop_event.98	It seems to have the wrong effect.
 prop_event.99	隠れた遺跡を探し、自分の能力を証明することができる者だけが、この扉を開けられるはずだ。
-prop_event.100	攻撃効果がありそうだ。
+prop_event.100	It seems to have the wrong effect.
 prop_event.101	探検に関して自信を持てる者だけが、この扉を開けられるはずだ。
-prop_event.102	攻撃効果がありそうだ。
+prop_event.102	It seems to have the wrong effect.
 prop_event.103	探検の道に足を踏み入れた者だけが、この扉を開けられるはずだ。
-prop_event.104	扉が私に反応した。
+prop_event.104	The door responded to me.
 prop_event.105	怪物をも釣り上げる釣りの達人になった者だけが、この扉を開けられるはずだ。
-prop_event.106	扉が私に反応した。
+prop_event.106	The door responded to me.
 prop_event.107	Huge Lucky Finishを体験すれば、扉を開けられるはずだ。
-prop_event.108	扉が私に反応した。
+prop_event.108	The door responded to me.
 prop_event.109	ライトニング、ファイア、アイスエレメンタルについて理解できる者だけが、この扉を開けられるはずだ。
-prop_event.110	扉が私に反応した。
+prop_event.110	The door responded to me.
 prop_event.111	死に足を踏み入れた者だけが、この扉を開けられるはずだ。
-prop_event.112	扉が私に反応した。
+prop_event.112	The door responded to me.
 prop_event.113	パーティーで自分の存在を証明した者だけが、この扉を開けられるはずだ。
-prop_event.114	扉が私に反応した。
+prop_event.114	The door responded to me.
 prop_event.115	素手で自分の力を証明した者だけが、この扉を開けられるはずだ。
-prop_event.116	扉が私に反応した。
+prop_event.116	The door responded to me.
 prop_event.117	夢魔の誘惑に勝った者だけが、この扉を開けられるはずだ。
-prop_event.118	扉が私に反応した。
+prop_event.118	The door responded to me.
 prop_event.119	炎を利用した矢の攻撃方法を知る者だけが、この扉を開けられるはずだ。
-prop_event.120	扉が私に反応した。
+prop_event.120	The door responded to me.
 prop_event.121	毒に打ち勝った者だけが、この扉を開けられるはずだ。
-prop_event.122	扉が私に反応した。
+prop_event.122	The door responded to me.
 prop_event.123	大きなダメージを克服する意志を持つ者だけが、この扉を開けられるはずだ。
-prop_event.124	扉が私に反応した。
+prop_event.124	The door responded to me.
 prop_event.125	ポーションの乱用が害を及ぼすことを知る者だけが、この扉を開けられるはずだ。
-prop_event.126	攻撃効果がありそうだ。
+prop_event.126	It seems to have the wrong effect.
 prop_event.127	いろいろな知識を身につけた精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.128	攻撃効果がありそうだ。
+prop_event.128	It seems to have the wrong effect.
 prop_event.129	高い体力の精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.130	攻撃効果がありそうだ。
+prop_event.130	It seems to have the wrong effect.
 prop_event.131	高い知力の精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.132	攻撃効果がありそうだ。
+prop_event.132	It seems to have the wrong effect.
 prop_event.133	腕の良い精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.134	攻撃効果がありそうだ。
+prop_event.134	It seems to have the wrong effect.
 prop_event.135	強い意志の精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.136	攻撃効果がありそうだ。
+prop_event.136	It seems to have the wrong effect.
 prop_event.137	強運な精霊武器を所持する者だけが、この扉を開けられるはずだ。
 prop_event.138	精霊武器が必要なようだ。
-prop_event.139	扉が私に反応した。
+prop_event.139	The door responded to me.
 prop_event.140	多くの人たちの傷を自分の傷のように治療する意志を持つ者だけが、この扉を開けられるはずだ。
-prop_event.141	扉が私に反応した。
+prop_event.141	The door responded to me.
 prop_event.142	行動不能になった人を助ける意志を持つ者だけが、この扉を開けられるはずだ。
-prop_event.143	扉が私に反応した。
+prop_event.143	The door responded to me.
 prop_event.144	治療の道を真っ直ぐ歩んでいる者だけが、この扉を開けられるはずだ。
-prop_event.145	扉が私に反応した。
+prop_event.145	The door responded to me.
 prop_event.146	失われた気力を満たすことが習慣になった者だけが、この扉を開けられるはずだ。
-prop_event.147	扉が私に反応した。
+prop_event.147	The door responded to me.
 prop_event.148	緊急時に適切な傷の処置ができる者だけが、この扉を開けられるはずだ。
-prop_event.149	扉が私に反応した。
+prop_event.149	The door responded to me.
 prop_event.150	遠距離にいる行動不能になった人を復活させることができる者だけが、この扉を開けられるはずだ。
 prop_event.151	既に開かれた扉です。
 prop_event.152	GM・devCATの権限で常に開けることができます。
@@ -1146,108 +1146,108 @@ prop_event.160	It seems like it will open if you yell the name of the old hero w
 prop_event.161	The door reacted to my shout.
 prop_event.162	It seems like it will open if you yell the name of he who only appears at night at Sidhe Sneachta!
 prop_event.163	既に開かれた扉です。
-prop_event.164	ひらけ～！ と叫べば開きそうな気がする。
-prop_event.165	ひらけ～ゴマ！ と叫べば開きそうな気がする。
-prop_event.166	テスト！ と叫べば開きそうな気がする。
-prop_event.167	ひらけ～ゴマ！ と叫べば開きそうな気がする。
-prop_event.168	テスト！ と叫べば開きそうな気がする。
+prop_event.164	Open!I feel like it would open if I shouted that.
+prop_event.165	Open Sesame！ I feel like it would open if I shouted that.
+prop_event.166	test！ I feel like it would open if I shouted that.
+prop_event.167	Open Sesame！ I feel like it would open if I shouted that.
+prop_event.168	test！ I feel like it would open if I shouted that.
 prop_event.169	探検の道を真っ直ぐ歩んでいる者だけが、この扉を開けられるはずだ。
 prop_event.170	開け
-prop_event.171	ひらけ～ゴマ
-prop_event.172	テスト
-prop_event.173	ひらけ～ゴマ
-prop_event.174	テスト
-prop_event.175	攻撃効果がありそうだ。
+prop_event.171	Open Sesame
+prop_event.172	test
+prop_event.173	Open Sesame
+prop_event.174	test
+prop_event.175	It seems to have the wrong effect.
 prop_event.176	どんな物を作る時でも、自分だけのノウハウを取り入れられる者だけが、この扉を開けられるはずだ。
-prop_event.177	攻撃効果がありそうだ。
+prop_event.177	It seems to have the wrong effect.
 prop_event.178	水の流れだけで運気の良い場所がわかる者だけが、この扉を開けられるはずだ。
-prop_event.179	攻撃効果がありそうだ。
+prop_event.179	It seems to have the wrong effect.
 prop_event.180	絶頂の幸せを感じられるような食べ物を作れる者だけが、この扉を開けられるはずだ。
-prop_event.181	攻撃効果がありそうだ。
+prop_event.181	It seems to have the wrong effect.
 prop_event.182	どんな薬草でも根を傷つけずに採集できる者だけが、この扉を開けられるはずだ。
-prop_event.183	攻撃効果がありそうだ。
+prop_event.183	It seems to have the wrong effect.
 prop_event.184	薬草の素材を一瞬で思い出せる者だけが、この扉を開けられるはずだ。
-prop_event.185	攻撃効果がありそうだ。
+prop_event.185	It seems to have the wrong effect.
 prop_event.186	炉の前で日々精進しながら過ごした者だけが、この扉を開けられるはずだ。
-prop_event.187	攻撃効果がありそうだ。
-prop_event.188	武器だけではなく鍛冶屋の金槌も上手に扱える者だけが、この扉を開けられるはずだ。
-prop_event.189	攻撃効果がありそうだ。
-prop_event.190	糸車と織機の前で日々精進しながら過ごした者だけが、この扉を開けられるはずだ。
-prop_event.191	攻撃効果がありそうだ。
+prop_event.187	It seems to have the wrong effect.
+prop_event.188	Only those skilled in not only weapons but also the blacksmith's hammer should be able to open this door.
+prop_event.189	It seems to have the wrong effect.
+prop_event.190	Only those who have spent their days working diligently at the spinning wheel and loom can open this door.
+prop_event.191	It seems to have the wrong effect.
 prop_event.192	軽鎧の製作技術を常に鍛えていた者だけが、この扉を開けられるはずだ。
-prop_event.193	攻撃効果がありそうだ。
+prop_event.193	It seems to have the wrong effect.
 prop_event.194	いろいろな生活道具をうまく作れる者だけが、この扉を開けられるはずだ。
-prop_event.195	攻撃効果がありそうだ。
+prop_event.195	It seems to have the wrong effect.
 prop_event.196	攻撃と防御の戦闘原則を理解した者だけが、この扉を開けられるはずだ。
-prop_event.197	攻撃効果がありそうだ。
+prop_event.197	It seems to have the wrong effect.
 prop_event.198	致命的な攻撃の威力を2倍以上発揮できる者だけが、この扉を開けられるはずだ。
-prop_event.199	攻撃効果がありそうだ。
+prop_event.199	It seems to have the wrong effect.
 prop_event.200	素手で防御した時に軽い盾と同等の効果を発揮できる者だけが、この扉を開けられるはずだ。
-prop_event.201	攻撃効果がありそうだ。
+prop_event.201	It seems to have the wrong effect.
 prop_event.202	強力な一撃で相手はもちろん周囲の複数の敵にもダメージを与えられる者だけが、この扉を開けられるはずだ。
-prop_event.203	攻撃効果がありそうだ。
+prop_event.203	It seems to have the wrong effect.
 prop_event.204	敵の力をそのまま跳ね返せる者だけが、この扉を開けられるはずだ。
-prop_event.205	攻撃効果がありそうだ。
+prop_event.205	It seems to have the wrong effect.
 prop_event.206	両刃の剣を自由自在に使える者だけが、この扉を開けられるはずだ。
-prop_event.207	攻撃効果がありそうだ。
+prop_event.207	It seems to have the wrong effect.
 prop_event.208	前進と後退の戦闘原則を理解した者だけが、この扉を開けられるはずだ。
-prop_event.209	攻撃効果がありそうだ。
+prop_event.209	It seems to have the wrong effect.
 prop_event.210	強力な矢で相手はもちろん周囲の複数の敵にもダメージを与えられる者だけが、この扉を開けられるはずだ。
-prop_event.211	攻撃効果がありそうだ。
+prop_event.211	It seems to have the wrong effect.
 prop_event.212	楽な姿勢で休む方法についてわかる者だけが、この扉を開けられるはずだ。
-prop_event.213	攻撃効果がありそうだ。
+prop_event.213	It seems to have the wrong effect.
 prop_event.214	効果的な傷の治療方法についてわかる者だけが、この扉を開けられるはずだ。
-prop_event.215	攻撃効果がありそうだ。
+prop_event.215	It seems to have the wrong effect.
 prop_event.216	焚き火を囲みながら様々な冒険談を受け継げる者だけが、この扉を開けられるはずだ。
-prop_event.217	攻撃効果がありそうだ。
+prop_event.217	It seems to have the wrong effect.
 prop_event.218	いろいろな楽器の調和について考える者だけが、この扉を開けられるはずだ。
-prop_event.219	攻撃効果がありそうだ。
+prop_event.219	It seems to have the wrong effect.
 prop_event.220	楽器の持つ固有の音色を理解した者だけが、この扉を開けられるはずだ。
-prop_event.221	攻撃効果がありそうだ。
+prop_event.221	It seems to have the wrong effect.
 prop_event.222	和音について充分理解した者だけが、この扉を開けられるはずだ。
-prop_event.223	攻撃効果がありそうだ。
+prop_event.223	It seems to have the wrong effect.
 prop_event.224	多様な効果を発揮する魔法を理解し終えた者だけが、この扉を開けられるはずだ。
-prop_event.225	攻撃効果がありそうだ。
+prop_event.225	It seems to have the wrong effect.
 prop_event.226	電気を利用した強力な魔法攻撃ができる者だけが、この扉を開けられるはずだ。
-prop_event.227	攻撃効果がありそうだ。
+prop_event.227	It seems to have the wrong effect.
 prop_event.228	火を利用した強力な魔法攻撃ができる者だけが、この扉を開けられるはずだ。
-prop_event.229	攻撃効果がありそうだ。
+prop_event.229	It seems to have the wrong effect.
 prop_event.230	氷を利用した強力な魔法攻撃ができる者だけが、この扉を開けられるはずだ。
-prop_event.231	攻撃効果がありそうだ。
+prop_event.231	It seems to have the wrong effect.
 prop_event.232	仲間の生命力を素早く回復できる者だけが、この扉を開けられるはずだ。
-prop_event.233	攻撃効果がありそうだ。
+prop_event.233	It seems to have the wrong effect.
 prop_event.234	仲間たちの生命力を素早く回復できる者だけが、この扉を開けられるはずだ。
-prop_event.235	攻撃効果がありそうだ。
+prop_event.235	It seems to have the wrong effect.
 prop_event.236	珍しい物にも自信を持って魔法効果を付与できる者だけが、この扉を開けられるはずだ。
-prop_event.237	攻撃効果がありそうだ。
+prop_event.237	It seems to have the wrong effect.
 prop_event.238	マナの流れを上手に制御できる者だけが、この扉を開けられるはずだ。
-prop_event.239	攻撃効果がありそうだ。
+prop_event.239	It seems to have the wrong effect.
 prop_event.240	Ｌロッドの光か音いずれかひとつだけを活用して遺跡を見つけられる境地に達した者だけが、この扉を開けられるはずだ。
-prop_event.241	攻撃効果がありそうだ。
+prop_event.241	It seems to have the wrong effect.
 prop_event.242	探検に関するノウハウを蓄積している者だけが、この扉を開けられるはずだ。
-prop_event.243	攻撃効果がありそうだ。
+prop_event.243	It seems to have the wrong effect.
 prop_event.244	探検家としての道を真っ直ぐに歩んでいる者だけが、この扉を開けられるはずだ。
-prop_event.245	扉が私に反応した。
+prop_event.245	The door responded to me.
 prop_event.246	馬とダチョウに乗り至る所を探検した者だけが、この扉を開けられるはずだ。
-prop_event.247	扉が私に反応した。
+prop_event.247	The door responded to me.
 prop_event.248	船酔いに打ち勝った者だけが、この扉を開けられるはずだ。
-prop_event.249	扉が私に反応した。
+prop_event.249	The door responded to me.
 prop_event.250	懐に入れた卵を割らずに戦えるほど成長した者だけが、この扉を開けられるはずだ。
-prop_event.251	扉が私に反応した。
+prop_event.251	The door responded to me.
 prop_event.252	荒々しい猛獣も一撃のうちに倒せる者だけが、この扉を開けられるはずだ。
-prop_event.253	攻撃効果がありそうだ。
+prop_event.253	It seems to have the wrong effect.
 prop_event.254	常に勤勉たる者だけが、この扉を開けられるはずだ。
-prop_event.255	攻撃効果がありそうだ。
+prop_event.255	It seems to have the wrong effect.
 prop_event.256	戦闘に関するノウハウを蓄積している者だけが、この扉を開けられるはずだ。
-prop_event.257	攻撃効果がありそうだ。
+prop_event.257	It seems to have the wrong effect.
 prop_event.258	戦士としての道を真っ直ぐに歩んでいる者だけが、この扉を開けられるはずだ。
-prop_event.259	扉が私に反応した。
+prop_event.259	The door responded to me.
 prop_event.260	遺跡の歴史だけでなく復元も考えられる者だけが、この扉を開けられるはずだ。
-prop_event.261	扉が私に反応した。
+prop_event.261	The door responded to me.
 prop_event.262	失敗は成功の母という真実を知った者だけが、この扉を開けられるはずだ。
-prop_event.263	扉が私に反応した。
+prop_event.263	The door responded to me.
 prop_event.264	短時間で多くを成しえた者だけが、この扉を開けられるはずだ。
-prop_event.265	扉が私に反応した。
+prop_event.265	The door responded to me.
 prop_event.266	体の大きい相手であっても落ち着いて対応できる者だけが、この扉を開けられるはずだ。
 prop_event.267	Human
 prop_event.268	The door reacted to my shout.
@@ -1287,8 +1287,8 @@ prop_event.301	桜の木から小枝をもらった。
 prop_event.302	桜の木にとって役立つアイテムではないようだ。
 prop_event.303	桜の木から小枝をもらうためには、桜の木の世話をしてあげなければならないようだ。
 prop_event.304	정성이 부족해 깨끗한 벚꽃잎을 찾기 힘들 것 같다.
-prop_event.305	종종 깨끗한 벚꽃잎을 찾을 수 있을 것 같다.
-prop_event.306	종종 깨끗한 벚꽃잎을 찾을 수 있을 것 같다.
+prop_event.305	It seems like you can often find clean cherry petals.
+prop_event.306	It seems like you can often find clean cherry petals.
 prop_event.307	정성을 다한 덕분에 깨끗한 벚꽃잎을 쉽게 찾을 수 있을 것 같다.
 prop_event.308	ブリューナクとスパークのエネルギーが相殺された。
 prop_event.309	ブリューナクが発散する強力な電気エネルギーにより触れない。
@@ -1351,7 +1351,7 @@ useitem_event.26	みんな楽しそうでなによりです。\n私も子供た�
 useitem_event.27	このトレイシーのところにもお菓子をもらいに来てネ♪\n- トレイシー
 useitem_event.28	ハロウィンだからって\n食べてばかりいたら太るかもしれないわよー？\n- フィオン
 useitem_event.29	ハロウィンのフォーチュンクッキーを食べる時、俺は左手を使う。\n心臓から最も近いこの左手をな。\n- タウネス
-useitem_event.30	ハロウィン。この季節にぴったりのイベントですよね。\n皆さん、ハロウィンで楽しい思い出を作って下さい。\n- ヒルブリン
+useitem_event.30	Halloween. It's the perfect event for this season. \nEveryone, make some fun memories on Halloween. \n- Hilbrin
 useitem_event.31	根性だよ！根性！\nハロウィンだからってハンパしないでバンバン預金するんだよ！!\n- エトゥナ
 useitem_event.32	ハロウィンのフォーチュンクッキーが美味なること、\n余の右腕にかけて保障しよう。\n- クリューグ
 useitem_event.33	空が澄んでいると気分がよくなります。.\n秋は空がきれいでいいですね。\n- レプス
@@ -1377,7 +1377,7 @@ useitem_event.52	님 께서 전사 가챠폰에서
 useitem_event.53	아이템을 획득하였습니다.
 useitem_event.54	プレゼントの箱を開けてアイテムを受け取りました。
 useitem_event.55	プレミアムランダムボックスからアイテムを受け取りました。
-useitem_event.56	さんがプレミアムランダムボックスから
+useitem_event.56	From the Premium Random Box
 useitem_event.57	アイテムを獲得しました。
 useitem_event.58	님 께서 5주년 기념 가챠폰에서
 useitem_event.59	아이템을 획득하였습니다.
