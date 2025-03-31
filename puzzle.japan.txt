@@ -1,19 +1,19 @@
-﻿boss.dunbarton_rabbie.1	一般ラビボススクリプト
-boss.dunbarton_rabbie.2	레이널드 맞으니까 함수호출
-boss.dunbarton_rabbie_succubus.1	サキュバスボススクリプト
-boss.emain_runda_dungeon_g2_paladin_rp.1	이 곳에도 브류나크는 없나 보군 다른 곳으로 찾아 가야겠다.
-boss.longadesert_begin.1	エレメンタルの結晶が壊れる瞬間、エレメンタルの流れを全身で感じることができた.
-boss.tircho_ciar_g13_easy_dungeon.1	(ゴーレムが倒れた場所からファーガスの金槌を拾った.)
-boss.tircho_ciar_g13_high_dungeon.1	(ゴーレムが倒れた場所からファーガスの金槌を拾った.)
-boss.tircho_ciar_g13_mid_dungeon.1	(ゴーレムが倒れた場所からファーガスの金槌を拾った.)
-boss.tirchonaill_alby_g13_firstfolio.1	(クモを倒して作家の手帳を1冊発見した.\n一度読んでみよう.)
-boss.tirchonaill_alby_g13_firstfolio_high.1	(クモを倒して作家の手帳を1冊発見した.\n一度読んでみよう.)
-boss.tirchonaill_alby_g13_firstfolio_mid.1	(クモを倒して作家の手帳を1冊発見した.\n一度読んでみよう.)
-boss.tirchonaill_alby_tutorial_malcolm.1	幼い巨大黄金クモを倒し、マルコムの指輪を見つけました.
-boss.tirchonaill_ciar_japan_event_1.1	門を開けることができない.
-boss.tirchonaill_ciar_japan_event_1.2	門を開けることができない.
-boss.tirchonaill_ciar_japan_event_2.1	門を開けることができない.
-boss.tirchonaill_ciar_japan_event_2.2	門を開けることができない.
+﻿boss.dunbarton_rabbie.1 General rabbie boss script
+boss.dunbarton_rabbie.2
+boss.dunbarton_rabbie_succubus.1	Succubus boss script
+boss.emain_runda_dungeon_g2_paladin_rp.1
+boss.longadesert_begin.1	At the moment the elemental crystal broke, I could feel the flow of the elemental with my whole body.
+boss.tircho_ciar_g13_easy_dungeon.1	(I picked up Fergus' hammer from where the golem fell.)
+boss.tircho_ciar_g13_high_dungeon.1	(I picked up Fergus' hammer from where the golem fell.)
+boss.tircho_ciar_g13_mid_dungeon.1	(I picked up Fergus' hammer from where the golem fell.)
+boss.tirchonaill_alby_g13_firstfolio.1	(I defeated the spider and found a writer's notebook.\nI'll give it a read.)
+boss.tirchonaill_alby_g13_firstfolio_high.1	(I defeated the spider and found a writer's notebook.\nLet's read it.)
+boss.tirchonaill_alby_g13_firstfolio_mid.1	(I defeated the spider and found a writer's notebook.\nLet's read it.)
+boss.tirchonaill_alby_tutorial_malcolm.1	I defeated a young giant golden spider and found Malcolm's ring.
+boss.tirchonaill_ciar_japan_event_1.1	I can't open the gate.
+boss.tirchonaill_ciar_japan_event_1.2	I can't open the gate.
+boss.tirchonaill_ciar_japan_event_2.1	I can't open the gate.
+boss.tirchonaill_ciar_japan_event_2.2	I can't open the gate.
 element.collectprop_herb.1	herb1
 element.collectprop_herb.2	herb2
 element.collectprop_herb.3	herb3
@@ -67,8 +67,8 @@ element.jg_nekojima_puzzleroom_new.22	Five knights! Looks like you're at the nor
 element.jg_nekojima_puzzleroom_new.23	Five knights! Looks like you're at the northern edge.
 element.jg_nekojima_puzzleroom_new.24	Five knights and five archers...looks like you reached the northeast corner...
 element.jg_nekojima_puzzleroom_new.25	The patterns on the wooden pillar are glowing. Deal with the monsters then hit the pillar once again.
-element.keychest_9chest.1	これは困る
-element.keychest_9chest_rabbie.1	魔法のように
+element.keychest_9chest.1	This is troubling
+element.keychest_9chest_rabbie.1	Magically
 element.keychest_monster_japan_event.1	I can't open the box.
 element.keychest_skeleton.1	single(smallredskeleton:
 element.keychest_skeleton.2	:
@@ -83,15 +83,15 @@ element.switchdoor_switchmonster_japan_event.1	The switch cannot be activated.
 element.transparent_1switch_voice.1	The stone pillars are shining!  Hit them again!
 element.transparent_4switch_nokey.1	A stone pillar appeared in the corner.  Hit it.
 prop.black_bead.1	Someone has hit the orb.
-prop.black_bead.2	オーケー、全部やったな.開けてやろう.
+prop.black_bead.2	Okay, we've done all that. Let's open it up.
 prop.black_bead.3	I unsealed and got a piece of black orb！\nIf you break all 4 seals, you can make a black orb that will take you to the last seal.
 prop.black_bead.4	To break the orb.
-prop.black_bead.5	回残っている.
+prop.black_bead.5	There are 20 ...
 prop.fountain.1	fountain.mint
 prop.fountain.2	_low_
 prop.fountain.3	_middle_
 prop.fountain.4	_high_
-prop.fountain.5	噴水生成
+prop.fountain.5	Fountain Generation
 prop.fountain.6	Life recovered.
 prop.fountain.7	Wounds recovered.
 prop.fountain.8	Stamina recovered.
@@ -100,8 +100,8 @@ prop.fountain.10	Hunger recovered.
 prop.fountain.11	Received money.
 prop.fountain.12	Received 1,000 exp.
 prop.fountain.13	All equipped items are blessed.
-prop.fountain.14	リストサイズ :
-prop.fountain.15	選択されたアイテム名
+prop.fountain.14	List size:
+prop.fountain.15	Selected Item Name
 prop.fountain.16	Has been blessed.
 prop.fountain.17	Durability recovered.
 prop.fountain.18	Suffered hunger.
@@ -113,65 +113,65 @@ prop.fountain.23	{0}Has been blessed.
 prop.fountain.24	{0}Durability recovered.
 prop.fountain.25	{0}Blessing removed.
 prop.fountain.26	{0}1 durability removed.
-prop.glacierruin_mirror.1	やみくもに攻撃しても効果がないようだ.|これ以上攻撃しても何の効果もないようだ.|これ以上攻撃しても無駄だ.
-prop.glacierruin_mirror.2	不思議な光によって、鏡が保護されているようだ.|何かがこちらの攻撃を防いでいるようだ.|鏡のまわりの不思議な光を、先に除去しなければならないようだ.
-prop.glacierruin_mirror.3	鏡にひびが入り始めた.|鏡が少しずつ壊れはじめた.|もう少しで鏡が壊れそうだ.
+prop.glacierruin_mirror.1	Blindly attacking doesn't seem to have any effect.|Further attacks don't seem to have any effect.|Further attacks are useless.
+prop.glacierruin_mirror.2	The mirror seems to be protected by a mysterious light.|It seems something is blocking our attacks.|It seems we must first remove the mysterious light around the mirror.
+prop.glacierruin_mirror.3	The mirror started to crack.|The mirror started to break little by little.|It's about to break.
 prop.red_fountain.1	Red fountain
-prop.red_fountain.2	の効果で
-prop.red_fountain.3	の効果が消えていく.
-prop.red_fountain.4	の効果が消えた.
+prop.red_fountain.2	The effect of
+prop.red_fountain.3	The effect disappeared.
+prop.red_fountain.4	The effect disappeared.
 prop.red_fountain.5	
-prop.red_fountain.6	が出た.
+prop.red_fountain.6	appeared.
 prop.red_fountain.7	
-prop.red_fountain.8	が出た.
+prop.red_fountain.8	appeared.
 prop.red_fountain.9	
-prop.red_fountain.10	が出た.
+prop.red_fountain.10	appeared.
 prop.red_fountain.11	
-prop.red_fountain.12	が出た.
+prop.red_fountain.12	appeared.
 prop.red_fountain.13	
-prop.red_fountain.14	が出た.
+prop.red_fountain.14	appeared.
 prop.red_fountain.15	
-prop.red_fountain.16	が出た.
+prop.red_fountain.16	appeared.
 prop.red_fountain.17	
-prop.red_fountain.18	が出た.
+prop.red_fountain.18	appeared.
 prop.red_fountain.19	
-prop.red_fountain.20	が出た.
+prop.red_fountain.20	appeared.
 prop.red_fountain.21	
-prop.red_fountain.22	が出た.
+prop.red_fountain.22	appeared.
 prop.red_fountain.23	
-prop.red_fountain.24	が出た.
+prop.red_fountain.24	appeared.
 prop.red_fountain.25	
-prop.red_fountain.26	が出た.
+prop.red_fountain.26	appeared.
 prop.red_fountain.27	
-prop.red_fountain.28	が出た.
+prop.red_fountain.28	appeared.
 prop.red_fountain.29	Red fountain
-prop.red_fountain.30	の効果で
-prop.red_fountain.31	の効果が消えていく.
-prop.red_fountain.32	の効果が消えた.
+prop.red_fountain.30	With the effect of
+prop.red_fountain.31	The effect of disappears.
+prop.red_fountain.32	The effect of.
 prop.red_fountain.33	
-prop.red_fountain.34	が出た.
+prop.red_fountain.34	appeared.
 prop.red_fountain.35	
-prop.red_fountain.36	が出た.
+prop.red_fountain.36	appeared.
 prop.red_fountain.37	
-prop.red_fountain.38	が出た.
+prop.red_fountain.38	appeared.
 prop.red_fountain.39	
-prop.red_fountain.40	が出た.
+prop.red_fountain.40	appeared.
 prop.red_fountain.41	
-prop.red_fountain.42	が出た.
+prop.red_fountain.42	appeared.
 prop.red_fountain.43	
-prop.red_fountain.44	が出た.
+prop.red_fountain.44	appeared.
 prop.red_fountain.45	
-prop.red_fountain.46	が出た.
+prop.red_fountain.46	appeared.
 prop.red_fountain.47	
-prop.red_fountain.48	が出た.
+prop.red_fountain.48	appeared.
 prop.red_fountain.49	
-prop.red_fountain.50	が出た.
+prop.red_fountain.50	appeared.
 prop.red_fountain.51	
-prop.red_fountain.52	が出た.
+prop.red_fountain.52	appeared.
 prop.red_fountain.53	
-prop.red_fountain.54	が出た.
+prop.red_fountain.54	appeared.
 prop.red_fountain.55	
-prop.red_fountain.56	が出た.
+prop.red_fountain.56	appeared.
 prop.red_fountain.57	Red fountain gave {0}.
 prop.red_fountain.58	Red fountain effect faded.
 prop.red_fountain.59	Red fountain effect faded.
@@ -180,8 +180,8 @@ prop.red_fountain.61	Red fountain effect faded.
 prop.red_fountain.62	Red fountain effect faded.
 prop.tirnanog_sealstone.1	Player touches the seal of Tir Na Nog.
 prop.tirnanog_sealstone.2	I am not able to break this seal.
-prop.tirnanog_sealstone.3	クリステルの話によると、\n封印の力が弱くなるサーオィンにならないと封印を解くことはできないそうだ.
-prop.tirnanog_sealstone.4	弱すぎて、門が開かないようだ.
+prop.tirnanog_sealstone.3	According to Kristell, the seal can't be broken until the month reaches Samhain, at which point the power of the seal weakens.
+prop.tirnanog_sealstone.4	It seems too weak and the gate won't open.
 prop.tirnanog_sealstone.7	I can not break the seal./nThe party leader seems capable..
 prop.tirnanog_sealstone.8	Would you like to move to the world beyond the sealed gate?？
 prop.tirnanog_sealstone.9	The seal cannot be broken by people under level 25.  It is impossible with our power.
@@ -191,13 +191,13 @@ puzzle_event_taiwan.2	구슬을 친 회수가 부족하여 이벤트 보상을 �
 puzzle_event_taiwan.3	최종 카운터 : {0}\n소지 아이템 : [{1}] 메모
 puzzle_event_taiwan.4	카운터가 [
 puzzle_event_taiwan.5	] 문자로 세팅 되었습니다.
-rp_boss.g2_37_bangor_bari.1	無敵ゴーレムを除去
-rp_boss.g2_37_bangor_bari.2	黄金ゴーレムを弱いのに変える.
+rp_boss.g2_37_bangor_bari.1	Removes invincible golems
+rp_boss.g2_37_bangor_bari.2	Turns golden golems into weak ones.
 rp_boss.g2_37_bangor_bari.3	에스라스를 배치
 rp_boss.g2_37_bangor_bari.4	던전 퍼즐의 리다이어 생성함수까지 잘왔따
 rp_boss.g2_37_bangor_bari.5	컷신에서 리다이어를 불러 배치가 끝났다
 rp_boss.g2_37_bangor_bari.6	황금골렘 배치
-rp_element.final_dungeon.1	パズルが問題なのか？
+rp_element.final_dungeon.1	Is the puzzle the problem?
 rp_element.g2_08_triona.1	트리아나가 쓰러져서 컷신 트는 함수가 불렸다
 rp_element.g2_08_triona.2	트리아나가 있는 방에 사람이 들어왔다
 rp_element.g2_08_triona.3	트리아나를 배치한다
@@ -209,12 +209,12 @@ rp_element.g2_08_triona.8	루에리 배치 시작
 rp_element.g2_08_triona.9	컷신에서 루에리랑 팔라딘동료를 불러 배치가 끝났다
 rp_element.g2_08_triona.10	트리아나가 쓰러져서 컷신 트는 함수가 불렸다
 rp_element.g2_08_triona.11	컷신에서 루에리랑 팔라딘동료를 불러 배치가 끝났다
-rp_element.ghostarmor_darklord.1	パズルが問題なのか？
+rp_element.ghostarmor_darklord.1	Is the puzzle the problem?
 rp_element.ghostarmor_darklord.2	열쇠있는놈 할당
 rp_element.ghostarmor_darklord.3	열쇠없는놈 할당
-rp_element.ghostarmor_darklord2.1	パズルが問題なのか？
-rp_element.ghostarmor_darklord2.2	問題ないだろう？
+rp_element.ghostarmor_darklord2.1	Is the puzzle the problem?
+rp_element.ghostarmor_darklord2.2	There shouldn't be a problem, right?
 rp_element.ghostarmor_darklord2.3	열쇠있는놈 할당
 rp_element.ghostarmor_darklord2.4	열쇠없는놈 할당
-rp_element.rp_trefor.1	パズルが問題なのか？
-rp_element.rp_trefor2.1	パズルが問題なのか？
+rp_element.rp_trefor.1	Is the puzzle the problem?
+rp_element.rp_trefor2.1	Is the puzzle the problem?

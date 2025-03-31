@@ -202,29 +202,29 @@
 5th_anniversary_announce_event.202	
 anniversary.1	The Church of Lymilark collects charitable funds through the Pontiff's Offering Box. Currently, the donations total
 anniversary.2	Gold.
-collectionbook.1	に
-collectionbook.2	を収集しました。
-collectionbook.3	コレクションの全てのアイテムを集めました。
-collectionbook.4	コレクションブックを完成しました。
-collectionbook.5	の品質が劣って収集できません。
-collectionbook.6	の耐久度が低いため収集できません。
-collectionbook.7	- 料理大会用の食べ物は収集できません。
-collectionbook.8	の有効期間が過ぎたので収集できません。
-collectionbook.9	のサイズが小さくて収集できません。
-collectionbook.10	のサイズが大きくて収集できません。
-collectionbook.11	のサイズが小さくて収集できません。
-collectionbook.12	のサイズが大きくて収集できません。
+collectionbook.1	The
+Collectionbook.2	has been collected.
+collectionbook.3	I collected all the items in the collection.
+collectionbook.4	I finished the collection book.
+collectionbook.5	The quality is poor and cannot be collected.
+collectionbook.6	It cannot be collected due to its low durability.
+collectionbook.7	- Food for the cooking competition cannot be collected.
+collectionbook.8	has expired and cannot be collected.
+collectionbook.9	is too small to collect.
+collectionbook.10	is too large to collect.
+collectionbook.11	is too small to collect.
+collectionbook.12	is too large to collect.
 collectionbook.13	Wolf Hunter's
 collectionbook.14	Lion Hunter's
 collectionbook.15	Nature
-collectionbook.16	ウルフハンターとネイチャー
-collectionbook.17	初歩のと忍耐の
-collectionbook.18	精巧な
+collectionbook.16	Wolf Hunters and Nature
+collectionbook.17	Beginners and Patience
+collectionbook.18	Exquisite
 collectionbook.19	Fox Hunter's
 collectionbook.20	Crayfish
-collectionbook.21	賢い
-collectionbook.22	ひびが入った
-collectionbook.23	鋭い
+collectionbook.21	clever
+collectionbook.22	cracked
+collectionbook.23	sharp
 collectionbook.24	Restful
 collectionbook.25	Water
 collectionbook.26	Crab
@@ -232,20 +232,20 @@ collectionbook.27	Strong
 collectionbook.28	Talcum
 collectionbook.29	Swan Summoner's
 collectionbook.30	Hyena's
-collectionbook.31	のろまの
+collectionbook.31	Slow
 collectionbook.32	Fortune
 collectionbook.33	Skeleton
 collectionbook.34	Blessing
-collectionbook.35	安いと沼の
-collectionbook.36	緑のとグリーン
+collectionbook.35	Cheap and swampy
+collectionbook.36	Green and Green
 collectionbook.37	Good
 collectionbook.38	Snake
-collectionbook.39	風の
+collectionbook.39	Wind
 collectionbook.40	Jade
 collectionbook.41	the Mist
 collectionbook.42	Brown Fox
 collectionbook.43	Understanding
-collectionbook.44	泉の
+collectionbook.44	Izumi
 collectionbook.45	Brown Bear
 collectionbook.46	Imitation
 collectionbook.47	Toy
@@ -257,41 +257,41 @@ collectionbook.52	Gold Goblin
 collectionbook.53	Topaz
 collectionbook.54	Considerate
 collectionbook.55	Dire Wolf
-collectionbook.56	ヘルス
-collectionbook.57	灰色オオカミ
-collectionbook.58	ブラッド
-collectionbook.59	ロブスター
-collectionbook.60	白クモ
-collectionbook.61	ドンキーハンター
-collectionbook.62	便利な
-collectionbook.63	ラスティ
-collectionbook.64	ペンギンサマナー
-collectionbook.65	夜明けの
-collectionbook.66	ゴーレム
-collectionbook.67	デッドマン
-collectionbook.68	金持ちの
-collectionbook.69	ファイター
-collectionbook.70	オーガ
-collectionbook.71	混沌の
-collectionbook.72	エンチャントを収集しました。
-collectionbook.73	エンチャントを収集しました。
-collectionbook.74	ヒーターシールドの図面を受け取りました。
-collectionbook.75	ダスティンシルバーナイトソードの図面を受け取りました。
-collectionbook.76	ダスティンシルバーナイトソードの図面を受け取りました。
+collectionbook.56	health
+collectionbook.57	Grey Wolf
+collectionbook.58	Blood
+collectionbook.59	Lobster
+collectionbook.60	White Spider
+collectionbook.61	Donkey Hunter
+collectionbook.62	Useful
+collectionbook.63	Rusty
+collectionbook.64	Penguin Summoner
+collectionbook.65	Dawn
+collectionbook.66	Golem
+collectionbook.67	Dead Man
+collectionbook.68	Rich
+collectionbook.69	Fighter
+collectionbook.70	Ogre
+collectionbook.71	Chaos
+collectionbook.72	Enchantments collected.
+collectionbook.73	Enchantments collected.
+collectionbook.74	I received the manual for the heater shield.
+collectionbook.75	I received the manual for the Dustin Silver Knight Sword.
+collectionbook.76	I received the manual for the Dustin Silver Knight Sword.
 collectionbook.77	할아버지 유령을 스케치한
 collectionbook.78	아빠 유령을 스케치한
 collectionbook.79	엄마 유령을 스케치한
 collectionbook.80	아들 유령을 스케치한
 collectionbook.81	딸 유령을 스케치한
-collectionbook.82	バトルソードの図面を受け取りました。
-collectionbook.83	フクロウが健康に育ちました。スタンプブックを開いて報酬を受け取ってください。
-collectionbook.84	赤ちゃんフクロウが嬉しそうにホウホウ鳴きながら周囲を回り、元気に飛んでいった。
-collectionbook.85	波の鎮静クエストを受けたあとにコレクションすることができます。
+collectionbook.82	I received the manual for the Battle Sword.
+collectionbook.83	Now that your owl is healthy, open your stamp book to receive your reward.
+collectionbook.84	The baby owl circled around, hooting happily, then flew off happily.
+collectionbook.85	It can be collected after accepting the Calm the Waves quest.
 collectionbook.86	아기 호랑이가 기쁜 듯 다리에 몸을 부비다가 힘차게 달려 갔다.
-collectionbook.87	ダンジョンでは使用できません。
-collectionbook.88	室内では使用できません。
-collectionbook.89	現在の位置では報酬を受け取れません。\n広い地域に移動してから使用してください。 
-collectionbook.90	現在の地域では使用できません。
+collectionbook.87	Cannot be used in dungeons.
+collectionbook.88	Cannot be used indoors.
+collectionbook.89	You cannot receive rewards at your current location. \nPlease move to a larger area and use it.
+collectionbook.90	Not available in your current region.
 confessional.1	Wait for people to visit you.
 confessional.2	Looks like's nobody's coming.\nTry again some other time.
 confessional.3	Looks like's nobody's coming.\nTry again some other time.
@@ -555,8 +555,8 @@ enter_dungeon_ruin.20	You may only enter the Rain Maker dungeon on Samhain (Satu
 enter_dungeon_ruin.21	You cannot use this item right now.
 enter_dungeon_ruin.22	You cannot use this item right now.
 enter_dungeon_ruin.23	You cannot use this item right now.
-exploration_event.1	船が難破し、イリアの南東に流れてきたようだ。
-exploration_event.2	船が難破し、どこかに流れ着いたようだ。
+exploration_event.1	Apparently the ship was wrecked and drifted southeast of Ilia.
+exploration_event.2	It seems the ship was wrecked and washed up somewhere.
 falias.1	You failed to protect the altar.\nThe Aonbharrs that sealed the altar are leaving.
 falias.2	You cannot obtain any treasures because the altar is sealed.
 falias.3	
@@ -614,15 +614,15 @@ fashionshow_event.9	The Tara Fashion Contest Preliminaries are scheduled to begi
 fashionshow_event.10	The Tara Fashion Contest Preliminaries are currently in progress. We look forward to your participation.
 fashionshow_event.11	The Tara Fashion Contest Finals are scheduled to begin at 8 p.m. We look forward to your participation.
 fashionshow_event.12	The Tara Fashion Contest Finals are currently in progress.
-g1_event.1	G1_40_b カットシーンが終了しました。
+g1_event.1	G1_40_b Cutscene completed.
 g2_event.1	여신 컷신 보기 시작함
 g2_event.2	컷신이 끝나고 부른다제
 g2_event.3	컷신이 끝나고 부른다제
 g2_event.4	컷신이 끝나고 부른다제
 g2_event.5	37_c 서버 시퀀스
-g2_event.6	G2シナリオの進行上、正常ではない部分がリセットされます。
-g8_event.1	割れた地面から吹き出る熱気のため、これ以上進入することが出来ない。
-g13_event.1	謎のイヤリングを受け取った。吟遊詩人を捜す手がかりになるだろうか。
+g2_event.6	Any abnormal parts of the G2 scenario will be reset.
+g8_event.1	The heat coming out of the cracked ground makes it impossible to go any further.
+g13_event.1	You have received a mysterious pair of earrings. Could they help you track down the Bard?
 g13_event.2	(dev) 정식 서버에서는 0분 후에 다음 퀘스트 배달됩니다.
 g13_event.3	(dev) 정식 서버에서는 0분 후에 다음 퀘스트 배달됩니다.
 g13_event.4	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩니다.
@@ -647,15 +647,15 @@ g13_event.22	(dev) 정식 서버에서는 1분 후에 다음 퀘스트 배달됩
 game_event.1	마비노기 4주년 기념 아이템을 받았습니다.
 game_event.2	3월 2일 정기점검 후 마법 상자가 지급됩니다. 마법 상자는 새학기 봄꽃 이벤트를 진행하신 분만 받으실 수 있습니다.
 game_event.3	마비노기 2주년 기념 아이템을 받았습니다.
-game_event.4	エリン定着支援金を受け取りました。
-game_event.5	エリン定着支援金を受け取れません。\nインベントリを確認し、しばらくしてから再度お試しください。
-game_event.6	エリン定着支援金に問題が発生しました。しばらくしてから再度お試しください。
+game_event.4	I received the Erin Settlement Support Grant.
+game_event.5	Unable to receive Erin Settlement Support Grant. \nPlease check your inventory and try again later.
+game_event.6	There was a problem with the Erin Settlement Support Fund. Please try again later.
 hidden_book.1	bookPolio
-impdream.1	{0}と愉快なチビインプたちが {1}を倒しました。
-impdream.2	1位 {0} ({1}点)
-impdream.3	2位 {0} ({1}点)
-impdream.4	3位 {0} ({1}点)
-impdream.5	イベント終了 {0}秒前です。終了後は精算されません。
+impdream.1	{0} and his hilarious little imps have defeated {1}.
+impdream.2	1st place: {0} ({1} points)
+impdream.3	2nd place: {0} ({1} points)
+impdream.4	3rd place: {0} ({1} points)
+impdream.5	The event will end in {0} seconds. No payment will be made after the event ends.
 item.glewyas_book.1	While you were reading Glewyas' book, you found a library card.
 item.glewyas_book.2	If you fail the mission, use the Royal Library Card.
 item.glewyas_book.3	While you were reading Glewyas' book, you found a library card.
@@ -672,35 +672,35 @@ item.item12281.1	You have successfully added a slot for a child to your family t
 item.item12281.2	Failed to add child slot.
 item.item12281.3	All slots for children in your family tree are already open.
 item.item12281.4	Adoption certificates can only be used by the head of a household.
-item.item51097.1	ザルディンの遺物9種類をすべて持っているため、今は使用できません。
-item.item51097.2	古いドラゴンの骨片は9個集まらなければ使用できません。
-item.item51097.3	ザルディンの遺物をすべて集めました。コレクションブックに収集して報酬を受け取ったあと、使用してください。
-item.item52116.1	郵便配達物からアイリスナイトキャップを手に入れました。
-item.item52116.2	郵便配達物からガミュウコウモリのドレスを手に入れました。
-item.item52116.3	郵便配達物から私のヌベス式瞑想法を手に入れました。
-item.item52116.4	郵便配達物からメイズ平原の巨大模様を手に入れました。
-item.item52116.5	郵便配達物から電気と電圧の増幅についての研究1ページを手に入れました。
-item.item52116.6	郵便配達物から休憩のための時間を手に入れました。
-item.item52116.7	郵便配達物か光るストーンガーゴイルの石像を手に入れました。
-item.item52116.8	郵便配達物から木の板を手に入れました。
-item.item52116.9	郵便配達物から最高級革を手に入れました。
-item.item52116.10	郵便配達物から太い糸5個を手に入れました。
-item.item52116.11	郵便配達物からマナハーブ10個を手に入れました。
-item.item52116.12	郵便配達物からサンダーの本 第3章 [実際に使うサンダー]を手に入れました。
-item.item52116.13	郵便配達物から雲の結晶5個を手に入れました。
-item.item52116.14	郵便配達物から高級革を手に入れました。
-item.item52116.15	郵便配達物から高級薪を手に入れました。
-item.item52116.16	郵便配達物からマナポーション50を10個手に入れました。
-item.item52116.17	郵便配達物からマナハーブ5個を手に入れました。
-item.item52116.18	郵便配達物から銀鉱の欠片5個を手に入れました。
-item.item52116.19	郵便配達物から金鉱の欠片5個を手に入れました。
-item.item52116.20	郵便配達物からブラッディハーブ10個を手に入れました。
-item.item52116.21	郵便配達物からサンライトハーブ10個を手に入れました。
-item.item52116.22	郵便配達物から安い革紐10個を手に入れました。
-item.item52116.23	郵便配達物から雲の結晶2個を手に入れました。
-item.item52116.24	郵便配達物からサンライトハーブ5個を手に入れました。
-item.item52116.25	郵便配達物からブラッディハーブ5個を手に入れました。
-item.item52116.26	郵便配達物から祝福ポーションを手に入れました。
+item.item51097.1	You cannot use this now as you have all nine of Paladin's Relics.
+item.item51097.2	You cannot use the Old Dragon Bone Fragment until you have collected nine of them.
+item.item51097.3	You have collected all of Paladin's Relics. Please use them after collecting them in your collection book and receiving your reward.
+item.item52116.1	I got an Iris Nightcap from the mail.
+item.item52116.2	I got a Gamu Bat Dress from the mail.
+item.item52116.3	I got my Nubes Meditation from the mail.
+item.item52116.4	I got a Maze Plains Giant Pattern from the mail.
+item.item52116.5	I got a Research Page on Electricity and Voltage Amplification from the mail.
+item.item52116.6	I got a Time for Rest from the mail.
+item.item52116.7	I got a Glowing Stone Gargoyle Statue from the mail.
+item.item52116.8	I got a Wooden Plank from the mail.
+item.item52116.9	I got Finest Leather from the mail.
+item.item52116.10	Received 5 Thick Thread from the Mail.
+item.item52116.11	Received 10 Mana Herbs from the Mail.
+item.item52116.12	Received Chapter 3 of the Book of Thunder [A Working Thunder] from the Mail.
+item.item52116.13	Received 5 Cloud Crystals from the Mail.
+item.item52116.14	Received Premium Leather from the Mail.
+item.item52116.15	Received Premium Firewood from the Mail.
+item.item52116.16	Received 10 Mana Potions 50 from the Mail.
+item.item52116.17	Received 5 Mana Herbs from the Mail.
+item.item52116.18	Received 5 Silver Ore Fragments from the Mail.
+item.item52116.19	Received 5 Gold Ore Fragments from the Mail.
+item.item52116.20	Received 10 Bloody Herbs from the Mail.
+item.item52116.21	Received 10 Sunlight Herbs from the Mail.
+item.item52116.22	Received 10 Cheap Leather Cords from the Mail.
+item.item52116.23	Received 2 Cloud Crystals from the Mail.
+item.item52116.24	Received 5 Sunlight Herbs from the Mail.
+item.item52116.25	Received 5 Bloody Herbs from the Mail.
+item.item52116.26	I got a blessing potion from the mail.
 item.item52140.1	개인 상점용 가방은 하나만 소유할 수 있습니다.
 item.item52140.2	축구 아이템 가방을 받았습니다.
 item.item52140.3	축구 아이템 가방을 받는데 실패했습니다.
@@ -709,7 +709,7 @@ item.item73211.2	빗물로 화분에 물을 주었다.
 item.item73211.3	병에 들어있는 물로 화분에 물을 주었다.
 item.item73211.4	비가 오지 않는 날에는 물이 든 병으로 화분에 물을 줄 수 있습니다.
 item.item73211.5	물을 주었더니 화분에서 꽃이 피었다.
-item.item75356.1	進行中のミッションを完了させて、蔵書館図書カードを再び使用してみよう。
+item.item75356.1	Complete the ongoing mission and try using your Library Card again.
 item.item75371.1	You cannot use the Goddess Needle while you have another mission in progress.
 item.item75372.1	You have already taken the Caliburn back.
 item.item75372.2	Complete or abandon your current mission, then try using the Caliburn pass once again.
@@ -728,7 +728,7 @@ item.item75444.6	This item can only be used in front of a Falias Stonehenge in T
 item.item75444.7	This item can only be used in front of a Falias Stonehenge in The Final Chapter.
 item.item75451.1	You cannot use the Falias Fragment while you have another mission in progress.
 item.item85047.1	From an old treasure chest
-item.item85047.2	アイテムを獲得しました。
+item.item85047.2	You have acquired an item.
 item.item85053.1	님께서 시몬의 럭셔리 신상품 상자에서
 item.item85053.2	아이템을 획득하였습니다.
 item.item85053.3	님께서 시몬의 럭셔리 신상품 상자에서
@@ -749,17 +749,17 @@ item.item85059.9	님께서 타라 패션 키트에서
 item.item85059.10	아이템을 획득하였습니다.
 item.item85059.11	님께서 타라 패션 키트에서
 item.item85059.12	아이템을 획득하였습니다.
-item.item91136.1	カボチャボックスからアイテムを手に入れました。
-item.item91136.2	カボチャボックスからアイテムを手に入れました。
-item.item91197.1	アイテムをプレミアムランダムボックスから
-item.item91197.2	was won.
+item.item91136.1	Item obtained from Pumpkin Box.
+item.item91136.2	Item obtained from Pumpkin Box.
+item.item91197.1	Item obtained by
+item.item91197.2	from Premium Random Box.
 item.item91205.1	5주년 기념 가챠폰을 사용하여 아이템을 받았습니다.
 item.item91206.1	임시 소지품창을 비우신 후 사용해주세요.
-item.item91251.1	From Belita's ancient relics map.
+item.item91251.1	さんがベリタの古代遺物の地図から
 item.item91251.2	アイテムを獲得しました。
-item.item91251.3	From Belita's ancient relics map.
+item.item91251.3	さんがベリタの古代遺物の地図から
 item.item91251.4	アイテムを獲得しました。
-item.item91251.5	From Belita's ancient relics map.
+item.item91251.5	さんがベリタの古代遺物の地図から
 item.item91251.6	アイテムを獲得しました。
 item.item91252.1	님께서 2NE1 판타지 뮤직 박스에서
 item.item91252.2	아이템을 획득하였습니다.
@@ -774,36 +774,36 @@ item.item91252.10	아이템을 획득하였습니다.
 item.item91252.11	님께서 2NE1 판타지 뮤직 박스에서
 item.item91252.12	아이템을 획득하였습니다.
 item_grow_pet_event.1	배부름이 0으로 초기화되었습니다.(개발자용)
-item_grow_pet_event.2	アイテムドロップに失敗しました。
-item_grow_pet_event.3	アイテムドロップに失敗しました。
-item_grow_pet_event.4	金の豚にお金をあげたらいいことが起きそうだ。満腹 :
-item_grow_pet_event.5	金の豚にお金をあげたらいいことが起きそうだ。
-item_grow_pet_event.6	もう食べさせないほうがよさそうだ。
-item_grow_pet_event.7	I think it would be better if you gave them a little more money to eat.。
-item_grow_pet_event.8	金の豚が大きくなったような気がする。満腹 :
-item_grow_pet_event.9	大きさ :
-item_grow_pet_event.10	金の豚が大きくなったような気がする。
-item_grow_pet_event.11	アイテム生成に失敗しました。
-item_grow_pet_event.12	アイテム生成に失敗しました。
-joust_event.1	午後7時から5チャンネルにて週間トーナメントが開催されます。
-joust_event.2	午後7時よりトーナメントが開始されます。
-joust_event.3	5チャンネルにて週間トーナメントの受付が始まりました。
-joust_event.4	トーナメントの受付が始まりました。
-joust_event.5	5チャンネルで週間トーナメントが開始されました。
+item_grow_pet_event.2	Item drop failed.
+item_grow_pet_event.3	Item drop failed.
+item_grow_pet_event.4	If I give the golden pig money, something good will happen. Full:
+item_grow_pet_event.5	If I give the golden pig money, something good will happen.
+item_grow_pet_event.6 	It seems better not to feed it anymore.
+item_grow_pet_event.7	It seems better to feed it more money.
+item_grow_pet_event.8	It seems like the golden pig has gotten bigger. Full:
+item_grow_pet_event.9	Size:
+item_grow_pet_event.10	It seems like the golden pig has gotten bigger.
+item_grow_pet_event.11	Item generation failed.
+item_grow_pet_event.12	Item generation failed.
+joust_event.1	The weekly tournament will be held on channel 5 from 7 PM.
+joust_event.2	The tournament will start at 7 PM.
+joust_event.3	Registration for the weekly tournament has begun on channel 5.
+joust_event.4	Registration for the tournament has begun.
+joust_event.5	The weekly tournament has started on channel 5.
 joust_event.6	The Jousting Tournament has begun.
 joust_event.7	The Jousting Tournament has ended.
-joust_event.8	１位:
-joust_event.9	２位:
-joust_event.10	です。
+joust_event.8	1st place:
+joust_event.9	2nd place:
+joust_event.10	です
 joust_event.11	The Jousting Tournament has ended.
-joust_event.12	トーナメントの受付は正常に処理されました。
-joust_event.13	競技が終了しました。勝者:
-joust_event.14	敗者:
-joust_event.15	5チャンネルで週間トーナメントの受付を承っております。週間トーナメントの参加権をお持ちの方々はふるってご参加ください。
-joust_event.16	トーナメントの受付を承っております。ふるってご参加ください。
-joust_event.17	適正人数の参加がなかったため、週間トーナメントはキャンセルされました。
-joust_event.18	適正人数の参加がなかったため、トーナメントはキャンセルされました。
-joust_event.19	サーバー週間トーナメントで勝利しました。
+joust_event.12	Registration for the tournament has been processed successfully.
+joust_event.13	The competition has ended. Winner:
+joust_event.14	Loser:
+joust_event.15	We are accepting registrations for the weekly tournament on channel 5. If you have qualifications for the weekly tournament, please join us.
+joust_event.16	We are accepting registrations for the tournament. Please join us.
+joust_event.17	The weekly tournament has been cancelled as there were not enough participants.
+joust_event.18	The tournament has been cancelled as there were not enough participants.
+joust_event.19	You have won the server weekly tournament.
 monster_event.1	They don't seem to be interested in anything but food.
 monster_event.2	The monkeys don't seem interested in this type of food.
 monster_event.3	Organize your temporary inventory before giving it an item.
@@ -829,426 +829,426 @@ monster_event.22	/hardmode/
 monster_event.23	/shadowmission/
 monster_event.24	PythonstoneBarrier
 monster_event.25	Acquired the "a friend of Monkeys" title
-nubes_undermaze_chest.1	この宝箱はすでに開いています。
-nubes_undermaze_chest.2	アイテムドロップに失敗しました。
-nubes_undermaze_chest.3	アイテムドロップに失敗しました。
-nubes_undermaze_chest.4	アイテムドロップに失敗しました。
-nubes_undermaze_chest.5	アイテムドロップに失敗しました。
-nubes_undermaze_chest.6	アイテムドロップに失敗しました。
-nubes_undermaze_chest.7	アイテムドロップに失敗しました。
-pc_event.1	エリンに到着しました。
+nubes_undermaze_chest.1	This chest is already open.
+nubes_undermaze_chest.2	Item drop failed.
+nubes_undermaze_chest.3	Item drop failed.
+nubes_undermaze_chest.4	Item drop failed.
+nubes_undermaze_chest.5	Item drop failed.
+nubes_undermaze_chest.6	Item drop failed.
+nubes_undermaze_chest.7	Item drop failed.
+pc_event.1	Arrived in Erin.
 pc_event.2	0000
 pc_event.3	000
 pc_event.4	00
 pc_event.5	0
-pc_event.6	…と書いてるようだ。\n誰が何のためにこんな数字を書いたのか？
-pc_event.7	イベント期間が終了したため、\n初心者タイトルを使えなくなりました。
-pc_event.8	クエストをクリアしたため\n初心者タイトルを使えなくなりました。
-pc_event.9	クエストをクリアしたため\n初心者タイトルを使えなくなりました。
-pc_event.10	クエストをクリアしたため\n初心者タイトルを使えなくなりました。
-pc_event.11	３周年記念アイテムを受け取りました。
-pc_event.12	遺物の欠片をすべて集めると同時に、アイテムが復元されました。
-pc_event.13	一生懸命羊を守ったので、10匹以上残っている。
-pc_event.14	全ての羊は守れなかったが、5匹以上は守ることが出来た。
-pc_event.15	オオカミから守り抜いた羊が5匹未満なので、クエストは失敗だ。
-pc_event.16	もう羊は10匹しか残っていない！
-pc_event.17	羊が7匹しか残っていない！危険な状態だ！
-pc_event.18	羊をあと1匹でも失うと羊飼い失格だ！
-pc_event.19	ダンジョンから出る前に宝箱を開けてみて下さい。
-pc_event.20	
-pc_event.21	Gを寄付しました。\n今週の合計寄付金額は
-pc_event.22	Gです。
-pc_event.23	寄付に失敗しました。再びお試しください。
-pc_event.24	法皇庁
-pc_event.25	いつも温かい手を差し伸べてくださりありがとうございます。\n寄付していただいた金額の一部をエリンにいらっしゃる方に伝達いたしました。\n神の祝福が共にあらんことを…。
-pc_event.26	We are the Lymilark Church\nWe will support a portion of the donations made by anonymous volunteers to help you.\nPlease enjoy your life in Erin.
-pc_event.27	いつも温かい手を差し伸べてくださりありがとうございます。\n寄付していただいた金額の一部を
-pc_event.28	I have conveyed this to them. May God bless you.
-pc_event.29	This is the Lymilark Church\n
-pc_event.30	We will support a portion of the donation you made to help us. \nPlease enjoy your life in Erin.
-pc_event.31	ライミラク慈善基金から手紙が到着しました。\nお近くの郵便箱をご確認ください。
-pc_event.32	リリスからもらった寄付金を寄付した。
-pc_event.33	寄付箱に入れることができない。
-pet_event.1	オットセイにカバンの中の魚を投げてやることができます。
+pc_event.6	...It seems to say.\nWho wrote these numbers and why?
+pc_event.7	The event period has ended, so the beginner title is no longer available.
+pc_event.8	The quest has been cleared, so you can no longer use the beginner title.
+pc_event.9	The quest has been cleared, so you can no longer use the beginner title.
+pc_event.10	The quest has been cleared, so you can no longer use the beginner title.
+pc_event.11	You have received the 3rd anniversary item.
+pc_event.12	The item has been restored at the same time as all the relic fragments have been collected.
+pc_event.13	You tried your best to protect your sheep, so there are more than 10 left.
+pc_event.14	You were unable to protect all the sheep, but you managed to protect more than 5.
+pc_event.15	You have protected less than 5 sheep from the wolves, so the quest is a failure.
+pc_event.16	There are only 10 sheep left!
+pc_event.17	There are only 7 sheep left! It's a dangerous situation!
+pc_event.18	If you lose even one more sheep, you're no longer a shepherd!
+pc_event.19	Try opening the treasure chest before leaving the dungeon.
+pc_event.20
+pc_event.21	G donated. \nThis week's total donation amount is
+pc_event.22	G.
+pc_event.23	Donation failed. Please try again.
+pc_event.24	The Holy See
+pc_event.25	Thank you for always extending a warm hand. \nA portion of the donation has been transferred to those in Erin. \nMay God's blessings be with you...
+pc_event.26	This is the Lymilark Church. \nWe will support a portion of the donation made by anonymous volunteers to help you. \nPlease enjoy your life in Erin.
+pc_event.27	Thank you for always extending a warm hand. \nA portion of your donation has been sent to
+pc_event.28	 \nMay God's blessings be with you...
+pc_event.29	This is the Lymilark Church. \n
+pc_event.30	We will support a portion of the donation you gave to help you. \nPlease enjoy your life in Erin.
+pc_event.31	A letter has arrived from the Lymilark Charitable Foundation. \nPlease check your nearest mailbox.
+pc_event.32	I donated the donation I received from Lilith.
+pc_event.33	I can't put it in the donation box.
+pet_event.1	You can throw the fish in your bag to the fur seals.
 portal_condition.1	You cannot enter unless you are level 10 or higher.
 portal_condition.2	For testing purposes, you will be able to enter the Scary Library.
 portal_condition.3	You feel a mysterious force...
 portal_condition.4	The entrance to Peaca Dungeon is blocked.
 portal_condition.5	The mysterious force from the library\nis preventing more people from entering.
-portal_condition.6	入場することができな状態です。
-portal_condition.7	新郎と新婦だけが入場することができます。
-portal_condition.8	結婚式の服を着たままでは外へ出ることができません。\n外へ出るにはNPCへ服を返してください。
-portal_condition.9	エクストラストレージサービスを受けると自分の家に入れます。
-portal_condition.10	家の主人から出入りを許可された人だけ入れる家です。
-portal_condition.11	エクストラストレージサービスを受けると競売中の家に入れます。
-portal_condition.12	空き家には入れません。
-portal_condition.13	家の情報に誤りがありました。\n不具合掲示板に報告してください。
-portal_condition.14	エクストラストレージサービスを受けると自分のギルドの城に入れます。
-portal_condition.15	エクストラストレージサービスを受けると競売中の城に入れます。
-portal_condition.16	空き城には入れません。
-portal_condition.17	城の情報に誤りがありました。\n不具合掲示板に報告してください。
-portal_condition.18	主人から出入りを許可された人だけ入れる家です。
-portal_condition.19	入札中でない空き家には入れないようだ。
-portal_condition.20	城主はあなたが城内へ入ることを許可しませんでした。
-portal_condition.21	城主のギルドメンバーでないと管理室に入れないようだ。
-portal_condition.22	エクストラストレージサービスを受けると管理室に入れます。
-portal_condition.23	空き城の管理室には入れないようだ。
-portal_condition.24	アリーナに入場する前に変身しなければなりません。
-portal_condition.25	村に行く前にティンに会いなさいとナオが言ってたけれど…|ナオが話していたティンに会ったほうがよさそうだ。|ティンという人物に会ったほうがいいんじゃ…？
-portal_condition.26	フィオンのチュートリアルクエストを完了し、ここから出て行ったほうがよさそうだ。|水晶からもらったクエストをすべて完了させたほうがいいんじゃないか？
-portal_condition.27	フィオンと会話したほうがよさそうだ。|フィオンと会ってみたら？
-portal_condition.28	ここに今行く必要はない。
-portal_condition.29	動物は乗船できません。
-portal_condition.30	船の定員オーバーです。次の船をご利用ください。
-portal_condition.31	船に乗るには乗船券が必要です。シェナンから購入してください。
-portal_condition.32	もうすぐ船が出港します。次の船をご利用ください。
-portal_condition.33	今は乗船できません。\n次の乗船時間は{0}秒後です。
-portal_condition.34	今は乗船できません。\n次の乗船時間は{0}分{1}秒後です。
-portal_condition.35	今は乗船できません。\n次の乗船時間は{0}時間{1}分{2}秒後です。
-portal_condition.36	今は乗船できません。\n次の乗船時間は{0}日{1}時間{2}分{3}秒後です。
-portal_condition.37	動物は乗船できません。
-portal_condition.38	船の定員オーバーです。次の船をご利用ください。
-portal_condition.39	船に乗るには乗船券が必要です。アレクシーナから購入してください。
-portal_condition.40	もうすぐ船が出港します。次の船をご利用ください。
-portal_condition.41	今は乗船できません。\n次の乗船時間は{0}秒後です。
-portal_condition.42	今は乗船できません。\n次の乗船時間は{0}分 {1}秒後です。
-portal_condition.43	今は乗船できません。\n次の乗船時間は{0}時間{1}分 {2}秒後です。
-portal_condition.44	今は乗船できません。\n次の乗船時間は{0}日{1}時間{2}分 {3}秒後です。
-portal_condition.45	ここにはまだ行けない。
-portal_condition.46	城主が城ギルドメンバーでない人を地下ダンジョンに行けないように設定しているため入れない。
-portal_condition.47	城主が城ギルドメンバーでない人を地下ダンジョンに行けないように設定しているため入れない。
-portal_condition.48	入れない地域です。
-portal_condition.49	まだ船には乗れません。
-portal_condition.50	練習用ショートボウを持ったままでは、フィリアへ行けないようだ。ウェナと話してみよう。|ウェナに練習用ショートボウを返すとプレゼントがもらえるようだ。
-portal_condition.51	ウェナのチュートリアルクエストを完了してからここを出よう。|水晶から与えられるクエストをすべて終わらせてからここを出よう。
-portal_condition.52	ウェナと話をしてみよう。|ウェナに会ってみよう。
-portal_condition.53	街に行く前にウェナと会っておかないと…。|ウェナから何かもらえるようだ。|一度ウェナに会ってみよう。
-portal_condition.54	結婚式案内人を通じて結婚式場に入場することができます。
-portal_condition.55	入場することができない状態です。
-portal_condition.56	今は入場することができません。
-portal_condition.57	現在、この先に進むことはできません。
-portal_condition.58	今はヌベス山脈の中に入ることはできません。
-portal_condition.59	村へ行く前にメルエルと会っておかないと…。|メルエルから何かもらえるようだ。|一度メルエルに会ってみよう。
-portal_condition.60	メルエルのチュートリアルクエストを完了してからここを出よう。|水晶から与えられるクエストをすべて終わらせてからここを出よう。
-portal_condition.61	メルエルと話をしてみよう。|メルエルに会ってみよう。
-portal_condition.62	ここはまだ入ることができないようだ。
-portal_condition.63	You cannot get married in this wedding hall.
-portal_condition.64	You cannot get married in this wedding hall.
-portal_condition.65	You cannot get married in this wedding hall.
-portal_condition.66	パラディン、またはダークナイトは入場可能です。
-portal_condition.67	試験のある時にしか入れません。
-portal_condition.68	パーティーを率いる人のみ入場を要請できる。
-portal_condition.69	招待されていない存在はここに入場できない。
-portal_condition.70	まだここに入るには力不足のようだ。
-portal_condition.71	入場可能な最大人数を超えました。
+portal_condition.6	You cannot enter.
+portal_condition.7	Only the bride and groom can enter.
+portal_condition.8	You cannot go outside while wearing your wedding clothes. \nTo go outside, return your clothes to the NPC.
+portal_condition.9	You can enter your own house by receiving the extra storage service.
+portal_condition.10	Only people who have been given permission to enter and leave by the owner of the house can enter.
+portal_condition.11	You can enter a house that is up for auction by receiving the extra storage service.入れます。
+portal_condition.12	You cannot enter vacant houses.
+portal_condition.13	There was an error in the house information. \nPlease report this on the bug bulletin board.
+portal_condition.14	If you receive the extra storage service, you can enter your guild's castle.
+portal_condition.15	If you receive the extra storage service, you can enter castles that are up for auction.
+portal_condition.16	You cannot enter vacant castles.
+portal_condition.17	There was an error in the castle information. \nPlease report this on the bug bulletin board.
+portal_condition.18	Only people who have been given permission by the owner to enter can enter this house.
+portal_condition.19	It seems you cannot enter vacant houses that are not up for auction.
+portal_condition.20	The castle owner has not allowed you to enter the castle.
+portal_condition.21	It seems you can only enter the management room if you are a guild member of the castle owner.
+portal_condition.22	If you receive the extra storage service, you can enter the management room.
+portal_condition.23	It seems you cannot enter the management room of an vacant castle.
+portal_condition.24	You must transform before entering the arena.
+portal_condition.25	Nao told me to meet Tin before going to the village...|Maybe I should meet Tin who Nao was talking about. |Maybe I should meet this person called Tin...?
+portal_condition.26	Maybe I should complete Fion's tutorial quest and get out of here. |Maybe I should complete all the quests I got from the crystal?
+portal_condition.27	Maybe I should talk to Fion. |Why don't you meet Fion?
+portal_condition.28	There's no need to go here right now.
+portal_condition.29	Animals cannot board the ship.
+portal_condition.30	The ship is over capacity. Please use the next ship.
+portal_condition.31	You need a boarding ticket to board the ship. Please purchase one from Shenan.
+portal_condition.32	The ship will be leaving soon. Please use the next ship.
+portal_condition.33	You cannot board now. \nThe next boarding time is in {0} seconds.
+portal_condition.34	You cannot board now. \nThe next boarding time is in {0} minutes {1} seconds.
+portal_condition.35	You cannot board now. \nThe next boarding time is in {0} hours {1} minutes {2} seconds.
+portal_condition.36	You cannot board now. \nThe next boarding time is in {0} days {1} hours {2} minutes {3} seconds.
+portal_condition.37	Animals are not allowed to board.
+portal_condition.38	The ship is over capacity. Please use the next ship.
+portal_condition.39	You need a boarding ticket to board the ship. Please purchase one from Alexina.
+portal_condition.40	The ship will be leaving soon. Please use the next ship.
+portal_condition.41	You cannot board now. \nThe next boarding time is in {0} seconds.
+portal_condition.42	You cannot board now. \nThe next boarding time is in {0} minutes {1} seconds.
+portal_condition.43	You cannot board now. \nThe next boarding time is in {0} hours {1} minutes {2} seconds.
+portal_condition.44	You cannot board now. \nThe next boarding time is in {0} days {1} hours {2} minutes {3} seconds.
+portal_condition.45	You can't go here yet.
+portal_condition.46	You can't enter because the castle lord has set it so that non-castle guild members can't go to the underground dungeon.
+portal_condition.47	You can't enter because the castle lord has set it so that non-castle guild members can't go to the underground dungeon.
+portal_condition.48	You can't enter this area.
+portal_condition.49	You can't board the boat yet.
+portal_condition.50	It seems you can't go to Filia while holding the practice shortbow. Let's talk to Wena. |It seems that you'll get a present if you return the practice shortbow to Wena.
+portal_condition.51	Complete Wena's tutorial quest before leaving here. |Finish all the quests given to you by the crystal before leaving here.
+portal_condition.52	Let's talk to Wena. |Let's meet Wena.
+portal_condition.53	I have to meet Wena before going to town... |It seems that Wena will give me something. |Let's meet Wena once.
+portal_condition.54	You can enter the wedding hall through the wedding guide.
+portal_condition.55	You are currently unable to enter.
+portal_condition.56	You cannot enter at this time.
+portal_condition.57	You cannot currently proceed any further.
+portal_condition.58	You cannot enter the Nubes Mountains at this time.
+portal_condition.59	I must meet Meruel before going to the village... |It seems Meruel will give me something. |Let's meet Meruel once.
+portal_condition.60	Complete Meruel's tutorial quest before leaving. |Finish all the quests given to you by the crystal before leaving.
+portal_condition.61	Let's talk to Meruel. |Let's meet Meruel.
+portal_condition.62 It seems we cannot enter here yet.
+portal_condition.63	You may not get married at this wedding hall.
+portal_condition.64	You may not get married at this wedding hall.
+portal_condition.65	You may not get married at this wedding hall.
+portal_condition.66	Paladins or Dark Knights may enter.
+portal_condition.67	You may only enter if there is a test in progress.
+portal_condition.68	Only the leader of a party may request entry.
+portal_condition.69	Uninvited beings may not enter here.
+portal_condition.70	You do not appear to be powerful enough to enter yet.
+portal_condition.71	You have exceeded the maximum number of people permitted to enter.
 portal_condition.72	개발버전메세지 : 워프실패
 portal_condition.73	개발버전메세지 : 파티 워프실패
 portal_condition.74	개발버전메세지 : 파티리더 존생성 실패
 portal_condition.75	개발버전메세지 : 개인 워프실패
 portal_condition.76	개발버전메세지 : 개인용 존생성 실패
-portal_condition.77	パーティーに所属している場合はリーダーのみ入場を要請できます。
-portal_condition.78	ペットやジャイアントの肩に乗ったパーティーメンバーがいる場合は入場できません。
-portal_condition.79	You have to use the premium pack to get into your own home.
-portal_condition.80	Premium packs are required to gain access to homes being auctioned.
-portal_condition.81	You must use the premium pack to enter your guild's castle.
-portal_condition.82	You must use the premium pack to enter the castle being auctioned.
-portal_condition.83	You must use the premium pack to enter the management room.
-portal_condition.84	ペットを呼び出した状態ではクラブに入場できません。
-portal_condition.85	城主が城ギルドメンバーでない人を地下ダンジョンに行けないように設定しているため入れない。
-portal_condition.86	ここはどこだ？
-portal_condition.87	蔵書館の鍵が必要だ。
-portal_condition.88	ギルドホールを利用するにはギルドに加入しなければならない。
-portal_condition.89	ギルドホールを利用するにはギルドマスターがギルドホールを申請しなければならない。
-portal_condition.90	現在はギルドホールを利用できません。
-portal_condition.91	警備兵と話してみたほうがよさそうだ。
+portal_condition.77	If you are in a party, only the leader can request entry.
+portal_condition.78	You cannot enter if there are any party members riding on the giant's shoulders or pets.
+portal_condition.79	프리미엄 팩을 사용해야 자기 집에 들어갈 수 있습니다.
+portal_condition.80	프리미엄 팩을 사용해야 경매 중인 집에 들어갈 수 있습니다.
+portal_condition.81	프리미엄 팩을 사용해야 자신의 길드의 성에 들어갈 수 있습니다.
+portal_condition.82	프리미엄 팩을 사용해야 경매 중인 성에 들어갈 수 있습니다.
+portal_condition.83	프리미엄 팩을 사용해야 관리실에 들어갈 수 있습니다.
+portal_condition.84	You cannot enter the club while summoning a pet.
+portal_condition.85	You cannot enter the underground dungeon because the castle owner has set it so that non-castle guild members cannot enter.
+portal_condition.86	Where am I?
+portal_condition.87	You need a library key.
+portal_condition.88	You must join a guild to use the guild hall.
+portal_condition.89	The guild hall must be requested by the guild master to use it.
+portal_condition.90	The guild hall is currently unavailable.
+portal_condition.91	You should talk to the guards.
 portal_condition.92	To unlock the enterance of the underground waterway you need to say the secret code on the note. \n(Note: Type it without spaces)
-portal_condition.93	入る前に秘密が書かれたメモを手に入れなければならない。
-portal_condition.94	The door is closed.
-portal_condition.95	The door is closed.
-portal_condition.96	The door is closed.
-portal_condition.97	蔵書館の鍵が必要だ。ネズミが飲み込んだんじゃないか？
-portal_condition.98	のレベルが低すぎます。
-portal_condition.99	パーティーリーダーのみ影の世界への進入を決定できます。
-portal_condition.100	以前に入った影の世界がまだ残っています。\n他のパーティーに加入するか、しばらくしてから試してください。
-portal_condition.101	閉ざされている。
-portal_condition.102	Three
-portal_condition.103	Three
-portal_condition.104	Three
-portal_condition.105	城主が城ギルドメンバーでない人を地下ダンジョンに行けないように設定しているため入れない。
-portal_condition.enter_dunbarton_library	工事中なので入れません。
-portal_condition.enter_emain_mach_club	イウェカが出てる夜のみ入場可能です。
-portal_condition.enter_emain_mach_club_no_ticket	クラブに入るためには通行証を購入してください。
-portal_condition.enter_emain_mach_club_testserver_flag	今は入れません。
-portal_condition.enter_emainmacha_lord_room_not_available	入る資格がありません。
-portal_condition.enter_hidden_tutorial_area_not_rebirth	ここは転生した人が新しい肉体で自分の力を試すところです。\n初めてきた方は先にティルコネイルを訪問してください。
-portal_condition.enter_ruahome_not_available	入ることが出来ません。
-portal_condition.g1_pc_sidhe_sneachta02	まだここに入る資格がありません。
+portal_condition.93	You must get the note with the secret before you can enter.
+portal_condition.94	The gate is closed.
+portal_condition.95	The gate is closed.
+portal_condition.96	The gate is closed.
+portal_condition.97	You need the library key. Maybe a rat swallowed it?
+portal_condition.98	Your level is too low.
+portal_condition.99	Only the party leader can decide to enter the Shadow World.
+portal_condition.100	The shadow world you entered before still remains. \nPlease join another party or try again later.
+portal_condition.101	It is closed.
+portal_condition.102
+portal_condition.103
+portal_condition.104
+portal_condition.105	The castle lord has set it so that anyone who is not a member of the castle guild cannot enter the underground dungeon, so you cannot enter.
+portal_condition.enter_dunbarton_library	You can't enter because it's under construction.
+portal_condition.enter_emain_mach_club	Entry is only permitted at night when Eweka is out.
+portal_condition.enter_emain_mach_club_no_ticket	Purchase a pass to enter the club.
+portal_condition.enter_emain_mach_club_testserver_flag	You cannot enter now.
+portal_condition.enter_emain_mach_lord_room_not_available	You are not eligible to enter.
+portal_condition.enter_hidden_tutorial_area_not_rebirth	This is where the reincarnated test their strength in their new bodies. \nFirst time visitors should visit Tir Chonaill first.
+portal_condition.enter_ruahome_not_available	You cannot enter.
+portal_condition.g1_pc_sidhe_sneachta02	I'm not yet qualified to be here.
 prop_event.1	GM・devCATの権限で常に開けることができます。
-prop_event.2	It seems to have the wrong effect.
-prop_event.3	普段から街の人の手助けをしている者だけが、この扉を開けられるはずだ。
-prop_event.4	It seems to have the wrong effect.
-prop_event.5	自分の鍛え方を学んだ者だけが、この扉を開けられるはずだ。
-prop_event.6	It seems to have the wrong effect.
-prop_event.7	自分の鍛え方について悩む者だけが、この扉を開けられるはずだ。
-prop_event.8	It seems to have the wrong effect.
-prop_event.9	生活の基本についてある程度わかる者だけが、この扉を開けられるはずだ。
-prop_event.10	It seems to have the wrong effect.
-prop_event.11	戦闘だけがすべてではない。適度な余裕を持てる者だけが、この扉を開けられるはずだ。
-prop_event.12	It seems to have the wrong effect.
-prop_event.13	戦闘中、ケガの治療法についてわかる者だけが、この扉を開けられるはずだ。
-prop_event.14	It seems to have the wrong effect.
-prop_event.15	焚き火のロマンがわかる者だけが、この扉を開けられるはずだ。
-prop_event.16	It seems to have the wrong effect.
-prop_event.17	楽器をうまく扱える者だけが、この扉を開けられるはずだ。
-prop_event.18	It seems to have the wrong effect.
-prop_event.19	音楽に対する素養を身につけられた者だけが、この扉を開けられるはずだ。
-prop_event.20	It seems to have the wrong effect.
-prop_event.21	良い曲が作れる者だけが、この扉を開けられるはずだ。
-prop_event.22	It seems to have the wrong effect.
+prop_event.2	It seems to be effective as an attack.
+prop_event.3	Only those who regularly help the townspeople should be able to open this door.
+prop_event.4	It seems to be effective as an attack.
+prop_event.5	Only those who have learned how to train themselves can open this door.
+prop_event.6	It seems to be effective as an attack.
+prop_event.7	Only those who think carefully about how they train themselves will be able to open this door.
+prop_event.8	It seems to be effective as an attack.
+prop_event.9	Only those with some understanding of the basics of life should be able to open this door.
+prop_event.10	It seems to be effective as an attack.
+prop_event.11	Combat isn't everything. Only those with a reasonable amount of leeway should be able to open this door.
+prop_event.12	It seems to be effective as an attack.
+prop_event.13	Only someone who knows how to treat injuries during combat should be able to open this door.
+prop_event.14	It seems to be effective as an attack.
+prop_event.15	Only those who understand the romance of bonfires should be able to open this door.
+prop_event.16	It seems to be effective as an attack.
+prop_event.17	Only those who have skill with musical instruments should be able to open this door.
+prop_event.18	It seems to be effective as an attack.
+prop_event.19	Only those who have acquired a foundation in music will be able to open this door.
+prop_event.20	It seems to be effective as an attack.
+prop_event.21	Only those who can write good songs will be able to open this door.
+prop_event.22	It seems to be effective as an attack.
 prop_event.23	Only those who can catch a lot of fish with little bait will be able to open this door.
-prop_event.24	It seems to have the wrong effect.
-prop_event.25	おいしい料理を作れる者だけが、この扉を開けられるはずだ。
-prop_event.26	It seems to have the wrong effect.
-prop_event.27	奥地にある隠された薬草を採れる者だけが、この扉を開けられるはずだ。
-prop_event.28	It seems to have the wrong effect.
-prop_event.29	症状に合ったポーションを作れる者だけが、この扉を開けられるはずだ。
-prop_event.30	It seems to have the wrong effect.
-prop_event.31	鉱石から不純物をうまく取り除ける者だけが、この扉を開けられるはずだ。
-prop_event.32	It seems to have the wrong effect.
-prop_event.33	道具だけでなく武器もうまく作れる者だけが、この扉を開けられるはずだ。
-prop_event.34	It seems to have the wrong effect.
-prop_event.35	生地とシルクの品質について悩む者だけが、この扉を開けられるはずだ。
-prop_event.36	It seems to have the wrong effect.
-prop_event.37	いろいろな服をうまく作れる者だけが、この扉を開けられるはずだ。
-prop_event.38	It seems to have the wrong effect.
-prop_event.39	いろいろな生活道具をうまく作れる者だけが、この扉を開けられるはずだ。
-prop_event.40	It seems to have the wrong effect.
-prop_event.41	接近戦の基礎を着実に磨いた者だけが、この扉を開けられるはずだ。
-prop_event.42	It seems to have the wrong effect.
-prop_event.43	致命的な攻撃の威力を上げられた者だけが、この扉を開けられるはずだ。
-prop_event.44	It seems to have the wrong effect.
-prop_event.45	動きだけで敵の次の行動を予測できる者だけが、この扉を開けられるはずだ。
-prop_event.46	It seems to have the wrong effect.
-prop_event.47	敵の攻撃を効果的に防げる者だけが、この扉を開けられるはずだ。
-prop_event.48	It seems to have the wrong effect.
-prop_event.49	敵に強力な一撃を与えられる者だけが、この扉を開けられるはずだ。
-prop_event.50	It seems to have the wrong effect.
-prop_event.51	敵の力をうまく利用できる者だけが、この扉を開けられるはずだ。
-prop_event.52	It seems to have the wrong effect.
-prop_event.53	危険な状況から落ち着いて脱出できる者だけが、この扉を開けられるはずだ。
-prop_event.54	It seems to have the wrong effect.
-prop_event.55	遠距離戦闘の基礎を着実に磨いた者だけが、この扉を開けられるはずだ。
-prop_event.56	It seems to have the wrong effect.
-prop_event.57	矢を使い敵に強力な一撃を与えられる者だけが、この扉を開けられるはずだ。
-prop_event.58	It seems to have the wrong effect.
-prop_event.59	魔法の基礎を着実に磨いた者だけが、この扉を開けられるはずだ。
-prop_event.60	It seems to have the wrong effect.
-prop_event.61	電撃を使った魔法攻撃がうまく使える者だけが、この扉を開けられるはずだ。
-prop_event.62	It seems to have the wrong effect.
-prop_event.63	炎を使った魔法攻撃がうまく使える者だけが、この扉を開けられるはずだ。
-prop_event.64	It seems to have the wrong effect.
-prop_event.65	氷を使った魔法攻撃がうまく使える者だけが、この扉を開けられるはずだ。
-prop_event.66	It seems to have the wrong effect.
-prop_event.67	相手の気力を効果的に満たせられる者だけが、この扉を開けられるはずだ。
-prop_event.68	It seems to have the wrong effect.
-prop_event.69	パーティーの気力を効果的に満たせられる者だけが、この扉を開けられるはずだ。
-prop_event.70	It seems to have the wrong effect.
-prop_event.71	物に魔法の効果をうまく与えられる者だけが、この扉を開けられるはずだ。
-prop_event.72	It seems to have the wrong effect.
-prop_event.73	マナの流れをうまく制御できる者だけが、この扉を開けられるはずだ。
-prop_event.74	It seems to have the wrong effect.
-prop_event.75	普段から街の人の手助けをしている者だけが、この扉を開けられるはずだ。
-prop_event.76	It seems to have the wrong effect.
-prop_event.77	直感だけで遺跡を発見できる者だけが、この扉を開けられるはずだ。
-prop_event.78	It seems to have the wrong effect.
-prop_event.79	自分の探検記を他の人に伝授する時が近づいた者だけが、この扉を開けられるはずだ。
-prop_event.80	It seems to have the wrong effect.
-prop_event.81	探検の道を真っ直ぐ歩んでいる者だけが、この扉を開けられるはずだ。
-prop_event.82	It seems to have the wrong effect.
-prop_event.83	自分だけのトレーニング方法を他人に伝授する時が近づいた者だけが、この扉を開けられるはずだ。
-prop_event.84	It seems to have the wrong effect.
-prop_event.85	黙々と自分を鍛えている者だけが、この扉を開けられるはずだ。
-prop_event.86	It seems to have the wrong effect.
-prop_event.87	強力な雷を生み出せる者だけが、この扉を開けられるはずだ。
-prop_event.88	It seems to have the wrong effect.
-prop_event.89	強力な炎の玉を生み出せる者だけが、この扉を開けられるはずだ。
-prop_event.90	It seems to have the wrong effect.
-prop_event.91	強力な氷の槍を生み出せる者だけが、この扉を開けられるはずだ。
-prop_event.92	It seems to have the wrong effect.
-prop_event.93	一度に多くの矢を使って射ることができる者だけが、この扉を開けられるはずだ。
-prop_event.94	It seems to have the wrong effect.
-prop_event.95	遠くの敵を素早く移動して倒すことができる者だけが、この扉を開けられるはずだ。
-prop_event.96	既に壊れた扉です。
-prop_event.97	GM・devCATの権限で常に開けることができます。
-prop_event.98	It seems to have the wrong effect.
-prop_event.99	隠れた遺跡を探し、自分の能力を証明することができる者だけが、この扉を開けられるはずだ。
-prop_event.100	It seems to have the wrong effect.
-prop_event.101	探検に関して自信を持てる者だけが、この扉を開けられるはずだ。
-prop_event.102	It seems to have the wrong effect.
-prop_event.103	探検の道に足を踏み入れた者だけが、この扉を開けられるはずだ。
-prop_event.104	The door responded to me.
-prop_event.105	怪物をも釣り上げる釣りの達人になった者だけが、この扉を開けられるはずだ。
-prop_event.106	The door responded to me.
-prop_event.107	Huge Lucky Finishを体験すれば、扉を開けられるはずだ。
-prop_event.108	The door responded to me.
-prop_event.109	ライトニング、ファイア、アイスエレメンタルについて理解できる者だけが、この扉を開けられるはずだ。
-prop_event.110	The door responded to me.
-prop_event.111	死に足を踏み入れた者だけが、この扉を開けられるはずだ。
-prop_event.112	The door responded to me.
-prop_event.113	パーティーで自分の存在を証明した者だけが、この扉を開けられるはずだ。
-prop_event.114	The door responded to me.
-prop_event.115	素手で自分の力を証明した者だけが、この扉を開けられるはずだ。
-prop_event.116	The door responded to me.
-prop_event.117	夢魔の誘惑に勝った者だけが、この扉を開けられるはずだ。
-prop_event.118	The door responded to me.
-prop_event.119	炎を利用した矢の攻撃方法を知る者だけが、この扉を開けられるはずだ。
-prop_event.120	The door responded to me.
-prop_event.121	毒に打ち勝った者だけが、この扉を開けられるはずだ。
-prop_event.122	The door responded to me.
-prop_event.123	大きなダメージを克服する意志を持つ者だけが、この扉を開けられるはずだ。
-prop_event.124	The door responded to me.
-prop_event.125	ポーションの乱用が害を及ぼすことを知る者だけが、この扉を開けられるはずだ。
-prop_event.126	It seems to have the wrong effect.
-prop_event.127	いろいろな知識を身につけた精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.128	It seems to have the wrong effect.
-prop_event.129	高い体力の精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.130	It seems to have the wrong effect.
-prop_event.131	高い知力の精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.132	It seems to have the wrong effect.
-prop_event.133	腕の良い精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.134	It seems to have the wrong effect.
-prop_event.135	強い意志の精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.136	It seems to have the wrong effect.
-prop_event.137	強運な精霊武器を所持する者だけが、この扉を開けられるはずだ。
-prop_event.138	精霊武器が必要なようだ。
-prop_event.139	The door responded to me.
-prop_event.140	多くの人たちの傷を自分の傷のように治療する意志を持つ者だけが、この扉を開けられるはずだ。
-prop_event.141	The door responded to me.
-prop_event.142	行動不能になった人を助ける意志を持つ者だけが、この扉を開けられるはずだ。
-prop_event.143	The door responded to me.
-prop_event.144	治療の道を真っ直ぐ歩んでいる者だけが、この扉を開けられるはずだ。
-prop_event.145	The door responded to me.
-prop_event.146	失われた気力を満たすことが習慣になった者だけが、この扉を開けられるはずだ。
-prop_event.147	The door responded to me.
-prop_event.148	緊急時に適切な傷の処置ができる者だけが、この扉を開けられるはずだ。
-prop_event.149	The door responded to me.
-prop_event.150	遠距離にいる行動不能になった人を復活させることができる者だけが、この扉を開けられるはずだ。
-prop_event.151	既に開かれた扉です。
-prop_event.152	GM・devCATの権限で常に開けることができます。
+prop_event.24	It seems to be effective as an attack.
+prop_event.25	Only those who can cook delicious food should be able to open this door.
+prop_event.26	It seems to be effective as an attack.
+prop_event.27	Only those who can gather the hidden herbs deep within can open this door.
+prop_event.28	It seems to be effective as an attack.
+prop_event.29	Only someone who can create a potion that matches the symptoms should be able to open this door.
+prop_event.30	It seems to be effective as an attack.
+prop_event.31	Only those who can effectively remove the impurities from the ore should be able to open this door.
+prop_event.32	It seems to be effective as an attack.
+prop_event.33	Only those who can effectively craft weapons as well as tools should be able to open this door.
+prop_event.34	It seems to be effective as an attack.
+prop_event.35	Only those who care about the quality of their fabric and silk should be able to open this door.
+prop_event.36	It seems to be effective as an attack.
+prop_event.37	Only those who are skilled at making a variety of clothes should be able to open this door.
+prop_event.38	It seems to be effective as an attack.
+prop_event.39	Only those who are skilled in making various household items should be able to open this door.
+prop_event.40	It seems to be effective as an attack.
+prop_event.41	Only those who have steadily honed the basics of close combat should be able to open this door.
+prop_event.42	It seems to be effective as an attack.
+prop_event.43	Only someone with the ability to increase the power of their lethal attack should be able to open this door.
+prop_event.44	It seems to be effective as an attack.
+prop_event.45	Only someone who can predict the enemy's next move based on their movements alone should be able to open this door.
+prop_event.46	It seems to be effective as an attack.
+prop_event.47	Only those who can effectively defend against enemy attacks should be able to open this door.
+prop_event.48	It seems to be effective as an attack.
+prop_event.49	Only someone who can land a powerful blow on the enemy should be able to open this door.
+prop_event.50	It seems to be effective as an attack.
+prop_event.51	Only someone who can effectively harness the power of the enemy will be able to open this door.
+prop_event.52	It seems to be effective as an attack.
+prop_event.53	Only those who can calmly escape from dangerous situations should be able to open this door.
+prop_event.54	It seems to be effective as an attack.
+prop_event.55	Only those who have steadily honed the fundamentals of long-range combat should be able to open this door.
+prop_event.56	It seems to be effective as an attack.
+prop_event.57	Only someone who can use an arrow to land a powerful blow on the enemy should be able to open this door.
+prop_event.58	It seems to be effective as an attack.
+prop_event.59	Only those who have steadily honed their magical fundamentals should be able to open this door.
+prop_event.60	It seems to be effective as an attack.
+prop_event.61	Only those who are good at using magic attacks with electricity should be able to open this door.
+prop_event.62	It seems to be effective as an attack.
+prop_event.63	Only those who are good at using magic attacks with fire should be able to open this door.
+prop_event.64	It seems to be effective as an attack.
+prop_event.65	Only those who are good at using magic attacks with ice should be able to open this door.
+prop_event.66	It seems to be effective as an attack.
+prop_event.67	Only those who can effectively charge the opponent's energy should be able to open this door.
+prop_event.68	It seems to be effective as an attack.
+prop_event.69	Only those who can effectively charge the party's energy should be able to open this door.
+prop_event.70	It seems to be effective as an attack.
+prop_event.71	Only those who can effectively apply magical effects to objects should be able to open this door.
+prop_event.72	It seems to be effective as an attack.
+prop_event.73	Only someone who can control the flow of mana well should be able to open this door.
+prop_event.74	It seems to be effective as an attack.
+prop_event.75	Only someone who regularly helps the townspeople should be able to open this door.
+prop_event.76	It seems to be effective as an attack.
+prop_event.77	Only those who can discover ruins by intuition alone should be able to open this door.
+prop_event.78	It seems to be effective as an attack.
+prop_event.79	Only those who are close to the time to teach others about their explorations should be able to open this door.
+prop_event.80	It seems to be effective as an attack.
+prop_event.81	Only those who are walking the path of exploration in a straight line should be able to open this door.
+prop_event.82	It seems to be effective as an attack.
+prop_event.83	Only those who are close to the time to teach others their own training methods should be able to open this door.
+prop_event.84	It seems to be effective as an attack.
+prop_event.85	Only those who train themselves in silence should be able to open this door.
+prop_event.86	It seems to be effective as an attack.
+prop_event.87	Only those who can generate powerful lightning should be able to open this door.
+prop_event.88	It seems to be effective as an attack.
+prop_event.89	Only those who can create powerful fireballs should be able to open this door.
+prop_event.90	It seems to be effective as an attack.
+prop_event.91	Only those who can create powerful ice spears should be able to open this door.
+prop_event.92	It seems to be effective as an attack.
+prop_event.93	Only those who can shoot many arrows at once should be able to open this door.
+prop_event.94	It seems to be effective as an attack.
+prop_event.95	Only those who can move quickly and kill distant enemies should be able to open this door.
+prop_event.96	This door is already broken.
+prop_event.97	Can always be opened by GM or devCAT authority.
+prop_event.98	It seems to be effective as an attack.
+prop_event.99	Only those who can find the hidden ruins and prove their abilities should be able to open this door.
+prop_event.100	It seems to be effective as an attack.
+prop_event.101	Only those who are confident in their exploration should be able to open this door.
+prop_event.102	It seems to be effective as an attack.
+prop_event.103	Only those who have set foot on the path of exploration should be able to open this door.
+prop_event.104	the door is reacting to me.
+prop_event.105	Only those who have become masters at fishing and can reel in monsters should be able to open this door.
+prop_event.106	 the door is reacting to me.
+prop_event.107	If you experience a Huge Lucky Finish, you should be able to open the door.
+prop_event.108	the door is reacting to me.
+prop_event.109	Only those who understand lightning, fire, and ice elementals should be able to open this door.
+prop_event.110	The door is reacting to me.
+prop_event.111	Only those who have stepped into death should be able to open this door.
+prop_event.112	the door is reacting to me.
+prop_event.113	Only those who have proven themselves to the party should be able to open this door.
+prop_event.114	the door is reacting to me.
+prop_event.115	Only those who have proven themselves with their bare hands should be able to open this door.
+prop_event.116	the door is reacting to me.
+prop_event.117	Only those who have overcome the temptations of the incubus should be able to open this door.
+prop_event.118	the door is reacting to me.
+prop_event.119	Only those who know how to use fire arrow attacks should be able to open this door.
+prop_event.120	the door is reacting to me.
+prop_event.121	Only those who have overcome poison should be able to open this door.
+prop_event.122	the door is reacting to me.
+prop_event.123	Only those who have the will to overcome great damage should be able to open this door.
+prop_event.124	the door is reacting to me.
+prop_event.125	Only those who know the harm of overusing potions should be able to open this door.
+prop_event.126	It seems to be effective as an attack.
+prop_event.127	Only those who have a spirit weapon with various knowledge should be able to open this door.
+prop_event.128	It seems to be effective as an attack.
+prop_event.129	Only those who have a spirit weapon with high stamina should be able to open this door.
+prop_event.130	It seems to be effective as an attack.
+prop_event.131	Only those who have a spirit weapon with high intelligence should be able to open this door.
+prop_event.132	It seems to be effective as an attack.
+prop_event.133	Only those who have a good spirit weapon should be able to open this door.
+prop_event.134	It seems to be effective as an attack.
+prop_event.135	Only those who possess a strong-willed spirit weapon should be able to open this door.
+prop_event.136	It seems to be effective as an attack.
+prop_event.137	Only those who possess a strong-luck spirit weapon should be able to open this door.
+prop_event.138	It seems a spirit weapon is needed.
+prop_event.139	the door is reacting to me.
+prop_event.140	Only those who have the will to heal the wounds of many as if they were their own should be able to open this door.
+prop_event.141	the door is reacting to me.
+prop_event.142	Only those who have the will to help those who are unable to act should be able to open this door.
+prop_event.143	the door is reacting to me.
+prop_event.144	Only those who are walking the path of healing should be able to open this door.
+prop_event.145	the door is reacting to me.
+prop_event.146	Only those who have made it a habit to replenish lost energy should be able to open this door.
+prop_event.147	the door is reacting to me.
+prop_event.148	Only those who can properly treat wounds in an emergency should be able to open this door.
+prop_event.149	the door is reacting to me.
+prop_event.150	Only someone who can revive incapacitated people at a distance should be able to open this door.
+prop_event.151	The door is already open.
+prop_event.152	It can always be opened with the authority of the GM or devCAT.
 prop_event.153	The door reacted to my shout.
-prop_event.154	幼い頃に聞いた、扉を開けるために必要なあの呪文を叫べば開きそうな気がする！
+prop_event.154	I feel like if I shout the spell I heard when I was little that is needed to open the door, it will open!
 prop_event.155	The door reacted to my shout.
-prop_event.156	ひらけ○○！
+prop_event.156	Open!
 prop_event.157	The door reacted to my shout.
 prop_event.158	It seems like it will open if you yell the name of the person who always gives you a small gift on your birthday!
 prop_event.159	The door reacted to my shout.
 prop_event.160	It seems like it will open if you yell the name of the old hero who disappeared with Cromm Cruaich!
 prop_event.161	The door reacted to my shout.
 prop_event.162	It seems like it will open if you yell the name of he who only appears at night at Sidhe Sneachta!
-prop_event.163	既に開かれた扉です。
-prop_event.164	Open!I feel like it would open if I shouted that.
-prop_event.165	Open Sesame！ I feel like it would open if I shouted that.
-prop_event.166	test！ I feel like it would open if I shouted that.
-prop_event.167	Open Sesame！ I feel like it would open if I shouted that.
-prop_event.168	test！ I feel like it would open if I shouted that.
-prop_event.169	探検の道を真っ直ぐ歩んでいる者だけが、この扉を開けられるはずだ。
-prop_event.170	開け
+prop_event.163	The door is already open.
+prop_event.164	I feel like it would open if I shouted "Open!".
+prop_event.165	I feel like it would open if I shouted "Open sesame!"
+prop_event.166	I feel like if I shout "Test!" it will open.
+prop_event.167	I feel like if I shouted "Open sesame!" it would open.
+prop_event.168	I feel like if I shout "Test!" it will open.
+prop_event.169	Only those who are walking directly on the path of exploration should be able to open this door.
+prop_event.170	Open
 prop_event.171	Open Sesame
-prop_event.172	test
+prop_event.172	Test
 prop_event.173	Open Sesame
-prop_event.174	test
-prop_event.175	It seems to have the wrong effect.
-prop_event.176	どんな物を作る時でも、自分だけのノウハウを取り入れられる者だけが、この扉を開けられるはずだ。
-prop_event.177	It seems to have the wrong effect.
-prop_event.178	水の流れだけで運気の良い場所がわかる者だけが、この扉を開けられるはずだ。
-prop_event.179	It seems to have the wrong effect.
-prop_event.180	絶頂の幸せを感じられるような食べ物を作れる者だけが、この扉を開けられるはずだ。
-prop_event.181	It seems to have the wrong effect.
-prop_event.182	どんな薬草でも根を傷つけずに採集できる者だけが、この扉を開けられるはずだ。
-prop_event.183	It seems to have the wrong effect.
-prop_event.184	薬草の素材を一瞬で思い出せる者だけが、この扉を開けられるはずだ。
-prop_event.185	It seems to have the wrong effect.
-prop_event.186	炉の前で日々精進しながら過ごした者だけが、この扉を開けられるはずだ。
-prop_event.187	It seems to have the wrong effect.
-prop_event.188	Only those skilled in not only weapons but also the blacksmith's hammer should be able to open this door.
-prop_event.189	It seems to have the wrong effect.
-prop_event.190	Only those who have spent their days working diligently at the spinning wheel and loom can open this door.
-prop_event.191	It seems to have the wrong effect.
-prop_event.192	軽鎧の製作技術を常に鍛えていた者だけが、この扉を開けられるはずだ。
-prop_event.193	It seems to have the wrong effect.
-prop_event.194	いろいろな生活道具をうまく作れる者だけが、この扉を開けられるはずだ。
-prop_event.195	It seems to have the wrong effect.
-prop_event.196	攻撃と防御の戦闘原則を理解した者だけが、この扉を開けられるはずだ。
-prop_event.197	It seems to have the wrong effect.
-prop_event.198	致命的な攻撃の威力を2倍以上発揮できる者だけが、この扉を開けられるはずだ。
-prop_event.199	It seems to have the wrong effect.
-prop_event.200	素手で防御した時に軽い盾と同等の効果を発揮できる者だけが、この扉を開けられるはずだ。
-prop_event.201	It seems to have the wrong effect.
-prop_event.202	強力な一撃で相手はもちろん周囲の複数の敵にもダメージを与えられる者だけが、この扉を開けられるはずだ。
-prop_event.203	It seems to have the wrong effect.
-prop_event.204	敵の力をそのまま跳ね返せる者だけが、この扉を開けられるはずだ。
-prop_event.205	It seems to have the wrong effect.
-prop_event.206	両刃の剣を自由自在に使える者だけが、この扉を開けられるはずだ。
-prop_event.207	It seems to have the wrong effect.
-prop_event.208	前進と後退の戦闘原則を理解した者だけが、この扉を開けられるはずだ。
-prop_event.209	It seems to have the wrong effect.
-prop_event.210	強力な矢で相手はもちろん周囲の複数の敵にもダメージを与えられる者だけが、この扉を開けられるはずだ。
-prop_event.211	It seems to have the wrong effect.
-prop_event.212	楽な姿勢で休む方法についてわかる者だけが、この扉を開けられるはずだ。
-prop_event.213	It seems to have the wrong effect.
-prop_event.214	効果的な傷の治療方法についてわかる者だけが、この扉を開けられるはずだ。
-prop_event.215	It seems to have the wrong effect.
-prop_event.216	焚き火を囲みながら様々な冒険談を受け継げる者だけが、この扉を開けられるはずだ。
-prop_event.217	It seems to have the wrong effect.
-prop_event.218	いろいろな楽器の調和について考える者だけが、この扉を開けられるはずだ。
-prop_event.219	It seems to have the wrong effect.
-prop_event.220	楽器の持つ固有の音色を理解した者だけが、この扉を開けられるはずだ。
-prop_event.221	It seems to have the wrong effect.
-prop_event.222	和音について充分理解した者だけが、この扉を開けられるはずだ。
-prop_event.223	It seems to have the wrong effect.
-prop_event.224	多様な効果を発揮する魔法を理解し終えた者だけが、この扉を開けられるはずだ。
-prop_event.225	It seems to have the wrong effect.
-prop_event.226	電気を利用した強力な魔法攻撃ができる者だけが、この扉を開けられるはずだ。
-prop_event.227	It seems to have the wrong effect.
-prop_event.228	火を利用した強力な魔法攻撃ができる者だけが、この扉を開けられるはずだ。
-prop_event.229	It seems to have the wrong effect.
-prop_event.230	氷を利用した強力な魔法攻撃ができる者だけが、この扉を開けられるはずだ。
-prop_event.231	It seems to have the wrong effect.
-prop_event.232	仲間の生命力を素早く回復できる者だけが、この扉を開けられるはずだ。
-prop_event.233	It seems to have the wrong effect.
-prop_event.234	仲間たちの生命力を素早く回復できる者だけが、この扉を開けられるはずだ。
-prop_event.235	It seems to have the wrong effect.
-prop_event.236	珍しい物にも自信を持って魔法効果を付与できる者だけが、この扉を開けられるはずだ。
-prop_event.237	It seems to have the wrong effect.
-prop_event.238	マナの流れを上手に制御できる者だけが、この扉を開けられるはずだ。
-prop_event.239	It seems to have the wrong effect.
-prop_event.240	Ｌロッドの光か音いずれかひとつだけを活用して遺跡を見つけられる境地に達した者だけが、この扉を開けられるはずだ。
-prop_event.241	It seems to have the wrong effect.
-prop_event.242	探検に関するノウハウを蓄積している者だけが、この扉を開けられるはずだ。
-prop_event.243	It seems to have the wrong effect.
-prop_event.244	探検家としての道を真っ直ぐに歩んでいる者だけが、この扉を開けられるはずだ。
-prop_event.245	The door responded to me.
-prop_event.246	馬とダチョウに乗り至る所を探検した者だけが、この扉を開けられるはずだ。
-prop_event.247	The door responded to me.
-prop_event.248	船酔いに打ち勝った者だけが、この扉を開けられるはずだ。
-prop_event.249	The door responded to me.
-prop_event.250	懐に入れた卵を割らずに戦えるほど成長した者だけが、この扉を開けられるはずだ。
-prop_event.251	The door responded to me.
-prop_event.252	荒々しい猛獣も一撃のうちに倒せる者だけが、この扉を開けられるはずだ。
-prop_event.253	It seems to have the wrong effect.
-prop_event.254	常に勤勉たる者だけが、この扉を開けられるはずだ。
-prop_event.255	It seems to have the wrong effect.
-prop_event.256	戦闘に関するノウハウを蓄積している者だけが、この扉を開けられるはずだ。
-prop_event.257	It seems to have the wrong effect.
-prop_event.258	戦士としての道を真っ直ぐに歩んでいる者だけが、この扉を開けられるはずだ。
-prop_event.259	The door responded to me.
-prop_event.260	遺跡の歴史だけでなく復元も考えられる者だけが、この扉を開けられるはずだ。
-prop_event.261	The door responded to me.
-prop_event.262	失敗は成功の母という真実を知った者だけが、この扉を開けられるはずだ。
-prop_event.263	The door responded to me.
-prop_event.264	短時間で多くを成しえた者だけが、この扉を開けられるはずだ。
-prop_event.265	The door responded to me.
-prop_event.266	体の大きい相手であっても落ち着いて対応できる者だけが、この扉を開けられるはずだ。
+prop_event.174	Test
+prop_event.175	It seems to be effective as an attack.
+prop_event.176	Only those who can incorporate their own know-how into any creation should be able to open this door.
+prop_event.177	It seems to be effective as an attack.
+prop_event.178	Only those who can tell where good luck lies by the flow of water alone should be able to open this door.
+prop_event.179	It seems to be effective as an attack.
+prop_event.180	Only those who can make food that brings the utmost happiness should be able to open this door.
+prop_event.181	It seems to be effective as an attack.
+prop_event.182	Only those who can gather any herb without damaging the roots should be able to open this door.
+prop_event.183	It seems to be effective as an attack.
+prop_event.184	Only those who can instantly recall the ingredients of a herb should be able to open this door.
+prop_event.185	It seems to be effective as an attack.
+prop_event.186	Only those who spend their days in front of the furnace, practicing hard, should be able to open this door.
+prop_event.187	It seems to be effective as an attack.
+prop_event.188	Only those who are skilled in using not only weapons but also the blacksmith's hammer should be able to open this door.
+prop_event.189	It seems to be effective as an attack.
+prop_event.190	Only those who spend their days in front of the spinning wheel and loom should be able to open this door.
+prop_event.191	It seems to be effective as an attack.
+prop_event.192	Only those who have constantly honed their light armor crafting skills should be able to open this door.
+prop_event.193	It seems to be effective as an attack.
+prop_event.194	Only those who are skilled in creating various household items should be able to open this door.
+prop_event.195	It seems to be effective as an attack.
+prop_event.196	Only those who understand the combat principles of attack and defense should be able to open this door.
+prop_event.197	It seems to be effective as an attack.
+prop_event.198	Only those who can exert twice the power of a fatal attack should be able to open this door.
+prop_event.199	It seems to be effective as an attack.
+prop_event.200	Only those who can defend with their bare hands as effectively as a light shield should be able to open this door.
+prop_event.201	It seems to be effective as an attack.
+prop_event.202	Only those who can damage not only the opponent but also multiple surrounding enemies with a powerful blow should be able to open this door.
+prop_event.203	It seems to be effective as an attack.
+prop_event.204	Only those who can repel the enemy's power should be able to open this door.
+prop_event.205	It seems to be effective as an attack.
+prop_event.206	Only those who can freely use a double-edged sword should be able to open this door.
+prop_event.207	It seems to be effective as an attack.
+prop_event.208	Only those who understand the principles of forward and backward combat should be able to open this door.
+prop_event.209	It seems to be effective as an attack.
+prop_event.210	Only those who can damage not only the enemy but also multiple surrounding enemies with powerful arrows should be able to open this door.
+prop_event.211	It seems to be effective as an attack.
+prop_event.212	Only those who know how to rest in a comfortable position should be able to open this door.
+prop_event.213	It seems to be effective as an attack.
+prop_event.214	Only those who know how to effectively treat wounds should be able to open this door.
+prop_event.215	It seems to be effective as an attack.
+prop_event.216	Only those who can inherit various adventure stories around the campfire should be able to open this door.
+prop_event.217	It seems to be effective as an attack.
+prop_event.218	Only those who consider the harmony of various instruments should be able to open this door.
+prop_event.219	It seems to be effective as an attack.
+prop_event.220	Only those who understand the unique tones of instruments should be able to open this door.
+prop_event.221	It seems to be effective as an attack.
+prop_event.222	Only those who have a thorough understanding of chords should be able to open this door.
+prop_event.223	It seems to be effective as an attack.
+prop_event.224	Only those who have mastered the various magic effects should be able to open this door.
+prop_event.225	It seems to be effective as an attack.
+prop_event.226	Only those who can perform powerful magic attacks using electricity should be able to open this door.
+prop_event.227	It seems to be effective as an attack.
+prop_event.228	Only those who can perform powerful magic attacks using fire should be able to open this door.
+prop_event.229	It seems to be effective as an attack.
+prop_event.230	Only those who can perform powerful magic attacks using ice should be able to open this door.
+prop_event.231	It seems to be effective as an attack.
+prop_event.232	Only those who can quickly restore the life force of their allies should be able to open this door.
+prop_event.233	It seems to be effective as an attack.
+prop_event.234	Only someone who can quickly restore the vitality of their allies should be able to open this door.
+prop_event.235	It seems to be effective as an attack.
+prop_event.236	Only those who can confidently apply magical effects to unusual objects should be able to open this door.
+prop_event.237	It seems to be effective as an attack.
+prop_event.238	Only those who can control the flow of mana well should be able to open this door.
+prop_event.239	It seems to be effective as an attack.
+prop_event.240	Only those who have reached the state of being able to find ruins using only the light or sound of the L Rod should be able to open this door.
+prop_event.241	It seems to be effective as an attack.
+prop_event.242	Only those who have accumulated know-how regarding exploration should be able to open this door.
+prop_event.243	It seems to be effective as an attack.
+prop_event.244	Only those who are walking the path of an explorer should be able to open this door.
+prop_event.245	the door is reacting to me.
+prop_event.246	Only those who have explored everywhere on horseback and ostrich should be able to open this door.
+prop_event.247	the door is reacting to me.
+prop_event.248	Only those who have overcome seasickness should be able to open this door.
+prop_event.249	the door is reacting to me.
+prop_event.250	Only those who have grown up enough to fight without breaking the eggs they carry in their bosom should be able to open this door.
+prop_event.251	the door is reacting to me.
+prop_event.252	Only those who can kill a wild beast in one blow should be able to open this door.
+prop_event.253	It seems to be effective as an attack.
+prop_event.254	Only those who are always diligent should be able to open this door.
+prop_event.255	It seems to be effective as an attack.
+prop_event.256	Only those who have accumulated know-how regarding combat should be able to open this door.
+prop_event.257	It seems to be effective as an attack.
+prop_event.258	Only those who walk the path of a warrior should be able to open this door.
+prop_event.259	the door is reacting to me.
+prop_event.260	Only those who can think about not only the history of the ruins but also their restoration should be able to open this door.
+prop_event.261	the door is reacting to me.
+prop_event.262	Only those who know the truth that failure is the mother of success should be able to open this door.
+prop_event.263	the door is reacting to me.
+prop_event.264	Only those who have accomplished a lot in a short time should be able to open this door.
+prop_event.265	the door is reacting to me.
+prop_event.266	Only someone who can remain calm even when facing a larger opponent should be able to open this door.
 prop_event.267	Human
 prop_event.268	The door reacted to my shout.
 prop_event.269	It seems like it will open if you yell "Human!" 
@@ -1273,96 +1273,96 @@ prop_event.287	It seems like it will open if you yell "Giant!"
 prop_event.288	It seems like it will open if you yell "Tarlach!" 
 prop_event.289	It seems like it will open if you yell "Nao!" 
 prop_event.290	It seems like it will open if you yell "Ruairi!" 
-prop_event.291	雪のかたまりを固めて足していけば、雪だるまが作れそうだ。
-prop_event.292	雪のかたまりのほかにも、雪だるまを飾る材料を足してみよう。
-prop_event.293	雪だるまらしくなってきた。もう少し飾りを足してみよう。
-prop_event.294	雪だるまがたいぶ大きくなってきた。もう少し雪のかたまりを足してみよう。
-prop_event.295	雪だるまが可愛いかんじになってきた。もう少し飾りを足してみよう。
-prop_event.296	ツリーに飾りをつけて、クリスマスらしいツリーにしよう。
-prop_event.297	もう少し飾りを増やしてみよう。きっと、もっと華やかなツリーになるはずだ。
-prop_event.298	飾りをさらに加えて、雪だるまをもっと可愛くしてみよう。
-prop_event.299	願い事の紙の枚数が足りないのでプレゼントと交換できない。\n50枚以上集めてみよう。
-prop_event.300	プレゼントをもらいました。
-prop_event.301	桜の木から小枝をもらった。
-prop_event.302	桜の木にとって役立つアイテムではないようだ。
-prop_event.303	桜の木から小枝をもらうためには、桜の木の世話をしてあげなければならないようだ。
+prop_event.291	It looks like you can make a snowman by packing together chunks of snow and adding them together.
+prop_event.292	In addition to the snowflakes, try adding some other materials to decorate the snowman.
+prop_event.293	It's starting to look like a snowman. Try adding a few more decorations.
+prop_event.294	The snowman is getting a lot bigger. Try adding a few more snowflakes.
+prop_event.295	The snowman is starting to look cute. Try adding a few more decorations.
+prop_event.296	Let's put some decorations on the tree to make it look more Christmas-like.
+prop_event.297	Let's add a few more decorations. I'm sure it will become a more festive tree.
+prop_event.298	Let's add some more decorations to make the snowman even cuter.
+prop_event.299	There aren't enough wish papers to exchange for a present. \nTry collecting more than 50.
+prop_event.300	You received a present.
+prop_event.301	I received a twig from a cherry tree.
+prop_event.302	It doesn't seem to be a useful item for cherry trees.
+prop_event.303	It seems that in order to get twigs from a cherry tree, you have to take care of the tree.
 prop_event.304	정성이 부족해 깨끗한 벚꽃잎을 찾기 힘들 것 같다.
-prop_event.305	It seems like you can often find clean cherry petals.
-prop_event.306	It seems like you can often find clean cherry petals.
+prop_event.305	종종 깨끗한 벚꽃잎을 찾을 수 있을 것 같다.
+prop_event.306	종종 깨끗한 벚꽃잎을 찾을 수 있을 것 같다.
 prop_event.307	정성을 다한 덕분에 깨끗한 벚꽃잎을 쉽게 찾을 수 있을 것 같다.
-prop_event.308	ブリューナクとスパークのエネルギーが相殺された。
-prop_event.309	ブリューナクが発散する強力な電気エネルギーにより触れない。
-prop_event.310	ペットから降りないと宝物庫に入れません
-prop_event.311	ネズミの穴を通じて宝物庫に入ってきました
-prop_event.312	私が入るには穴が小さすぎるようだ
-prop_event.313	ネズミの穴を通じて宝物庫を出ました
+prop_event.308	The energies of Brionac and Spark have been cancelled out.
+prop_event.309	Brionac is unable to be touched due to the strong electrical energy it emits.
+prop_event.310	You cannot enter the treasure vault unless you dismount from your pet.
+prop_event.311	You entered the treasure vault through a rat hole.
+prop_event.312	The hole seems too small for me to enter.
+prop_event.313	You left the treasure vault through a rat hole.
 prop_event.314	COMEBACK
 prop_event.315	true
 prop_event.316	LAST_POS
 prop_event.317	OWNER
-prop_event.318	閉ざされていて入ることができない。
-prop_event.319	こっそり入るには司祭のように見えなければならない。\nローブを着る必要がありそうだ。
-prop_event.320	こっそり入るには司祭のように見えなければならない。\n司祭たちは普通布でできた服を着るようだ。
-prop_event.321	こっそり入るには司祭のように見えなければならない。\n武器を持ち歩く司祭はいないようだ。
-prop_event.322	を受け取りました。
-prop_event.323	インベントリがいっぱいで風船を受け取ることができません。
-prop_event.324	今日はこれ以上風船を受け取れません。
-prop_event.325	他の人のポータルは使用できません。
-prop_event.326	他の人とは一緒に入れない影ミッションです。
-prop_event.327	パーティーリーダーのみポータルを使用できます。
-renes.1	ドラゴンの卵が危険だ。
-renes.2	(개발서버 Message) Cycle :
+prop_event.318	It's closed and you can't get in.
+prop_event.319	You have to look like a priest to sneak in. \nYou probably need to wear robes.
+prop_event.320	You have to look like a priest to sneak in. \nPriests seem to wear clothes made of regular cloth.
+prop_event.321	You have to look like a priest to sneak in. \nNo priests seem to carry weapons.
+prop_event.322	You received.
+prop_event.323	Your inventory is full and you can't receive balloons.
+prop_event.324	You can't receive any more balloons today.
+prop_event.325	You can't use anyone else's portal.
+prop_event.326	This is a shadow mission that you can't enter with anyone else.
+prop_event.327	Only the party leader can use the portal.
+renes.1	Dragon eggs are in danger.
+renes.2	(Development Server Message) Cycle :
 renes.3	Stage :
-renes.4	(개발서버 Message)
-renes.5	개의 스테이지 클리어.
+renes.4	(Development Server Message)
+renes.5	Clear the dog stage.
 renes.6	Looks like you didn't buy enough time for Legatus.
 renes.7	It looks like the monsters have stopped appearing. Defeat the remaining monsters.
-renes.8	드래곤의 알을 지켜라 이벤트에 참여하셨습니다.
-renes.9	8名を超えるプレイヤーが存在します。しばらくするとダンジョンが消滅します。
-renes.10	モンスターが多すぎる。これ以上は耐えられない。
-renes.11	卵を守る事は出来なかった…
-skijump_event.1	入場券を持ってこないと利用できません。
-useitem_event.1	色指定染色アンプルを手に入れました。
-useitem_event.2	ランダムボックスを使ってアイテムをもらいました。
-useitem_event.3	パンダのプレゼントを受けとりました。
-useitem_event.4	お祭りもない世の中ではさびしいからな。\n- ダンカン
-useitem_event.5	男ってのは、いくつになっても\nハロウィンみたいな馬鹿騒ぎが好きだねえ。\nまあ私も嫌いじゃないけどね、フフッ。\n- キリネ
-useitem_event.6	ハロウィンは楽しいのだ。お菓子くれなのだ。\n- スノーインプ
-useitem_event.7	あの大きな羊から取れる羊毛はやっぱり太いんですかね。\nえ？綿あめ？\n- マルコム
-useitem_event.8	ショーンもイビーとハロウィンを楽しんでいるだろうか？\n- セイマス
-useitem_event.9	みんなハロウィンだって大騒ぎだけど\n…私は…元気になれるだけでいい。\n- イビー
-useitem_event.10	へへ、みんなハロウィンには\nどんなプレゼントが欲しいんですかね？\n- リカド
-useitem_event.11	ハロウィンだ！さあみんな歌って踊ろう！ハハッ！\n- ネイル
-useitem_event.12	ワンワン！\n- ラブ
-useitem_event.13	ああ…ハロウィンのクッキー。\n早くあなたを食べてあげたい。\n- サキュバス
-useitem_event.14	トリックオアトリート！\nさあ、いたずらされたくなきゃお菓子をよこしな！\n- ゼダー
-useitem_event.15	ハロウィン、タノシイ。\n- インプ
-useitem_event.16	ハロウィン…？うう、何も思い出せない。\n- ウーフ
-useitem_event.17	みんなが楽しんでいる姿はいいものね。\n心が明るくなるわ。\n- アレクシーナ
-useitem_event.18	秋は灰色だ。\n…グレー。限りなく憂鬱な色だ。\n- グラニテス
-useitem_event.19	ハロウィンの話を聞くたび、いつも考える。\n自分たちが住んでいる昼が本物なのか？\nそれともおばけが住んでいる夜が本物なのか？ (…ぶつぶつ…)\n- カラジェック
-useitem_event.20	お菓子を要求される側になったら大人なのかしら。\n- ウェナ
-useitem_event.21	ハロウィン用の飾りやお菓子の輸送は\nペトラ海運におまかせあれ！\n- マーリン
-useitem_event.22	ライミラク神はこうしたお祭りにも寛容だ。\n- ウィロウ
-useitem_event.23	おばけの日があるならおさけの日もつくってくれってんだ。\n頼むぜ、クリューグ陛下ぁ～。\n- バンスト
-useitem_event.24	人間だった私の父は、いつも私のためにハロウィンのプレゼントを用意してくれました。\nだから、今日はいつもより父が恋しいですね。\n- ゴロ
-useitem_event.25	親父、ワタシ、人間の言葉、教える。\nハロウィン、ワタシ、親父、会いたい。\n- ペロ
-useitem_event.26	みんな楽しそうでなによりです。\n私も子供たちに配るお菓子を用意するとしましょう。\n- スチュアート
-useitem_event.27	このトレイシーのところにもお菓子をもらいに来てネ♪\n- トレイシー
-useitem_event.28	ハロウィンだからって\n食べてばかりいたら太るかもしれないわよー？\n- フィオン
-useitem_event.29	ハロウィンのフォーチュンクッキーを食べる時、俺は左手を使う。\n心臓から最も近いこの左手をな。\n- タウネス
+renes.8	You have participated in the Protect the Dragon's Egg event.
+renes.9	There are more than 8 players. The dungeon will disappear after a while.
+renes.10	There are too many monsters. I can't take it anymore.
+renes.11	I couldn't protect the eggs...
+skijump_event.1	You can't enter without an admission ticket.
+useitem_event.1	I got a color-specific dyeing ampoule.
+useitem_event.2	I got an item from a random box.
+useitem_event.3	I got a panda as a gift.
+useitem_event.4	It'd be lonely in a world without festivals. \n- Duncan
+useitem_event.5	Men, no matter how old they are, love to party like Halloween. \nWell, I don't hate it either, hehe. \n- Kirine
+useitem_event.6	Halloween is fun. They give you candy. \n- Snow Imp
+useitem_event.7	I wonder if the wool from that big sheep is really thick. \nHuh? Cotton candy? \n- Malcolm
+useitem_event.8	I wonder if Sean is enjoying Halloween with Evey too? \n- Seimas
+useitem_event.9	Everyone is making a big fuss about Halloween, but\n... I just want to be happy.\n- Evie
+useitem_event.10	Hehe, what kind of presents do you all want for Halloween? \n- Rikado
+useitem_event.11	It's Halloween! Let's all sing and dance! Haha! \n- Nail
+useitem_event.12	Woof Woof! \n- Love
+useitem_event.13	Ah... Halloween cookies. \nI want to eat you soon. \n- Succubus
+useitem_event.14	Trick or treat! \nNow, if you don't want to be tricked, give me some candy! \n- Zeder
+useitem_event.15	Halloween is fun. \n- Imp
+useitem_event.16	Halloween...? Ugh, I can't remember anything. \n- Woof
+useitem_event.17	It's good to see everyone having fun. \nIt brightens my heart. \n- Alexina
+useitem_event.18	Autumn is gray. \n...Gray. An infinitely depressing color. \n- Granites
+useitem_event.19	Whenever I hear about Halloween, I always wonder. \nIs the daytime where we live the real thing? \nOr is the nighttime where ghosts live the real thing? (...muttering...) \n- Karajek
+useitem_event.20	I wonder if I'm an adult when I'm the one being asked for candy. \n- Wena
+useitem_event.21	Leave the transportation of Halloween decorations and candy to Petra Shipping! \n- Merlin
+useitem_event.22	God Lymirak is tolerant of these festivals. \n- Willow
+useitem_event.23	If there's a ghost day, he wants a sake day too. \nPlease, King Krug. \n- Bunst
+useitem_event.24	When my father was human, he always prepared Halloween presents for me. \nSo today I miss him more than usual. \n- Goro
+useitem_event.25	Dad, I'll teach you human language. \nHalloween, I miss you, Dad. \n- Pero
+useitem_event.26	I'm glad everyone is having fun. \nI'll prepare some sweets for the kids too. \n- Stuart
+useitem_event.27	Come get some sweets here at Tracy's♪\n- Tracy
+useitem_event.28	If you keep eating just because it's Halloween, you might get fat, you know? \n- Fionn
+useitem_event.29	When I eat Halloween fortune cookies, I use my left hand. \nThis left hand is closest to my heart. \n- Taunes
 useitem_event.30	Halloween. It's the perfect event for this season. \nEveryone, make some fun memories on Halloween. \n- Hilbrin
-useitem_event.31	根性だよ！根性！\nハロウィンだからってハンパしないでバンバン預金するんだよ！!\n- エトゥナ
-useitem_event.32	ハロウィンのフォーチュンクッキーが美味なること、\n余の右腕にかけて保障しよう。\n- クリューグ
-useitem_event.33	空が澄んでいると気分がよくなります。.\n秋は空がきれいでいいですね。\n- レプス
-useitem_event.34	ウォォォ…ウェェェェンディィィィィィ…\n- ウェンディゴ
-useitem_event.35	!!!\n- ウィスプ
-useitem_event.36	ハロウィンかあ！\nオレも街にいってみんなと騒ぎたいぜ！\n- シェナン
-useitem_event.37	もし…ハロウィンイベントで\nネコ服でも手に入ったら\n聖堂を建てられるように…少しご援助をお願いできますか？\n- カムガン
+useitem_event.31	It's guts! Guts! \nDon't go easy on Halloween, save money like crazy! !\n- Etuna
+useitem_event.32	I bet my right arm that Halloween fortune cookies are delicious. \n- Krug
+useitem_event.33	A clear sky makes me feel good. .\nThe sky is beautiful in autumn. \n- Lepus
+useitem_event.34	Woooooo... Weeeeeendiiiiiiiii...\n- Wendigo
+useitem_event.35	!!!\n- Wisp
+useitem_event.36	It's Halloween! \nI want to go to town and have some fun with everyone! \n- Shennan
+useitem_event.37	If... I can get some cat clothes at the Halloween event\nI can help build the cathedral... please help me out a little? \n- Kamgan
 useitem_event.38	보물상자로부터 아이템을 받았습니다.
 useitem_event.39	홍빠오를 사용해 아이템을 받았습니다.
 useitem_event.40	가쳐폰을 사용하여 새끼 멧돼지의 선물 아이템을 받았습니다.
-useitem_event.41	ドラゴンボートイベントの報酬アイテムをもらいました。
+useitem_event.41	I received a reward item for the Dragon Boat event.
 useitem_event.42	파티 퀘스트 이벤트용 보물함 아이템을 받았습니다.
 useitem_event.43	蜜採集に成功しました。
 useitem_event.44	님께서 보물 상자에서
@@ -1375,14 +1375,14 @@ useitem_event.50	님 께서 패션 가챠폰에서
 useitem_event.51	아이템을 획득하였습니다.
 useitem_event.52	님 께서 전사 가챠폰에서
 useitem_event.53	아이템을 획득하였습니다.
-useitem_event.54	プレゼントの箱を開けてアイテムを受け取りました。
-useitem_event.55	プレミアムランダムボックスからアイテムを受け取りました。
-useitem_event.56	From the Premium Random Box
+useitem_event.54	Opened a gift box and received an item.
+useitem_event.55	Received an item from a premium random box.
+useitem_event.56	received an item from a premium random box.
 useitem_event.57	アイテムを獲得しました。
 useitem_event.58	님 께서 5주년 기념 가챠폰에서
 useitem_event.59	아이템을 획득하였습니다.
-useitem_event.60	今日の箱を利用してアイテムを受け取りました。
-useitem_event.62	ロナとパンの冬のプレゼントボックスを利用してアイテムを受け取りました。
+useitem_event.60	Received an item using today's box.
+useitem_event.62	Received an item using Rona and Pan's Winter Present Box.
 useitem_event.63	신년 가차폰을 이용하여 아이템을 받았습니다.
 useitem_event.64	님 께서 신년 가챠폰에서
 useitem_event.65	아이템을 획득하였습니다
