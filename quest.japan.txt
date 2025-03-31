@@ -1411,8 +1411,7 @@
 1411	Give 2 Nails to Caravan Joe
 1412	<music name="Event_1.mp3"/>Oh, Welcome!<br/>Today, we are constantly exploring everywhere in Erinn and revealing things we never knew.<br/>Caravan Joe is finally hear in Dunbarton this year!<p/><image item='63017'/>Today's prize is Timber Man Z 2004 Constrution Kit!<p/><image item='63017'/>Body Length 1200mm! Body Weight 220 tons!<br/>Output 7500 Horsepower! Max Speed of 2 MPH!<br/>Everyone wants a Z Toy!<p/><image item='63017'/>For ages 10 and up!<p/>It is normally sold for 500g, but today is New Years...<br/>You guessed it! Today you get one free of charge!<br/>No, no, no, really.<p/>Instead, you need a quest to complete a kit.<br/>Listen to the expert.<br/>This Caravan Joe will certainly teach you.<p/>First, get 5 firewood.<br/>Why do you need firewood?<br/>Oh, don't you think you'd need firewood to make a doll?<p/>
 1413	<music name="Event_1.mp3"/>Good!<br/>Firewood is an essential ingredient to making the boy's arm.<br/>But, again, more material is needed to make his neck,<br/>please get me 2 nails.<p/>Yes?<br/>Well once you gather the firewood and nails, what else do you need for the kit?<br/>Oh snap! That's a sharp question...<br/>This is an important question...<p/>I'll come back to that later!<br/>Please bring me 2 nails, I do not want to wait.
-1414	<music name="Event_1.mp3"/>Yes, thank you.<br/>So, now I'll show you how to make the neck, listen carefully.<p/>As I told you before, you need 5 firewood and 2 nails to make the neck.<br/>Once you have the materials, equip them with the Premade Timber Man Kit in a Handicraft Kit and,<br/>Open your skill window.<br/>Well, you need the handicraft skill.<p/>Use the skill once you place the materials in the kit, <br/>Click the Create button, and voila!
-100% success rate.<p/>Once you have finished with the handicraft kit, you'll be presented with a Timber Man Z 2004 Kit.<br/>You will also be returned any extra materials.<br/>Handicraft Kit? You'll have to buy one from my store, haha.<p/>If you have anymore questions, please feel free to ask me.<br/>Well, Happy New Year!
+1414	<music name="Event_1.mp3"/>Yes, thank you.<br/>So, now I'll show you how to make the neck, listen carefully.<p/>As I told you before, you need 5 firewood and 2 nails to make the neck.<br/>Once you have the materials, equip them with the Premade Timber Man Kit in a Handicraft Kit and,<br/>Open your skill window.<br/>Well, you need the handicraft skill.<p/>Use the skill once you place the materials in the kit, <br/>Click the Create button, and voila!100% success rate.<p/>Once you have finished with the handicraft kit, you'll be presented with a Timber Man Z 2004 Kit.<br/>You will also be returned any extra materials.<br/>Handicraft Kit? You'll have to buy one from my store, haha.<p/>If you have anymore questions, please feel free to ask me.<br/>Well, Happy New Year!
 1415	*???
 1416	*???
 1417	*???
@@ -11202,8 +11201,7 @@
 11274	A Bonafide Grown-Up
 11275	Hey, buddy. I heard you just turned 30... Haha! Come stop by our Pub, Schnabel, when you get a chance. -Wanst-
 11276	Talk to Wanst.
-11277	30歳か…はは、時が経つのはほんとあっという間だよなあ。だろ？<br/>年取ってイイことなんてのは、ひとっつもねえよ。<br/>肌は荒れる、腹は出る、頭はハゲるときた…とにかく毎日が地獄みてぇなもんだ。<p/>まあ、まだ30歳だから大丈夫ってお前は思ってるかもしれないがな、<br/>見てろよぉー、40歳、50歳なんてあっという間だからな。<p/>それはともかくとしてだ！俺が慰めをこめてワインを１瓶やろう。
-30歳!!サーティイヤーズオールド!!おめでとう!!<br/>ウワッハハハハ!!
+11277	30歳か…はは、時が経つのはほんとあっという間だよなあ。だろ？<br/>年取ってイイことなんてのは、ひとっつもねえよ。<br/>肌は荒れる、腹は出る、頭はハゲるときた…とにかく毎日が地獄みてぇなもんだ。<p/>まあ、まだ30歳だから大丈夫ってお前は思ってるかもしれないがな、<br/>見てろよぉー、40歳、50歳なんてあっという間だからな。<p/>それはともかくとしてだ！俺が慰めをこめてワインを１瓶やろう。30歳!!サーティイヤーズオールド!!おめでとう!!<br/>ウワッハハハハ!!
 11278	Coming-of-Age Ceremony
 11279	Oh, so you're an adult already...? I guess you're all grown up now. A short girl named Nao dropped off a gift. Make sure you claim it before it's too late. -Kirine-
 11280	Talk to Kirine.
